@@ -1,0 +1,8 @@
+#!/bin/bash
+set -o errexit -o nounset
+
+# Remove GPS data in images
+# -d '\n' makes whitespace characters to be not delimiter
+# Otherwise, for example, for image file `./blog/images/art/name_Isamu Noguchi_1.jpg`
+# `exiv` will be executed on `./blog/images/art/name_Isamu` and then `Noguchi_1.jpg`
+find . -iregex './notes/images/.*\.\(jpg\|gif\|png\|jpeg\)$' | xargs -d '\n' exiv2 rm

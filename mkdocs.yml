@@ -1,0 +1,11 @@
+site_name: Tiger's
+docs_dir: notes
+theme:
+  name: material
+  favicon: images/favicon.png
+markdown_extensions:
+  - attr_list
+extra:
+  analytics:
+    provider: google
+    property: G-XZ41DZYYBH

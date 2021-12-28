@@ -1,0 +1,23 @@
+.DEFAULT_GOAL := serve
+# enable ** for recursive
+SHELL:=/bin/bash -O globstar
+
+serve:
+	. .venv/bin/activate; \
+	google-chrome http://127.0.0.1:8000/; \
+	mkdocs serve;
+
+install:
+	./install.sh;
+
+generate-art-note: compile-art generate-bi-directional-links
+
+# Create art.md by looking at image in ./notes/images/art
+compile-art:
+	. .venv/bin/activate; \
+	./bin/compile-art.py > ./notes/art.md;
+
+generate-bi-directional-links:
+	. .venv/bin/activate; \
+	./bin/generate-bi-directional-links.py;
+
