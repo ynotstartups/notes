@@ -38,9 +38,6 @@ def get_all_notes():
     all_notes.remove(NOTE_TO_IGNORE)
     return all_notes
 
-def get_all_links_from_note(filepath):
-    pass
-
 def get_title_of_file(filepath):
     with open(join(PATH_TO_BLOG, filepath), "r") as f:
         first_line = f.readline()
@@ -87,9 +84,6 @@ def main():
             continue
 
         all_path_and_internal_link.append((path, link))
-
-    # example of all_path_and_internal_link
-    # [('./blog/all-apps.md', 'minimalism.md')]
 
     bi_directional_links = defaultdict(set)
     for path, internal_link in all_path_and_internal_link:
