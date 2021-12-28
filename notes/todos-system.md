@@ -61,7 +61,7 @@ I have also considered adding prefix to filename, such as `done-`, to indicate t
 
 In jira, one can assign tickets to one and only one epic, this groups tickets to different topics.
 
-This feature is implemented by using one folder to represent one epic, see example below for using three folders to implement of three epics `tech`, `podcast` and `blog`.
+This feature is implemented by using one folder to represent one epic, see example below for using three folders to implement of three epics `tech`, `podcast` and `notes`.
 
 
 ```bash
@@ -69,7 +69,7 @@ $ ls ./todos-system/todo/
 
 tech/
 podcast/
-blog/
+notes/
 ```
 
 However, only status folder `todo` contains epic folder, other status folder stores tickets without any folder, this is to avoid the need for mirroring epic folders in all status folders, the consequence is that epic is lost when ticket is moved to `done` or `deleted`. Though I can still find it from git history.
@@ -122,7 +122,7 @@ Assuming the current directory is `todo`
 | see description of ticket     | `cat ticket.md`             |
 | create a new epic             | `mkdir tech`                |
 | move ticket to new epic       | `mv foo.md tech/`           |
-| assign ticket to another epic | `mv tech/foo.md blog/`      |
+| assign ticket to another epic | `mv tech/foo.md notes/`     |
 | list all tickets              | `ls -R -1`                  |
 | list tickets of specific epic | `ls -1 tech/`               |
 | delete a ticket               | `mv tech/foo.md ../deleted` |
