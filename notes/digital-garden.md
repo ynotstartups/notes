@@ -1,4 +1,8 @@
-# Blogging
+# Digital Gardening
+
+## What is digital garden?
+
+[A brief history](https://maggieappleton.com/garden-history)
 
 ## Why do I write?
 
@@ -18,7 +22,7 @@ Good writings are just beautiful.
 
 **Historical Impulse**
 
-This blog helps me to record my random ideas, for whatever reason, my brain is running most of the time, new ideas constantly pop up in my head, just want to write them down.
+These notes record my random ideas, for whatever reason, my brain is running most of the time, new ideas constantly pop up in my head, just want to write them down.
 
 **Political Purpose**
 
@@ -38,12 +42,12 @@ This blog helps me to record my random ideas, for whatever reason, my brain is r
 > -- Politics and the English Language, George Orwell
 
 
-## How does this blog work?
+## How does this site work?
 
-Perhaps unlike other websites, this blog works more like a open source software and this [Digital Garden Idea](https://maggieappleton.com/garden-history).
+Perhaps unlike other websites, this site works more like a open source software and this [Digital Garden Idea](https://maggieappleton.com/garden-history).
 
-- Every blog is always work in progress
-- Every blog is by default public on day 1, similar to the idea [open source by default](https://artsy.github.io/blog/2018/08/21/OSS-by-Default-Docs/)
+- Every note is always work in progress
+- Every note is by default public on day 1, similar to the idea [open source by default](https://artsy.github.io/blog/2018/08/21/OSS-by-Default-Docs/)
 
 ## Tips
 
@@ -53,14 +57,12 @@ Try to avoid links as much as possible, because links are distracting. Links sto
 
 Solution: perhaps use footnote and add related links at the end
 
-## Blog Infrastructure
+## Infrastructure
 
-My blog are several markdown files in a folder called `blog` within a private Github repository. By using `MkDocs`, I setup a `pre-push` git hook to publish `blog` folder to Github page.
+My notes are several markdown files in a folder called `notes` within a Github repository. By using `MkDocs`, I setup a `pre-push` git hook to publish `notes` folder to Github page.
 
 I use `exiv2` to remove all Exif (GPS) data from images in `pre-commit` git hook.
 
 I value the simplicity of this setup.
 
 Because I have been writing code in Vim for years and I recently got used to writing documentations in Vim, so writing blog in Vim feels easy and natural to me. I don't need any mental transition to write blog.
-
-
