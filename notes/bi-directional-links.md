@@ -75,6 +75,12 @@ grep --perl-regex --recursive --only-match '[^!`]\[.*?\]\(.*?\)' *.md | grep -v 
 
 But this will fail once we have added the bi directional links! Because this grep will find those links too... 
 
+## Python implementation
+
+At the end, I used python to [implement the finding links](https://github.com/ynotstartups/notes/blob/1c0230e6049fc28738806e9384a1bfbebb416121/bin/generate-bi-directional-links.py#L69) above because I used python to remove existing bi-directional links section so it is simpler to also do finding all links in python.   
+
+
+
 
 ## Andy Matuschak' implementation 
 
