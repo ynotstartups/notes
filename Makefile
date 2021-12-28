@@ -12,6 +12,7 @@ install:
 
 generate-art-note: compile-art generate-bi-directional-links
 
+# Don't use this, use generate-art-note instead
 # Create art.md by looking at image in ./notes/images/art
 compile-art:
 	. .venv/bin/activate; \
