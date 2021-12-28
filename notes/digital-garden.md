@@ -59,7 +59,7 @@ Solution: perhaps use footnote and add related links at the end
 
 ## Infrastructure
 
-My notes are several markdown files in a folder called `notes` within a Github repository. By using `MkDocs`, I setup a `pre-push` git hook to publish `notes` folder to Github page.
+My notes are several markdown files in a folder called `notes` within a [Github repository](https://github.com/ynotstartups/notes). By using `MkDocs`, I setup a `pre-push` git hook to publish `notes` folder to Github page.
 
 I use `exiv2` to remove all Exif (GPS) data from images in `pre-commit` git hook.
 
