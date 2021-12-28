@@ -1,8 +1,8 @@
 # Art Post From Images
 
-This describes how to generate the [art](art.md) blog post from images.
+This describes how to generate the [art](art.md) note from images.
 
-The purpose is to simplify the creation of art blog post.
+The purpose is to simplify the creation of art note.
 
 ## Requirements
 
@@ -48,11 +48,13 @@ I also have a Make script to generate this art post.
 ```
 compile-art:
 	. .venv/bin/activate; \
-	./bin/compile-art.py > ./blog/art.md;
+	./bin/compile-art.py > ./notes/art.md;
 ```
+
+You can see the final implementation [here](https://github.com/ynotstartups/notes/blob/main/bin/compile-art.py).
 
 ## Workflow
 
-1. add images with **correct names** to `./blog/images/art`
-1. run `make compile-art` to generate art blog post
+1. add images with **correct names** to `./notes/images/art`
+1. run `make compile-art` to generate art note
 1. git commit and git push to publish
