@@ -108,7 +108,7 @@ Ranger is a terminal file explorer with Vi keybindings.
 
 I use it to preview the tickets!
 
-![ranger preview](../images/todos-system/ranger-preview.png)
+![ranger preview](images/todos-system/ranger-preview.png)
 
 ## Cheat sheet
 
