@@ -22,4 +22,8 @@ Sour, badly brewed filter coffee
 
 Too sour to my taste, not too impressive
 
-I [brew coffee](coffee.md) at home myself too!
+I [brew coffee](coffee-recipe.md) at home myself too!
+## Links to this note
+
+[Coffee](index-coffee.md)
+

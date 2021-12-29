@@ -45,3 +45,9 @@ Add froth 150g milk
 1. wait for a bit then give a final swirl to make flat coffee bed 
 1. At the end, you should see flat bed and little coffee on the wall.
 
+## Links to this note
+
+[Specialty Coffee Review](cafe-reviews.md)
+
+[Coffee](index-coffee.md)
+

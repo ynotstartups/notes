@@ -12,3 +12,7 @@ I love coffee!
 
 [Cafe Reviews](cafe-reviews.md)
 
+## Links to this note
+
+[Who am I?](index.md)
+
