@@ -8,6 +8,32 @@ In vim, you can even use `K` on any bash program to open the manual page, trying
 
 TODO:cut, grep, uniq, sort, ls, use apropos to find command
 
+## Single quote v.s. double quote
+
+Double quote interpolates, single quote doesn't.
+
+So I should use single quote most of the time.
+
+
+## Check if a directory does not exist ###
+
+```
+if [ -d '/path/to/dir' ] 
+then
+    echo 'Directory /path/to/dir exists.' 
+else
+    echo 'Error: Directory /path/to/dir does not exists.'
+fi
+```
+
+```
+if [ ! -d '/path/to/dir' ] 
+then
+    echo 'Directory /path/to/dir DOES NOT exists.' 
+    exit 9999 # die with error code 9999
+fi
+```
+
 ## Apt - Advanced Package Tool
 
 `sudo apt update` - check if there are new packages
