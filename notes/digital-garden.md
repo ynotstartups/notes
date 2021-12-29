@@ -59,6 +59,10 @@ Perhaps unlike other websites, this site works more like a open source software 
 
 Don't just copy paste or quote! Paraphrasing with my own words, this makes me internalise the idea.
 
+**Who, What, When, Where, Why and How**
+
+Answers these when writing!
+
 **Avoid Links**
 
 Try to avoid links as much as possible, because links are distracting. Links stop audience's flow of reading and understanding your word, the audiences are confused to whether they should go away and read the link or read your article. Links' have a different color, simply distracting and ugly, physical books don't work like that.
