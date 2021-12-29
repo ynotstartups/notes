@@ -4,4 +4,4 @@ set -o errexit -o nounset -o xtrace
 # deploy site to ynotstartups github pages
 source .venv/bin/activate
 cd ../ynotstartups.github.io/
-mkdocs gh-deploy --config-file ../private-docs/mkdocs.yml --remote-branch master
+mkdocs gh-deploy --config-file ../notes/mkdocs.yml --remote-branch master
