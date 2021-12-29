@@ -27,6 +27,19 @@ Applications of minimalism:
 
 - simple investment strategy
 
+## On household cleaning
+
+It makes cleaning easier because 
+
+1. My living room is almost empty so mopping the floor is easy
+1. When cleaning [bathroom](how-to-clean-bathroom.md), I can first put away every things in the bathroom surfaces.
+
+## Quotes from friends 
+
+> Your flat looks like a sample flat.
+
+> Your bathroom feels like the one in hotels.
+
 ## Related Links
 
 [My presentation on minimalism](https://www.bilibili.com/video/BV1u54y1x7zF)
