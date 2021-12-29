@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+## Mulled Wine
+
+![Mulled Wine](images/cooking/mulled_wine.jpg)
+
 ## 鱼香茄子
 
 [recipe](https://www.xiachufang.com/recipe/104416071/)
