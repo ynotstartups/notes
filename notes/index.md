@@ -6,7 +6,7 @@ My name is Tiger Yuhao Huang.
 
 I am a backend engineering at [Lyst](https://www.lyst.com).
 
-In my personal life, I am interested in [coffee](coffee.md), [non alcoholic beer](non-alcoholic-beer.md), [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF), [minimalism](minimalism.md), [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF), [art](art.md), [reading](reading.md), writing, [coding](https://github.com/ynotstartups), [meaning of life](#meaning-of-life), games, [boardgames](boardgame.md), [home cooking](cooking.md) ... 
+In my personal life, I am interested in [coffee](index-coffee.md), [non alcoholic beer](non-alcoholic-beer.md), [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF), [minimalism](minimalism.md), [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF), [art](art.md), [reading](reading.md), writing, [coding](https://github.com/ynotstartups), [meaning of life](#meaning-of-life), games, [boardgames](boardgame.md), [home cooking](cooking.md) ... 
 
 Ginger and I have even made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
 
