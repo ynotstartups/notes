@@ -25,6 +25,8 @@ I am also interested in
  [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF),
  [understanding life](#meaning-of-life),
  [being a stand-up comedian](stand-up-comedy.md)
+ becoming a farmer to grow my own food,
+ [becoming an artist](artist.md),
  video games,
  drawing,
  [non alcoholic beer](non-alcoholic-beer.md),
