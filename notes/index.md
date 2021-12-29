@@ -4,6 +4,8 @@ My name is Tiger Yuhao Huang.
 
 ![me](images/me.jpg){ width="350" }
 
+Welcome to my [digital garden](digital-garden.md)!
+
 I am a backend engineering at [Lyst](https://www.lyst.com).
 
 In my personal life, I am interested in [coffee](index-coffee.md), [non alcoholic beer](non-alcoholic-beer.md), [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF), [minimalism](minimalism.md), [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF), [art](art.md), [reading](reading.md), writing, [coding](https://github.com/ynotstartups), [meaning of life](#meaning-of-life), games, [boardgames](boardgame.md), [home cooking](cooking.md) ... 

@@ -1,10 +1,14 @@
 # Digital Gardening
 
+Digital garden are forever work in progress/developing personal notes.
+
+All these notes are interlinked to allow exploration of ideas.
+
 ## What is digital garden?
 
 [A brief history](https://maggieappleton.com/garden-history)
 
-## Why do I write?
+## Why do I write these notes?
 
 - practise writing
 - build the habit of writing
@@ -49,9 +53,13 @@ Perhaps unlike other websites, this site works more like a open source software 
 - Every note is always work in progress
 - Every note is by default public on day 1, similar to the idea [open source by default](https://artsy.github.io/blog/2018/08/21/OSS-by-Default-Docs/)
 
-## Tips
+## Tips on writing
 
-*Avoid Links*
+**Paraphrase**
+
+Don't just copy paste or quote! Paraphrasing with my own words, this makes me internalise the idea.
+
+**Avoid Links**
 
 Try to avoid links as much as possible, because links are distracting. Links stop audience's flow of reading and understanding your word, the audiences are confused to whether they should go away and read the link or read your article. Links' have a different color, simply distracting and ugly, physical books don't work like that.
 
