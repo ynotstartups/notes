@@ -2,7 +2,14 @@
 
 ## My Favourite
 
-[Ozone Coffee Shoreditch](https://ozonecoffee.co.uk/pages/eateries)
+If you prefer coffee with fruity taste then try Ozone Coffee Shoreditch,
+or if you prefer roasted taste try Monmouth Coffee.
+
+## Monmouth Coffee - Covent Garden
+
+[website](https://www.monmouthcoffee.co.uk/shops/)
+
+The filter coffee, tastes are layered, first, strong roasted flavour, second, a sudden fruity sourness, lastly a long lasting tea like aftertaste.
 
 ## Ozone shoreditch
 
@@ -14,7 +21,7 @@ Great food, very impressive aeropress filter coffee
 
 [website](http://ooo-koffee.com/london.html)
 
-Three choices of filter coffee, two washed, one natural
+Three choices of filter coffee, two washed, one natural.
 
 Minimalistic decoration
 
