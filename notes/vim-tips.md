@@ -66,6 +66,6 @@ https://nickjanetakis.com/blog/vim-is-saving-me-hours-of-work-when-writing-books
 `gf` - open file in the same window
 `ctrl-w f` - open file in a new window (see `:help CTRL-W_f`)
 
-## defaultdict
+## replace character by a new line
 
-`from collections import defaultdict`
+Use `\r` not `\n`
