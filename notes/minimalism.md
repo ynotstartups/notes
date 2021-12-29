@@ -32,11 +32,7 @@ Applications of minimalism:
 [My presentation on minimalism](https://www.bilibili.com/video/BV1u54y1x7zF)
 ## Links to this note
 
-[All of my apps](all-apps.md)
-
-[All of my clothes](all-clothes.md)
-
-[All of my kitchenware & tableware](all-kitchenware-and-tableware.md)
+[All Things](all-things.md)
 
 [Who am I?](index.md)
 
