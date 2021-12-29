@@ -12,6 +12,8 @@
 ![Isamu Noguchi_2](images/art/name_Isamu Noguchi_2.jpg)
 ![Isamu Noguchi_1](images/art/name_Isamu Noguchi_1.jpg)
 ![Isamu Noguchi_0](images/art/name_Isamu Noguchi_0.jpg)
+## Tiger
+![Tiger_lines](images/art/Tiger_lines.jpg)
 ## Staring - City Of London
 ![Staring - City Of London_light](images/art/Staring - City Of London_light.jpg)
 ![Staring - City Of London_dark](images/art/Staring - City Of London_dark.jpg)
