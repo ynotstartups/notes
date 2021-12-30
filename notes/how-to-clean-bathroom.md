@@ -11,3 +11,7 @@
 1. wipe bathtub outer rim
 1. wipe cabinet doors
 1. remove limescale from wash basin tab and shower head
+## Links to this note
+
+[Minimalism](minimalism.md)
+

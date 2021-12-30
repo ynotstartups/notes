@@ -25,7 +25,3 @@ San Miguel - too sweet
 Heineken - tasteless
 
 Brewdog nanny State - too hoppy
-## Links to this note
-
-[Who am I?](index.md)
-
