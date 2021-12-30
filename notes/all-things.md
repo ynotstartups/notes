@@ -1,7 +1,5 @@
 # All Things
 
-**This note is work in progress, this note should contains all of my items.**
-
 ## Clothes
 
 V pattern shoes,
