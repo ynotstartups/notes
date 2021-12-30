@@ -2,6 +2,7 @@
 
 ## My recommendations
 
+- Welcome to
 - Azul
 - Lost Cities
 - Santorini
@@ -34,6 +35,23 @@ See [this thread in boardgamegeek](https://boardgamegeek.com/thread/2491575/tabl
 I wrote a [scraper](https://github.com/ynotstartups/bga-scraper) for all the games Board Game Arena and added this google sheet. For each game, it contains the name, link to Board Game Arena, whether it is premium, number of players, average duration and complexity rating.
 
 [Link To Board Game Arena All Games Google Sheet](https://docs.google.com/spreadsheets/d/1U93SDx9tmQtxneNfSDQANWZ17C-C2AMFJZQk4c94OIQ/edit?usp=sharing)
+
+## Board Game To Try Next
+
+The Castles Of Burgundy
+
+Agricola - complex and long game
+
+## Board Game Not Considering
+
+7 Wonders Duel - rules for each icons, too many icons
+
+Onitama - too Chess like
+
+Pandemic - too many rules, the rules are not elegant - best for 2
+
+Race & Roll for the Galaxy - complex - best for 3
+
 
 ## One Page Solo Role Playing Game
 
