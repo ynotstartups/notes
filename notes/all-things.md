@@ -1,17 +1,5 @@
 # All Things
 
-## Clothes
-
-V pattern shoes,
-back slipper,
-black backpack,
-black sandal,
-card holder,
-converse bag,
-extra pair of white shoes laces,
-transparent glasses,
-vintage glasses,
-white shoes,
 
 ## Electronics
 
@@ -327,6 +315,10 @@ Zoom,
 ## Clothes
 
 Disney t-shirt,
+V pattern shoes,
+black slipper,
+black backpack,
+black sandal,
 black sweater,
 blue bucket hat,
 blue jean,
@@ -334,7 +326,10 @@ blue scarf,
 brown chino,
 brown coat,
 brown scarf,
+card holder,
+converse bag,
 dual color shirt,
+extra pair of white shoes laces,
 grey backpack,
 multiple nightwear,
 multiple socks,
@@ -343,7 +338,10 @@ pattern hoody,
 pattern t-shirt,
 thermal bottom,
 thermal top,
+transparent glasses,
+vintage glasses,
 white card holder,
+white shoes,
 white trouser,
 
 ## Kitchenware & tableware
