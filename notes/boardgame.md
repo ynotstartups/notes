@@ -2,7 +2,7 @@
 
 ## My recommendations
 
-- Welcome to
+- [Welcome to](welcome-to-strategy.md)
 - Azul
 - Lost Cities
 - Santorini
