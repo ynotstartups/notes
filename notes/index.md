@@ -6,38 +6,28 @@ My name is Tiger Yuhao Huang.
 
 Welcome to my [digital garden](digital-garden.md)!
 
-I am a backend engineering at [Lyst](https://www.lyst.com).
+I am a backend engineer at [Lyst](https://www.lyst.com).
 
-I consider myself a [minimalist](minimalism.md), I am currently working on writing down [all of my physical processions](all-things.md), my current estimates around 249+ items.
+I consider myself a [minimalist](minimalism.md), I am currently working on writing down [all of my physical processions](all-things.md).
 
-I love brewing and drinking [coffee](index-coffee.md).
+I love brewing and tasting [coffee](index-coffee.md).
 
-I find [cooking](cooking.md) and dish washing are mediating. 
-
-My and Ginger played a lot of [boardgames](boardgame.md) because we are stuck at home.
+I meditate by [cooking](cooking.md) and dish washing.
 
 I am also interested in
- [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
  [art](art.md),
- [reading](reading.md),
- [writing](digital-garden.md),
+ [boardgames](boardgame.md).
  [coding](https://github.com/ynotstartups),
+ [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
  [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF),
- [understanding life](#meaning-of-life),
- [being a stand-up comedian](stand-up-comedy.md)
- becoming a farmer to grow my own food,
- [becoming an artist](artist.md),
+ [books](reading.md),
+ [writing](digital-garden.md),
  video games,
- drawing,
- [non alcoholic beer](non-alcoholic-beer.md),
  ... 
 
+Maybe one day I will become [a stand-up comedian](stand-up-comedy.md), a farmer to grow my own food or [an artist](artist.md),
 
-
-
-Ginger and I have even made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
-
-I created some 3D tools in my previous job, see [mesh simplification tool](https://myminifactory.github.io/Fast-Quadric-Mesh-Simplification/) and [stl to glb converter](https://myminifactory.github.io/stl2gltf/).
+Ginger and I had made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
 
 ## Meaning Of Life
 
