@@ -41,7 +41,7 @@ video game console,
 white earphone,
 white floor lamp,
 
-## Kitchen Ware 
+## Kitchen Products
 
 aeropress paper filter,
 aeropress paper holder,
@@ -86,7 +86,7 @@ laundry liquid,
 orange essential oil,
 isopropyl alcohol,
 
-## Cleaning Products
+## Bathroom Products
 
 2 bath towel,
 body wash ,
