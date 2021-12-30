@@ -22,7 +22,7 @@ Inverted position
 
 2:00 brew time 
 
-Add froth 150g milk
+Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/watch?v=wFFJ-NLjNZY))
 
 ## WIP V60 Black 200g
 
