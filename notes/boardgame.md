@@ -11,9 +11,18 @@
 - Targi
 - That's So Clever 1 & 2
 
-## Collected Print & Play Games
+## Board Games V.S. Video Games
 
-[link to Github repo](https://github.com/ynotstartups/PrintAndPlayGames)
+Board games and video games are two totally different medium, both of them can be enjoyed in different circumstances.
+
+Below are the differences between board games and video games in general, of course there are always exceptions.
+
+1. board game rules can be understood in minutes
+1. board games are purely brain exercise, no requirements for dexterity, hand eye coordination and muscle memory, so they can be enjoyed with a diverse audience in different ages groups, without common languages, and not require familiarity with technology
+1. board games can finish in 10-30 minutes
+1. board games have physical presence
+1. board games can be placed in a larger surface compared to small monitor
+1. board games require a smaller initial investment, boardgames prices are around 20 pounds
 
 ## Board Game Arena
 
@@ -53,9 +62,14 @@ Pandemic - too many rules, the rules are not elegant - best for 2
 Race & Roll for the Galaxy - complex - best for 3
 
 
+## Collected Print & Play Games
+
+[link to Github repo](https://github.com/ynotstartups/PrintAndPlayGames)
+
 ## One Page Solo Role Playing Game
 
 [so1um](https://brunobord.github.io/so1um/so1um.html)
+
 ## Links to this note
 
 [Who am I?](index.md)
