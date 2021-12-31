@@ -2,6 +2,11 @@
 
 I love to cook! I can cook the following dishes.
 
+## New Year Meals
+
+![Lamb with Chili Flakes](images/cooking/lamb-with-chili-flakes.jpg)
+![Ready Cooked Lobster](images/cooking/ready-cooked-lobster.jpg)
+
 ## Mulled Wine
 
 ![Mulled Wine](images/cooking/mulled_wine.jpg)
