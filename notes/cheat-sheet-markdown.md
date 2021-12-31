@@ -1,4 +1,4 @@
-# Markdown tips
+# Markdown Cheat Sheet
 
 ## table
 

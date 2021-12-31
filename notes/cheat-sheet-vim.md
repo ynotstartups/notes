@@ -1,4 +1,4 @@
-# Vim Tips
+# Vim Cheat Sheet
 
 ## Vim spell check quick start
 

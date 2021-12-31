@@ -1,4 +1,4 @@
-# Python
+# Python Cheat Sheet
 
 ## Best Practices Cookiecutter
 
