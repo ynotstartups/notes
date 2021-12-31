@@ -2,14 +2,26 @@
 
 `How to` are step by step guides on how to do one thing 
 
+## Household
+
 [Clean bathroom](how-to-clean-bathroom.md)
 
-[Clean freshpress](how-to-clean-fresh-press.md)
+[Clean french press](how-to-clean-french-press.md)
 
-[Clean Dishes](how-to-wash-dishes.md)
+[Wash Dishes](how-to-wash-dishes.md)
 
 [Cook](how-to-cook.md)
 
+[Receive Guests](how-to-receive-guests.md)
+
+## Coffee
+
 [Review Cafe](how-to-review-cafe.md)
 
-[Receive Guests](how-to-receive-guests.md)
+## Boardgames
+
+[Azul Strategy](how-to-play-azul.md)
+
+[Targi Strategy](how-to-play-targi.md)
+
+[Welcome To Strategy](how-to-play-welcome-to.md)
