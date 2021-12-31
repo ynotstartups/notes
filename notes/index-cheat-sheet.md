@@ -9,3 +9,5 @@
 [vim](cheat-sheet-vim.md)
 
 [writing](cheat-sheet-writing.md)
+
+[investment](cheat-sheet-investments.md)
