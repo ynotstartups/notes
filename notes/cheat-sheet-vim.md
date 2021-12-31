@@ -69,3 +69,9 @@ https://nickjanetakis.com/blog/vim-is-saving-me-hours-of-work-when-writing-books
 ## replace character by a new line
 
 Use `\r` not `\n`
+## Links to this note
+
+[Writing Cheat sheet](cheat-sheet-writing.md)
+
+[Index Cheat Sheet](index-cheat-sheet.md)
+

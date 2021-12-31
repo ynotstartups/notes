@@ -37,3 +37,7 @@ Write a story instead of just a dull list of pointers to notes
 Write down the exact idea instead of writing `remember to write down foo idea`.
 
 This finished half of the writing already so I am more inclined to transfer the idea to notes. This avoids the mental effort of pulling out the idea from brain.
+## Links to this note
+
+[Index Cheat Sheet](index-cheat-sheet.md)
+

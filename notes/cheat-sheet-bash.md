@@ -53,3 +53,7 @@ To move file, press `dd`, then navigate to the desired directory and press `p`, 
 ## Minimalistic Software
 
 [Suckless Software](https://suckless.org/rocks/)
+## Links to this note
+
+[Index Cheat Sheet](index-cheat-sheet.md)
+

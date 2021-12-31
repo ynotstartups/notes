@@ -8,3 +8,7 @@
 1. Start cooking
 
 See also [How to wash dishes](how-to-wash-dishes.md)
+## Links to this note
+
+[Index How To](index-how-to.md)
+

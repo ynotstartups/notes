@@ -13,5 +13,5 @@ I started with [Square Mile Roaster](https://shop.squaremilecoffee.com/) by Yout
 [Beanberry Coffee](https://www.beanberrycoffee.com/), they are UK's first speciality coffee roasters focused on organics.
 ## Links to this note
 
-[Coffee](index-coffee.md)
+[Index Coffee](index-coffee.md)
 

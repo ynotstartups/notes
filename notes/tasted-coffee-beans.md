@@ -30,5 +30,5 @@
 
 ## Links to this note
 
-[Coffee](index-coffee.md)
+[Index Coffee](index-coffee.md)
 

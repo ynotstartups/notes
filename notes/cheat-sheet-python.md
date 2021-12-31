@@ -9,3 +9,7 @@ Use this to start the next python project.
 ## defaultdict
 
 `from collections import defaultdict`
+## Links to this note
+
+[Index Cheat Sheet](index-cheat-sheet.md)
+

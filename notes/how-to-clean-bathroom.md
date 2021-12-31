@@ -13,5 +13,11 @@
 1. remove limescale from wash basin tab and shower head
 ## Links to this note
 
+[Business Ideas](business-idea.md)
+
+[Writing Cheat sheet](cheat-sheet-writing.md)
+
+[Index How To](index-how-to.md)
+
 [Minimalism](minimalism.md)
 
