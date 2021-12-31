@@ -1,4 +1,4 @@
-# Welcome To Strategy
+# How To Play Welcome To
 
 **finish the three city plans with as little turns as possible**
 
