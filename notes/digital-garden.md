@@ -53,22 +53,6 @@ Perhaps unlike other websites, this site works more like a open source software 
 - Every note is always work in progress
 - Every note is by default public on day 1, similar to the idea [open source by default](https://artsy.github.io/blog/2018/08/21/OSS-by-Default-Docs/)
 
-## Tips on writing
-
-**Paraphrase**
-
-Don't just copy paste or quote! Paraphrasing with my own words, this makes me internalise the idea.
-
-**Who, What, When, Where, Why and How**
-
-Answers these when writing!
-
-**Avoid Links**
-
-Try to avoid links as much as possible, because links are distracting. Links stop audience's flow of reading and understanding your word, the audiences are confused to whether they should go away and read the link or read your article. Links' have a different color, simply distracting and ugly, physical books don't work like that.
-
-Solution: perhaps use footnote and add related links at the end
-
 ## Infrastructure
 
 My notes are several markdown files in a folder called `notes` within a [Github repository](https://github.com/ynotstartups/notes). By using `MkDocs`, I setup a `pre-push` git hook to publish `notes` folder to Github page.
