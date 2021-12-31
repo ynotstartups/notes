@@ -148,8 +148,6 @@ Below are the list of [styles available](https://github.com/errata-ai/styles).
 
 I like the output!
 
-```
-
 For example
 
 ```
