@@ -1,9 +1,14 @@
 # How To Wash Dishes
 
+1. pour water into dry dirty dishes, this makes them easier to clean
 1. remove things from drying rack
 1. groups similar type of tableware, for example, group plates and knifes together
 1. line up the tableware
 1. clean one by one
+
+## Why pour water into dry dirty dishes?
+
+Water dissolve dry sauce on dirty dishes, making them easier to clean.
 
 ## Why group similar type of tableware?
 
