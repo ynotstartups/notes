@@ -1,5 +1,7 @@
 # Writing style guide
 
+All of these rules need to be enforce by markdown linter and formatter.
+
 ## Headers
 
 Title `#` use capital letters in every words.
@@ -42,3 +44,7 @@ Avoid words such as `try to`
 Put note type first and topic second, e.g. `cheat-sheet*.md`, `how-to*.md`.
 
 Because this makes default output of `ls` nicer.
+
+## Comma
+
+No space before comma and one space after comma
