@@ -5,6 +5,14 @@
 If you prefer coffee with fruity taste then try Ozone Coffee Shoreditch,
 or if you prefer roasted taste try Monmouth Coffee.
 
+## Curve Coffee Roaster - Margate
+
+[website](https://www.curveroasters.co.uk/)
+
+Banka China
+
+Smell like honey, enjoyable fruit acidity, no bitterness, soft aftertaste
+
 ## Monmouth Coffee - Covent Garden
 
 [website](https://www.monmouthcoffee.co.uk/shops/)
