@@ -1,5 +1,7 @@
 # Podcast
 
+Making podcast is more comfortable compared to video, because we are just having conversations.
+
 ## Tips - General Structure
 
 - How did we started doing with this topic? ( For example what's our firsts impression about coffee in our life)
