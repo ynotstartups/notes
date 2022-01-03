@@ -53,6 +53,14 @@ To move file, press `dd`, then navigate to the desired directory and press `p`, 
 ## Minimalistic Software
 
 [Suckless Software](https://suckless.org/rocks/)
+
+
+## Pipe recently used command to a file
+
+```
+history | tail -n 20 | grep git >> ./cheat-sheet-git.md 
+```
+
 ## Links to this note
 
 [Index Cheat Sheet](index-cheat-sheet.md)
