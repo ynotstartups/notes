@@ -8,4 +8,4 @@
 1. ...
 1. Fridge is full.
 
-See also [Sand Mandala](https://en.wikipedia.org/wiki/Sand_mandala)
+See also [Sand Mandala](https://en.wikipedia.org/wiki/Sand_mandala) and [existence is transient](https://en.wikipedia.org/wiki/Impermanence).
