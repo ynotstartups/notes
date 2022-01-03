@@ -25,7 +25,7 @@ and
 1.
 1.
 ```
-Should the first character be capital case or not?
+The first character needs to be lower case.
 
 ## Titles
 
