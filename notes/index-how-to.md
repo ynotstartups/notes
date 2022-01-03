@@ -14,6 +14,8 @@
 
 [Receive Guests](how-to-receive-guests.md)
 
+[Make All Purpose Cleaner](how-to-make-all-purpose-cleaner.md)
+
 ## Coffee
 
 [Review Cafe](how-to-review-cafe.md)
