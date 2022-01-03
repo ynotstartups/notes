@@ -58,6 +58,14 @@ The parallel is on the time they take to do and the information they convey.
 
 ## Great things take a lifetime to do
 
-Such as marriage, career ... (TODO)
+Such as marriage, career, investments ... (TODO)
 
 If you are rushing anything, just stop, take a deep breath, do it slowly.
+
+## Compounding
+
+Good thing such as minimalism, terminal based programs (bash, vim, grep, ls
+...) and investing is hard to see return in value in the short term, but
+instead they work more like compound investments, it is only after 3 - 5 years,
+I start to see the benefits, so picking the right things to do, as well as,
+not giving up is very important.
