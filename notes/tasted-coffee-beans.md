@@ -1,18 +1,33 @@
-# Tasted Coffee Beans
+# Brewed Coffee Beans
 
+## Banka
 
+For cappuccino, the flavour is very balanced, it is not sour, not bitter, tastes perfect.
+
+> Producer: Small-holder farmers from the villages of Banka Yi and Banka Er
+> Processed at: Banka washing station managed by Yunnan Coffee Traders
+> 
+> Region: Menglian Dai, Lahu and Va Autonomous County, Yunnan, China
+> 
+> Altitude: 1350 masl
+> 
+> Varietal: Catimor P3 & P4 Hybrid cultivars
+> Process: Natural, fermented in cherry for 2 days then dried inside of a solar dryer on raised beds for roughly 20 days
+> 
+> Importer: Indochina Coffee
+>
+> Cup profile: Jammy & thick body, dark cherries & maple syrup
+
+![Banka](images/coffee/banka.jpg){width="400"}
 
 ## Gui Ben
 
 ![gui-ben-description.png](images/coffee/gui-ben-description.png){width="400"}
 ![gui-ben-package.png](images/coffee/gui-ben-package.png){width="350"}
 
-## Mensure Abahika
-
-![mansur-abahika-1.jpg](images/coffee/mansur-abahika-1.jpg){width="350"}
-![mansur-abahika-2.jpg](images/coffee/mansur-abahika-2.jpg){width="350"}
-
 ## CABALLERO #131
+
+These beans have a very strong chili paste smell and flavour, it is too much for my taste. 
 
 ![caballero-131](images/coffee/caballero-131.png){width="350"}
 
