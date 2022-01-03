@@ -9,7 +9,7 @@ This boutique contain stocks such as
 
 ## An App With User Contributed Instructions to Clean Everything
 
-This app contains instructions such as [how to clean fresh press](how-to-clean-fresh-press.md) and [how to clean bathroom](how-to-clean-bathroom.md).
+This app contains instructions such as [how to clean french press](how-to-clean-french-press.md) and [how to clean bathroom](how-to-clean-bathroom.md).
 
 Imagine cooking recipe apps with step by step instructions with photos, but instead of cooking recipes, it is instructions for cleaning.
 
