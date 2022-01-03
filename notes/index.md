@@ -25,7 +25,7 @@ I am also interested in
  video games,
  ... 
 
-Maybe one day I will become [a stand-up comedian](stand-up-comedy.md), a farmer to grow my own food or [an artist](artist.md),
+My wildest dream is to become [a stand-up comedian](stand-up-comedy.md), a [farmer/gardener](farmer.md) to grow my own food or [an artist](artist.md).
 
 Ginger and I had made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
 
