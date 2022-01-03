@@ -45,6 +45,8 @@ These notes record my random ideas, for whatever reason, my brain is running mos
 >
 > -- Politics and the English Language, George Orwell
 
+- Do not be afraid to write down raw thoughts, because I can always develop it later
+
 
 ## How does this site work?
 
