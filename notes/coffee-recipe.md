@@ -49,7 +49,7 @@ Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/
 
 [Specialty Coffee Review](cafe-reviews.md)
 
-[How To Clean French Press](how-to-clean-fresh-press.md)
+[How To Clean French Press](how-to-clean-french-press.md)
 
 [Index Coffee](index-coffee.md)
 
