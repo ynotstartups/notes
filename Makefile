@@ -22,3 +22,9 @@ generate-bi-directional-links:
 	. .venv/bin/activate; \
 	./bin/generate-bi-directional-links.py;
 
+clean-images:
+	# Remove GPS data in images
+	# -d '\n' makes whitespace characters to be not delimiter
+	# Otherwise, for example, for image file `./notes/images/art/name_Isamu Noguchi_1.jpg`
+	# `exiv` will be executed on `./notes/images/art/name_Isamu` and then `Noguchi_1.jpg`
+	find . -iregex './notes/images/.*\.\(jpg\|gif\|png\|jpeg\)$\' | xargs -d '\n' exiv2 rm
