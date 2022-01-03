@@ -7,3 +7,7 @@ Combine
 - 1 teaspoon baking soda
 - 1/4 teaspoon liquid dish soap
 - 3 drops of essential oils
+## Links to this note
+
+[Index How To](index-how-to.md)
+

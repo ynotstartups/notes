@@ -8,5 +8,5 @@
 - starts with row 3 because it is more likely to provide spaces for two or more city plans
 ## Links to this note
 
-[Board Game](boardgame.md)
+[Index How To](index-how-to.md)
 
