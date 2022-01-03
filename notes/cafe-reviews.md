@@ -11,7 +11,7 @@ or if you prefer roasted taste try Monmouth Coffee.
 
 Banka China
 
-Smell like honey, enjoyable fruit acidity, no bitterness, soft aftertaste
+Smell like maple syrup, enjoyable fruit acidity, no bitterness, soft aftertaste
 
 ## Monmouth Coffee - Covent Garden
 
