@@ -393,7 +393,5 @@ Wood spoon,
 See also [minimalism](minimalism.md)
 ## Links to this note
 
-[Cryptocurrency](cryptocurrency.md)
-
 [Who am I?](index.md)
 

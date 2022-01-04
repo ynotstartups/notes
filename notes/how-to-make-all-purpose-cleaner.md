@@ -9,5 +9,7 @@ Combine
 
 ## Links to this note
 
+[Household cleaning cheat sheet](cheat-sheet-household-cleaning.md)
+
 [Index How To](index-how-to.md)
 
