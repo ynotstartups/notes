@@ -53,8 +53,6 @@ Ginger's drawing
 
 ## burger
 
-## 西班牙小辣椒
-
 ## japanese and Indian Curry
 
 ## 小白菜汤
