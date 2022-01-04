@@ -60,3 +60,7 @@ Solutions:
 Decline them
 
 ----
+
+## Spent an hour learning
+
+Such as, read relevant book, read useful articles, tweak tool to increase productivity
