@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+## Breakfast
+
+![breakfast](images/cooking/breakfast-western.jpg)
+
 ## New Year Meals
 
 ![Lamb with Chili Flakes](images/cooking/lamb-with-chili-flakes.jpg)
