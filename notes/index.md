@@ -8,7 +8,7 @@ Welcome to my [digital garden](digital-garden.md)!
 
 I am a backend engineer at [Lyst](https://www.lyst.com).
 
-I consider myself a [minimalist](minimalism.md), I am currently working on writing down [all of my physical processions](all-things.md).
+I consider myself a [minimalist](minimalism.md), I am currently working on writing down [all of my physical possessions](all-things.md).
 
 I love brewing and tasting [coffee](index-coffee.md).
 
