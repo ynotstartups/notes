@@ -69,6 +69,12 @@ https://nickjanetakis.com/blog/vim-is-saving-me-hours-of-work-when-writing-books
 ## replace character by a new line
 
 Use `\r` not `\n`
+
+## window
+
+`ctrl-w o` - close all other windows, like `:only`
+`ctrl-w ]` - open tag in another windows
+
 ## Links to this note
 
 [Writing Cheat sheet](cheat-sheet-writing.md)
