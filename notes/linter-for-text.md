@@ -1,5 +1,21 @@
 # linter for text
 
+## TL;DR 
+
+There are linter for writing e.g. [proselint](https://github.com/amperser/proselint), [vale](https://github.com/errata-ai/vale) with [writing style rules](https://github.com/errata-ai/styles).
+
+There are style guides for writing documentation e.g. [google style guide](https://developers.google.com/style/), [apple style guide](https://help.apple.com/applestyleguide/)
+
+Pros:
+
+- Catches insensitive, inconsiderate writing
+- Enforce uniform writing style, kind of like code formatting guide
+- Enforce American (Or UK) spelling
+- ...
+
+
+## My Investigations
+
 There are three, proselint, textlint and vale.
 
 Vale has [several writing style guides](https://github.com/errata-ai/styles#available-styles). I didn't even realise there are style guide for documentations, for example, [Microsoft writing guide](https://docs.microsoft.com/en-us/style-guide/welcome/), [google style guide](https://developers.google.com/style) and [apple style guide](https://help.apple.com/applestyleguide/#/apsg1eef9171).
