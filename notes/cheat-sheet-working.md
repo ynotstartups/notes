@@ -64,3 +64,10 @@ Decline them
 ## Spent an hour learning
 
 Such as, read relevant book, read useful articles, tweak tool to increase productivity
+
+## How to start the day?
+
+1. look at all the meeting of the day
+1. setup alarm 5 minutes before the meetings
+1. prepare for the meetings by writing down questions, answers
+1. open jira to check what to do next
