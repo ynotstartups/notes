@@ -79,18 +79,9 @@ But this will fail once we have added the bi directional links! Because this gre
 
 At the end, I used python to [implement the finding links](https://github.com/ynotstartups/notes/blob/1c0230e6049fc28738806e9384a1bfbebb416121/bin/generate-bi-directional-links.py#L69) above because I used python to remove existing bi-directional links section so it is simpler to also do finding all links in python.   
 
-
-
-
-## Andy Matuschak' implementation 
+## Andy Matuschak's Digital Garden Implementation 
 
 [Notes by Andy Matuschak](https://notes.andymatuschak.org/About_these_notes)
 
-In this website, it contains a section *Links to this note* at the end of the pageto contains all the bi-directional links with a less intrusive color.
+In this website, it contains a section *Links to this note* at the end of the page to contains all the bi-directional links with a less intrusive color.
 
-Not related to bi-directional links
-
-- This website share the same user interface with [ranger's user interface](https://github.com/ranger/ranger/wiki/Official-User-Guide#User-interface-), the main windows consists of three panels, it is called Miller Columns.
-- Hover on link of this website presents a preview window, this is quite powerful to have a sense of what the link is about, but it is also a bit distracting.
-
-The web interface really helps me to explore the related contents and makes me have a sense of falling down a rabbit hole.
