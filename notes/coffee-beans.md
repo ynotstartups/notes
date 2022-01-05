@@ -11,6 +11,12 @@ I started with [Square Mile Roaster](https://shop.squaremilecoffee.com/) by Yout
 ## Interesting coffee beans
 
 [Beanberry Coffee](https://www.beanberrycoffee.com/), they are UK's first speciality coffee roasters focused on organics.
+
+## Random Observations
+
+Dark roasted coffee beans are more brittle, less resistance when grinding.
+Light roasted coffee beans are the opposite, there are harder to grind.
+
 ## Links to this note
 
 [Index Coffee](index-coffee.md)
