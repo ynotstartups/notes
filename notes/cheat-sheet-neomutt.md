@@ -39,4 +39,10 @@ from [link](https://nidkil.me/2018/01/18/setting-up-mutt-to-send-mail-using-gmai
 See also my [neomutt config](https://github.com/ynotstartups/dotfiles/blob/main/.neomutt_config)
 
 
+## Macro With Literal Space
 
+Use URL encoding
+
+`macro index ga "<change-folder>=[Gmail]/All%20Mail<enter>"`
+
+Credit to [stackoverflow](https://stackoverflow.com/a/14779416)
