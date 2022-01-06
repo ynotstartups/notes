@@ -1,5 +1,6 @@
 # How To Wash Dishes
 
+1. remove leftovers from tableware, such as bones
 1. pour water into dry dirty dishes, this makes them easier to clean
 1. remove things from drying rack
 1. groups similar type of tableware, for example, group plates and knifes together
