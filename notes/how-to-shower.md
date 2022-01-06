@@ -1,4 +1,4 @@
-# How To Take A Shower
+# How To Shower
 
 ## During Shower
 
@@ -20,3 +20,5 @@ In no particular order
 - apply body lotion
 - dry slippers
 - apply face cream
+- dry hair with towel
+- dry hair with hair dryer
