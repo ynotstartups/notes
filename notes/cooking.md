@@ -45,6 +45,12 @@ Ginger's drawing
 
 ![Sour Pickled Mustard With Fish](images/cooking/sour-pickled-mustard-with-fish.jpg)
 
+## 土豆闷鸭 - Potato with Duck
+
+[Recipe](how-to-make-potato-with-duck.md)
+
+![Potato With Duck](images/cooking/potato-with-duck.jpg)
+
 ## 番茄炒蛋
 
 ## 剁椒鱼柳
@@ -54,8 +60,6 @@ Ginger's drawing
 ## homemade chips
 
 ## 老火汤
-
-## 土豆闷鸭
 
 ## burger
 
