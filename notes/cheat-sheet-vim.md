@@ -1,5 +1,9 @@
 # Vim Cheat Sheet
 
+## Learn Vimscript
+
+https://learnvimscriptthehardway.stevelosh.com/
+
 ## Vim spell check quick start
 
 `:help spell-quickstart`
