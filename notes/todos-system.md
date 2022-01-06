@@ -84,7 +84,13 @@ foo.md # no epic folders such as `tech/`
 
 In jira, you can drag tickets up and down to indicate order or priority of tickets.
 
-I haven't figure out a way to implement it yet. One idea is to change the last modified time by `touch` the ticket and then do `ls -t` to sort by last modified, however, this can only move ticket up but not in arbitrary order.
+I prefix a number to the ticket `0_` to denote priority. For example, I can `mv foo.md 0_foo.md` to raise priority.
+
+**Comments**
+
+In jira, you can comment on a ticket for adding updates of investigation to the tickets.
+
+My implementation, prefix line with `C:`.
 
 **Finally**
 
@@ -102,13 +108,6 @@ todos-system/
         baz.md
 ```
 
-## Use with Ranger
-
-Ranger is a terminal file explorer with Vi keybindings.
-
-I use it to preview the tickets!
-
-![ranger preview](images/todos-system/ranger-preview.png)
 
 ## Cheat sheet
 
