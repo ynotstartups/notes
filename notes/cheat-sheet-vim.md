@@ -81,3 +81,7 @@ Use `\r` not `\n`
 
 [Index Cheat Sheet](index-cheat-sheet.md)
 
+
+## Enter current filename
+
+`ctrl-r %` - in insert mode, insert register `%` which is the current file name
