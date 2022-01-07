@@ -5,11 +5,12 @@
 
 ## Short Term Reminders
 
+- Think about [how do I want to work](how-do-i-work.md)?
+- Think about what does it mean by working?
 - Learning about how Email works
     - to see if to move away from using Google Keep for notes to Email
 - Increase usage of terminal
     - automate workflow for work and personal life
-- Think about what does it mean by working?
 
 ## Long Term Reminders
 
