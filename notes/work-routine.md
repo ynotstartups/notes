@@ -1,5 +1,4 @@
-# How do I work?
-
+# Work Routine
 
 **09:00 - 10:00**
 
@@ -14,7 +13,6 @@
 - write stand-up notes
     - `agenda >> standup notes`
 - prepare for all the meetings
-
 
 **12:30 - 13:30**
 
