@@ -61,6 +61,21 @@ To move file, press `dd`, then navigate to the desired directory and press `p`, 
 history | tail -n 20 | grep git >> ./cheat-sheet-git.md 
 ```
 
+## `pgrep`
+
+grep for process, e.g. `pgrep slack`
+
+`pgrep slack | xargs kill` - kill slack
+
+## `column`
+
+format output to multiple columns
+
+## `sed`
+
+`sed --in-place '/breakpoint()/d' ./**/*.py` - remove all breakpoints from python files
+
+
 ## Links to this note
 
 [Index Cheat Sheet](index-cheat-sheet.md)
