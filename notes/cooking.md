@@ -13,6 +13,8 @@ I love to cook! I can cook the following dishes.
 
 ## Mulled Wine
 
+[recipe](how-to-make-mulled-wine.md)
+
 ![Mulled Wine](images/cooking/mulled_wine.jpg)
 
 ## 鱼香茄子
