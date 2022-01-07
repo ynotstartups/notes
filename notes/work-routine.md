@@ -37,3 +37,7 @@
 ## Do I prefer coding in the morning or in the afternoon? 
 
 No preference, as long as I have focus time. 
+## Links to this note
+
+[What Am I Doing Now?](what-am-i-doing-now.md)
+

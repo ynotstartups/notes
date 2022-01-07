@@ -20,3 +20,7 @@ Half of a lemon
 - add all ingredients expect orange slices
 - use medium heat for 25 minutes, you will see small bubbling, but don't let it boil
 - add orange slices when it's done
+## Links to this note
+
+[Cooking](cooking.md)
+

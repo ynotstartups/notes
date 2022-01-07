@@ -23,3 +23,7 @@
 1. Add boiling water submerging all ingredients
 1. Add Shaoxing wine and oyster sauce
 1. Use medium heat to boil, until potatoes are ready
+## Links to this note
+
+[Cooking](cooking.md)
+
