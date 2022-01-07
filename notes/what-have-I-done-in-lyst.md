@@ -1,19 +1,13 @@
 # What Have I done In Lyst?
 
-**Career**
-
-- 1.3 -> 2.1 -> 2.1 + tech lead
-- started writing on Dec/2021
-
 **Culture**
 
 - organised Vim London Meetup
 - Lyst Hibiscus Awards
     - Prove Fast Hibiscus Award
-    - No 1 Impact Focus Lyst Hibiscus Award - pivotal in discovery squad last quarter
-
+    - No 1 Impact Focus Lyst Hibiscus Award
 - part of tech culture group from 2019 - mid 2021
-    - organise and hosted MakingLyst
+    - organise and hosted MakingLyst (internal talk)
     - helped relaunch MakingLyst - mid 2021
     - three MakingLyst
         - Vim And How to tidy
@@ -28,11 +22,12 @@
 - Contributed to App Backend Sync
     - advocated for having stand ups in backend sync
 - Leaded pair programming interview
+- started writing on Dec/2021
 
 **Tech**
 
 - moved from Full Stack to Full Stack + iOS App Engineer to Backend Engineer
-- Advocated from adapting stricter typing in python https://git.lystit.com/lyst/mobile_api/blob/master/architecture/decisions/0002-use-mypy-strict-optional.md
+- Advocated for adapting stricter typing in python
 - Advocated for passing client from views 
 - Advocated for writing documentations
 - features
@@ -46,3 +41,7 @@
 **Tech Lead**
 
 - started to add more details jira tickets
+
+**Progression**
+
+- 1.3 -> 2.1 -> 2.1 + tech lead
