@@ -46,3 +46,13 @@ Use URL encoding
 `macro index ga "<change-folder>=[Gmail]/All%20Mail<enter>"`
 
 Credit to [stackoverflow](https://stackoverflow.com/a/14779416)
+
+## Tag multiple emails
+
+`T` - enter pattern to select multiple emails
+
+`t` - tag multiple mail one by one
+
+## Send email from command line
+
+`echo "" | neomutt -s 'SUBJECT' foo@bar.com` 
