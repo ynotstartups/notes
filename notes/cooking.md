@@ -49,7 +49,7 @@ Ginger's drawing
 
 ## 土豆闷鸭 - Potato with Duck
 
-[Recipe](how-to-make-potato-with-duck.md)
+[Recipe](how-to-make-duck-and-potato-curry.md)
 
 ![Potato With Duck](images/cooking/potato-with-duck.jpg)
 

@@ -5,7 +5,7 @@
 
 ## Short Term Reminders
 
-- Think about [how do I want to work](how-do-i-work.md)?
+- Think about [how do I want to work](work-routine.md)?
 - Think about what does it mean by working?
 - Learning about how Email works
     - to see if to move away from using Google Keep for notes to Email
