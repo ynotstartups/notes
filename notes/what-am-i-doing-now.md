@@ -1,8 +1,7 @@
 # What Am I Doing Now?
 
-- Reading _Never Let Me Go_ by Kazuo Ishiguro
-- Playing Welcome To boardgame
-- Trying to write as much as I can
+- Read _Never Let Me Go_ by Kazuo Ishiguro
+- Write as much as I can
 
 ## Short Term Reminders
 
