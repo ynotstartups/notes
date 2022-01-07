@@ -1,4 +1,4 @@
-# How To Make Potato With Duck
+# How To Make Duck And Potato Curry 
 
 ## Ingredients
 
