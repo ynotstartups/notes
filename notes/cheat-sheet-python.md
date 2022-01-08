@@ -1,5 +1,9 @@
 # Python Cheat Sheet
 
+## Shebang
+
+`#!/usr/bin/env python3` - python3 shebang
+
 ## Best Practices Cookiecutter
 
 [link](https://github.com/sourcery-ai/python-best-practices-cookiecutter)
