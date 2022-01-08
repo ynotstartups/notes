@@ -1,5 +1,41 @@
 # Working Cheat Sheet
 
+
+## What do I work?
+
+**To understand myself**
+
+It is via work that I understand
+
+- I prefer doing backend
+- I like fashion
+
+**To broaden my knowledge**
+
+To avoiding tunnel vision, I won't do anything complicated if I am on my own.
+
+It is via interacting with colleagues, I switch to use linux, vim, terminal, i3, neomutt... 
+
+**To deepen my knowledges**
+
+For example, I get to learn more about python and lots of other knowledges.
+
+**To develop a routine**
+
+- as well as to improve my personal workflow
+
+[Work Routine](work-routine.md)
+
+**To understand people**
+
+Via interactions
+
+**To survive**
+
+Via getting paid
+
+## To Enjoy Work
+
 To enjoy work, I need to enter flow state as many as possible. 
 
 There are plenty of distractions in work which prevents flow to happen, below are the list of distractions and my solutions to avoid them. 
@@ -65,9 +101,3 @@ Decline them
 
 Such as, read relevant book, read useful articles, tweak tool to increase productivity
 
-## How to start the day?
-
-1. look at all the meeting of the day
-1. setup alarm 5 minutes before the meetings
-1. prepare for the meetings by writing down questions, answers
-1. open jira to check what to do next
