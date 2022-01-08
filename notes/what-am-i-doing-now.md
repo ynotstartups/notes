@@ -1,6 +1,6 @@
 # What Am I Doing Now?
 
-- Read _Never Let Me Go_ by Kazuo Ishiguro
+- Read _First Person Singular_ by Haruki Murakami
 - Write as much as I can
 
 ## Short Term Reminders
