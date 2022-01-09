@@ -9,3 +9,5 @@ extra:
   analytics:
     provider: google
     property: G-XZ41DZYYBH
+extra_css:
+  - stylesheets/extra.css
