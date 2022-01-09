@@ -1,5 +1,7 @@
 # Work Index
 
-[Working Cheat Sheet](cheat-sheet-working.md)
+[Setup Gmail](how-to-setup-gmail.md)
 
 [My Work Routine](work-routine.md)
+
+[Working Cheat Sheet](cheat-sheet-working.md)
