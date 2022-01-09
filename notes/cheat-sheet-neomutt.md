@@ -1,4 +1,4 @@
-# Neomutt Cheat sheet
+# Cheat Sheet Neomutt
 
 ## Key bindings
 

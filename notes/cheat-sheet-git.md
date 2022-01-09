@@ -1,4 +1,4 @@
-# Git Cheat Sheet
+# Cheat Sheet Git
 
 ## How many images can I put in repo for github?
 

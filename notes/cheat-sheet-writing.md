@@ -1,4 +1,4 @@
-# Writing Cheat sheet
+# Cheat Sheet Writing
 
 ## How to v.s. Cheat sheet
 

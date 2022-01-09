@@ -1,4 +1,4 @@
-# Living Life Cheat Sheet
+# Cheat Sheet Living Life 
 
 ## Try to enjoy every moment of life
 

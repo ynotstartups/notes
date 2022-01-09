@@ -1,4 +1,4 @@
-# Vim Cheat Sheet
+# Cheat Sheet Vim
 
 ## Learn Vimscript
 
