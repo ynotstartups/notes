@@ -51,5 +51,9 @@ No preference, as long as I have focus time.
 
 ## Links to this note
 
+[Cheat Sheet Work](cheat-sheet-work.md)
+
+[Work Index](index-work.md)
+
 [What Am I Doing Now?](what-am-i-doing-now.md)
 

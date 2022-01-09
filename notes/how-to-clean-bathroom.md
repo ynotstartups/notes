@@ -15,7 +15,7 @@
 
 [Business Ideas](business-idea.md)
 
-[Writing Cheat sheet](cheat-sheet-writing.md)
+[Cheat Sheet Writing](cheat-sheet-writing.md)
 
 [Index How To](index-how-to.md)
 

@@ -81,7 +81,7 @@ Use `\r` not `\n`
 
 ## Links to this note
 
-[Writing Cheat sheet](cheat-sheet-writing.md)
+[Cheat Sheet Writing](cheat-sheet-writing.md)
 
 [Index Cheat Sheet](index-cheat-sheet.md)
 

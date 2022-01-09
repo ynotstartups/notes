@@ -15,3 +15,7 @@
 - Write down important facts about people
 
 See also [2022 New Year Resolutions](new-year-resolution.md)
+## Links to this note
+
+[Who am I?](index.md)
+

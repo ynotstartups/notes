@@ -101,3 +101,7 @@ Decline them
 
 Such as, read relevant book, read useful articles, tweak tool to increase productivity
 
+## Links to this note
+
+[Work Index](index-work.md)
+
