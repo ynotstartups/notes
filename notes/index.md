@@ -6,6 +6,8 @@ My name is Tiger Yuhao Huang.
 
 Welcome to my [digital garden](digital-garden.md)!
 
+[This](what-am-i-doing-now.md) is what I am doing right now!
+
 I am a backend engineer at [Lyst](https://www.lyst.com).
 
 I consider myself a [minimalist](minimalism.md), I am currently working on writing down [all of my physical possessions](all-things.md).
