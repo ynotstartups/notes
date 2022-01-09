@@ -139,6 +139,8 @@ Skull and Roses
 
 ## Misc
 
+29 envelops,
+2nd class post stamps,
 Finger nails clipper,
 a blue pen,
 clothes drying rack,
