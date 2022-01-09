@@ -18,7 +18,7 @@ I meditate by [cooking](cooking.md) and dish washing.
 
 I am also interested in
  [art](art.md),
- [boardgames](boardgame.md).
+ [boardgames](boardgame.md),
  [coding](https://github.com/ynotstartups),
  [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
  [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF),
