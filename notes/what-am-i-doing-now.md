@@ -1,14 +1,13 @@
 # What Am I Doing Now?
 
 - Read _First Person Singular_ by Haruki Murakami
-- Write as much as I can
+- Continue to write
 
 ## Short Term Reminders
 
-- Think about what does it mean by working?
+- Think about what does [work](index-work.md) mean?
 - Think about [how do I work](work-routine.md)?
-- Increase usage of terminal
-    - automate workflow for work and personal life
+- Increase usage of terminal, automate workflow for work and personal life
 
 ## Long Term Reminders
 
