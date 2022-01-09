@@ -2,10 +2,10 @@
 
 ## Key bindings
 
-| Command | Description |
-| ------ | ------ |
-| `*`   | Move to last entry   |
-| `/`   | Search  |
+| Command | Description        |
+|---------|--------------------|
+| `*`     | Move to last entry |
+| `/`     | Search             |
 
 
 ## Find email sent from myself
