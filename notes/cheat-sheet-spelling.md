@@ -1,4 +1,4 @@
-# Cheat Sheet Spelling
+# Spelling Cheat Sheet
 
 ## `our` OR `or`
 

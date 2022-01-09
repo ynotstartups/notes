@@ -1,4 +1,4 @@
-# Cheat Sheet Book Train Tickets
+# Booking Train Tickets Cheat Sheet
 
 - prioritize outbound station in walking distance to avoid delays of tube
 or buses

@@ -1,4 +1,4 @@
-## On Investing
+# Investing Cheat Sheet
 
 All quotes are from The intelligent investor
 

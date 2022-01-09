@@ -1,4 +1,4 @@
-# Working Cheat Sheet
+# Work Cheat Sheet
 
 
 ## What do I work?

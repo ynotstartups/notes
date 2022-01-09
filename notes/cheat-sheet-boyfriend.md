@@ -1,3 +1,3 @@
-# Cheat Sheet Boyfriend
+# Boyfriend Cheat Sheet
 
 - be unconditional supportive

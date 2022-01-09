@@ -1,4 +1,4 @@
-# Cheat Sheet Slack
+# Slack Cheat Sheet
 
 ## Setup slack reminder
 

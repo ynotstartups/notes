@@ -1,4 +1,4 @@
-# Cheat Sheet Pytest 
+# Pytest Cheat Sheet
 
 ## Reminder
 
