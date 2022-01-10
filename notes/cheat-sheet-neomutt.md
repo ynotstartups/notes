@@ -4,8 +4,8 @@
 
 | Command | Description        |
 |---------|--------------------|
-| `*`     | Move to last entry |
 | `/`     | Search             |
+| `$`     | Sync Mailbox       |
 
 
 ## Find email sent from myself
@@ -37,7 +37,6 @@ I need to do this because I have setup 2 Factor Auth for gmail.
 from [link](https://nidkil.me/2018/01/18/setting-up-mutt-to-send-mail-using-gmail-with-2fa-set/)
 
 See also my [neomutt config](https://github.com/ynotstartups/dotfiles/blob/main/.neomutt_config)
-
 
 ## Macro With Literal Space
 
