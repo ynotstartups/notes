@@ -79,6 +79,11 @@ Use `\r` not `\n`
 `ctrl-w o` - close all other windows, like `:only`
 `ctrl-w ]` - open tag in another windows
 
+## Temporally Enlarge Quickfix
+
+`:tab split` - open buffer in new tab
+`:tabc` - close tab
+
 ## Links to this note
 
 [Cheat Sheet Writing](cheat-sheet-writing.md)
