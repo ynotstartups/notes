@@ -2,6 +2,10 @@
 
 And commands for automation
 
+**8:00**
+
+Alarm to wait up at 8:00
+
 **09:00 - 10:00**
 
 - learning time
@@ -16,7 +20,8 @@ And commands for automation
     - `copy_last_to_today` - copy last date's stand-up notes today's
     - `agenda >> standup notes` - adds today's meeting to stand-up notes
 - prepare for all the meetings
-- coding if there are time left
+    - `agenda --details conference | email-work -s agenda me@foo.com` - send meeting link to phone
+- code if there are time left
 
 **12:30 - 13:30**
 
@@ -26,7 +31,7 @@ And commands for automation
 
 - meeting, coding, writing
 
-**17:00 - 17:30**
+**17:30 - 18:00**
 
 - finish work in process notes and push to github
 
@@ -48,6 +53,24 @@ No preference, as long as I have focus time.
 - `standup` to remind myself of what I am working on today
 - `reminder` to remind my mid term goals
 - `todo` to remind my long term goals
+
+## Window Managements
+
+**window 1**
+
+Left: Vim for editing code
+
+Top Right: terminal for running pytest, lint, make commands
+
+Bottom Right: terminal for notes writing
+
+**window 2**
+
+browser,
+
+**window 3**
+
+communication tools: zoom, slack, email
 
 ## Links to this note
 
