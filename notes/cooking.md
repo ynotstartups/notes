@@ -2,9 +2,17 @@
 
 I love to cook! I can cook the following dishes.
 
+## 干煸豆角肉末
+
+[recipe](how-to-cook-stir-fry-beans-with-mince.md)
+
+![Stir Fry Beans With Mince](images/cooking/stir-fry-beans-with-mince.jpg)
+
 ## Breakfast
 
-![breakfast](images/cooking/breakfast-western.jpg)
+![breakfast western](images/cooking/breakfast-western.jpg)
+
+![breakfast noodle](images/cooking/breakfast-noodle.jpg)
 
 ## New Year Meals
 
@@ -53,6 +61,12 @@ Ginger's drawing
 
 ![Potato With Duck](images/cooking/potato-with-duck.jpg)
 
+## 炒米粉
+
+![Rice Noodle](images/cooking/rice-noodle.jpg)
+
+
+
 ## 番茄炒蛋
 
 ## 剁椒鱼柳
@@ -69,7 +83,6 @@ Ginger's drawing
 
 ## 小白菜汤
 
-## 炒米粉
 
 ## 韩国拌饭
 
@@ -83,7 +96,6 @@ Ginger's drawing
 
 ## 爆炒花甲
 
-## 干煸豆角肉末
 
 
 ## 干锅腊肉白菜
