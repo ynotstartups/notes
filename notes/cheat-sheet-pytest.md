@@ -17,15 +17,14 @@ class Foo:
 
 ## Useful pytest options
 
-`-k PATTERN` - run test matching PATTERN
-
-`--pdbcls=IPython.terminal.debugger:TerminalPdb` - to use IPython debugger 
-
-`-vvv` - stop pytest cutting off long assert failures
-
-`--pdb` - open debug session when an error is raised
-
-`--randomly-seed` - to reproduce the test output, useful for debugging flaky tests
+|Command|Explain|
+|-|-|
+|`-x` | stops after first failure |
+|`-k PATTERN` | run test matching PATTERN |
+|`--pdbcls=IPython.terminal.debugger:TerminalPdb` | to use IPython debugger  |
+|`-vvv` | stop pytest cutting off long assert failures |
+|`--pdb` | open debug session when an error is raised |
+|`--randomly-seed` | to reproduce the test output, useful for debugging flaky tests |
 
 ```
 ================================ test session starts =================================
