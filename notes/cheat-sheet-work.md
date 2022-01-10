@@ -34,6 +34,16 @@ Via interactions
 
 Via getting paid
 
+
+## What is the required working hours in contract?
+
+> The Company’s normal business hours are between 9 a.m. and 6:30 p.m. Mondays to Fridays inclusive with one
+> hour for lunch. You may be required to work such additional hours as are necessary for the proper performance
+> of your duties and/or to allow the Company to meet its obligations to its clients, without additional remuneration
+
+9 and a half hour with 1 hour for lunch.
+
+
 ## To Enjoy Work
 
 To enjoy work, I need to enter flow state as many as possible. 
