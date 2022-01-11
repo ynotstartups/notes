@@ -21,7 +21,6 @@ Alarm to wait up at 8:00
     - `agenda >> standup notes` - adds today's meeting to stand-up notes
 - prepare for all the meetings
     - `agenda --details conference | email-work -s agenda me@foo.com` - send meeting link to phone
-- code if there are time left
 
 **12:30 - 13:30**
 
@@ -29,7 +28,10 @@ Alarm to wait up at 8:00
 
 **13:30 - 17:00**
 
-- meeting, coding, writing
+- meeting
+- coding
+- writing
+- code reviews
 
 **17:30 - 18:00**
 
