@@ -18,4 +18,8 @@ $ du -sh tmp.bundle
 
 See more in [stackoverflow](https://stackoverflow.com/questions/8185276/find-size-of-git-repository)
 
+## Unable to fetch a branch from a fork from a suspended user
 
+[Use the pull request directly](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
+
+`git fetch upstream pull/123/head:new-branch-name`
