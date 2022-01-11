@@ -75,6 +75,8 @@ format output to multiple columns
 
 `sed --in-place '/breakpoint()/d' ./**/*.py` - remove all breakpoints from python files
 
+`sed -n 200p foo.md` - print line 200 of file `foo.md`
+
 
 ## Links to this note
 
