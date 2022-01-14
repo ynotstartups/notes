@@ -1,6 +1,6 @@
 # What Am I Doing Now?
 
-- Read _First Person Singular_ by Haruki Murakami
+- Read _Conversations With Friends_ by Sally Rooney
 - Continue to write
 
 ## Short Term Reminders
