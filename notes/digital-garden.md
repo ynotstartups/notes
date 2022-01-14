@@ -64,6 +64,9 @@ I use `exiv2` to remove all Exif (GPS) data from images in `pre-commit` git hook
 I value the simplicity of this setup.
 
 Because I have been writing code in Vim for years and I recently got used to writing documentations in Vim, so writing these notes in Vim feels easy and natural to me. I don't need any mental transition to write notes.
+
+However, Vim is my primary interface to interact with these notes, so I prioritise the file presentations in Vim first, HTML output second. So some notes might not look great in HTML!
+
 ## Links to this note
 
 [Who am I?](index.md)
