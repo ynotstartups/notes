@@ -8,6 +8,7 @@ Alarm to wait up at 8:00
 
 **09:00 - 10:00**
 
+- make tea
 - learning time
     - read books, read articles, watch videos... 
 
@@ -25,6 +26,7 @@ Alarm to wait up at 8:00
 **12:30 - 13:30**
 
 - lunch
+- make coffee
 
 **13:30 - 17:00**
 
