@@ -14,6 +14,8 @@ I love to cook! I can cook the following dishes.
 
 ## Breakfast
 
+![breakfast Porridge](images/cooking/oyster-porridge.jpg)
+
 ![breakfast western](images/cooking/breakfast-western.jpg)
 
 ![breakfast noodle](images/cooking/breakfast-noodle.jpg)
