@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+## Cantonese Steamed Fish - 广式蒸鱼
+
+![Steam Fish](images/cooking/steam-fish.jpg)
+
 ## 干煸豆角肉末
 
 [recipe](how-to-cook-stir-fry-beans-with-mince.md)
