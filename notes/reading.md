@@ -1,6 +1,6 @@
 # Readings
 
-## Books that literally change my life
+## Books that change my life
 
 **Outliers**
 
@@ -18,15 +18,17 @@ It jump-started my investment journey, I am still applying investment philosophy
 
 ## Why do I read? 
 
-TODO
+- To understand more about life
+- To kill time
 
 ## What do I read? 
 
-TODO
-
-## How do I read? (fast or slow?)
-
-TODO
+- classics
+- modern classics
+- best sellers
+- non-fictions
+- software engineering books
+- sci-fi
 
 ## Links to this note
 
