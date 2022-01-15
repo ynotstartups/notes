@@ -9,3 +9,4 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
 - 100% code coverage
 - documentations
 - strict typing 
+- comprehensible tickets
