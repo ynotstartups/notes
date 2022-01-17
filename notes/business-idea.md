@@ -2,7 +2,7 @@
 
 ## Boutique For Selling Development Equipments
 
-This boutique contain stocks such as 
+This boutique contain stocks such as
 
 - [HHKB Keyboard](https://www.amazon.co.uk/HHKB-PD-KB800W-Bluetooth-Professional-Mechanical-White/dp/B082TT132L/ref=sr_1_4?keywords=hhkb+keyboard&qid=1640890700&sprefix=hhkb+%2Caps%2C66&sr=8-4)
 - [Herman Miller Aeron Chair](https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/2195348.html?lang=en_US)

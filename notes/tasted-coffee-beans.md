@@ -6,14 +6,14 @@ For cappuccino, the flavour is very balanced, it is not sour, not bitter, tastes
 
 > Producer: Small-holder farmers from the villages of Banka Yi and Banka Er
 > Processed at: Banka washing station managed by Yunnan Coffee Traders
-> 
+>
 > Region: Menglian Dai, Lahu and Va Autonomous County, Yunnan, China
-> 
+>
 > Altitude: 1350 masl
-> 
+>
 > Varietal: Catimor P3 & P4 Hybrid cultivars
 > Process: Natural, fermented in cherry for 2 days then dried inside of a solar dryer on raised beds for roughly 20 days
-> 
+>
 > Importer: Indochina Coffee
 >
 > Cup profile: Jammy & thick body, dark cherries & maple syrup
@@ -27,7 +27,7 @@ For cappuccino, the flavour is very balanced, it is not sour, not bitter, tastes
 
 ## CABALLERO #131
 
-These beans have a very strong chili paste smell and flavour, it is too much for my taste. 
+These beans have a very strong chili paste smell and flavour, it is too much for my taste.
 
 ![caballero-131](images/coffee/caballero-131.png){width="350"}
 
@@ -46,4 +46,3 @@ These beans have a very strong chili paste smell and flavour, it is too much for
 ## Links to this note
 
 [Index Coffee](index-coffee.md)
-

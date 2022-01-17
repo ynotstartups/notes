@@ -34,7 +34,7 @@ django: settings: foo.settings (from env)
 Using --randomly-seed=3336252275 <--------- HERE ---------
 rootdir: /home/foo/bar, configfile: setup.cfg
 plugins: cov-2.12.1, fireman-2.12.1, user-client-0.4.0, django-3.10.0, Faker-9.8.2, i18n-client-0.1.6, lyst-data-dictionary-schemas-0.16.14, randomly-3.4.1, time-machine-2.4.0, django-heimdall-0.20.0
-collected 10 items  
+collected 10 items
 ```
 
 See other options in [official docs](https://docs.pytest.org/en/6.2.x/reference.html#command-line-flags)

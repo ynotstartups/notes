@@ -11,4 +11,3 @@ I use french press to [manually froth milk for latte](coffee-recipe.md).
 [Business Ideas](business-idea.md)
 
 [Index How To](index-how-to.md)
-

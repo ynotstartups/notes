@@ -27,4 +27,3 @@
 ## Links to this note
 
 [Cooking](cooking.md)
-

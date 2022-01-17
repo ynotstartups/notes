@@ -21,14 +21,14 @@ Minimalism is also anti-consumerism, this enables me to start the journey of Fin
 
 > Financial Independence, Retire Early (FIRE) is a movement of people devoted to a program of extreme savings and investment that aims to allow them to retire far earlier than traditional budgets and retirement plans would permit. -- investopedia
 
-Applications of minimalism in investing: 
+Applications of minimalism in investing:
 
 - automatic investment using direct debit
 - minimalistic portfolio consists of two funds
 
 ## On household cleaning
 
-It makes cleaning easier because 
+It makes cleaning easier because
 
 1. My living room is almost empty so mopping the floor is easy
 1. When cleaning [bathroom](how-to-clean-bathroom.md), I can first put away every things in the bathroom surfaces.
@@ -50,7 +50,7 @@ Just a sofa & a table
 
 Just one bed and a wardrobe
 
-## Quotes from friends 
+## Quotes from friends
 
 > Your flat looks like a sample flat.
 
@@ -64,4 +64,3 @@ Just one bed and a wardrobe
 [All Things](all-things.md)
 
 [Who am I?](index.md)
-

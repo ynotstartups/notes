@@ -28,4 +28,3 @@ For example:
 ## Links to this note
 
 [Index Cheat Sheet](index-cheat-sheet.md)
-

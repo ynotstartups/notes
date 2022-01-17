@@ -8,4 +8,3 @@
 ## Links to this note
 
 [Work Index](index-work.md)
-

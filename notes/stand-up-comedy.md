@@ -18,4 +18,3 @@
 ## Links to this note
 
 [Who am I?](index.md)
-

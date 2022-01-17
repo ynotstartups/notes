@@ -1,4 +1,4 @@
-# How To Send A Letter 
+# How To Send A Letter
 
 1. buy stamps and envelopes from stationary store
 1. put letter in envelope

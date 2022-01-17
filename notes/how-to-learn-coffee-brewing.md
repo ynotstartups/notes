@@ -1,16 +1,16 @@
-# How To Learn Coffee Brewing 
+# How To Learn Coffee Brewing
 
 **Coffee Beans**
 
 The most important of coffee broking is to use high quality coffee beans.
 
-The easiest way is to buy beans from popular specialty coffee shops. 
+The easiest way is to buy beans from popular specialty coffee shops.
 
 **Grinder**
 
 I started with a cheap Hario coffee grinder, but after 2 months, I switched to a more expensive one 1Zpresso. It was a good decision, I cut the coffee grinding time from 3 minutes to 40 seconds!
 
-So my recommendation is to start with a good grinder if you drink coffee daily. 
+So my recommendation is to start with a good grinder if you drink coffee daily.
 
 **Coffee Brewer**
 
@@ -20,7 +20,7 @@ I choose Aeropress because it can make Cappuccino. Moka Pot can make Cappuccino 
 
 The youtube videos are all very useful for me to learn about coffee brewing.
 
-## How to buy beans? 
+## How to buy beans?
 
 [A Beginner's Guide To Buying Great Coffee](https://www.youtube.com/watch?v=O9YnLFrM7Fs)
 
@@ -42,5 +42,3 @@ The youtube videos are all very useful for me to learn about coffee brewing.
 
 [Making Cappuccino/Latte/Flat White at Home (without an Espresso Machine)
 ](https://www.youtube.com/watch?v=ZgIVfU0xBjA)
-
-

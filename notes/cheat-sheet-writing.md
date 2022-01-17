@@ -40,4 +40,3 @@ This finished half of the writing already so I am more inclined to transfer the 
 ## Links to this note
 
 [Index Cheat Sheet](index-cheat-sheet.md)
-

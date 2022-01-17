@@ -1,6 +1,6 @@
 # linter for text
 
-## TL;DR 
+## TL;DR
 
 There are linter for writing e.g. [proselint](https://github.com/amperser/proselint), [vale](https://github.com/errata-ai/vale) with [writing style rules](https://github.com/errata-ai/styles).
 
@@ -105,10 +105,10 @@ I can use only some of them, see examples below.
 
 
 ```
- 9:23    warning  Avoid first-person pronouns     Google.FirstPerson 
-                  such as ' I '.  
- 31:24   warning  Try to avoid using              Google.We          
-                  first-person plural like 'we'. 
+ 9:23    warning  Avoid first-person pronouns     Google.FirstPerson
+                  such as ' I '.
+ 31:24   warning  Try to avoid using              Google.We
+                  first-person plural like 'we'.
 ```
 
 Bad, this is a blog so I am allow use `I` and `We`.
@@ -121,24 +121,24 @@ Bad, this is a blog so I am allow use `I` and `We`.
 Good, I like this one.
 
 ```
- 1:3    warning  'Welcome To Strategy'           Google.Headings 
-                 should use sentence-style                       
-                 capitalization.       
+ 1:3    warning  'Welcome To Strategy'           Google.Headings
+                 should use sentence-style
+                 capitalization.
 ```
 
 Good, I don't care about which style the headings should be, but I do like it enforces a specific style, maybe I can implement this myself.
 
 ```
- 23:97  warning  In general, use American        Google.Spelling 
-                 spelling instead of                             
-                 'organise'.   
+ 23:97  warning  In general, use American        Google.Spelling
+                 spelling instead of
+                 'organise'.
 ```
 
 Good, it ensures consistent spelling.
 
 ```
- 175:33   error    Don't use exclamation points    Google.Exclamation 
-                   in text.     
+ 175:33   error    Don't use exclamation points    Google.Exclamation
+                   in text.
 ```
 
 No, I can use exclamation for my notes.
@@ -176,9 +176,9 @@ For example
 Wikipedia definition of weasel words.
 
 ```
-31:359  warning  'been presented' may be         write-good.Passive  
-                  passive voice. Use active                           
-                  voice if you can.  
+31:359  warning  'been presented' may be         write-good.Passive
+                  passive voice. Use active
+                  voice if you can.
 ```
 
 It warns you to avoid passive voice.
@@ -196,4 +196,4 @@ I can go and do
 
 1. read and understand how [write-good](https://github.com/btford/write-good) works
 1. fix the warning
-1. add lint to `pre-push` hook to fail the push 
+1. add lint to `pre-push` hook to fail the push

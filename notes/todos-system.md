@@ -41,7 +41,7 @@ So I only need to implement `todo`, `done` and `deleted`.
 
 The implementation is to add a top level folder for each of the status.
 
-For example 
+For example
 
 ```bash
 $ ls ./todos-system/

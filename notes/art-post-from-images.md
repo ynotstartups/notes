@@ -9,7 +9,7 @@ The purpose is to simplify the creation of art note.
 1. generate markdown file based on image names without other information
 1. group images by artist name or an arbitrary string under markdown header
 1. if it is an artist name, generate a link to [Who Is This Artist](https://whoisthisartist.netlify.app/gallery/zadok-ben-david) with slugified artist name, if there is no artist name, don't generate link to Who Is This Artist
-1. order art works with name first 
+1. order art works with name first
 
 ## Implementation
 
@@ -43,7 +43,7 @@ So the python script read the filenames and generate the following markdown.
 ![Staring - City of London_light](images/art/Staring - City of London_light.jpg)
 ```
 
-I also have a Make script to generate this art post. 
+I also have a Make script to generate this art post.
 
 ```
 compile-art:

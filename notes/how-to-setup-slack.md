@@ -1,4 +1,4 @@
-# How To Setup Slack 
+# How To Setup Slack
 
 1. Notification -> Notification Schedule -> Weekdays 10:00 - 05:30
 1. Notification -> Send me email -> once every 15 minutes

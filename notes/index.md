@@ -25,7 +25,7 @@ I am also interested in
  [books](reading.md),
  [writing](digital-garden.md),
  video games,
- ... 
+ ...
 
 My wildest dream is to become [a stand-up comedian](stand-up-comedy.md), a [farmer/gardener](farmer.md) to grow my own food or [an artist](artist.md).
 

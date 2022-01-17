@@ -1,4 +1,4 @@
-# Cheat Sheet Household cleaning 
+# Cheat Sheet Household cleaning
 
 ## Make your own all purpose cleaner
 

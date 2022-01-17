@@ -1,4 +1,4 @@
-# Cryptocurrency 
+# Cryptocurrency
 
 ## Why don't I invest in Cryptocurrency?
 

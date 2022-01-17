@@ -1,3 +1,3 @@
-# Cheat Sheet Onboarding 
+# Cheat Sheet Onboarding
 
 - explain terminologies

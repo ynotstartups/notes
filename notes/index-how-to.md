@@ -1,6 +1,6 @@
 # Index How To
 
-`How to` are step by step guides on how to do one thing 
+`How to` are step by step guides on how to do one thing
 
 ## Household
 

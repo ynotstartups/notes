@@ -7,4 +7,3 @@
 ## Links to this note
 
 [Index How To](index-how-to.md)
-

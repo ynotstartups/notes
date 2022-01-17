@@ -1,4 +1,4 @@
-# Cheat Sheet pdb 
+# Cheat Sheet pdb
 
 ## Commands
 

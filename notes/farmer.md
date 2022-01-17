@@ -1,6 +1,6 @@
 # Farmer
 
-Is this my first step in becoming a farmer or gardener? 
+Is this my first step in becoming a farmer or gardener?
 
 ## Spring onion
 
@@ -12,4 +12,3 @@ Is this my first step in becoming a farmer or gardener?
 ## Links to this note
 
 [Who am I?](index.md)
-

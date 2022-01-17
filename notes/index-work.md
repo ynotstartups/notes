@@ -8,4 +8,3 @@
 ## Links to this note
 
 [What Am I Doing Now?](what-am-i-doing-now.md)
-

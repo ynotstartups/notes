@@ -98,7 +98,7 @@ My friend had a portable Bose, it sounded quite nice. Did some research, ended u
 
 **Xgimi**
 
-2021 Birthday present from Ginger 
+2021 Birthday present from Ginger
 
 ## Phone Carrier
 
@@ -111,7 +111,7 @@ But now I choose pay as you go instead because WiFi is everywhere and I realised
 
 **Wechat**
 
-I am Chinese :) 
+I am Chinese :)
 
 **WhatsApp**
 

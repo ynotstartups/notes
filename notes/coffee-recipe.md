@@ -10,7 +10,7 @@ Grind Setting mark 0 on [1Zpresso Q2](https://www.amazon.co.uk/1Zpresso-Portable
 
 Inverted position
 
-2 min brew time 
+2 min brew time
 
 ## Aeropress Latte 250g
 
@@ -20,7 +20,7 @@ Inverted position
 
 Inverted position
 
-2:00 brew time 
+2:00 brew time
 
 Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/watch?v=wFFJ-NLjNZY))
 
@@ -29,8 +29,8 @@ Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/
 **Bloom Phase**
 
 1. Add 24g (twice the amount of coffee) of water to bloom
-1. swirl and coffee and water should look nice and evenly mixed 
-1. from 00:00 until 00:45 
+1. swirl and coffee and water should look nice and evenly mixed
+1. from 00:00 until 00:45
 
 **Agitation Phase**
 
@@ -42,7 +42,7 @@ Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/
 
 1. Add until 200g of water in the next 30 second
 1. stir the coffee to knock off the ground stuck in wall to fall
-1. wait for a bit then give a final swirl to make flat coffee bed 
+1. wait for a bit then give a final swirl to make flat coffee bed
 1. At the end, you should see flat bed and little coffee on the wall.
 
 ## Links to this note
@@ -52,4 +52,3 @@ Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/
 [How To Clean French Press](how-to-clean-french-press.md)
 
 [Index Coffee](index-coffee.md)
-

@@ -52,4 +52,3 @@ I [brew coffee](coffee-recipe.md) at home myself too!
 ## Links to this note
 
 [Index Coffee](index-coffee.md)
-

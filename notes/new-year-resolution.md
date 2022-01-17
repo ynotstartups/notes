@@ -9,4 +9,3 @@ I cannot buy books, clothes, video games, coffee equipments, boardgames, hobby r
 ## Links to this note
 
 [What Am I Doing Now?](what-am-i-doing-now.md)
-

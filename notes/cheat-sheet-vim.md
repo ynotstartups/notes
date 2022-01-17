@@ -89,4 +89,3 @@ Use `\r` not `\n`
 [Cheat Sheet Writing](cheat-sheet-writing.md)
 
 [Index Cheat Sheet](index-cheat-sheet.md)
-

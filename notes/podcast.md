@@ -5,7 +5,7 @@ Making podcast is more comfortable compared to video, because we are just having
 ## Tips - General Structure
 
 - How did we started doing with this topic? ( For example what's our firsts impression about coffee in our life)
-- How is it now? What is the journey? ( How did we started drinking coffee again?) 
+- How is it now? What is the journey? ( How did we started drinking coffee again?)
 - What is next? ( What to do next to improve coffee skills)
 
 
@@ -29,5 +29,3 @@ Making podcast is more comfortable compared to video, because we are just having
 
 - How do we buy things?
 - 2022 new year resolutions
-
-

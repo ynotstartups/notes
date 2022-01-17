@@ -1,4 +1,4 @@
-# How To Make Mulled Wine 
+# How To Make Mulled Wine
 
 
 ## ingredients
@@ -23,4 +23,3 @@ Half of a lemon
 ## Links to this note
 
 [Cooking](cooking.md)
-

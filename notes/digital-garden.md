@@ -34,7 +34,7 @@ These notes record my random ideas, for whatever reason, my brain is running mos
 
 ## Remind myself the following when writing
 
-> A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus: What am I trying to say? What words will express it? What image or idiom will make it clearer? Is this image fresh enough to have an effect? And he will probably ask himself two more: Could I put it more shortly? Have I said anything that is avoidable ugly? 
+> A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus: What am I trying to say? What words will express it? What image or idiom will make it clearer? Is this image fresh enough to have an effect? And he will probably ask himself two more: Could I put it more shortly? Have I said anything that is avoidable ugly?
 
 > 1. Never use a metaphor, simile or other figure of speech which you are used to seeing in print.
 > 2. Never use a long word where a short one will do.
@@ -70,4 +70,3 @@ However, Vim is my primary interface to interact with these notes, so I prioriti
 ## Links to this note
 
 [Who am I?](index.md)
-

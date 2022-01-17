@@ -8,7 +8,7 @@ I don't know if the pink flower graffiti on green (or blue) wall is part of the 
 
 ![Toppled Chair](images/art-impression/toppled-chair.jpg)
 
-## Another Time - Antony Gormley 
+## Another Time - Antony Gormley
 
 
 On the first day afternoon, the sculpture is fully visible.
@@ -17,7 +17,7 @@ Next day morning, the sculpture is not visible because it is fully immerse in wa
 
 Next day afternoon, the sculpture is half visible.
 
-The visibility depends on the tide. 
+The visibility depends on the tide.
 
 This is such a ingenious use of natural phenomena, the tide becomes part of the sculpture. I am very amazed to see sculpture can part of nature, or nature can be part of the sculpture. This changes my impression of the dark, cold, hard, unwelcoming sculptures. Ironically, this sculpture is indeed made from iron which is dark, cold, hard and unwelcoming.
 

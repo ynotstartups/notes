@@ -1,4 +1,4 @@
-# Cheat Sheet Youtube 
+# Cheat Sheet Youtube
 
 ## Keyboard Shortcuts
 

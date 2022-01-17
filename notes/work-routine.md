@@ -10,7 +10,7 @@ Alarm to wait up at 8:00
 
 - make tea
 - learning time
-    - read books, read articles, watch videos... 
+    - read books, read articles, watch videos...
 
 **10:00 - 12:30**
 
@@ -47,9 +47,9 @@ Alarm to wait up at 8:00
     - `email-work` for opening Email
     - `<ctrl><shift>S` for opening Slack
 
-## Do I prefer coding in the morning or in the afternoon? 
+## Do I prefer coding in the morning or in the afternoon?
 
-No preference, as long as I have focus time. 
+No preference, as long as I have focus time.
 
 ## Other useful commands
 
@@ -83,4 +83,3 @@ communication tools: zoom, slack, email
 [Work Index](index-work.md)
 
 [What Am I Doing Now?](what-am-i-doing-now.md)
-

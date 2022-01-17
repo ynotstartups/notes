@@ -12,4 +12,3 @@ Combine
 [Cheat Sheet Household cleaning](cheat-sheet-household-cleaning.md)
 
 [Index How To](index-how-to.md)
-

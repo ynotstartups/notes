@@ -6,4 +6,3 @@ We are making choices everyday to shape our unique life, this conscious act of c
 ## Links to this note
 
 [Who am I?](index.md)
-

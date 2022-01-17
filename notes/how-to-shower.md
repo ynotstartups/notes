@@ -12,7 +12,7 @@
 
 ## After Shower
 
-In no particular order 
+In no particular order
 
 - dry feet
 - use lip balms

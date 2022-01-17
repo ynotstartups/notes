@@ -55,7 +55,7 @@ Ginger's drawing
 
 ![蜜汁叉烧](images/cooking/蜜汁叉烧.jpg)
 
-## 酸菜鱼 - Sour Pickled Mustard With Fish 
+## 酸菜鱼 - Sour Pickled Mustard With Fish
 
 [Recipe](how-to-make-sour-pickled-mustard-fish.md)
 
@@ -108,4 +108,3 @@ Ginger's drawing
 ## Links to this note
 
 [Who am I?](index.md)
-

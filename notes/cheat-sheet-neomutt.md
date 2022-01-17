@@ -54,4 +54,4 @@ Credit to [stackoverflow](https://stackoverflow.com/a/14779416)
 
 ## Send email from command line
 
-`echo "" | neomutt -s 'SUBJECT' foo@bar.com` 
+`echo "" | neomutt -s 'SUBJECT' foo@bar.com`

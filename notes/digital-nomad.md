@@ -17,7 +17,7 @@ New York
 
 This is not a fully developed idea.
 
-The definition of half digital nomad. 
+The definition of half digital nomad.
 
 - have a home (a permanent place to stay)
 - but travel X months per year

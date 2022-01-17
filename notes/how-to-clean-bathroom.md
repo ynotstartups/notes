@@ -20,4 +20,3 @@
 [Index How To](index-how-to.md)
 
 [Minimalism](minimalism.md)
-

@@ -15,4 +15,3 @@ I love coffee!
 ## Links to this note
 
 [Who am I?](index.md)
-

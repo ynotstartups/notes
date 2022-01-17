@@ -18,18 +18,18 @@ So I should use single quote most of the time.
 ## Check if a directory does not exist ###
 
 ```
-if [ -d '/path/to/dir' ] 
+if [ -d '/path/to/dir' ]
 then
-    echo 'Directory /path/to/dir exists.' 
+    echo 'Directory /path/to/dir exists.'
 else
     echo 'Error: Directory /path/to/dir does not exists.'
 fi
 ```
 
 ```
-if [ ! -d '/path/to/dir' ] 
+if [ ! -d '/path/to/dir' ]
 then
-    echo 'Directory /path/to/dir DOES NOT exists.' 
+    echo 'Directory /path/to/dir DOES NOT exists.'
     exit 9999 # die with error code 9999
 fi
 ```
@@ -58,7 +58,7 @@ To move file, press `dd`, then navigate to the desired directory and press `p`, 
 ## Pipe recently used command to a file
 
 ```
-history | tail -n 20 | grep git >> ./cheat-sheet-git.md 
+history | tail -n 20 | grep git >> ./cheat-sheet-git.md
 ```
 
 ## `pgrep`
@@ -81,4 +81,3 @@ format output to multiple columns
 ## Links to this note
 
 [Index Cheat Sheet](index-cheat-sheet.md)
-

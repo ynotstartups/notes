@@ -30,7 +30,7 @@ Board game arena is a website to play boardgames with friends, highly recommende
 
 - affordable pricing model (£27 yearly , one premium member can open table to allow free members to join)
 - simple to learn/use interface
-- eliminated setup, point counting 
+- eliminated setup, point counting
 - plenty of games (see [premium games](https://boardgamearena.com/premium) for popular board games)
 
 Ginger and I own the physical copy of Targi, however because of the time consuming setup and the point counting at the end of the game, we have only played the physical copy 3 times.
@@ -73,4 +73,3 @@ Race & Roll for the Galaxy - complex - best for 3
 ## Links to this note
 
 [Who am I?](index.md)
-

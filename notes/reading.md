@@ -14,14 +14,14 @@ This book makes me start practising minimalism, thank you Marie Kondo!
 
 **Intelligent investor**
 
-It jump-started my investment journey, I am still applying investment philosophy. 
+It jump-started my investment journey, I am still applying investment philosophy.
 
-## Why do I read? 
+## Why do I read?
 
 - To understand more about life
 - To kill time
 
-## What do I read? 
+## What do I read?
 
 - classics
 - modern classics
@@ -33,4 +33,3 @@ It jump-started my investment journey, I am still applying investment philosophy
 ## Links to this note
 
 [Who am I?](index.md)
-

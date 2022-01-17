@@ -4,6 +4,6 @@
 - store the data you want to encrypt in a file in tmp e.g. `/tmp/foo.txt`
 - encrypt `gpg --output ~/.foo.gpg --encrypt --recipient me@mydomain.com /tmp/.foo.txt`
 
-## decrypt the file 
+## decrypt the file
 
 `gpg -dq ~/.foo.gpg`

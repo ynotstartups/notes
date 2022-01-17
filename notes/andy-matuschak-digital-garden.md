@@ -8,4 +8,3 @@
 - It has a great implementation of [bi-directional links](bi-directional-links.md)
 
 The web interface really helps me to explore the related contents and makes me have a sense of falling down a rabbit hole.
-

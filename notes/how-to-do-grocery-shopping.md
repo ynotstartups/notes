@@ -41,4 +41,3 @@ It mostly depends on the supermarket...
 | tomato            |
 | watercress        |
 | yellow nectarine  |
-

@@ -28,7 +28,7 @@
 
 - moved from Full Stack to Full Stack + iOS App Engineer to Backend Engineer
 - Advocated for adapting stricter typing in python
-- Advocated for passing client from views 
+- Advocated for passing client from views
 - Advocated for writing documentations
 - features
     - home tab (productionize ranking, )

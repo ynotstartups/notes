@@ -25,4 +25,3 @@ This is more efficient.
 [How To Cook](how-to-cook.md)
 
 [Index How To](index-how-to.md)
-

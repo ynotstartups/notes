@@ -20,4 +20,3 @@ Light roasted coffee beans are the opposite, there are harder to grind.
 ## Links to this note
 
 [Index Coffee](index-coffee.md)
-

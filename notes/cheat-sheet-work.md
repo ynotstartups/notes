@@ -14,7 +14,7 @@ It is via work that I understand
 
 To avoiding tunnel vision, I won't do anything complicated if I am on my own.
 
-It is via interacting with colleagues, I switch to use linux, vim, terminal, i3, neomutt... 
+It is via interacting with colleagues, I switch to use linux, vim, terminal, i3, neomutt...
 
 **To deepen my knowledges**
 
@@ -46,14 +46,14 @@ Via getting paid
 
 ## To Enjoy Work
 
-To enjoy work, I need to enter flow state as many as possible. 
+To enjoy work, I need to enter flow state as many as possible.
 
-There are plenty of distractions in work which prevents flow to happen, below are the list of distractions and my solutions to avoid them. 
+There are plenty of distractions in work which prevents flow to happen, below are the list of distractions and my solutions to avoid them.
 
 
-Problem: 
+Problem:
 
-too many meetings fragmented time of day such that there isn't a 30 minute+ timeslots, optimal flow requires at least an hour of continues time. 
+too many meetings fragmented time of day such that there isn't a 30 minute+ timeslots, optimal flow requires at least an hour of continues time.
 
 Solutions:
 
@@ -61,17 +61,17 @@ move, decline, cancel, not attend option meetings if I find there are to many me
 
 ----
 
-Problem: 
+Problem:
 
 Distracted by the need to remember meetings in the day, and various meetings reminder plugins
 
 Solutions:
 
-Setup alarms and prepare for all the meetings as first thing in the morning. 
+Setup alarms and prepare for all the meetings as first thing in the morning.
 
 Don't use meeting reminder plugins, especially the one uses notifications.
 
-Turn off notifications in laptop and phone! 
+Turn off notifications in laptop and phone!
 
 ----
 
@@ -82,7 +82,7 @@ ad hoc requests from slack
 Solutions:
 
 - Dedicate time and handle these requests on the next day
-- choose technical solutions require least 
+- choose technical solutions require least
 future maintenance
 
 ----
@@ -114,4 +114,3 @@ Such as, read relevant book, read useful articles, tweak tool to increase produc
 ## Links to this note
 
 [Work Index](index-work.md)
-
