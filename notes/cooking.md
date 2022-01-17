@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+## Chicken Wing With Coca Cola Curry - 可乐鸡翅
+
+![Chicken Wing With Cola Curry](images/cooking/chicken-wing-with-cola-curry.jpg)
+
 ## Cantonese Steamed Fish - 广式蒸鱼
 
 ![Steam Fish](images/cooking/steam-fish.jpg)
