@@ -3,6 +3,7 @@
 Taken from [link](https://housewifehowtos.com/clean/natural-homemade-all-purpose-cleaner/)
 
 Combine
+
 - 500g water
 - 1 teaspoon liquid dish soap
 - 5 drops of essential oils

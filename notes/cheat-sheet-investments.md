@@ -25,6 +25,7 @@ All quotes are from The intelligent investor
 
 > Page 220
 > The whole point of investing is not to earn more money than average, but to earn enough money to meet your own needs. The best way to measure your investing success is not by whether you are beating the market but by whether you've put in place a financial plan and a behavioral discipline that are likely to get you where you want to go.  In the end, what matters isn't crossing the finish line before anybody else but just making sure that you do cross it.
+
 ## Links to this note
 
 [Cryptocurrency](cryptocurrency.md)

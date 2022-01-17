@@ -9,6 +9,7 @@ Is this my first step in becoming a farmer or gardener?
 ## Avocado
 
 ![avocado](images/farmer/avocado.jpg)
+
 ## Links to this note
 
 [Who am I?](index.md)

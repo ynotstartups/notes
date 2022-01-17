@@ -10,11 +10,10 @@ It mostly depends on the supermarket...
 - eggs e.g. No.1 longstock gold eggs
 - cleaning products e.g. kitchen towel
 
-
 ## Grocery on 2021-01-04
 
 | Items             |
-|-------------------|
+| ----------------- |
 | apples            |
 | beef topside      |
 | blackberries      |

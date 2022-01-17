@@ -8,7 +8,6 @@ This process takes several hours.
 - boiling water
 - (optional) containers with boiling water
 
-
 1. empty freezer
 1. turn off fridge
 1. put hot towels and container on top of ice, changes towels and containers when they got cold

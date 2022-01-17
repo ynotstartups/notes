@@ -35,25 +35,25 @@ I love to cook! I can cook the following dishes.
 
 [recipe](https://www.xiachufang.com/recipe/104416071/)
 
-![鱼香茄子](images/cooking/鱼香茄子.jpg)
+![鱼香茄子](images/cooking/%E9%B1%BC%E9%A6%99%E8%8C%84%E5%AD%90.jpg)
 
 ## 梅菜蒸肉饼
 
-![梅菜蒸肉饼](images/cooking/梅菜蒸肉饼.jpg)
+![梅菜蒸肉饼](images/cooking/%E6%A2%85%E8%8F%9C%E8%92%B8%E8%82%89%E9%A5%BC.jpg)
 
 ## 干锅花菜
 
-![干锅花菜](images/cooking/干锅花菜.jpg)
+![干锅花菜](images/cooking/%E5%B9%B2%E9%94%85%E8%8A%B1%E8%8F%9C.jpg)
 
 ## 西班牙小辣椒 - Padrón Peppers
 
-![西班牙小辣椒](images/cooking/西班牙小辣椒.jpg)
+![西班牙小辣椒](images/cooking/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8F%E8%BE%A3%E6%A4%92.jpg)
 
 ## 蜜汁叉烧
 
 Ginger's drawing
 
-![蜜汁叉烧](images/cooking/蜜汁叉烧.jpg)
+![蜜汁叉烧](images/cooking/%E8%9C%9C%E6%B1%81%E5%8F%89%E7%83%A7.jpg)
 
 ## 酸菜鱼 - Sour Pickled Mustard With Fish
 
@@ -71,8 +71,6 @@ Ginger's drawing
 
 ![Rice Noodle](images/cooking/rice-noodle.jpg)
 
-
-
 ## 番茄炒蛋
 
 ## 剁椒鱼柳
@@ -89,7 +87,6 @@ Ginger's drawing
 
 ## 小白菜汤
 
-
 ## 韩国拌饭
 
 ## 拌米粉
@@ -102,9 +99,8 @@ Ginger's drawing
 
 ## 爆炒花甲
 
-
-
 ## 干锅腊肉白菜
+
 ## Links to this note
 
 [Who am I?](index.md)

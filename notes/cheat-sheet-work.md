@@ -1,6 +1,5 @@
 # Cheat Sheet Work
 
-
 ## What do I work?
 
 **To understand myself**
@@ -34,7 +33,6 @@ Via interactions
 
 Via getting paid
 
-
 ## What is the required working hours in contract?
 
 > The Company’s normal business hours are between 9 a.m. and 6:30 p.m. Mondays to Fridays inclusive with one
@@ -43,13 +41,11 @@ Via getting paid
 
 9 and a half hour with 1 hour for lunch.
 
-
 ## To Enjoy Work
 
 To enjoy work, I need to enter flow state as many as possible.
 
 There are plenty of distractions in work which prevents flow to happen, below are the list of distractions and my solutions to avoid them.
-
 
 Problem:
 
@@ -59,7 +55,7 @@ Solutions:
 
 move, decline, cancel, not attend option meetings if I find there are to many meetings Ina day
 
-----
+______________________________________________________________________
 
 Problem:
 
@@ -73,7 +69,7 @@ Don't use meeting reminder plugins, especially the one uses notifications.
 
 Turn off notifications in laptop and phone!
 
-----
+______________________________________________________________________
 
 Problem:
 
@@ -83,9 +79,9 @@ Solutions:
 
 - Dedicate time and handle these requests on the next day
 - choose technical solutions require least
-future maintenance
+  future maintenance
 
-----
+______________________________________________________________________
 
 Problem:
 
@@ -95,7 +91,7 @@ Solution:
 
 Turn off slack, only check slack occasionally
 
-----
+______________________________________________________________________
 
 Problem:
 
@@ -105,7 +101,7 @@ Solutions:
 
 Decline them
 
-----
+______________________________________________________________________
 
 ## Spent an hour learning
 

@@ -45,7 +45,7 @@ https://nickjanetakis.com/blog/vim-is-saving-me-hours-of-work-when-writing-books
 
 ## Marks
 
-`` ` (backtick)`` - jump to marks
+``  ` (backtick) `` - jump to marks
 
 `m{A-Z}` - set marks in any files
 
@@ -55,11 +55,11 @@ https://nickjanetakis.com/blog/vim-is-saving-me-hours-of-work-when-writing-books
 
 ## Jumps
 
-`CTRL-O` - Go to [count] Older cursor position in jump list
+`CTRL-O` - Go to \[count\] Older cursor position in jump list
 
 `CTRL-6` - jump to last edited file, see `:help ctrl-6`
 
-`<Tab> or CTRL-I` - Go to [count] newer cursor
+`<Tab> or CTRL-I` - Go to \[count\] newer cursor
 
 ## Change list jumps
 

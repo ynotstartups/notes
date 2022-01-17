@@ -24,6 +24,7 @@
 1. Pour lots of oil into pan, large heat
 1. Add garlic, anise, mustard for 2 minutes to let the flavour out
 1. Add fish for about 8 minutes, medium heat
+
 ## Links to this note
 
 [Cooking](cooking.md)

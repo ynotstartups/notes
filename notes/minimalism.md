@@ -59,6 +59,7 @@ Just one bed and a wardrobe
 ## Related Links
 
 [My presentation on minimalism](https://www.bilibili.com/video/BV1u54y1x7zF)
+
 ## Links to this note
 
 [All Things](all-things.md)

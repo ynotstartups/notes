@@ -9,4 +9,4 @@
 1. Need to have physical wallet
 1. Service fees are high
 1. Investment platform has no direct debit, so I cannot automate the investments
-7. Not proven work in the long term (30 years +)
+1. Not proven work in the long term (30 years +)

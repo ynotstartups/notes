@@ -18,7 +18,6 @@ Fastest option when I have no access to pen and paper.
 
 I used android and got a widget in my phones desktop, it is quick and simple to use. I used it to write down my random idea and random thinking, and when I have more time later on, I will either move it to Jira of it is a mid to long term project or delete the idea if it turns out to be no value.
 
-
 ## Email
 
 **Gmail**
@@ -50,7 +49,6 @@ Pros
 **Github Pages**
 
 I have been using Github pages since 2016, didn't really try other options, just works.
-
 
 ## Keyboard
 
@@ -154,12 +152,10 @@ But Vim is already 30 years old and it is still going strong.
 
 Thinking that I can edit code in terminal is very cool, aesthetically beautiful, and motivating idea for a 21 year old.
 
-
 ## Toothbrush
 
 Normal toothbrush works great for me. Electric toothbrushes are annoying because we need to charge it from time to time.
 And I feel like electric toothbrushes company brought up tooth clinics to push their products.
-
 
 ## My Fashion Style
 

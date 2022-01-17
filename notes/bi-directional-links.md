@@ -1,6 +1,7 @@
 # Bi-Directional Links
 
 ## What is it?
+
 Basically if one note A contains a hyperlink to another note B, then create also create a link from note B to note A.
 
 ## What is it useful?

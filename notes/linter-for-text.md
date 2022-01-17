@@ -13,7 +13,6 @@ Pros:
 - Enforce American (Or UK) spelling
 - ...
 
-
 ## My Investigations
 
 There are three, proselint, textlint and vale.
@@ -49,7 +48,6 @@ cleaning.md:12:5: leonard.exclamation.30ppm More than 30 ppm of exclamations. Ke
 It has less output then I imagine, I am hoping it will point out more problems.
 
 Let me try Vale to compare the output.
-
 
 ## installing vale
 
@@ -87,7 +85,6 @@ Trying the Google style first with no specific reason, I have not read [google s
 
 Now, it needs [Vocab](https://docs.errata.ai/vale/cli#vocab), I will just add empty `accept.txt` and `reject.txt`, same with vale-boilerplate..
 
-
 Okay, I got this ini at the end.
 
 ```
@@ -102,7 +99,6 @@ BasedOnStyles = Google
 ## linting output from google style
 
 I can use only some of them, see examples below.
-
 
 ```
  9:23    warning  Avoid first-person pronouns     Google.FirstPerson
@@ -149,16 +145,15 @@ Conclusion, the google style guide is for documentation I should look for others
 
 Below are the list of [styles available](https://github.com/errata-ai/styles).
 
-
-| Style | Description |
-| ------------- | ------------- |
-| Microsoft| Welcome to the Microsoft Writing Style Guide, your guide to writing style and terminology for all communication—whether an app, a website, or a white paper. If you write about computer technology, this guide is for you. |
-| Google | This style guide provides editorial guidelines for writing clear and consistent Google-related developer documentation. |
-| write-good |  Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.|
-| proselint | proselint places the world’s greatest writers and editors by your side, where they whisper suggestions on how to improve your prose. |
-| Joblint |  Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.|
-| Alex | Catch insensitive, inconsiderate writing. |
-| Readability |This repository contains a Vale-compatible implementation of many popular "readability" metrics. |
+| Style       | Description                                                                                                                                                                                                                 |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Microsoft   | Welcome to the Microsoft Writing Style Guide, your guide to writing style and terminology for all communication—whether an app, a website, or a white paper. If you write about computer technology, this guide is for you. |
+| Google      | This style guide provides editorial guidelines for writing clear and consistent Google-related developer documentation.                                                                                                     |
+| write-good  | Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.                                                                                                              |
+| proselint   | proselint places the world’s greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.                                                                                        |
+| Joblint     | Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.                                                                                                                                     |
+| Alex        | Catch insensitive, inconsiderate writing.                                                                                                                                                                                   |
+| Readability | This repository contains a Vale-compatible implementation of many popular "readability" metrics.                                                                                                                            |
 
 ## Output from write-good
 

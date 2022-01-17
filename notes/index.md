@@ -17,15 +17,15 @@ I love brewing and tasting [coffee](index-coffee.md).
 I meditate by [cooking](cooking.md) and dish washing.
 
 I am also interested in
- [art](art.md),
- [boardgames](boardgame.md),
- [coding](https://github.com/ynotstartups),
- [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
- [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF),
- [books](reading.md),
- [writing](digital-garden.md),
- video games,
- ...
+[art](art.md),
+[boardgames](boardgame.md),
+[coding](https://github.com/ynotstartups),
+[personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
+[public speaking](https://www.bilibili.com/video/BV1u54y1x7zF),
+[books](reading.md),
+[writing](digital-garden.md),
+video games,
+...
 
 My wildest dream is to become [a stand-up comedian](stand-up-comedy.md), a [farmer/gardener](farmer.md) to grow my own food or [an artist](artist.md).
 

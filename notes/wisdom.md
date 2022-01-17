@@ -16,7 +16,6 @@ Computer programs are all about automation, whenever you find yourselves repeati
 
 It's less about how shiny the tool is, it is about how deep you understand the tool. (Example, you don't need the latest iphone. You don't always need the latest version/hyped software)
 
-
 ## On things to buy
 
 1. Have the appropriate quality and a low lifetime cost

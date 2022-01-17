@@ -19,7 +19,6 @@ and then move on to the next type.
 
 This is more efficient.
 
-
 ## Links to this note
 
 [How To Cook](how-to-cook.md)

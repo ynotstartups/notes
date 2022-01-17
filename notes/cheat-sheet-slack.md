@@ -1,6 +1,5 @@
 # Cheat Sheet Slack
 
-
 ## How to setup
 
 see [note](how-to-setup-slack.md)

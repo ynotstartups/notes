@@ -2,11 +2,10 @@
 
 ## Key bindings
 
-| Command | Description        |
-|---------|--------------------|
-| `/`     | Search             |
-| `$`     | Sync Mailbox       |
-
+| Command | Description  |
+| ------- | ------------ |
+| `/`     | Search       |
+| `$`     | Sync Mailbox |
 
 ## Find email sent from myself
 

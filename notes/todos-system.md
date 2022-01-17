@@ -63,7 +63,6 @@ In jira, one can assign tickets to one and only one epic, this groups tickets to
 
 This feature is implemented by using one folder to represent one epic, see example below for using three folders to implement of three epics `tech`, `podcast` and `notes`.
 
-
 ```bash
 $ ls ./todos-system/todo/
 
@@ -108,14 +107,12 @@ todos-system/
         baz.md
 ```
 
-
 ## Cheat sheet
 
 Assuming the current directory is `todo`
 
-
 | Task                          | Command                     |
-|-------------------------------|-----------------------------|
+| ----------------------------- | --------------------------- |
 | create a new ticket           | `touch foo.md`              |
 | add description               | `vim foo.md`                |
 | see description of ticket     | `cat ticket.md`             |
@@ -128,8 +125,7 @@ Assuming the current directory is `todo`
 | assign a ticket to done       | `mv tech/foo.md ../done`    |
 | filter out done tickets       | unnecessary                 |
 
-
-----
+______________________________________________________________________
 
 Related links
 

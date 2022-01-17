@@ -61,7 +61,6 @@ Pandemic - too many rules, the rules are not elegant - best for 2
 
 Race & Roll for the Galaxy - complex - best for 3
 
-
 ## Collected Print & Play Games
 
 [link to Github repo](https://github.com/ynotstartups/PrintAndPlayGames)

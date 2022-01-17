@@ -1,6 +1,5 @@
 # All Things
 
-
 ## Electronics
 
 usb microphone,
@@ -76,7 +75,7 @@ large leaf plant,
 lady's tongue,
 flower,
 avocado,
- spring onion in water,
+spring onion in water,
 
 ## Household Cleaning products
 
@@ -398,6 +397,7 @@ Wood spatula,
 Wood spoon,
 
 See also [minimalism](minimalism.md)
+
 ## Links to this note
 
 [Who am I?](index.md)

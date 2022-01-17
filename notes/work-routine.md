@@ -10,18 +10,18 @@ Alarm to wait up at 8:00
 
 - make tea
 - learning time
-    - read books, read articles, watch videos...
+  - read books, read articles, watch videos...
 
 **10:00 - 12:30**
 
 - check calender of the day
-    - `agenda`
+  - `agenda`
 - setup alarms 5 minutes before each meetings
 - write stand-up notes
-    - `copy_last_to_today` - copy last date's stand-up notes today's
-    - `agenda >> standup notes` - adds today's meeting to stand-up notes
+  - `copy_last_to_today` - copy last date's stand-up notes today's
+  - `agenda >> standup notes` - adds today's meeting to stand-up notes
 - prepare for all the meetings
-    - `agenda --details conference | email-work -s agenda me@foo.com` - send meeting link to phone
+  - `agenda --details conference | email-work -s agenda me@foo.com` - send meeting link to phone
 
 **12:30 - 13:30**
 
@@ -44,8 +44,8 @@ Alarm to wait up at 8:00
 - once in the morning around 10:00
 - once after lunch around 13:30
 - in the middle of the afternoon around 16:00
-    - `email-work` for opening Email
-    - `<ctrl><shift>S` for opening Slack
+  - `email-work` for opening Email
+  - `<ctrl><shift>S` for opening Slack
 
 ## Do I prefer coding in the morning or in the afternoon?
 

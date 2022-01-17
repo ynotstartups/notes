@@ -14,8 +14,7 @@ Double quote interpolates, single quote doesn't.
 
 So I should use single quote most of the time.
 
-
-## Check if a directory does not exist ###
+## Check if a directory does not exist
 
 ```
 if [ -d '/path/to/dir' ]
@@ -54,7 +53,6 @@ To move file, press `dd`, then navigate to the desired directory and press `p`, 
 
 [Suckless Software](https://suckless.org/rocks/)
 
-
 ## Pipe recently used command to a file
 
 ```
@@ -76,7 +74,6 @@ format output to multiple columns
 `sed --in-place '/breakpoint()/d' ./**/*.py` - remove all breakpoints from python files
 
 `sed -n 200p foo.md` - print line 200 of file `foo.md`
-
 
 ## Links to this note
 

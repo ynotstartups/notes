@@ -10,7 +10,6 @@ I don't know if the pink flower graffiti on green (or blue) wall is part of the 
 
 ## Another Time - Antony Gormley
 
-
 On the first day afternoon, the sculpture is fully visible.
 
 Next day morning, the sculpture is not visible because it is fully immerse in water.
@@ -27,7 +26,7 @@ This is such a ingenious use of natural phenomena, the tide becomes part of the 
 
 ## Fountain V2.a.753
 
-Reminds me of [Fountain by Duchamp](https://en.wikipedia.org/wiki/Fountain_(Duchamp))
+Reminds me of [Fountain by Duchamp](<https://en.wikipedia.org/wiki/Fountain_(Duchamp)>)
 
 ![fountain V2](images/art-impression/toilet-upgraded.jpg)
 
