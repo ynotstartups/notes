@@ -84,6 +84,10 @@ Use `\r` not `\n`
 `:tab split` - open buffer in new tab
 `:tabc` - close tab
 
+## Fugitive Open File From Another Branch
+
+`Gedit branch-name:path/to/file`
+
 ## Links to this note
 
 [Cheat Sheet Writing](cheat-sheet-writing.md)
