@@ -2,11 +2,11 @@
 
 ## Key bindings
 
-| Command | Description  |
-| ------- | ------------ |
-| `/`     | Search       |
-| `$`     | Sync Mailbox |
-| `^D`    | Delete Thread|
+| Command | Description   |
+| ------- | ------------- |
+| `/`     | Search        |
+| `$`     | Sync Mailbox  |
+| `^D`    | Delete Thread |
 
 ## Find email sent from myself
 
