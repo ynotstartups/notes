@@ -6,6 +6,7 @@
 | ------- | ------------ |
 | `/`     | Search       |
 | `$`     | Sync Mailbox |
+| `^D`    | Delete Thread|
 
 ## Find email sent from myself
 
