@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+## Bibimbap - 韩国拌饭
+
+![Bibimbap](images/cooking/bibimbap.jpg)
+
 ## Chicken Wing With Coca Cola Curry - 可乐鸡翅
 
 ![Chicken Wing With Cola Curry](images/cooking/chicken-wing-with-cola-curry.jpg)
@@ -23,6 +27,8 @@ I love to cook! I can cook the following dishes.
 ![breakfast western](images/cooking/breakfast-western.jpg)
 
 ![breakfast noodle](images/cooking/breakfast-noodle.jpg)
+
+![breakfast bone marrow](images/cooking/breakfast-bone-marrow.jpg)
 
 ## New Year Meals
 
@@ -91,7 +97,6 @@ Ginger's drawing
 
 ## 小白菜汤
 
-## 韩国拌饭
 
 ## 拌米粉
 
