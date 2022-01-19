@@ -4,6 +4,21 @@
 
 - IMPORTANT! MOCK WHERE THE VARIABLE IS IMPORTED!
 
+## Parametrize
+
+```python
+import pytest
+
+@pytest.mark.parametrize(
+    ["foo", "bar"],
+    [
+        [None, 1],
+        [2, "3"]
+    ]
+)
+def test_baz(foo, bar)
+```
+
 ## Mocking Constants
 
 ```python
