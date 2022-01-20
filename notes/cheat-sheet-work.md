@@ -1,5 +1,40 @@
 # Cheat Sheet Work
 
+## How many working days do we have?
+
+Working hour is from 9:00 - 12:30, 13:30 - 18:00, which is 3:30 + 4:30 = 8 hours per day.
+
+In a 2 week sprint, we have the following meetings.
+
+Week 1, Monday, stand-up, 20 minutes
+Week 1, Tuesday, retro, 20 minutes
+Week 1, Wednesday, backend sync, 60 minutes
+Week 1, Thursday, 1-on-1, 45 minutes
+Week 1, Thursday, cross squad stand-up, 30 minutes
+Week 1, Thursday, company all hand, 60 minutes
+Week 1, Friday,  stand-up , 20 minutes
+Week 1, Friday,  engineering all hand , 60 minutes
+Week 2, Monday, stand-up, 20 minutes
+Week 2, Tuesday, stand-up, 20 minutes
+Week 2, Wednesday, membership all hand, 60 minutes
+Week 2, Wednesday, Scrum of Scrums, 30 minutes
+Week 2, Wednesday, Sprint Planning, 60 minutes
+Week 2, Thursday, cross squad stand-up, 30 minutes
+Week 2, Friday,  stand-up , 20 minutes
+
+In these 2 weeks, we have 8 * 10 = 80 working hours, minus all the meetings, 555 minutes = 70 hours 15 minutes. 70 hours are able 7 working days, we spent 3 working days in meeting.
+
+If we further spent 60/90/120 minutes daily on distractions, we have 6/5.5/5 working days left.
+
+```
+60 * 10 = 600 minutes, 70 hours 15 minutes - 600 minutes = 60 hours 15 minutes
+
+90 * 10 = 900 minutes , 70 hours 15 minutes - 900 minutes = 55 hours 15 minutes 
+
+120 * 10 = 1200 minutes, 70 hours 15 minutes - 1200 minutes = 50 hours 15 minutes
+```
+
+
 ## What do I work?
 
 **To understand myself**
@@ -106,6 +141,7 @@ ______________________________________________________________________
 ## Spent an hour learning
 
 Such as, read relevant book, read useful articles, tweak tool to increase productivity
+
 
 ## Links to this note
 
