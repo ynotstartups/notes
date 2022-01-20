@@ -22,16 +22,16 @@ Week 2, Wednesday, Sprint Planning, 60 minutes
 Week 2, Thursday, cross squad stand-up, 30 minutes
 Week 2, Friday,  stand-up , 20 minutes
 
-In these 2 weeks, we have 8 * 10 = 80 working hours, minus all the meetings, 555 minutes = 70 hours 15 minutes. 70 hours are able 7 working days, we spent 3 working days in meeting.
+In these 2 weeks, we have 8 * 10 = 80 working hours, minus all the meetings, 555 minutes = 70 hours 45 minutes. 70 hours are able 8.75 working days, we spent about 1.25 working days in meeting.
 
-If we further spent 60/90/120 minutes daily on distractions, we have 6/5.5/5 working days left.
+If we further spent 60/90/120 minutes daily on distractions, we have 7.5/7/6.5 working days left.
 
 ```
-60 * 10 = 600 minutes, 70 hours 15 minutes - 600 minutes = 60 hours 15 minutes
+60 * 10 = 600 minutes, 70 hours 45 minutes - 600 minutes = 60 hours 45 minutes, 60 hours / 8 hours per work day = 7.5 working day
 
-90 * 10 = 900 minutes , 70 hours 15 minutes - 900 minutes = 55 hours 15 minutes 
+90 * 10 = 900 minutes , 70 hours 45 minutes - 900 minutes = 55 hours 45 minutes, 55 hours / 8 hours per work day = 7 working day
 
-120 * 10 = 1200 minutes, 70 hours 15 minutes - 1200 minutes = 50 hours 15 minutes
+120 * 10 = 1200 minutes, 70 hours 45 minutes - 1200 minutes = 50 hours 45 minutes, 50 hours / 8 hours per work day = 6.5 working day
 ```
 
 
