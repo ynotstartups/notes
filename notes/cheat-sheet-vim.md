@@ -88,6 +88,11 @@ Use `\r` not `\n`
 
 `Gedit branch-name:path/to/file`
 
+## Working with tabs
+
+`gt` - next tab
+`gT` - previous tab
+
 ## Links to this note
 
 [Cheat Sheet Writing](cheat-sheet-writing.md)
