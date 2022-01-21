@@ -14,7 +14,7 @@ https://learnvimscriptthehardway.stevelosh.com/
 `[s`  - move to previous misspelled word
 `zg`  - z good - mark word as a good word
 `zw`  - z good - mark word as a bad word
-`z=`  - suggest correctly spelled word
+`z=`  - correct word
 `1z=` - replace incorrectly spelled word with the first suggest
 
 ## Autocomplete
@@ -84,14 +84,15 @@ Use `\r` not `\n`
 `:tab split` - open buffer in new tab
 `:tabc` - close tab
 
-## Fugitive Open File From Another Branch
-
-`Gedit branch-name:path/to/file`
-
 ## Working with tabs
 
 `gt` - next tab
 `gT` - previous tab
+
+## Fugitive Open File From Another Branch
+
+`Gedit branch-name:path/to/file`
+
 
 ## Links to this note
 
