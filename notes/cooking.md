@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+## Steam Fish With Chopped Chili - 剁椒鱼柳
+
+![Steam Fish With Chopped Chili](images/cooking/steam-fish-with-chopped-chili.jpg)
+
 ## Bibimbap - 韩国拌饭
 
 ![Bibimbap](images/cooking/bibimbap.jpg)
@@ -83,7 +87,6 @@ Ginger's drawing
 
 ## 番茄炒蛋
 
-## 剁椒鱼柳
 
 ## fry chicken
 
