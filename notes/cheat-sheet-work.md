@@ -1,6 +1,6 @@
 # Cheat Sheet Work
 
-## How many working days do we have?
+## Number of working days per 2 week sprint
 
 Working hour is from 9:00 - 12:30, 13:30 - 18:00, which is 3:30 + 4:30 = 8 hours per day.
 
@@ -34,12 +34,20 @@ If we further spent 60/90/120 minutes daily on distractions, we have 7.5/7/6.5 w
 120 * 10 = 1200 minutes, 70 hours 45 minutes - 1200 minutes = 50 hours 45 minutes, 50 hours / 8 hours per work day = 6.5 working day
 ```
 
+## Recommended 42.5 hours in flexible working guide
+
+Question: Whether the 42.5 hours are inclusive of 1 hour lunch?
+
+Flexible working guide is open for interpretation, e.g. we don't have a punch clock to enforce working hour. 
+
+Do it the way we want.
+
 
 ## What do I work?
 
 **To understand myself**
 
-It is via work that I understand
+Work makes me understand
 
 - I prefer doing backend
 - I like fashion
@@ -48,7 +56,7 @@ It is via work that I understand
 
 To avoiding tunnel vision, I won't do anything complicated if I am on my own.
 
-It is via interacting with colleagues, I switch to use linux, vim, terminal, i3, neomutt...
+Interacting with colleagues encourages me switch to use linux, vim, terminal, i3, neomutt...
 
 **To deepen my knowledges**
 
@@ -56,7 +64,7 @@ For example, I get to learn more about python and lots of other knowledges.
 
 **To develop a routine**
 
-- as well as to improve my personal workflow
+-  improve my personal workflow
 
 [Work Routine](work-routine.md)
 
