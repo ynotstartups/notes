@@ -5,6 +5,10 @@
 
 ## Short Term Reminders
 
+- learn how to touch type
+
+  - 15 minutes of touch type exercise per day
+
 - read one vim `:help user-manual` per day
 
 **Vim Features To Try Out**
