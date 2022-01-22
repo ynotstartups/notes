@@ -6,15 +6,13 @@ My name is Tiger Yuhao Huang.
 
 Welcome to my [digital garden](digital-garden.md)!
 
-[This](what-am-i-doing-now.md) is what I am doing right now!
-
 I am a backend engineer at [Lyst](https://www.lyst.com).
 
-I consider myself a [minimalist](minimalism.md), [see my physical possessions](all-things.md).
+I consider myself a [minimalist](minimalism.md), [see my possessions](all-things.md).
 
 I love brewing and tasting [coffee](index-coffee.md).
 
-I meditate by [cooking](cooking.md) and dish washing.
+I enjoy [cooking](cooking.md) and washing dishes :)
 
 I am also interested in
 [art](art.md),
@@ -30,6 +28,10 @@ video games,
 My wildest dream is to become [a stand-up comedian](stand-up-comedy.md), a [farmer/gardener](farmer.md) to grow my own food or [an artist](artist.md).
 
 Ginger and I had made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
+
+## What am I doing now?
+
+See [here](reminders.md)!
 
 ## Meaning Of Life
 
