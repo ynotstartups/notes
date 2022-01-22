@@ -87,7 +87,6 @@ Ginger's drawing
 
 ## 番茄炒蛋
 
-
 ## fry chicken
 
 ## homemade chips
@@ -99,7 +98,6 @@ Ginger's drawing
 ## japanese and Indian Curry
 
 ## 小白菜汤
-
 
 ## 拌米粉
 

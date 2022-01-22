@@ -1,4 +1,4 @@
-# Cheat Sheet Ipython 
+# Cheat Sheet Ipython
 
 ## Vim Navigation
 

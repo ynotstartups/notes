@@ -1,4 +1,4 @@
-# Social Media 
+# Social Media
 
 ## Why don't I use social media
 

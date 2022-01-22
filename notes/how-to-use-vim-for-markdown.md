@@ -1,4 +1,4 @@
-# How To Use Vim For Markdown 
+# How To Use Vim For Markdown
 
 ## Use prose linter
 

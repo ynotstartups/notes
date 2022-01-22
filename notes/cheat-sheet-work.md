@@ -38,10 +38,9 @@ If we further spent 60/90/120 minutes daily on distractions, we have 7.5/7/6.5 w
 
 Question: Whether the 42.5 hours are inclusive of 1 hour lunch?
 
-Flexible working guide is open for interpretation, e.g. we don't have a punch clock to enforce working hour. 
+Flexible working guide is open for interpretation, e.g. we don't have a punch clock to enforce working hour.
 
 Do it the way we want.
-
 
 ## What do I work?
 
@@ -64,7 +63,7 @@ For example, I get to learn more about python and lots of other knowledges.
 
 **To develop a routine**
 
--  improve my personal workflow
+- improve my personal workflow
 
 [Work Routine](work-routine.md)
 
@@ -149,7 +148,6 @@ ______________________________________________________________________
 ## Spent an hour learning
 
 Such as, read relevant book, read useful articles, tweak tool to increase productivity
-
 
 ## Links to this note
 

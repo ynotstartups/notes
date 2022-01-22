@@ -1,4 +1,4 @@
-# Cheat Sheet Django 
+# Cheat Sheet Django
 
 ## Using Vim in Django Project
 

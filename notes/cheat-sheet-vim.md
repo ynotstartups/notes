@@ -93,7 +93,6 @@ Use `\r` not `\n`
 
 `Gedit branch-name:path/to/file`
 
-
 ## Links to this note
 
 [Cheat Sheet Writing](cheat-sheet-writing.md)

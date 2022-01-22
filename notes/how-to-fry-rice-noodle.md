@@ -1,9 +1,8 @@
-# How To Fry Rice Noodle 
+# How To Fry Rice Noodle
 
 ## Ingredients
 
 - Mekong rice vermicelli
-
 
 ## Method
 

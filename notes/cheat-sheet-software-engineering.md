@@ -1,4 +1,4 @@
-# Cheat Sheet Software Engineering 
+# Cheat Sheet Software Engineering
 
 ## naming variable
 
@@ -14,8 +14,7 @@
 - Design it twice
 - Does the abstraction reduce complexity?
 - Always ask for agenda for meetings so that I can be better prepared
-- I am bad at ac-hoc talk and thinking 
-- API endpoint should be Noun, such that it can support GET and POST, say if it is `save_search`, then the POST is for saving the search, but the GET will be weird .. 
+- I am bad at ac-hoc talk and thinking
+- API endpoint should be Noun, such that it can support GET and POST, say if it is `save_search`, then the POST is for saving the search, but the GET will be weird ..
 - Data that’s not backed up is lost (could be due to an incorrect command or hardware failure )
 - validate assumptions earlier
-
