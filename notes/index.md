@@ -10,7 +10,7 @@ Welcome to my [digital garden](digital-garden.md)!
 
 I am a backend engineer at [Lyst](https://www.lyst.com).
 
-I consider myself a [minimalist](minimalism.md), I am currently working on writing down [all of my physical possessions](all-things.md).
+I consider myself a [minimalist](minimalism.md), [see my physical possessions](all-things.md).
 
 I love brewing and tasting [coffee](index-coffee.md).
 
@@ -33,7 +33,7 @@ Ginger and I had made some videos, see our [youtube channel](https://www.youtube
 
 ## Meaning Of Life
 
-I believe that the meaning of life is just to be alive.
+I believe that the meaning of life is to be alive.
 
 I once thought the meaning of life is to enjoy every moment of life, but I don't think it is true any more because there were good days and bad days so it wasn't always possible to enjoy it.
 
