@@ -44,6 +44,11 @@ Do it the way we want.
 
 ## What do I work?
 
+**To put my terminal tweaks in production**
+
+I like to improve [my dotfiles](https://github.com/ynotstartups/dotfiles) for productivity boost and learning,
+work lets me test my changes in production.
+
 **To understand myself**
 
 Work makes me understand
