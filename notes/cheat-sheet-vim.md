@@ -4,6 +4,29 @@
 
 https://learnvimscriptthehardway.stevelosh.com/
 
+## Steps for Effective Editing
+
+1. While editing, look for repeat and time consuming actions.
+1. Find builtin commands to make the actions quicker. Read the docs, google.
+1. Train using the command, do this until muscle memory builds up.
+
+From https://moolenaar.net/habits.html
+
+## Quickfix list
+
+- `:mak[e]` - run make commands and populate quickfix
+  - quickfix understands patterns like `src/mobile_api/modules/obsessions.py:346:` in the STDOUT
+- `:helpgr[ep]` - search help text files
+- `:cnf`, `:cpf` - jump to errors in the next/previous file, `[<C-Q>`, `]<C-Q>`
+- run macro q on lines containing "foo"
+
+```vim
+:grep foo
+:cdo normal @q
+```
+
+Learned from [code in the hole](https://codeinthehole.com/tips/vim-lists/#quickfix-list)
+
 ## Vim spell check quick start
 
 `:help spell-quickstart`
