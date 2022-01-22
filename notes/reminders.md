@@ -26,7 +26,7 @@
 ## Long Term Reminders
 
 - Stop buying unnecessary items
-- Straighten your back
+- Straighten my back
 - Write down important facts about people
 
 ## Links to this note
