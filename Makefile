@@ -1,7 +1,6 @@
 .DEFAULT_GOAL := serve
 # enable ** for recursive
 SHELL:=/bin/bash -O globstar
-
 serve:
 	. .venv/bin/activate; \
 	google-chrome http://127.0.0.1:8000/; \
@@ -28,3 +27,7 @@ clean-images:
 	# Otherwise, for example, for image file `./notes/images/art/name_Isamu Noguchi_1.jpg`
 	# `exiv` will be executed on `./notes/images/art/name_Isamu` and then `Noguchi_1.jpg`
 	find . -iregex './notes/images/.*\.\(jpg\|gif\|png\|jpeg\)$\' | xargs -d '\n' exiv2 rm
+
+format:
+	. .venv/bin/activate; \
+	pre-commit run --all-files;
