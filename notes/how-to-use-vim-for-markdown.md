@@ -33,7 +33,7 @@ print("hello world")
 let b:surround_{char2nr("c")} = "`\r`"
 " **bold**
 let b:surround_{char2nr("b")} = "**\r**"
-" [link](url)
+" link
 let b:surround_{char2nr("l")} = "[\r]()"
 " _italic_
 let b:surround_{char2nr("i")} = "_\r_"

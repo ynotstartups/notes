@@ -81,5 +81,3 @@ communication tools: zoom, slack, email
 [Cheat Sheet Work](cheat-sheet-work.md)
 
 [Work Index](index-work.md)
-
-[What Am I Doing Now?](what-am-i-doing-now.md)

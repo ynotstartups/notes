@@ -83,7 +83,7 @@ def main():
         if "images/" in link:
             continue
 
-        assert exists(join(PATH_TO_NOTES, link))
+        assert exists(join(PATH_TO_NOTES, link)), f"{PATH_TO_NOTES} {link} doesn't exist"
 
         all_path_and_internal_link.append((path, link))
 

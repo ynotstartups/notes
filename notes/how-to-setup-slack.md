@@ -8,3 +8,7 @@
 1. Messages & media -> Name -> Full & display names
 1. Advanced -> Input options -> Format messages with markup
 1. Advanced -> Other options -> **Uncheck** Leave app running in notification area when window is closed
+
+## Links to this note
+
+[Cheat Sheet Slack](cheat-sheet-slack.md)

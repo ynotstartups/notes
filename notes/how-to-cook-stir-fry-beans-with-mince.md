@@ -24,3 +24,7 @@ sesame oil,
 1. add spring onion, ginger, garlic and pork mince
 1. stir fry until pork mince is cooked
 1. add soy sauce, dark soy sauce, salt, and pepper for flavor
+
+## Links to this note
+
+[Cooking](cooking.md)

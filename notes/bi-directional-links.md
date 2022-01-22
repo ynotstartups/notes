@@ -93,3 +93,7 @@ In this website, it contains a section *Links to this note* at the end of the pa
 ## Links to this note
 
 [Andy Matuschak's Digital Garden](andy-matuschak-digital-garden.md)
+
+## Links to this note
+
+[Andy Matuschak's Digital Garden](andy-matuschak-digital-garden.md)
