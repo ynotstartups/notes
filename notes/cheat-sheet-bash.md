@@ -4,6 +4,10 @@ The best tip is to start reading the manual page by use `man` with a program nam
 
 In vim, you can even use `K` on any bash program to open the manual page, trying pressing K here -> ls.
 
+## Variables
+
+`$?` - last exit code
+
 ## Tips
 
 TODO:cut, grep, uniq, sort, ls, use apropos to find command
