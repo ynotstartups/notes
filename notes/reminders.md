@@ -5,11 +5,17 @@
 
 ## Short Term Reminders
 
-- learn how to touch type
+- learn how to touch type, because I am not happy that the large amount of mistakes during typing, which also hinders my experience with Vim.
 
-  - 15 minutes of touch type exercise per day
+  - 30 minutes of touch type exercise per day
+  - `touch-type` - to open image guide
+  - [Website to learn](https://www.edclub.com/sportal/program-1.game)
+    - 100% accuracy to pass a lesson
+    - restart if use the wrong finger
+    - list keys typed with wrong fingers,  esc, delete, c,
+    - [Correct Posture](https://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/), Cannot type properly if the posture is wrong.
 
-- read one vim `:help user-manual` per day
+- read vim `:help user-manual` per day
 
 **Vim Features To Try Out**
 
