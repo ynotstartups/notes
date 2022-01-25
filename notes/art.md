@@ -28,6 +28,10 @@
 !\[Staring - City Of London_light\](images/art/Staring - City Of London_light.jpg)
 !\[Staring - City Of London_dark\](images/art/Staring - City Of London_dark.jpg)
 
+## Speakers
+
+![Speakers_speakers](images/art/Speakers_speakers.jpg)
+
 ## Ducks
 
 ![Ducks_ducks](images/art/Ducks_ducks.jpg)
