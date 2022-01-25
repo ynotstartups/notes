@@ -26,9 +26,11 @@ Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/
 
 ## WIP V60 Black 200g
 
+- 15g coffee beans
+
 **Bloom Phase**
 
-1. Add 24g (twice the amount of coffee) of water to bloom
+1. Add 24g of water to bloom
 1. swirl and coffee and water should look nice and evenly mixed
 1. from 00:00 until 00:45
 
