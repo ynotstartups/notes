@@ -1,5 +1,9 @@
 # Art Post From Images
 
+**Deprecated, this script doesn't work with `mdformat` mark down formatter.**
+
+______________________________________________________________________
+
 This describes how to generate the [art](art.md) note from images.
 
 The purpose is to simplify the creation of art note.

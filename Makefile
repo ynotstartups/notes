@@ -9,13 +9,14 @@ serve:
 install:
 	./install.sh;
 
-generate-art-note: compile-art generate-bi-directional-links
+# Deprecated, doesn't work with mdformat
+# generate-art-note: compile-art generate-bi-directional-links
 
 # Don't use this, use generate-art-note instead
 # Create art.md by looking at image in ./notes/images/art
-compile-art:
-	. .venv/bin/activate; \
-	./bin/compile-art.py > ./notes/art.md;
+# compile-art:
+# 	. .venv/bin/activate; \
+# 	./bin/compile-art.py > ./notes/art.md;
 
 generate-bi-directional-links:
 	. .venv/bin/activate; \
