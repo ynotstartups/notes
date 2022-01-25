@@ -85,15 +85,3 @@ At the end, I used python to [implement the finding links](https://github.com/yn
 [Notes by Andy Matuschak](https://notes.andymatuschak.org/About_these_notes)
 
 In this website, it contains a section *Links to this note* at the end of the page to contains all the bi-directional links with a less intrusive color.
-
-## Links to this note
-
-[Andy Matuschak's Digital Garden](andy-matuschak-digital-garden.md)
-
-## Links to this note
-
-[Andy Matuschak's Digital Garden](andy-matuschak-digital-garden.md)
-
-## Links to this note
-
-[Andy Matuschak's Digital Garden](andy-matuschak-digital-garden.md)

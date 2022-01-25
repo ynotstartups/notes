@@ -29,7 +29,7 @@ NOTE_TO_IGNORE = "./notes/bi-directional-links.md"
 PATH_TO_NOTES = "./notes/"
 ALL_NOTES_GLOB = f"./notes/*.md"
 
-LINK_REGEX = re.compile(r'\[[^\]]+\]\(([^)]+)\)')
+LINK_REGEX = re.compile(r'\[[^\]]+\]\(([^)<]+)\)')
 
 BI_DIRECTIONAL_LINKS_SECTION_TITLE = "## Links to this note"
 
@@ -89,6 +89,9 @@ def main():
 
     bi_directional_links = defaultdict(set)
     for path, internal_link in all_path_and_internal_link:
+
+        if os.path.samefile(join(PATH_TO_NOTES, internal_link), NOTE_TO_IGNORE):
+            continue
 
         path = path.removeprefix(PATH_TO_NOTES)
 
