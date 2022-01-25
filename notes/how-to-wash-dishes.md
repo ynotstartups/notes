@@ -3,9 +3,14 @@
 1. remove leftovers from tableware, such as bones
 1. pour water into dry dirty dishes, this makes them easier to clean
 1. remove things from drying rack
+1. place cutting board first
 1. groups similar type of tableware, for example, group plates and knifes together
 1. line up the tableware
 1. clean one by one
+
+## Why place cutting board first?
+
+Because it uses up a large space of the drying rack, easier to clean it and place it on drying rack first.
 
 ## Why pour water into dry dirty dishes?
 
