@@ -25,6 +25,8 @@ From https://moolenaar.net/habits.html
 :cdo normal @q
 ```
 
+- `:cdo normal .` run repeat/`.` on quickfix
+
 Learned from [code in the hole](https://codeinthehole.com/tips/vim-lists/#quickfix-list)
 
 ## Vim spell check quick start
