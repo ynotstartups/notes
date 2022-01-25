@@ -17,6 +17,8 @@
 
 - read vim `:help user-manual` per day
 
+  - progress 02.8
+
 **Vim Features To Try Out**
 
 - use fugitive to view file in another branch - `Gedit branch-name:path/to/file`
