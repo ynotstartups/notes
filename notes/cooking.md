@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+# Fermented Bean Curd With Morning Glory - 腐乳通菜心
+
+![Fermented Bean Curd With Morning Glory](images/cooking/fermented-bean-curd-with-morning-glory.jpg)
+
 ## Steam Fish With Chopped Chili - 剁椒鱼柳
 
 ![Steam Fish With Chopped Chili](images/cooking/steam-fish-with-chopped-chili.jpg)
@@ -63,7 +67,9 @@ I love to cook! I can cook the following dishes.
 
 ![西班牙小辣椒](images/cooking/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8F%E8%BE%A3%E6%A4%92.jpg)
 
-## 蜜汁叉烧
+## Char Siew with Honey Sause - 蜜汁叉烧
+
+![Char Siew with Honey Sause](images/cooking/char-siew-with-honey-sause.jpg)
 
 Ginger's drawing
 
