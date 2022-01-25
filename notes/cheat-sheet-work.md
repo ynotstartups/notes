@@ -1,5 +1,13 @@
 # Cheat Sheet Work
 
+## At the end of Ad hoc meetings
+
+tell meeting participants
+
+- what I learn from the meeting
+- what I am going to do
+- thanks participants for their time
+
 ## Number of working days per 2 week sprint
 
 Working hour is from 9:00 - 12:30, 13:30 - 18:00, which is 3:30 + 4:30 = 8 hours per day.
