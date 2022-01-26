@@ -1,5 +1,13 @@
 # Cheat Sheet Vim
 
+## Regex
+
+`.*[]^%/\?~$` - requires `\` escape
+
+## Help
+
+`:help index` - all Vim commands
+
 ## Learn Vimscript
 
 https://learnvimscriptthehardway.stevelosh.com/
