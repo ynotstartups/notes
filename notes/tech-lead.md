@@ -10,3 +10,10 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
 - documentations
 - strict typing
 - comprehensible tickets
+
+## reminders
+
+- be stricter on usage of Jira i.e. all ongoing tasks should be in Jira
+- breakdown large tasks into subtasks in Jira board
+- initial estimates needs to more accurate
+- breakdown big tasks into smaller tickets/tasks
