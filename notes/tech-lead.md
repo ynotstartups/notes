@@ -4,16 +4,16 @@ A team Lead is not about being on the top in term of hierarchy, but at the front
 
 It's not about the end goal, it is all about the journey, just enjoy the day.
 
-## ideals
-
-- 100% code coverage
-- documentations
-- strict typing
-- comprehensible tickets
-
 ## reminders
 
 - be stricter on usage of Jira i.e. all ongoing tasks should be in Jira
 - breakdown large tasks into subtasks in Jira board
 - initial estimates needs to more accurate
 - breakdown big tasks into smaller tickets/tasks
+
+## ideals
+
+- 100% code coverage
+- documentations
+- strict typing
+- comprehensible tickets
