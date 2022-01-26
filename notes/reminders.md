@@ -14,10 +14,11 @@
     - restart if use the wrong finger
     - list keys typed with wrong fingers,  esc, delete, c,
     - [Correct Posture](https://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/), Cannot type properly if the posture is wrong.
+    - TIL, use right shift when typing capital letter using left hand
 
 - read vim `:help user-manual` per day
 
-  - progress 02.8
+  - progress 03.8
 
 **Vim Features To Try Out**
 
