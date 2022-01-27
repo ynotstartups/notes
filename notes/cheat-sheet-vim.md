@@ -1,5 +1,18 @@
 # Cheat Sheet Vim
 
+## Options
+
+**option window**
+
+`:options` - open option window
+
+- shows current option
+- hit <CR> on a "set" line to execute it
+
+**help**
+
+`:help 'wrap'` - to see help for 'wrap' option
+
 ## Regex
 
 `.*[]^%/\?~$` - requires `\` escape
