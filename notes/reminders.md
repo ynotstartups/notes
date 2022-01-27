@@ -18,7 +18,7 @@
 
 - read vim `:help user-manual` per day
 
-  - progress 03.8
+  - progress `usr_04`
 
 **Vim Features To Try Out**
 
