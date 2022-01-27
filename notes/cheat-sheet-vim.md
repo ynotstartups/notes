@@ -3,6 +3,7 @@
 ## Regex
 
 `.*[]^%/\?~$` - requires `\` escape
+`\<  \>` - patterns that matches beginning or end of word
 
 ## Help
 
