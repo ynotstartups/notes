@@ -1,5 +1,9 @@
 # Cheat Sheet Vim
 
+## Ask for confirm in Command s
+
+`s/foo/bar/gc` - use flag c
+
 ## Options
 
 **option window**
