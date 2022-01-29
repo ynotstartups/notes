@@ -6,4 +6,4 @@
 
 ## Method
 
-- submerge rice noodle in 5 minutes
+- submerge rice noodle in 7:30 minutes
