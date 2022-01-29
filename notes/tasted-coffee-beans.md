@@ -1,5 +1,11 @@
 # Brewed Coffee Beans
 
+| Name           | Roaster | Origin      | Roast Level | Process     | Tasting Notes                                |
+| -------------- | ------- | ----------- | ----------- | ----------- | -------------------------------------------- |
+| Mensur Abahika | Ozone   | Ethiopia    | Omni        | Natural     | Blueberries, Cranberry, Jasmine              |
+| Wa Choo        | Origin  | China       | Omni        | Natural     | Pink Grapefruit, Pomegranate, Dark Chocolate |
+| San Antonio    | Origin  | El Salvador | Omni        | Black Honey | Raspberry, Apricot & Molasses                |
+
 ## Banka
 
 For cappuccino, the flavour is very balanced, it is not sour, not bitter, tastes perfect.
