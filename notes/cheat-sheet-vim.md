@@ -1,5 +1,13 @@
 # Cheat Sheet Vim
 
+## Argument lists
+
+- Use vim arguments list to manage the list of files
+  - use `:argadd`, `:argdelete` to add and remove opened file
+  - `[a`, `]a` to go to previous and next argument files
+  - `argdo {cmd}` to do operation
+    - `:argdo %s/foo/bar/g | update` to run search-replace-save argument files
+
 ## Registers
 
 Registers used for recording `qq` is the same one used for yank `"qy`, so we can see the recording command by `"qp` and edit the recording (see `:help usr_10.txt` Record and playback commands)!
@@ -31,6 +39,7 @@ Use uppercase letter to add to registers, e.g. `"ay` and then `"Ay` to append ya
 ## Help
 
 `:help index` - all Vim commands
+`:helpgr[ep]` - search help text files
 
 ## Steps for Effective Editing
 
@@ -47,6 +56,7 @@ From https://moolenaar.net/habits.html
 - `:helpgr[ep]` - search help text files
 - `:cnf`, `:cpf` - jump to errors in the next/previous file, `[<C-Q>`, `]<C-Q>`
 - run macro q on lines containing "foo"
+- `:col[der], :cnew[er]` -- Go to the older/newer quickfix list.
 
 ```vim
 :grep foo
