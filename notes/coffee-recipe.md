@@ -24,25 +24,25 @@ Inverted position
 
 Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/watch?v=wFFJ-NLjNZY))
 
-## WIP V60 Black 200g
+## V60 Black 200g
 
+- starts with boiling 500g of water (this keeps the weight of kettle constant, easier to train muscle memory)
 - 15g coffee beans
 
 **Bloom Phase**
 
-1. Add 24g of water to bloom
+1. Add 30g of water to bloom
 1. swirl and coffee and water should look nice and evenly mixed
 1. from 00:00 until 00:45
 
 **Agitation Phase**
 
-1. Add until 120g of water in 30 second
+1. Add until 120g of water from 00:45 to 01:15
 1. pour to agitate the coffee ground
-1. from 00:45 to 01:15
 
 **Final Phase**
 
-1. Add until 200g of water in the next 30 second
+1. Add until 200g of water from 01:15 to 01:45
 1. stir the coffee to knock off the ground stuck in wall to fall
 1. wait for a bit then give a final swirl to make flat coffee bed
 1. At the end, you should see flat bed and little coffee on the wall.
