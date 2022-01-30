@@ -1,4 +1,4 @@
-# Cheat Sheet Vimium
+# Cheat Sheet Chrome Vimium
 
 ## Key Mappings
 
