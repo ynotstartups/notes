@@ -18,7 +18,7 @@
 
 - read vim `:help user-manual` per day
 
-  - progress `usr_07 FILE MARKS`
+  - progress `usr_10.3 command range`
 
 **Vim Features To Try Out**
 
