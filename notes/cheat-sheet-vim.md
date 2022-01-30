@@ -1,5 +1,11 @@
 # Cheat Sheet Vim
 
+## Registers
+
+Registers used for recording `qq` is the same one used for yank `"qy`, so we can see the recording command by `"qp` and edit the recording (see `:help usr_10.txt` Record and playback commands)!
+
+Use uppercase letter to add to registers, e.g. `"ay` and then `"Ay` to append yanked text to register a
+
 ## Ask for confirm in Command s
 
 `s/foo/bar/gc` - use flag c
@@ -26,14 +32,10 @@
 
 `:help index` - all Vim commands
 
-## Learn Vimscript
-
-https://learnvimscriptthehardway.stevelosh.com/
-
 ## Steps for Effective Editing
 
 1. While editing, look for repeat and time consuming actions.
-1. Find builtin commands to make the actions quicker. Read the docs, google.
+1. Find builtin commands to make the actions quicker. Read the user manual, and then docs! (try not to google)
 1. Train using the command, do this until muscle memory builds up.
 
 From https://moolenaar.net/habits.html
