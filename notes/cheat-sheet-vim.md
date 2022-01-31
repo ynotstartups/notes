@@ -16,30 +16,37 @@ Use uppercase letter to add to registers, e.g. `"ay` and then `"Ay` to append ya
 
 ## Ask for confirm in Command s
 
-`s/foo/bar/gc` - use flag c
+- `:s/foo/bar/gc` - use flag c
+
+## The global command
+
+- `:g/{pattern}/{command}` - execute command on matched pattern
+
+e.g. `g/breakpoint/:normal dd`
 
 ## Options
 
 **option window**
 
-`:options` - open option window
+- `:options` - open option window
 
 - shows current option
+
 - hit <CR> on a "set" line to execute it
 
 **help**
 
-`:help 'wrap'` - to see help for 'wrap' option
+- `:help 'wrap'` - to see help for 'wrap' option
 
 ## Regex
 
-`.*[]^%/\?~$` - requires `\` escape
-`\<  \>` - patterns that matches beginning or end of word
+- `.*[]^%/\?~$` - requires `\` escape
+- `\<  \>` - patterns that matches beginning or end of word
 
 ## Help
 
-`:help index` - all Vim commands
-`:helpgr[ep]` - search help text files
+- `:help index` - all Vim commands
+- `:helpgr[ep]` - search help text files
 
 ## Steps for Effective Editing
 
@@ -69,20 +76,25 @@ Learned from [code in the hole](https://codeinthehole.com/tips/vim-lists/#quickf
 
 ## Vim spell check quick start
 
-`:help spell-quickstart`
+- `:help spell-quickstart`
 
-`:set spell`
+- `:set spell`
 
-`]s`  - move to next misspelled word
-`[s`  - move to previous misspelled word
-`zg`  - z good - mark word as a good word
-`zw`  - z good - mark word as a bad word
-`z=`  - correct word
-`1z=` - replace incorrectly spelled word with the first suggest
+- `]s`  - move to next misspelled word
+
+- `[s`  - move to previous misspelled word
+
+- `zg`  - z good - mark word as a good word
+
+- `zw`  - z good - mark word as a bad word
+
+- `z=`  - correct word
+
+- `1z=` - replace incorrectly spelled word with the first suggest
 
 ## Autocomplete
 
-`Ctrl-x Ctrl-f` - autocomplete file name in insert mode, useful for insert images when writing README
+- `Ctrl-x Ctrl-f` - autocomplete file name in insert mode, useful for insert images when writing README
 
 ## Use vim for writing
 
@@ -102,36 +114,31 @@ https://nickjanetakis.com/blog/vim-is-saving-me-hours-of-work-when-writing-books
 
 ## vim-markdown plugin
 
-`:Toc` - create a quickfix vertical window navigable table of contents with the headers
+- `:Toc` - create a quickfix vertical window navigable table of contents with the headers
 
-`:TableFormat` - format the table under the cursor
+- `:TableFormat` - format the table under the cursor
 
 ## Marks
 
-``  ` (backtick) `` - jump to marks
-
-`m{A-Z}` - set marks in any files
-
-`'0` - location of the cursor when you last exited Vim, `'1` one last...
-
-`delm[arks] {marks}` - delete the marks for example `delm A-Z`
+- ``  ` (backtick) `` - jump to marks
+- `m{A-Z}` - set marks in any files
+- `'0` - location of the cursor when you last exited Vim, `'1` one last...
+- `delm[arks] {marks}` - delete the marks for example `delm A-Z`
 
 ## Jumps
 
-`CTRL-O` - Go to \[count\] Older cursor position in jump list
-
-`CTRL-6` - jump to last edited file, see `:help ctrl-6`
-
-`<Tab> or CTRL-I` - Go to \[count\] newer cursor
+- `CTRL-O` - Go to \[count\] Older cursor position in jump list
+- `CTRL-6` - jump to last edited file, see `:help ctrl-6`
+- `<Tab> or CTRL-I` - Go to \[count\] newer cursor
 
 ## Change list jumps
 
-`g;` - jump to last change in current file
+- `g;` - jump to last change in current file
 
 ## Open files
 
-`gf` - open file in the same window
-`ctrl-w f` - open file in a new window (see `:help CTRL-W_f`)
+- `gf` - open file in the same window
+- `ctrl-w f` - open file in a new window (see `:help CTRL-W_f`)
 
 ## replace character by a new line
 
@@ -139,22 +146,22 @@ Use `\r` not `\n`
 
 ## window
 
-`ctrl-w o` - close all other windows, like `:only`
-`ctrl-w ]` - open tag in another windows
+- `ctrl-w o` - close all other windows, like `:only`
+- `ctrl-w ]` - open tag in another windows
 
 ## Temporally Enlarge Quickfix
 
-`:tab split` - open buffer in new tab
-`:tabc` - close tab
+- `:tab split` - open buffer in new tab
+- `:tabc` - close tab
 
 ## Working with tabs
 
-`gt` - next tab
-`gT` - previous tab
+- `gt` - next tab
+- `gT` - previous tab
 
 ## Fugitive Open File From Another Branch
 
-`Gedit branch-name:path/to/file`
+- `Gedit branch-name:path/to/file`
 
 ## Links to this note
 
