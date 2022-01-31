@@ -1,8 +1,8 @@
 # Cheat Sheet VLC
 
-## cvlc Commands
+## rvlc Commands
 
-`cvlc` - Command Line Interface of VLC
+`rvlc` - Command Line Interface of VLC
 
 | command      | function                           |
 | ------------ | ---------------------------------- |
