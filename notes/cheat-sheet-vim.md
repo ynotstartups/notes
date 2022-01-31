@@ -1,5 +1,28 @@
 # Cheat Sheet Vim
 
+## Range
+
+- `{number}, {number}` - from line number to change
+
+- `{number}` - one specific line
+
+- `.` - current line
+
+- `%` - short way of `1,$`
+
+- `{pattern},{pattern}` - e.g. `:?^Chapter?,/^Chapter/s=grey=gray=g`
+
+- `-number, +number` use at the end of number or pattern to specify offset
+
+  - e.g. `/foo/-2` - 2 lines before next foo
+  - e.g. `/foo/+2` - 2 lines after next foo
+
+## Using external program
+
+- `[range]!{motion}{program}` - replace text by motion by output of external program
+  - `!$date` - replace until end of line by date, e.g. `Mon 31 Jan 11:42:41 GMT 2022`
+- `:read !{program}` - append output from extra program
+
 ## Argument lists
 
 - Use vim arguments list to manage the list of files
@@ -14,13 +37,13 @@ Registers used for recording `qq` is the same one used for yank `"qy`, so we can
 
 Use uppercase letter to add to registers, e.g. `"ay` and then `"Ay` to append yanked text to register a
 
-## Ask for confirm in Command s
+## Ask for confirm in substitution
 
-- `:s/foo/bar/gc` - use flag c
+- `[range]:s/foo/bar/gc` - use flag c
 
 ## The global command
 
-- `:g/{pattern}/{command}` - execute command on matched pattern
+- `[range]:g/{pattern}/{command}` - execute command on matched pattern
 
 e.g. `g/breakpoint/:normal dd`
 
@@ -42,6 +65,25 @@ e.g. `g/breakpoint/:normal dd`
 
 - `.*[]^%/\?~$` - requires `\` escape
 - `\<  \>` - patterns that matches beginning or end of word
+- `:%s/\([^,]*\), \(.*\)/\2 \1/` - Change "Last, First" to "First Last"
+
+```
+                                                \([^,]*\), \(.*\)
+
+The first part between \( \) matches "Last"     \(     \)
+    match anything but a comma                    [^,]
+    any number of times                               *
+matches ", " literally                                   ,
+The second part between \( \) matches "First"              \(  \)
+    any character                                            .
+    any number of times                                       *
+```
+
+```
+                                                \2 \1
+
+backreferences \2 - second "\( \)"  \1 - first "\( \)"
+```
 
 ## Help
 
