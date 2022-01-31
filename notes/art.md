@@ -36,6 +36,10 @@
 
 ![Ducks_ducks](images/art/Ducks_ducks.jpg)
 
+## Plant
+
+![Toilet Plant](images/art/toilet-plant.jpg)
+
 ## Links to this note
 
 [Art Post From Images](art-post-from-images.md)
