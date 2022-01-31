@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+# Sicuan Chili Tofu - 麻婆豆腐
+
+![Sicuan Chili Tofu](images/cooking/sicuan-chili-tofu.jpg)
+
 # Fermented Bean Curd With Morning Glory - 腐乳通菜心
 
 ![Fermented Bean Curd With Morning Glory](images/cooking/fermented-bean-curd-with-morning-glory.jpg)
