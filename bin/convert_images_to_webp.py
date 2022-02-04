@@ -8,7 +8,6 @@
 
 """
 
-from os.path import exists
 from pathlib import Path
 from glob import glob
 from PIL import Image
@@ -22,7 +21,7 @@ if __name__ == "__main__":
     for image_path in image_paths:
         image_webp_path = image_path.with_suffix(".webp")
 
-        if exists(image_webp_path):
+        if image_webp_path.exists():
             continue
 
         print(f"Processing {image_path}")
