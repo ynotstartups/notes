@@ -42,6 +42,4 @@
 
 ## Links to this note
 
-[Art Post From Images](art-post-from-images.md)
-
 [Who am I?](index.md)
