@@ -6,9 +6,6 @@ then
     python3.10 -m venv .venv
 fi
 
-sudo apt-get update -y
-sudo apt-get install -y exiv2
-
 source .venv/bin/activate
 
 pip install --upgrade pip
