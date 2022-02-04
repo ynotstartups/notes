@@ -2,7 +2,7 @@ site_name: Tiger's Digital Garden
 docs_dir: notes
 theme:
   name: material
-  favicon: images/favicon.png
+  favicon: images/favicon.webp
 markdown_extensions:
   - attr_list
   - md_in_html

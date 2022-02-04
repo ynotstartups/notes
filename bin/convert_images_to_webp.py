@@ -8,7 +8,7 @@
 
 """
 
-import os
+from os.path import exists
 from pathlib import Path
 from glob import glob
 from PIL import Image
@@ -20,11 +20,12 @@ if __name__ == "__main__":
     image_paths.extend(note_images_path.glob("**/*.png"))
 
     for image_path in image_paths:
-        # ignore favicon
-        if image_path.name == "favicon.png":
+        image_webp_path = image_path.with_suffix(".webp")
+
+        if exists(image_webp_path):
             continue
 
         print(f"Processing {image_path}")
 
         image = Image.open(image_path).convert("RGB")
-        image.save(image_path.with_suffix(".webp"), "webp")
+        image.save(image_webp_path, "webp")
