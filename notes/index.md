@@ -2,7 +2,7 @@
 
 My name is Tiger Yuhao Huang.
 
-![me](images/me.jpg){ width="350" }
+![me](images/me.webp){ width="350" }
 
 Welcome to my [digital garden](digital-garden.md)!
 
