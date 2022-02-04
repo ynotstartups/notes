@@ -1,5 +1,10 @@
 # Cheat Sheet Vim
 
+## Grep
+
+- `:G foo src` - grep in a directory e.g. `src`
+- `:G foo -- *.md` - grep for specific file types e.g. `*.md`
+
 ## Range
 
 - `{number}, {number}` - from line number to change
