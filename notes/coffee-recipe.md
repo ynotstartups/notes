@@ -4,7 +4,7 @@ Grind Setting mark 0 on [1Zpresso Q2](https://www.amazon.co.uk/1Zpresso-Portable
 
 ## Aeropress Black 200g
 
-10g coffee
+12g coffee
 
 200g 100 degree water
 
@@ -27,11 +27,11 @@ Add frothed 150g milk ([see how to froth milk manually](https://www.youtube.com/
 ## V60 Black 200g
 
 - starts with boiling 500g of water (this keeps the weight of kettle constant, easier to train muscle memory)
-- 15g coffee beans
+- 12g coffee beans
 
 **Bloom Phase**
 
-1. Add 30g of water to bloom
+1. Add 24g of water to bloom
 1. swirl and coffee and water should look nice and evenly mixed
 1. from 00:00 until 00:45
 
