@@ -15,5 +15,4 @@ pip install --upgrade pip
 
 pip install -r requirements.txt
 
-ln -f pre-commit ./.git/hooks/pre-commit
 ln -f pre-push ./.git/hooks/pre-push
