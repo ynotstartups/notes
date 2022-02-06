@@ -16,15 +16,6 @@
 - [Yunnan Coffee Traders](https://yunnancoffeetraders.com/farms/)
 - [Torch Coffee Labs](https://www.torchcoffee.asia/)
 
-## Online Piano
-
-- [Piano](https://www.apronus.com/music/flashpiano.htm)
-- [冷雨夜](http://www.echangwang.com/pic/06/6357.html)
-- [菊花台](https://puduoduo123.com/25287.html)
-- [小情歌](http://www.jianpuw.com/htm/ii/288990.htm)
-- [无与伦比的美丽](https://jianpu.chazidian.com/jp_337850/)
-- [我好想你](http://www.miinaa.com/qinpu/jianpu/16212.html)
-
 ## Music
 
 - [Yale Music Theory Course](https://www.youtube.com/watch?v=5_yOVARO2Oc&list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
