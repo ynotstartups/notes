@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+# Sicuan Chili Chicken - 钵钵鸡
+
+![Sicuan Chili Chicken](images/cooking/sicuan-chili-chicken.webp){ loading=lazy }
+
 # Sicuan Chili Tofu - 麻婆豆腐
 
 ![Sicuan Chili Tofu](images/cooking/sicuan-chili-tofu.webp){ loading=lazy }
