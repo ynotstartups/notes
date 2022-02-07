@@ -53,3 +53,9 @@ Images taken from [无与伦比的美丽](https://jianpu.chazidian.com/jp_337850
 ![我好想你 02](images/music/wo-hao-xiang-ni-02.webp)
 
 Images taken from [我好想你](http://www.miinaa.com/qinpu/jianpu/16212.html)
+
+## 月亮代表我的心
+
+![月亮代表我的心 01](images/music/yue-liang-dai-biao-wo-de-xin.webp)
+
+Images taken from [月亮代表我的心](https://puduoduo123.com/22384.html)
