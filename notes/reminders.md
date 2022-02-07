@@ -13,7 +13,7 @@
     - [Correct Posture](https://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/), Cannot type properly if the posture is wrong.
     - use right shift when typing capital letter using left hand
 - read vim `:help user-manual` per day
-  - progress `usr_12.4 reverse line order`
+  - progress `usr_20`
 - Vim - use `!!` to add agenda to standup
 
 ## Long Term Reminders
