@@ -1,5 +1,17 @@
 # Cheat Sheet Vim
 
+## Editing in command line mode
+
+| keys         | function                     |
+| ------------ | ---------------------------- |
+| <ctrl-left>  | one word left                |
+| <ctrl-right> | one word right               |
+| <ctrl-b>     | begin of command line        |
+| <ctrl-e>     | end of command line          |
+| <ctrl-w>     | remove one word              |
+| <ctrl-u>     | removes all text             |
+| <insert>     | replace mode, `Fn+\` in HHKB |
+
 ## Grep
 
 - `:G foo src` - grep in a directory e.g. `src`
