@@ -1,16 +1,28 @@
 # Cheat Sheet Vim
 
+## Getting back to file before vim exited
+
+`'0` - go to file where vim exited
+
+`:browse oldfiles` - see last edited files, press `q` and enter a number to edit
+numbered file
+
+`:mksession foo.vim` - save session
+`:source foo.vim` - use session
+
+numbered file
+
 ## Editing in command line mode
 
-| keys         | function                     |
-| ------------ | ---------------------------- |
-| <ctrl-left>  | one word left                |
-| <ctrl-right> | one word right               |
-| <ctrl-b>     | begin of command line        |
-| <ctrl-e>     | end of command line          |
-| <ctrl-w>     | remove one word              |
-| <ctrl-u>     | removes all text             |
-| <insert>     | replace mode, `Fn+\` in HHKB |
+| keys           | function                     |
+| -------------- | ---------------------------- |
+| `<ctrl-left>`  | one word left                |
+| `<ctrl-right>` | one word right               |
+| `<ctrl-b>`     | begin of command line        |
+| `<ctrl-e>`     | end of command line          |
+| `<ctrl-w>`     | remove one word              |
+| `<ctrl-u>`     | removes all text             |
+| `<insert>`     | replace mode, `Fn+\` in HHKB |
 
 ## Grep
 
