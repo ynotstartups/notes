@@ -7,10 +7,12 @@
 `:browse oldfiles` - see last edited files, press `q` and enter a number to edit
 numbered file
 
-`:mksession foo.vim` - save session
+`:mksession foo.vim` - save session, session stores the looks of the whole of
+vim
 `:source foo.vim` - use session
 
-numbered file
+`:mkview` - save view, view stores properties for one window one file
+`:loadview ` - use view
 
 ## Editing in command line mode
 
