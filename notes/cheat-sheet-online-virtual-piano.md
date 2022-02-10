@@ -1,4 +1,11 @@
-# Cheat Sheet Online Virtual Piano
+# Cheat Sheet Piano
+
+# How To Learn Piano
+
+- [Skoove - interactive piano lessons](https://www.skoove.com/en)
+
+You plugin your digital piano to the web app, the web app knows what keys you
+pressed, this is how the lessons can be interactive.
 
 ## Online Virtual Piano
 
