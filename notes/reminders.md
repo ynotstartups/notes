@@ -7,14 +7,14 @@
 
 - learn how to touch type, because I am not happy that the large amount of mistakes during typing, which also hinders my experience with Vim.
   - 30 minutes of touch type exercise per day
-  - `touch-type` - to open image guide
   - [Website to learn](https://www.edclub.com/signin)
-    - 100% accuracy to pass a lesson
     - [Correct Posture](https://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/), Cannot type properly if the posture is wrong.
-    - use right shift when typing capital letter using left hand
 - read vim `:help user-manual` per day
-  - progress `usr_20`
-- Vim - use `!!` to add agenda to standup
+  - progress `usr_24`
+  - save `:mksession! ~/.vim/sessions/usr.vim`
+  - load `:source ~/.vim/sessions/usr.vim`
+- 30 minutes of piano practice per day
+  - progress [skoove](https://www.skoove.com/en/app/lesson/37)
 
 ## Long Term Reminders
 
