@@ -10,7 +10,7 @@
   - [Website to learn](https://www.edclub.com/signin)
     - [Correct Posture](https://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/), Cannot type properly if the posture is wrong.
 - read vim `:help user-manual` per day
-  - progress `usr_24`
+  - progress `usr_25`
   - save `:mksession! ~/.vim/sessions/usr.vim`
   - load `:source ~/.vim/sessions/usr.vim`
 - 30 minutes of piano practice per day
