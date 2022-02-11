@@ -4,12 +4,43 @@ A team Lead is not about being on the top in term of hierarchy, but at the front
 
 It's not about the end goal, it is all about the journey, just enjoy the day.
 
+## How to run stand-up?
+
+1. open jira
+1. going through the tickets in the jira board one by one to
+   1. keep jira board up to date
+   1. discuss progress
+   1. identify blockers
+1. anything else that's not in jira, but try our best to capture all works in jira tickets
+
+## Jira setup
+
+- columns: TO DO, IN PROGRESS, CODE REVIEW, QA, DESIGN REVIEW, DONE
+- Design review - ticket first goes to QA for checking both functional and design and then it goes to the design review for PM and designers for the final gate check
+
+## Estimates
+
+Number of days for one engineers, assuming no meetings
+
+## Meetings
+
+- Zoom Video Standup at 10:20 on Monday, Tuesday, Friday
+- Slack Text Standup on Wednesday
+- Weekly Standup With Automated Squad at 10:30 on Thursday
+- Retrospective at 10:00 on Tuesday biweekly
+- Sprint Planning at 15:00 on Wednesday biweekly
+
+## API work flow
+
+1. API Design Doc first
+1. FE tickets iOS & Android
+1. BE tickets
+
 ## reminders
 
-- be stricter on usage of Jira i.e. all ongoing tasks should be in Jira
+- all ongoing tasks should be in Jira
 - breakdown large tasks into subtasks in Jira board
 - initial estimates needs to more accurate
-- breakdown big tasks into smaller tickets/tasks
 
 ## ideals
 
