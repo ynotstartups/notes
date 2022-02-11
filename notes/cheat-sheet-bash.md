@@ -10,7 +10,14 @@ In vim, you can even use `K` on any bash program to open the manual page, trying
 
 ## Tips
 
-TODO:cut, grep, uniq, sort, ls, use apropos to find command
+TODO: grep, uniq, sort, ls,
+
+- `apropos foo` - find command with description `foo`, e.g. `apropos light`
+  to find `xbacklight` to change laptop backlight
+
+## cut
+
+`cut -d , -f 1,3`
 
 ## Single quote v.s. double quote
 
