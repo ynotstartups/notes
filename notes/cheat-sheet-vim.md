@@ -1,5 +1,13 @@
 # Cheat Sheet Vim
 
+## Inserting Symbols e.g. £
+
+| keys         | output |
+| ------------ | ------ |
+| `<ctrl-k>Pd` | £      |
+
+see more in `:diagraph`
+
 ## Getting back to file before vim exited
 
 `'0` - go to file where vim exited
@@ -64,7 +72,7 @@ vim
 
 ## Registers
 
-Registers used for recording `qq` is the same one used for yank `"qy`, so we can see the recording command by `"qp` and edit the recording (see `:help usr_10.txt` Record and playback commands)!
+Registers used for recording `qq` is the same one used for yank `"qy`, so we can see the recorded command by `"qp` and edit the recording (see `:help usr_10.txt` Record and playback commands)!
 
 Use uppercase letter to add to registers, e.g. `"ay` and then `"Ay` to append yanked text to register a
 
@@ -168,6 +176,14 @@ Learned from [code in the hole](https://codeinthehole.com/tips/vim-lists/#quickf
 ## Autocomplete
 
 - `Ctrl-x Ctrl-f` - autocomplete file name in insert mode, useful for insert images when writing README
+
+| keys           | function                |
+| -------------- | ----------------------- |
+| CTRL-X CTRL-F  | file names              |
+| CTRL-X CTRL-L  | whole lines             |
+| CTRL-X CTRL-K  | words from a dictionary |
+| CTRL-X CTRL-\] | tags                    |
+| CTRL-X CTRL-V  | Vim command line        |
 
 ## Use vim for writing
 
