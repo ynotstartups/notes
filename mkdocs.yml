@@ -6,6 +6,10 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  # requires python-markdown extension mdx_truly_sane_lists
+  # this extension allows indent by using 2 spaces
+  # needed because mdformat formats nested list to use 2 spaces
+  - mdx_truly_sane_lists
 extra:
   analytics:
     provider: google
