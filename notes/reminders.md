@@ -6,14 +6,22 @@
 ## Short Term Reminders
 
 - learn how to touch type, because I am not happy that the large amount of mistakes during typing, which also hinders my experience with Vim.
+
   - 30 minutes of touch type exercise per day
-  - [Website to learn](https://www.edclub.com/signin)
-    - [Correct Posture](https://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/), Cannot type properly if the posture is wrong.
+  - [ ] https://www.edclub.com/sportal/program-8.game
+  - [ ] https://www.edclub.com/sportal/program-9.game
+  - [ ] https://www.edclub.com/sportal/program-100.game
+  - [ ] https://www.edclub.com/sportal/program-58.game
+  - [ ] https://www.edclub.com/sportal/program-59.game
+
 - read vim `:help user-manual` per day
+
   - progress `usr_25`
   - save `:mksession! ~/.vim/sessions/usr.vim`
   - load `:source ~/.vim/sessions/usr.vim`
+
 - 30 minutes of piano practice per day
+
   - progress [skoove](https://www.skoove.com/en/app/lesson/37)
 
 ## Long Term Reminders
