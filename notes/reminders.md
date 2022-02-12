@@ -5,14 +5,14 @@
 
 ## Short Term Reminders
 
-- learn how to touch type, because I am not happy that the large amount of mistakes during typing, which also hinders my experience with Vim.
+- learn how to touch type, because by improving my typing accuracy, I will improve my vim editing experience.
 
   - 30 minutes of touch type exercise per day
-  - [ ] https://www.edclub.com/sportal/program-8.game
-  - [ ] https://www.edclub.com/sportal/program-9.game
-  - [ ] https://www.edclub.com/sportal/program-100.game
-  - [ ] https://www.edclub.com/sportal/program-58.game
-  - [ ] https://www.edclub.com/sportal/program-59.game
+  - https://www.edclub.com/sportal/program-8.game
+  - https://www.edclub.com/sportal/program-9.game
+  - https://www.edclub.com/sportal/program-100.game
+  - https://www.edclub.com/sportal/program-58.game
+  - https://www.edclub.com/sportal/program-59.game
 
 - read vim `:help user-manual` per day
 
