@@ -72,7 +72,7 @@ water filter,
 tree like plant,
 large leaf plant,
 lady's tongue,
-flower,
+flowers,
 avocado,
 
 ## Household Cleaning products
@@ -86,7 +86,7 @@ laundry liquid,
 ## Bathroom Products
 
 2 bath towel,
-body wash ,
+body wash,
 conditioner,
 face cleanser,
 floss picks,
@@ -101,23 +101,24 @@ toothpaste,
 
 ## Skin Care Products
 
-Facial cream,
 body cream,
 cotton buds,
+facial cream,
 hand cream,
 lip balm,
 
 ## Physical books
 
-philosophy of software design,
-software engineering at Google,
-the manager path,
+The Priory Of The Orange Tree
 
 ## Physical boardgames
 
+Exit escape room,
+Magic Maze,
 Santorini,
+Skull and Roses,
+Sushi Go Party,
 Sushi Go,
-Skull and Roses
 
 ## Misc
 
@@ -133,6 +134,7 @@ fragrance samples,
 great travel luggage,
 important documents in folder,
 key,
+keyboard,
 lots of clothes hangers,
 multiple hair band,
 multiple hair clips,
@@ -143,6 +145,7 @@ yoga mat,
 
 duvet,
 feather pillow,
+mattress,
 white bed linens,
 white pillow cover,
 
@@ -302,8 +305,9 @@ Zoom,
 
 Disney t-shirt,
 V pattern white shoes,
-black slipper,
 black backpack,
+black shoes,
+black slipper,
 black sweater,
 blue bucket hat,
 blue jean,
@@ -312,8 +316,8 @@ brown chino,
 brown coat,
 brown scarf,
 converse bag,
-dual-color shirt,
 designer shirt,
+dual-color shirt,
 grey backpack,
 multiple nightwear,
 multiple socks,
@@ -330,7 +334,8 @@ white trouser,
 ## Kitchenware & tableware
 
 3 level steamer,
-8 sided wood chopsticks,
+4 x 8 sided wood chopsticks,
+4 x White porcelain bowl,
 Blue Pasta Bowls,
 Blue Pasta Bowls,
 Blue and white porcelain mug,
@@ -367,8 +372,6 @@ Tea cup,
 Thermometer,
 Vegetable knife,
 Water filter jug,
-White porcelain bowl,
-White porcelain bowl,
 White porcelain plate,
 Wine opener,
 Wood fork,
