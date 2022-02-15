@@ -15,7 +15,13 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
 
 ## Jira setup
 
-- columns: TO DO, IN PROGRESS, CODE REVIEW, QA, DESIGN REVIEW, DONE
+- columns:
+  - TO DO - selected tasks for current sprint
+  - IN PROGRESS - in progress tasks
+  - CODE REVIEW - opened PR and waiting for review
+  - QA
+  - DESIGN REVIEW - see below
+  - DONE - completed
 - Design review - ticket first goes to QA for checking both functional and design and then it goes to the design review for PM and designers for the final gate check
 
 ## Estimates
