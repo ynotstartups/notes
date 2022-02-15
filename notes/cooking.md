@@ -2,15 +2,15 @@
 
 I love to cook! I can cook the following dishes.
 
-# Sicuan Chili Chicken - 钵钵鸡
+## Sicuan Chili Chicken - 钵钵鸡
 
 ![Sicuan Chili Chicken](images/cooking/sicuan-chili-chicken.webp){ loading=lazy }
 
-# Sicuan Chili Tofu - 麻婆豆腐
+## Sicuan Chili Tofu - 麻婆豆腐
 
 ![Sicuan Chili Tofu](images/cooking/sicuan-chili-tofu.webp){ loading=lazy }
 
-# Fermented Bean Curd With Morning Glory - 腐乳通菜心
+## Fermented Bean Curd With Morning Glory - 腐乳通菜心
 
 ![Fermented Bean Curd With Morning Glory](images/cooking/fermented-bean-curd-with-morning-glory.webp){ loading=lazy }
 
@@ -100,29 +100,71 @@ Ginger's drawing
 
 ![Rice Noodle](images/cooking/rice-noodle.webp){ loading=lazy }
 
-## 番茄炒蛋
+## Tomato With Egg - 番茄炒蛋
 
-## fry chicken
+![Tomato With Egg](images/cooking/tomato-with-egg.webp){ loading=lazy }
 
-## homemade chips
+## Homemade Fry Chicken and Chips
 
-## 老火汤
+![Homemade Fry Chicken and Chips](images/cooking/homemade-fried-chicken-and-chips.webp){ loading=lazy }
 
-## burger
+## Burger
 
-## japanese and Indian Curry
+![Burger](images/cooking/homemade-burger.webp){ loading=lazy }
+
+## Fried Clams - 爆炒花甲
+
+![Fried Clamls](images/cooking/fried-clam.webp){ loading=lazy }
+
+## Fish Soup - 鱼汤
+
+![Fish Soup](images/cooking/fish-soup.webp){ loading=lazy }
+
+## Pho
+
+![Pho](images/cooking/pho.webp){ loading=lazy }
+
+## Dumplings
+
+![Dumplings](images/cooking/dumplings.webp){ loading=lazy }
+
+## Pizza
+
+![Pizza](images/cooking/pizza.webp){ loading=lazy }
+
+## Koushui Chicken - 口水鸡
+
+![Koushui Chicken](images/cooking/koushui-chicken.webp){ loading=lazy }
+
+## Beer Chicken - 啤酒鸡
+
+![Beer Chicken](images/cooking/beer-chicken.webp){ loading=lazy }
+
+## Japanese Curry
+
+![Japanese Curry](images/cooking/japanese-curry.webp){ loading=lazy }
+
+## Pork With Red Beans Soup
+
+![Pork With Red Beans Soup](images/cooking/pork-with-red-beans-soup.webp){ loading=lazy }
+
+## Braised Pork Rice - 卤肉饭
+
+![Pork With Red Beans Soup](images/cooking/braised-pork-rice.webp){ loading=lazy }
+
+## Squid Ink Pasta
+
+![Squid Ink Pasta](images/cooking/squid-ink-pasta.webp){ loading=lazy }
+
+## Indian Curry
 
 ## 小白菜汤
 
 ## 拌米粉
 
-## pasta
-
 ## 皮蛋瘦肉粥
 
 ## 珍珠奶茶
-
-## 爆炒花甲
 
 ## 干锅腊肉白菜
 
