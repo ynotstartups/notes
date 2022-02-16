@@ -2,7 +2,7 @@
 
 The best tip is to start reading the manual page by use `man` with a program name, such `man ls`.
 
-In vim, you can even use `K` on any bash program to open the manual page, trying pressing K here -> ls.
+In vim, I can use `K` on any bash program to open the manual page, trying pressing K here -> ls.
 
 ## Variables
 
@@ -70,15 +70,13 @@ To move file, press `dd`, then navigate to the desired directory and press `p`, 
 history | tail -n 20 | grep git >> ./cheat-sheet-git.md
 ```
 
-## `pgrep`
+## `killall` or `pkill`
 
-grep for process, e.g. `pgrep slack`
-
-`pgrep slack | xargs kill` - kill slack
+kill for process with pattern, e.g. `killall slack` or `pkill slack`
 
 ## `column`
 
-format output to multiple columns
+`column` command formats output to multiple columns
 
 ## `sed`
 
