@@ -1,6 +1,6 @@
 # Cheat Sheet Piano
 
-# How To Learn Piano
+## How To Learn Piano
 
 - [Skoove - interactive piano lessons](https://www.skoove.com/en)
 
@@ -66,3 +66,17 @@ Images taken from [我好想你](http://www.miinaa.com/qinpu/jianpu/16212.html)
 ![月亮代表我的心 01](images/music/yue-liang-dai-biao-wo-de-xin.webp)
 
 Images taken from [月亮代表我的心](https://puduoduo123.com/22384.html)
+
+## 暧昧
+
+![暧昧](images/music/ai-mei.webp)
+
+Images taken from [暧昧](http://www.jianpuw.com/htm/lb/102738.htm)
+
+## 如果你也听说
+
+![如果你也听说 01](images/music/ru-guo-ni-ye-ting-shuo-01.webp)
+
+![如果你也听说 02](images/music/ru-guo-ni-ye-ting-shuo-02.webp)
+
+Images taken from [如果你也听说](http://www.hpppw.com/zuixinqupu/201810/13133.html)
