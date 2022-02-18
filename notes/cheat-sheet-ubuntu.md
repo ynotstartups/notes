@@ -4,8 +4,9 @@
 
 `xrandr --output DP1 --primary --auto --right-of eDP1 --output eDP1 --auto`
 
-## Setup for office
+- `eDP1` is the built-in monitor
+- `DP1` or others is the external monitor
 
-1. set `Xft.dpi: 144` in `~/.Xresources`
-1. `sudo systemctl restart display-manager` - restart xsession
-1. `light_set` - set xbacklight
+Tips:
+
+use `autorandr -s foo` to save the config
