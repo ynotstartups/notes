@@ -18,6 +18,7 @@ numbered file
 `:mksession foo.vim` - save session, session stores the looks of the whole of
 vim
 `:source foo.vim` - use session
+`vim -S session-file.vim` - start vim and source session
 
 `:mkview` - save view, view stores properties for one window one file
 `:loadview ` - use view
