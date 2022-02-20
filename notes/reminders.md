@@ -8,8 +8,6 @@
 - learn how to touch type, because by improving my typing accuracy, I will improve my vim editing experience.
 
   - 30 minutes of touch type exercise per day
-  - https://www.edclub.com/sportal/program-8.game
-  - https://www.edclub.com/sportal/program-9.game
   - https://www.edclub.com/sportal/program-100.game
   - https://www.edclub.com/sportal/program-58.game
   - https://www.edclub.com/sportal/program-59.game
