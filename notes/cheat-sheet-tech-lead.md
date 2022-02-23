@@ -1,4 +1,4 @@
-# Tech lead
+# Cheat Sheet Tech Lead
 
 A team Lead is not about being on the top in term of hierarchy, but at the front of the team,  like a leader of adventure, when there is a blocker, you need to jump in and unblock the, and direct the team to the right direction.
 
@@ -12,6 +12,16 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
    1. discuss progress
    1. identify blockers
 1. anything else that's not in jira, but try our best to capture all works in jira tickets
+
+## How to run sprint planning?
+
+1. open jira
+1. going through current sprint by BE, Design, iOS, Android...
+1. plan for next sprint by BE, Design, iOS, Android...
+   - estimate tickets
+   - pull in tickets for the next sprint
+1. backlog grooming
+   - discuss each ticket in grooming section
 
 ## Jira setup
 
