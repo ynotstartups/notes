@@ -4,6 +4,7 @@
 | -------------- | ------- | ----------- | ----------- | ----------- | -------------------------------------------- |
 | Mensur Abahika | Ozone   | Ethiopia    | Omni        | Natural     | Blueberries, Cranberry, Jasmine              |
 | Wa Choo        | Origin  | China       | Omni        | Natural     | Pink Grapefruit, Pomegranate, Dark Chocolate |
+| Wa Choo        | Origin  | China       | Omni        | Washed      | Blackberry, Elderflower & Sugarcane          |
 | San Antonio    | Origin  | El Salvador | Omni        | Black Honey | Raspberry, Apricot & Molasses                |
 
 ## Banka
