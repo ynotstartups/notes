@@ -122,7 +122,12 @@ Ginger's drawing
 
 ## Pho
 
-![Pho](images/cooking/pho.webp){ loading=lazy }
+![Pho](images/cooking/pho-0.webp){ loading=lazy }
+![Pho](images/cooking/pho-1.webp){ loading=lazy }
+
+## Beef Noodle - 牛肉面
+
+![Beef Noodle](images/cooking/beef-noodle.webp){ loading=lazy }
 
 ## Dumplings
 
