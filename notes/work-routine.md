@@ -2,15 +2,21 @@
 
 And commands for automation
 
-**8:00**
+**7:30**
 
-Alarm to wait up at 8:00
+Alarm to wake up
 
-**09:00 - 10:00**
+**8:30**
 
-- make coffee
-- learning time
-  - read books, read articles, watch videos...
+Practice Keyboard Until 8:30
+
+**8:30 - 9:30**
+
+- make breakfast and coffee
+
+**09:30 - 10:00**
+
+- walk to office
 
 **10:00 - 12:30**
 
@@ -19,33 +25,25 @@ Alarm to wait up at 8:00
 - setup alarms 5 minutes before each meetings
 - write stand-up notes
   - `copy_last_to_today` - copy last date's stand-up notes today's
-  - `agenda >> standup notes` - adds today's meeting to stand-up notes
-- prepare for all the meetings
-  - `agenda --details conference | email-work -s agenda me@foo.com` - send meeting link to phone
+  - `:read !agenda` - adds today's meeting to stand-up notes
 
 **12:30 - 13:30**
 
 - lunch
-- make tea
 
-**13:30 - 17:00**
+**13:30 - 18:00**
 
 - meeting
 - coding
 - writing
 - code reviews
 
-**17:30 - 18:00**
-
-- finish work in process notes and push to github
-
 ## Check Email & Slack three times per day
 
 - once in the morning around 10:00
 - once after lunch around 13:30
 - in the middle of the afternoon around 16:00
-  - `email-work` for opening Email
-  - `<ctrl><shift>S` for opening Slack
+  - `<command><shift>s` for opening Slack
 
 ## Do I prefer coding in the morning or in the afternoon?
 
@@ -74,7 +72,11 @@ browser,
 
 **window 3**
 
-communication tools: zoom, slack, email
+communication tools: slack
+
+**window 4**
+
+communication tools: zoom
 
 ## Links to this note
 
