@@ -80,3 +80,15 @@ Images taken from [暧昧](http://www.jianpuw.com/htm/lb/102738.htm)
 ![如果你也听说 02](images/music/ru-guo-ni-ye-ting-shuo-02.webp)
 
 Images taken from [如果你也听说](http://www.hpppw.com/zuixinqupu/201810/13133.html)
+
+## 飄雪
+
+[飄雪](https://i.pinimg.com/originals/e4/ea/dd/e4eadd4def8d7e71409a7651c6b0e4e5.gif)
+
+## 艳火 - 张悬
+
+[艳火 - 张悬](https://pic.sogou.com/pic/download.jsp?v=5&keyword=%E8%89%B3%E7%81%AB%E5%BC%A0%E6%82%AC%E7%AE%80%E8%B0%B1&initQuery=%E8%89%B3%E7%81%AB%E5%BC%A0%E6%82%AC%E7%AE%80%E8%B0%B1&category_kind=searchList_bigMode&mode=1&mood=0&tagQSign=&start=0&xml_len=48&dataSource=searchhub&groupIndex=1&g_index=1&id=ca86e620b9e623ff-c90007ca74fdae89-28dfe68cf0665b913e6c5dbdbcf71de7&ssf=&group_docid=#!id=ca86e620b9e623ff-c90007ca74fdae89-28dfe68cf0665b913e6c5dbdbcf71de7&index=2)
+
+## 红玫瑰 - 陈奕迅
+
+[红玫瑰 - 陈奕迅](http://www.jianpuw.com/htm/qc/93298.htm)
