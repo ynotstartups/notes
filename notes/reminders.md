@@ -4,10 +4,6 @@
 
 ## Short Term Reminders
 
-- learn how to touch type, because by improving my typing accuracy, I will improve my vim editing experience.
-
-  - touch type exercise https://www.edclub.com/sportal/program-58.game
-
 - read vim `:help user-manual` per day
 
   - progress `usr_25`
@@ -18,7 +14,6 @@
 
 ## Long Term Reminders
 
-- Stop buying unnecessary items
 - Straighten my back
 - Write down important facts about people
 
