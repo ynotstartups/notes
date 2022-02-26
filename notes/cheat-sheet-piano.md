@@ -28,6 +28,13 @@ pressed, this is how the lessons can be interactive.
 | right ring   | 5                                      |
 | right little | 6,7                                    |
 
+## Intermediate Digital Piano
+
+- Kawai ES110 Digital Stage Piano Black - £525
+- Casio PX S1100 Digital Piano Black - £535
+- Yamaha P125 Digital Piano Black - £575.00
+- Roland FP 30X Digital Piano White £589.00
+
 ## 冷雨夜
 
 ![冷雨夜 01](images/music/leng-yu-ye-01.webp)
