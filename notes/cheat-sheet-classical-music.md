@@ -1,18 +1,21 @@
 # Cheat Sheet Classical Music
 
-## How to Listen to Classical Music
+## Learning How to Listen to Classical Music
 
-- [Listening to Music with Craig Wright](https://www.youtube.com/watch?v=TRg-75VKOFU&list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja&index=5)
+- [Youtube - Listening to Music with Craig Wright](https://www.youtube.com/watch?v=TRg-75VKOFU&list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja&index=5)
+- [Coursera - Listening to Music with Craig Wright](https://www.coursera.org/learn/introclassicalmusic/home/welcome)
 
 ## Where to listen to Classical Music - Live
 
 - [London Symphony Orchestra](https://lso.co.uk/whats-on/range.listevents/-.html)
-- [Barbican](https://www.barbican.org.uk/whats-on/classical-music)
+- [Barbican Center](https://www.barbican.org.uk/whats-on/classical-music)
+- [Guildhall School](https://www.gsmd.ac.uk/about_the_school/home/view_all_events.html)
 
 ## Where to listen to Classical Music - Online
 
 - [London Symphony Orchestra](https://www.youtube.com/c/LondonSymphonyOrchestra/featured)
 - [Classic FM](https://uk.radio.net/s/classicfm)
+- [DW Classical Music](https://www.youtube.com/c/DWClassicalMusic/videos)
 
 ## Classical Music Genre
 
