@@ -27,6 +27,7 @@
 
 - [Beethoven - Symphony No. 5 in C minor](https://www.youtube.com/watch?v=vEQAqKGCtdI)
 - [Intro To Orchestra - London Symphony Orchestra Family and Schools Concert: Leon and the Place Between](https://www.youtube.com/watch?v=jMh9D3uzc3U)
+- [Tchaikovsky, Piano Concerto No. 1 in B Flat Minor](https://www.youtube.com/watch?v=Ybg2BEy_pu0)
 - [Johann Strauss II - The Blue Danube Waltz](https://www.youtube.com/watch?v=tEDxGTLAUsQ)
 - [Mozart - Symphony No. 40 in G minor](https://www.youtube.com/watch?v=wqkXqpQMk2k)
 - [Peter and the Wolf](https://www.youtube.com/watch?v=9ueGfjBKbiE)
