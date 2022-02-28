@@ -10,11 +10,11 @@
 
 - 60 minutes of piano practice per day
 
-  - progress page 44 - adult piano adventure 1
+  - progress page 52 - adult piano adventure 1
 
 - Listen to Music - Craig Wright
 
-  - progress Lecture 2
+  - progress Lecture 4
 
 ## Long Term Reminders
 
