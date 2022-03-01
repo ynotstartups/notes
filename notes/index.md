@@ -15,6 +15,7 @@ I love brewing and tasting [coffee](index-coffee.md).
 I enjoy [cooking](cooking.md) and washing dishes :)
 
 I am also interested in
+[music](index-music.md),
 [art](art.md),
 [boardgames](boardgame.md),
 [coding](https://github.com/ynotstartups),
