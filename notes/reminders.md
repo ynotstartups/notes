@@ -2,19 +2,21 @@
 
 - Read _The Priory Of The Orange Tree_ by Samantha Shannon
 
+  - progress page 171
+
 ## Short Term Reminders
 
-- read vim `:help user-manual` per day
+- read vim `:help user-manual`
 
   - progress `usr_25`
 
 - 60 minutes of piano practice per day
 
-  - progress page 52 - adult piano adventure 1
+  - progress page 58 - adult piano adventure 1
 
 - Listen to Music - Craig Wright
 
-  - progress Lecture 4
+  - progress Lecture 5.1 - Why Do Instruments Sound Differently, One From Another?
 
 ## Long Term Reminders
 
