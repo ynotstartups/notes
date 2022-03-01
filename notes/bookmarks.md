@@ -15,7 +15,3 @@
 - [Indochina Coffee Importer](https://indochinacoffee.com/)
 - [Yunnan Coffee Traders](https://yunnancoffeetraders.com/farms/)
 - [Torch Coffee Labs](https://www.torchcoffee.asia/)
-
-## Music
-
-- [Yale Music Theory Course](https://www.youtube.com/watch?v=5_yOVARO2Oc&list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
