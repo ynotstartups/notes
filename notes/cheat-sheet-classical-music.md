@@ -33,4 +33,5 @@
 - [Peter and the Wolf](https://www.youtube.com/watch?v=9ueGfjBKbiE)
 - [Ravel - Boléro](https://www.youtube.com/watch?v=s_pSJOkmYBA)
 - [Richard Strauss - Tod und Verklärung {Death and Transfiguration}](https://www.youtube.com/watch?v=6hfQpaePuxo)
-- [VIVALDI - Four Seasons](https://www.youtube.com/watch?v=YnDLlajMxy)
+- [VIVALDI - Four Seasons](https://www.youtube.com/watch?v=YnDLlajMxyo)
+- [J. Pachelbel. Canon in D Major](https://www.youtube.com/watch?v=PfxrNblTr4o) [Also by United States Air Force Band](https://upload.wikimedia.org/wikipedia/commons/1/12/Canon_%282004%29_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3) - listen to the harmony for different violins and the bass
