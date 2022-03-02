@@ -6,10 +6,6 @@
 
   - progress page 171 / 804
 
-- _The young person's guide to playing the piano_ by Sidney Harrison
-
-  - progress page 11 / 97
-
 ## Playing / Learning
 
 - read vim `:help user-manual`
