@@ -36,3 +36,4 @@
 - [Richard Strauss - Tod und Verklärung {Death and Transfiguration}](https://www.youtube.com/watch?v=6hfQpaePuxo)
 - [Tchaikovsky, Piano Concerto No. 1 in B Flat Minor](https://www.youtube.com/watch?v=Ybg2BEy_pu0)
 - [VIVALDI - Four Seasons](https://www.youtube.com/watch?v=YnDLlajMxyo)
+- [Yo-Yo Ma - Cello Solos](https://www.youtube.com/watch?v=xR4IElye7eg&list=PLa2Nqyzs2sklUoKqXWqGqd74yibTDzMsu)
