@@ -7,9 +7,12 @@
 
 ## Where to listen to Classical Music - Live
 
-- [London Symphony Orchestra](https://lso.co.uk/whats-on/range.listevents/-.html)
-- [Barbican Center](https://www.barbican.org.uk/whats-on/classical-music)
-- [Guildhall School](https://www.gsmd.ac.uk/about_the_school/home/view_all_events.html)
+- [Barbican Center, Barbican](https://www.barbican.org.uk/whats-on/classical-music)
+- [Guildhall School, Barbican](https://www.gsmd.ac.uk/about_the_school/home/view_all_events.html)
+- [London Symphony Orchestra - St. Lukes's, Old Street](https://lso.co.uk/whats-on/range.listevents/-.html)
+- [Philharmonia Orchestra - Royal Festival Hall, Southbank Centre Street](https://lso.co.uk/whats-on/range.listevents/-.html)
+- [Royal Philharmonic Orchestra - Southbank, Royal Albert Hall, Sloane Terrace ..](https://www.rpo.co.uk/whats-on/london-venues/locations)
+- [St Martin in the Fields, St Martin Church, Trafalgar Square](https://www.stmartin-in-the-fields.org/whats-on/)
 
 ## Where to listen to Classical Music - Online
 
@@ -23,6 +26,10 @@
 - [Symphony](https://en.wikipedia.org/wiki/Symphony)
 - [Concerto](https://en.wikipedia.org/wiki/Concerto)
 - [Mass](https://en.wikipedia.org/wiki/Mass_%28music%29)
+
+## Instrument Guides by Philharmonic Orchestra
+
+- [Instrument Guides by Philharmonic Orchestra](https://www.youtube.com/watch?v=QNBsgfh4UMY&list=PLqR22EoucCyccs5J639SCefaM7mD9dMSz&index=10)
 
 ## To Listen
 
