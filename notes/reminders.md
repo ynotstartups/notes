@@ -1,10 +1,16 @@
 # What Am I Doing Now?
 
-- Read _The Priory Of The Orange Tree_ by Samantha Shannon
+## Reading
 
-  - progress page 171
+- _The Priory Of The Orange Tree_ by Samantha Shannon
 
-## Short Term Reminders
+  - progress page 171 / 804
+
+- _The young person's guide to playing the piano_ by Sidney Harrison
+
+  - progress page 11 / 97
+
+## Playing / Learning
 
 - read vim `:help user-manual`
 
@@ -14,7 +20,7 @@
 
   - progress page 58 - adult piano adventure 1
 
-- Listen to Music - Craig Wright
+- Coursera Listen to Music - Craig Wright
 
   - progress Lecture 5.1 - Why Do Instruments Sound Differently, One From Another?
 
