@@ -47,3 +47,4 @@
 - [VIVALDI - Four Seasons](https://www.youtube.com/watch?v=YnDLlajMxyo)
 - [Yo-Yo Ma - Cello Solos](https://www.youtube.com/watch?v=xR4IElye7eg&list=PLa2Nqyzs2sklUoKqXWqGqd74yibTDzMsu)
 - [Yundi Li - 14th International Chopin Competition 2000(HQ)](https://www.youtube.com/watch?v=e87JqA2hLxA)
+- [Antonio de Lucena - Romance Anonimo (Spanish Romance), Guitar](https://www.youtube.com/watch?v=qaVTLEEJxhs)
