@@ -14,11 +14,11 @@
 
 - 60 minutes of piano practice per day
 
-  - progress page 58 - adult piano adventure 1
+  - progress page 64 - adult piano adventure 1
 
 - Coursera Listen to Music - Craig Wright
 
-  - progress Lecture 5.1 - Why Do Instruments Sound Differently, One From Another?
+  - progress Lecture 8.6
 
 ## Long Term Reminders
 
