@@ -53,14 +53,14 @@ Lots of music are made using dominant and subdominant chords.
 
 ## Music Style Period
 
-1. Middle Ages: 476 - 1450
-1. Renaissance: 1450 - 1600
-1. Baroque: 1600 - 1750
-1. Classical: 1750 - 1820
-1. Romantic: 1820 - 1900
-1. Impressionist: 1880 - 1920
-1. Modern: 1900 - 1985
-1. Postmodern: 1945 - present
+1. **Middle Ages** - 476 - 1450
+1. **Renaissance** - 1450 - 1600
+1. **Baroque** - 1600 - 1750
+1. **Classical** - 1750 - 1820
+1. **Romantic** - 1820 - 1900
+1. **Impressionist** - 1880 - 1920
+1. **Modern** - 1900 - 1985
+1. **Postmodern** - 1945 - present
 
 ## Number of voice types
 
