@@ -18,7 +18,7 @@
 
 - Coursera Introduction to Music - Craig Wright
 
-  - progress Lecture 8.6
+  - progress Lecture 6.1 The Classical Period
 
 - Youtube Listen to Music - Craig Wright
 
