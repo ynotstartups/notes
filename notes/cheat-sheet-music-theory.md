@@ -61,3 +61,22 @@ Lots of music are made using dominant and subdominant chords.
 1. Impressionist: 1880 - 1920
 1. Modern: 1900 - 1985
 1. Postmodern: 1945 - present
+
+## Number of voice types
+
+**Female voices**
+
+1. Soprano (C4-C6)
+1. Mezzo-soprano (A3-A5)
+1. Contralto (F3-F5)
+
+**Male voices**
+
+1. Countertenor (E3-E5)
+1. Tenor (C3-C5)
+1. Baritone (A2-A4)
+1. Bass (E2-E4)
+
+Note: Middle C is C4.
+
+See also [Voice Type in Wikipedia](https://en.wikipedia.org/wiki/Voice_type#Number_of_voice_types)
