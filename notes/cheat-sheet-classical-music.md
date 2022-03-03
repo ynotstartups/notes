@@ -27,7 +27,7 @@
 - [Concerto](https://en.wikipedia.org/wiki/Concerto)
 - [Mass](https://en.wikipedia.org/wiki/Mass_%28music%29)
 
-## Instrument Guides by Philharmonic Orchestra
+## Instrument Guides
 
 - [Instrument Guides by Philharmonic Orchestra](https://www.youtube.com/watch?v=QNBsgfh4UMY&list=PLqR22EoucCyccs5J639SCefaM7mD9dMSz&index=10)
 
