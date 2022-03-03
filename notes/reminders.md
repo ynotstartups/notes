@@ -16,9 +16,13 @@
 
   - progress page 64 - adult piano adventure 1
 
-- Coursera Listen to Music - Craig Wright
+- Coursera Introduction to Music - Craig Wright
 
   - progress Lecture 8.6
+
+- Youtube Listen to Music - Craig Wright
+
+  - progress Lecture 8
 
 ## Long Term Reminders
 
