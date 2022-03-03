@@ -56,9 +56,30 @@ Lots of music are made using dominant and subdominant chords.
 1. **Middle Ages** - 476 - 1450
 1. **Renaissance** - 1450 - 1600
 1. **Baroque** - 1600 - 1750
+   - Bach
+   - Purcell
+   - Handel
+   - Vivaldi
 1. **Classical** - 1750 - 1820
+   - Mozart
+   - Schubert
+   - Haydn
+   - Clementi
+   - Beethoven
 1. **Romantic** - 1820 - 1900
+   - Rachmaninov
+   - Elgar
+   - Chopin
+   - Mendelssohn
+   - Dvorak
+   - Wagner
+   - Berlioz
+   - Verdi
+   - Tchaikovsky
+   - Liszt
 1. **Impressionist** - 1880 - 1920
+   - Ravel
+   - Debussy
 1. **Modern** - 1900 - 1985
 1. **Postmodern** - 1945 - present
 

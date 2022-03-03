@@ -27,6 +27,11 @@
 - [Concerto](https://en.wikipedia.org/wiki/Concerto)
 - [Mass](https://en.wikipedia.org/wiki/Mass_%28music%29)
 
+## Opera
+
+- **Aria** - A musical piece written typically for a solo voice with orchestral accompaniment in an opera or cantata.
+- **Recitative** - dialogue, in an opera etc, that, rather than being sung as an aria, is reproduced with the rhythms of normal speech, often with simple musical accompaniment or harpsichord continuo, serving to expound the plot
+
 ## Instrument Guides
 
 - [Instrument Guides by Philharmonic Orchestra](https://www.youtube.com/watch?v=QNBsgfh4UMY&list=PLqR22EoucCyccs5J639SCefaM7mD9dMSz&index=10)
