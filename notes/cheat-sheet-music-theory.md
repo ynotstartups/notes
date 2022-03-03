@@ -77,6 +77,10 @@ Lots of music are made using dominant and subdominant chords.
 1. Baritone (A2-A4)
 1. Bass (E2-E4)
 
+**Children's voices**
+
+1. Treble (A3-A5)
+
 Note: Middle C is C4.
 
 See also [Voice Type in Wikipedia](https://en.wikipedia.org/wiki/Voice_type#Number_of_voice_types)
