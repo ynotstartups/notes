@@ -13,3 +13,5 @@ When my post gets too little likes, then I get stressful to think if there is so
 [Ed Sheeran - Beautiful People (feat. Khalid)](https://www.youtube.com/watch?v=mj0XInqZMHY&ab_channel=EdSheeran)
 
 - more time to focus on what I want instead of what others want
+
+- Social media can be judgemental on the things that I post, I can post whatever I want in a personal website
