@@ -7,6 +7,9 @@
 You plugin your digital piano to the web app, the web app knows what keys you
 pressed, this is how the lessons can be interactive.
 
+- Adult Piano Adventures 1
+  - [link to online resources](https://pianoadventures.com/adult/adult1/#audio)
+
 ## Online Virtual Piano
 
 [Piano](https://www.apronus.com/music/flashpiano.htm)
