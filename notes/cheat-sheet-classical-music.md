@@ -26,7 +26,8 @@
 
 - [Symphony](https://en.wikipedia.org/wiki/Symphony)
 - [Concerto](https://en.wikipedia.org/wiki/Concerto)
-- [Mass](https://en.wikipedia.org/wiki/Mass_%28music%29)
+- **Mass** - a form of sacred musical composition, is a choral composition that sets the invariable portions of the Eucharistic liturgy (principally that of the Catholic Church, the Anglican Communion, and Lutheranism) to music
+- **sonata** - type of musical composition, usually for a solo instrument or a small instrumental ensemble, that typically consists of two to four movements, or sections, each in a related key but with a unique musical character.
 
 ## Opera
 
