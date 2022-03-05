@@ -13,6 +13,7 @@
 - [Philharmonia Orchestra - Royal Festival Hall, Southbank Centre Street](https://lso.co.uk/whats-on/range.listevents/-.html)
 - [Royal Philharmonic Orchestra - Southbank, Royal Albert Hall, Sloane Terrace ..](https://www.rpo.co.uk/whats-on/london-venues/locations)
 - [St Martin in the Fields, St Martin Church, Trafalgar Square](https://www.stmartin-in-the-fields.org/whats-on/)
+- [St John's Smith Square, Westminster](https://www.sjss.org.uk/whats-on)
 
 ## Where to listen to Classical Music - Online
 
