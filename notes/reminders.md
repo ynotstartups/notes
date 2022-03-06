@@ -8,7 +8,7 @@
 
 - __Harry Potter and the Philosopher's Stone Audio Book__ by J.K. Rowling
 
-  - progress 36 minutes / 7 hour 30 minutes
+  - progress 1 hour 40 minutes / 7 hour 30 minutes
 
 ## Playing / Learning
 
@@ -18,11 +18,11 @@
 
 - 60 minutes of piano practice per day
 
-  - progress page 68 - adult piano adventure 1
+  - progress page 72 - adult piano adventure 1
 
 - Coursera Introduction to Music - Craig Wright
 
-  - progress Lecture 6.3
+  - progress Lecture 8.3
 
 - Youtube Listen to Music - Craig Wright
 
