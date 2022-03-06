@@ -76,6 +76,8 @@ Lots of music are made using dominant and subdominant chords.
    - Mendelssohn
    - Rachmaninov
    - Schubert
+   - Schumann, Clara
+   - Schumann, Robert
    - Tchaikovsky
    - Verdi
    - Wagner
