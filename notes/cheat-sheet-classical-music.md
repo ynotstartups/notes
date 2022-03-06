@@ -17,6 +17,7 @@
 
 ## Where to listen to Classical Music - Online
 
+- [Venice Classic Web Radio](https://www.veniceclassicradio.eu/player/new/vcr.php?ch=0)
 - [Naxos Music Library](https://barbicanlib.nml3.naxosmusiclibrary.com/)
 - [London Symphony Orchestra](https://www.youtube.com/c/LondonSymphonyOrchestra/featured)
 - [Classic FM](https://uk.radio.net/s/classicfm)
