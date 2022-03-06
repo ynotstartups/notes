@@ -8,6 +8,7 @@
 1. only one host should prepare drinks, so the other host can social with guests
 1. prepare water as well as other drinks
 1. make sure enough toilet paper is in bathroom
+1. hide shoes so that there are spaces for guests' shoes
 
 ## Links to this note
 
