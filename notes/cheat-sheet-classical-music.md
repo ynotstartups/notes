@@ -42,6 +42,7 @@
 ## To Listen
 
 - [Beethoven - Symphony No. 5 in C minor](https://www.youtube.com/watch?v=vEQAqKGCtdI)
+- [Berlioz - Symphonie fantastique](https://www.youtube.com/watch?v=5HgqPpjIH5c)
 - [J. Pachelbel. Canon in D Major](https://www.youtube.com/watch?v=PfxrNblTr4o) [Also by United States Air Force Band](https://upload.wikimedia.org/wikipedia/commons/1/12/Canon_%282004%29_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3) - listen to the harmony for different violins and the bass
 - [Johann Strauss II - The Blue Danube Waltz](https://www.youtube.com/watch?v=tEDxGTLAUsQ)
 - [Mozart - Clarinet Concerto in A major](https://www.youtube.com/watch?v=YT_63UntRJE)
