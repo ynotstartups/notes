@@ -163,6 +163,14 @@ Ginger's drawing
 
 ## Indian Curry
 
+## Egg Fried Prawn
+
+![Egg Fried Prawn](images/cooking/egg-fried-prawns.webp){ loading=lazy }
+
+## Stir Fry
+
+![Stir Fry](images/cooking/stir-fry-0.webp){ loading=lazy }
+
 ## Marbled Tea Eggs - 茶叶蛋
 
 ## 小白菜汤
