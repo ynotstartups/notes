@@ -12,10 +12,6 @@
 
 ## Playing / Learning
 
-- read vim `:help user-manual`
-
-  - progress `usr_25`
-
 - 60 minutes of piano practice per day
 
   - progress page 76 - adult piano adventure 1
