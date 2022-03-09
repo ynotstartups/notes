@@ -20,10 +20,6 @@
 
   - progress page 76 - adult piano adventure 1
 
-- Coursera Introduction to Music - Craig Wright
-
-  - progress Lecture 9.2
-
 ## Long Term Reminders
 
 - Straighten my back
