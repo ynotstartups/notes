@@ -16,12 +16,13 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
 ## How to run sprint planning?
 
 1. open jira
-1. going through current sprint by BE, Design, iOS, Android...
-1. plan for next sprint by BE, Design, iOS, Android...
+1. going through current sprint by BE, Design, iOS, Android, BI...
+1. plan for next sprint by BE, Design, iOS, Android, BI...
    - estimate tickets
    - pull in tickets for the next sprint
 1. backlog grooming
    - discuss each ticket in grooming section
+   - designers present design of new feature, devs create tickets
 
 ## Jira setup
 
@@ -30,9 +31,8 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
   - IN PROGRESS - in progress tasks
   - CODE REVIEW - opened PR and waiting for review
   - QA
-  - DESIGN REVIEW - see below
+  - DESIGN REVIEW - ticket first goes to QA for checking both functional and design and then it goes to the design review for PM and designers for the final gate check
   - DONE - completed
-- Design review - ticket first goes to QA for checking both functional and design and then it goes to the design review for PM and designers for the final gate check
 
 ## Estimates
 
