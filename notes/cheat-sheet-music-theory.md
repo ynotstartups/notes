@@ -84,6 +84,8 @@ Lots of music are made using dominant and subdominant chords.
 1. **Impressionist** - 1880 - 1920
    - Debussy
    - Ravel
+   - Scriabin
+   - Sibelius
 1. **Modern** - 1900 - 1985
 1. **Postmodern** - 1945 - present
 
