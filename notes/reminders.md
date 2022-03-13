@@ -18,7 +18,7 @@
 
 - 60 minutes of piano practice per day
 
-  - progress page 80 - adult piano adventure 1
+  - progress page 86 - adult piano adventure 1
 
 ## Long Term Reminders
 
