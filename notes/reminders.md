@@ -8,7 +8,7 @@
 
 - _Harry Potter and the Philosopher's Stone Audio Book_ by J.K. Rowling
 
-  - progress 3 hour 44 minutes / 7 hour 30 minutes
+  - progress 4 hour 00 minutes / 7 hour 30 minutes
 
 - _Absolutely On Music_ by Murakami and Ozawa
 
@@ -18,7 +18,7 @@
 
 - 60 minutes of piano practice per day
 
-  - progress page 86 - adult piano adventure 1
+  - progress page 90 - adult piano adventure 1
 
 ## Long Term Reminders
 
