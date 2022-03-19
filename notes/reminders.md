@@ -8,12 +8,7 @@
 
 - _Harry Potter and the Philosopher's Stone Audio Book_ by J.K. Rowling
 
-  - progress 5 hour 49 minutes / 7 hour 30 minutes
-
-- _Absolutely On Music_ by Murakami and Ozawa
-
-  - progress page 98 / 325
-  - https://www.harukimurakami.com/resource_category/playlist/absolutely-on-music
+  - progress 6 hour 30 minutes / 7 hour 30 minutes
 
 ## Playing / Learning
 
