@@ -112,6 +112,8 @@ Ginger's drawing
 
 ![Burger](images/cooking/homemade-burger.webp){ loading=lazy }
 
+![Burger](images/cooking/homemade-burger-1.webp){ loading=lazy }
+
 ## Fried Clams - 爆炒花甲
 
 ![Fried Clamls](images/cooking/fried-clam.webp){ loading=lazy }
@@ -161,8 +163,6 @@ Ginger's drawing
 
 ![Squid Ink Pasta](images/cooking/squid-ink-pasta.webp){ loading=lazy }
 
-## Indian Curry
-
 ## Egg Fried Prawn
 
 ![Egg Fried Prawn](images/cooking/egg-fried-prawns.webp){ loading=lazy }
@@ -171,17 +171,11 @@ Ginger's drawing
 
 ![Stir Fry](images/cooking/stir-fry-0.webp){ loading=lazy }
 
+## Stewed Pork Ribs With Sauekranut - 酸菜炖排骨
+
+![Stewed Pork Ribs With Sauekranut](images/cooking/suan-cai-dun-pai-gu.webp){ loading=lazy }
+
 ## Marbled Tea Eggs - 茶叶蛋
-
-## 小白菜汤
-
-## 拌米粉
-
-## 皮蛋瘦肉粥
-
-## 珍珠奶茶
-
-## 干锅腊肉白菜
 
 ## Links to this note
 
