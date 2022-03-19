@@ -175,6 +175,10 @@ Ginger's drawing
 
 ![Stewed Pork Ribs With Sauekranut](images/cooking/suan-cai-dun-pai-gu.webp){ loading=lazy }
 
+## Deep Fried Eggs - 炸蛋
+
+![Deep Fried Eggs ](images/cooking/zha-dan.webp){ loading=lazy }
+
 ## Marbled Tea Eggs - 茶叶蛋
 
 ## Links to this note
