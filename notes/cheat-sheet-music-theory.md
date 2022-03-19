@@ -151,17 +151,9 @@ See also [Voice Type in Wikipedia](https://en.wikipedia.org/wiki/Voice_type#Numb
 
 - [Instrument Guides by Philharmonic Orchestra](https://www.youtube.com/watch?v=QNBsgfh4UMY&list=PLqR22EoucCyccs5J639SCefaM7mD9dMSz&index=10)
 
-## To Listen
+## classical music festivals
 
-- [Beethoven - Symphony No. 5 in C minor](https://www.youtube.com/watch?v=vEQAqKGCtdI)
-- [Berlioz - Symphonie fantastique](https://www.youtube.com/watch?v=5HgqPpjIH5c)
-- [J. Pachelbel. Canon in D Major](https://www.youtube.com/watch?v=PfxrNblTr4o) [Also by United States Air Force Band](https://upload.wikimedia.org/wikipedia/commons/1/12/Canon_%282004%29_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3) - listen to the harmony for different violins and the bass
-- [Johann Strauss II - The Blue Danube Waltz](https://www.youtube.com/watch?v=tEDxGTLAUsQ)
-- [Mozart - Clarinet Concerto in A major](https://www.youtube.com/watch?v=YT_63UntRJE)
-- [Mozart - Symphony No. 40 in G minor](https://www.youtube.com/watch?v=wqkXqpQMk2k)
-- [Mussorgsky - Pictures at an Exhibition](https://www.youtube.com/watch?v=wqkXqpQMk2k) - The interesting part is that [each movement of the music describes a picture](https://en.wikipedia.org/wiki/Pictures_at_an_Exhibition#Movements).
-- [Ravel - Boléro](https://www.youtube.com/watch?v=s_pSJOkmYBA)
-- [Richard Strauss - Tod und Verklärung {Death and Transfiguration}](https://www.youtube.com/watch?v=6hfQpaePuxo)
-- [Tchaikovsky - Piano Concerto No. 1 in B Flat Minor](https://www.youtube.com/watch?v=Ybg2BEy_pu0)
-- [VIVALDI - Four Seasons](https://www.youtube.com/watch?v=YnDLlajMxyo)
-- [Schubert - Das Forellen Quintett/Trout Quintet D.667 Op114](https://www.youtube.com/watch?v=g3k81__bwrM)
+- Salzburg festival, Salzburg, Austria
+- Edinburgh international festival, Edinburgh, UK
+- BBC Proms, London, UK
+- Tanglewood Music Festival, Boston, US
