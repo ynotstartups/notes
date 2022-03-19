@@ -23,7 +23,7 @@
 
 ## Long Term Reminders
 
-- Learn to understand and talk about my emotion
+- Learn to understand, talk about and write down my emotion
 - Straighten my back
 - Write down important facts about people
 
