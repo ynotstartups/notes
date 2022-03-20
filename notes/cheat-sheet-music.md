@@ -1,4 +1,4 @@
-# Cheat Sheet Music Theory
+# Cheat Sheet Music
 
 ## Major and Minor Scale
 

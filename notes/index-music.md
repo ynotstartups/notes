@@ -1,4 +1,4 @@
 # Index Music
 
-- [Music Theory](cheat-sheet-music-theory.md)
+- [Music](cheat-sheet-music.md)
 - [Music That I Am Listening](https://github.com/ynotstartups/music)
