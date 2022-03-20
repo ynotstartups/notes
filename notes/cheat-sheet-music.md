@@ -157,3 +157,8 @@ See also [Voice Type in Wikipedia](https://en.wikipedia.org/wiki/Voice_type#Numb
 - Edinburgh international festival, Edinburgh, UK
 - BBC Proms, London, UK
 - Tanglewood Music Festival, Boston, US
+
+## Entertaining Youtube Channels (but also educational)
+
+- [TwoSetViolin](https://www.youtube.com/channel/UCAzKFALPuF_EPe-AEI0WFFw)
+- [Classics Explained](https://www.youtube.com/channel/UCjjae93847ZdOM9FDpgGVRg)
