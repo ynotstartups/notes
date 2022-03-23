@@ -158,7 +158,9 @@ See also [Voice Type in Wikipedia](https://en.wikipedia.org/wiki/Voice_type#Numb
 - BBC Proms, London, UK
 - Tanglewood Music Festival, Boston, US
 
-## Entertaining Youtube Channels (but also educational)
+## Video Contents On Classical Music
 
 - [TwoSetViolin](https://www.youtube.com/channel/UCAzKFALPuF_EPe-AEI0WFFw)
 - [Classics Explained](https://www.youtube.com/channel/UCjjae93847ZdOM9FDpgGVRg)
+- [BBC Great Composers Documentaries](https://www.youtube.com/watch?v=Nyt1asgJPZ0&list=PLUyyRuWyGZViNSbLAsQmSva7Pl78Qd6If&index=2)
+- [BBC Symphony Documentaries](https://www.youtube.com/watch?v=7VS3MRLCrx8)
