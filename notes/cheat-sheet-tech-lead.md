@@ -7,7 +7,7 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
 ## How to run stand-up?
 
 1. open jira
-1. going through the tickets in the jira board one by one to
+1. going through the tickets in the jira board person by person
    1. keep jira board up to date
    1. discuss progress
    1. identify blockers
@@ -16,7 +16,7 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
 ## How to run sprint planning?
 
 1. open jira
-1. going through current sprint by BE, Design, iOS, Android, BI...
+1. going through current sprint person by person
 1. plan for next sprint by BE, Design, iOS, Android, BI...
    - estimate tickets
    - pull in tickets for the next sprint
@@ -64,3 +64,8 @@ Number of days for one engineers, assuming no meetings
 - documentations
 - strict typing
 - comprehensible tickets
+
+## topics for 1 on 1 with Product Manager
+
+- what tickets / work are coming up in the next sprint?
+  - so that I can prepare the tickets for the next sprint and not be surprised if the priority suddenly changed
