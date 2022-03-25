@@ -107,10 +107,6 @@ facial cream,
 hand cream,
 lip balm,
 
-## Physical books
-
-The Priory Of The Orange Tree
-
 ## Physical boardgames
 
 Exit escape room,
