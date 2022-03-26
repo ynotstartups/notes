@@ -12,6 +12,7 @@
 
 ## Long Term Reminders
 
+- Write down three good things a day
 - Learn to understand, talk about and write down my emotion
 - Straighten my back
 - Write down important facts about people
