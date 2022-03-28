@@ -20,6 +20,10 @@
 | z      | cast spell                                               |
 | t      | order teammates                                          |
 | ctrl-o | for a list of altar found and other interesting features |
+| p      | reckless range attack                                    |
+| tab    | reckless normal attack                                   |
+| A      | see traits of character                                  |
+| ?      | help page                                                |
 | ^      | read current religious standing                          |
 | a      | use religious abilities                                  |
 | x      | enter examine mode                                       |
