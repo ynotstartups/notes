@@ -34,9 +34,25 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
   - DESIGN REVIEW - ticket first goes to QA for checking both functional and design and then it goes to the design review for PM and designers for the final gate check
   - DONE - completed
 
+## Jira Ticket Template
+
+```
+h1. Description
+
+h1. Acceptance Criteria
+
+h1. Analytics
+
+h1. Design
+
+h1. Tech Notes
+
+h1. Questions
+```
+
 ## Estimates
 
-Number of days for one engineers, assuming no meetings
+- Number of days for one engineers, assuming no meetings
 
 ## Meetings
 
