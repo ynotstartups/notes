@@ -2,11 +2,19 @@
 
 - Keeping Score Documentary
 
+  - **Target** Lair Lever 6
+
+- Keeping Score Documentary
+
+  - **Progress** 6 / 10
+
 - Nocturnes - Kazuo Ishiguro
+
+  - **Progress** 0
 
 - 60 minutes of piano practice per day
 
-  - progress page 110 - adult piano adventure 1
+  - **Progress** page 110 - adult piano adventure 1
 
 ## Long Term Reminders
 
