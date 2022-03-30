@@ -20,12 +20,15 @@
 | z      | cast spell                                               |
 | t      | order teammates                                          |
 | ctrl-o | for a list of altar found and other interesting features |
+| ctrl-f | find items on floor and shop                             |
 | p      | reckless range attack                                    |
 | tab    | reckless normal attack                                   |
 | A      | see traits of character                                  |
 | ?      | help page                                                |
 | ^      | read current religious standing                          |
 | a      | use religious abilities                                  |
+| G      | go to other floors                                       |
+| %      | character menus, see traits                              |
 | x      | enter examine mode                                       |
 | +      | cycle through nearby enemies in examine mode             |
 | v      | view to examine in examine mode                          |
