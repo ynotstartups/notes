@@ -61,3 +61,5 @@ Use I to check magic failure rate.
 - [Crawl Wiki](http://crawl.chaosforge.org/Crawl_Wiki)
 - [Beginners Tutorial](https://www.youtube.com/watch?v=FWz26yaF_PY&list=PLkHfUAaH9nIeRcaLVKXlYNDvZqUgXWpuX&index=1)
 - [Caster Tutorial](http://crawl.chaosforge.org/Crawl_Wiki)
+- [Roguelike Celebration Youtube Channel](https://www.youtube.com/watch?v=Uo9-IcHhq_w)
+- [Roguelike Reddit](https://www.reddit.com/r/roguelikes/)
