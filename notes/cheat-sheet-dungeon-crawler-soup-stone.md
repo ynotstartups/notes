@@ -54,3 +54,10 @@ Cast spells with z.
 Spells like ammo, are shown in the quiver slot, so I can use Q to ready a spell in the quiver. Use f to fire the currently quivered spell.
 
 Use I to check magic failure rate.
+
+## Useful links
+
+- [Manual](https://github.com/crawl/crawl/blob/master/crawl-ref/docs/crawl_manual.rst)
+- [Crawl Wiki](http://crawl.chaosforge.org/Crawl_Wiki)
+- [Beginners Tutorial](https://www.youtube.com/watch?v=FWz26yaF_PY&list=PLkHfUAaH9nIeRcaLVKXlYNDvZqUgXWpuX&index=1)
+- [Caster Tutorial](http://crawl.chaosforge.org/Crawl_Wiki)
