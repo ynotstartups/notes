@@ -1,12 +1,12 @@
 # What Am I Doing Now?
 
-- Keeping Score Documentary
+- Dwarf Fortress follow [tutorial](https://df-walkthrough.readthedocs.io/en/latest/chapters/chap01-setup-starting.html)
+
+  - **Progess** 2 / 9
+
+- DCSS
 
   - **Target** Lair Lever 6
-
-- Keeping Score Documentary
-
-  - **Progress** 6 / 10
 
 - Nocturnes - Kazuo Ishiguro
 
@@ -14,7 +14,7 @@
 
 - 60 minutes of piano practice per day
 
-  - **Progress** page 110 - adult piano adventure 1
+  - **Progress** page 126 - adult piano adventure 1
 
 ## Long Term Reminders
 
