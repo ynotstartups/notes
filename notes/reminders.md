@@ -10,11 +10,11 @@
 
 - Nocturnes - Kazuo Ishiguro
 
-  - **Progress** 0
+  - **Progress** 89 / 221
 
 - 60 minutes of piano practice per day
 
-  - **Progress** page 126 - adult piano adventure 1
+  - **Progress** page 129 - adult piano adventure 1
 
 ## Long Term Reminders
 
