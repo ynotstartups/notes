@@ -177,7 +177,11 @@ Ginger's drawing
 
 ## Deep Fried Eggs - 炸蛋
 
-![Deep Fried Eggs ](images/cooking/zha-dan.webp){ loading=lazy }
+![Deep Fried Eggs](images/cooking/zha-dan.webp){ loading=lazy }
+
+## Cream Curry Udon - 咖喱奶油乌冬面
+
+![Cream Curry Udon](images/cooking/cream-curry-udon.webp){ loading=lazy }
 
 ## Marbled Tea Eggs - 茶叶蛋
 
