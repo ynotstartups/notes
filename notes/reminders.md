@@ -2,15 +2,15 @@
 
 - Dwarf Fortress follow [tutorial](https://df-walkthrough.readthedocs.io/en/latest/chapters/chap01-setup-starting.html)
 
-  - **Progess** 2 / 9
+  - **Progress** 2 / 9
 
 - DCSS
 
-  - **Target** Lair Lever 6
+  - **Target** First Rune
 
-- Nocturnes - Kazuo Ishiguro
+- Klara and the Sun - Kazuo Ishiguro
 
-  - **Progress** 89 / 221
+  - **Progress** 0
 
 - 60 minutes of piano practice per day
 
