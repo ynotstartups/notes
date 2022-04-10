@@ -2,12 +2,12 @@
 
 ## list of roguelike games that I want to play
 
-| name                      | description                                                         |
-| ------------------------- | ------------------------------------------------------------------- |
-| dungeon crawl stone soup  | dungeon fighting                                                    |
-| Cataclysm Dark Days Ahead | zombie survival                                                     |
-| The Ground Gives Way      | easy-to-learn introduction to roguelike, equipments based, no level |
-| Dwarf Fortress            | construction and management simulation inspired Rimworld            |
+| name                      | description                                                                            |
+| ------------------------- | -------------------------------------------------------------------------------------- |
+| dungeon crawl stone soup  | dungeon fighting                                                                       |
+| Cataclysm Dark Days Ahead | zombie survival                                                                        |
+| Dwarf Fortress            | construction and management simulation inspired Rimworld                               |
+| The Ground Gives Way      | easy-to-learn introduction to roguelike, equipments based, no level (windows only :( ) |
 
 ## internet resources
 
