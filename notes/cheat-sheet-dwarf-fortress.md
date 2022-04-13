@@ -20,3 +20,15 @@ While using `play now` embark settings
   - sweet pods in spring and summer
   - cave wheat or pig tails in fall
   - plump helmets in the winder
+
+## Macro
+
+| key           | function                                          |
+| ------------- | ------------------------------------------------- |
+| Ctrl+r        | record (and finish recording)                     |
+| Ctrl+s        | save                                              |
+| Ctrl+l        | load                                              |
+| Ctrl+u+number | set to repeat \[number\] of times (maximum of 99) |
+| Ctrl+p        | play                                              |
+
+See more in [wiki](https://dwarffortresswiki.org/index.php/DF2014:Macros_and_keymaps#:~:text=To%20create%20a%20macro%2C%20press,list%20just%20press%20Ctrl%2Bl.)
