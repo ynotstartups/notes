@@ -1,20 +1,10 @@
 # What Am I Doing Now?
 
-- Slay The Spire
-
-  - **Target** Win normal run with Defect
-
-- DCSS
-
-  - **Target** First Rune
-
-- Klara and the Sun - Kazuo Ishiguro
-
-  - **Progress** page 239
+- Normal People - Sally Rooney
 
 - 60 minutes of piano practice per day
 
-  - **Progress** page 156 - adult piano adventure 1
+  - **Progress** page 162 - adult piano adventure 1
 
 ## Long Term Reminders
 
