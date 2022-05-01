@@ -44,7 +44,9 @@ I love to cook! I can cook the following dishes.
 
 ![breakfast noodle](images/cooking/breakfast-noodle.webp){ loading=lazy }
 
-![breakfast bone marrow](images/cooking/breakfast-bone-marrow.webp){ loading=lazy }
+![breakfast Egg Sandwich](images/cooking/egg-sandwich.webp){ loading=lazy }
+
+![breakfast Luxurious Sandwich](images/cooking/luxurious-sandwich.webp){ loading=lazy }
 
 ## New Year Meals
 
