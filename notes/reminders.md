@@ -1,7 +1,5 @@
 # What Am I Doing Now?
 
-- Normal People - Sally Rooney
-
 - 60 minutes of piano practice per day
 
   - **Progress** page 162 - adult piano adventure 1
