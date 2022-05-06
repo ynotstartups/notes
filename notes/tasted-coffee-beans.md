@@ -2,13 +2,13 @@
 
 | Name           | Roaster | Origin      | Roast Level | Process               | Tasting Notes                                |
 | -------------- | ------- | ----------- | ----------- | --------------------- | -------------------------------------------- |
+| Aqi Badu       | Origin  | China       | Omni        | Natural               | Pineapple, Persimmon & Dark Chocolate        |
+| Elvis          | Origin  | Peru        | Omni        | Extended Fermentation | Raspberry, Lemongrass & Brown Sugar          |
 | Mensur Abahika | Ozone   | Ethiopia    | Omni        | Natural               | Blueberries, Cranberry, Jasmine              |
-| Wa Choo        | Origin  | China       | Omni        | Natural               | Pink Grapefruit, Pomegranate, Dark Chocolate |
-| Wa Choo        | Origin  | China       | Omni        | Washed                | Blackberry, Elderflower & Sugarcane          |
 | San Antonio    | Origin  | El Salvador | Omni        | Black Honey           | Raspberry, Apricot & Molasses                |
 | San Fermin     | Origin  | Colombia    | Omni        | Washes                | Orange Sherbet, Caramel, Berries             |
-| Elvis          | Origin  | Peru        | Omni        | Extended Fermentation | Raspberry, Lemongrass & Brown Sugar          |
-| Aqi Badu       | Origin  | China       | Omni        | Natural               | Pineapple, Persimmon & Dark Chocolate        |
+| Wa Choo        | Origin  | China       | Omni        | Natural               | Pink Grapefruit, Pomegranate, Dark Chocolate |
+| Wa Choo        | Origin  | China       | Omni        | Washed                | Blackberry, Elderflower & Sugarcane          |
 
 ## Elvis
 
