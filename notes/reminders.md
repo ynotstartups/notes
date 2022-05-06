@@ -1,8 +1,14 @@
 # What Am I Doing Now?
 
+- Kazuo Ishiguro
+
+  - come rain or come shine
+  - the remains of the day
+  - a pale view of hills
+
 - 60 minutes of piano practice per day
 
-  - **Progress** page 162 - adult piano adventure 1
+  - **Progress** page 168 - adult piano adventure 1
 
 ## Long Term Reminders
 
