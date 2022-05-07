@@ -9,7 +9,7 @@
 ## The Entertainer
 
 <audio controls>
-  <source src="../recordings/the-entertainer.m4a" type="audio/mpeg">
+  <source src="../recordings/the-entertainer.mp3" type="audio/mpeg">
 </audio>
 
 ## No Names
