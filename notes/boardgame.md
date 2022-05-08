@@ -2,14 +2,16 @@
 
 ## My recommendations
 
-- Welcome to
 - Azul
+- Dungeon Roll
 - Lost Cities
 - Santorini
 - Star Realm
 - Sushi Go!
 - Targi
 - That's So Clever 1 & 2
+- Trek 12
+- Welcome to
 
 ## Board Games V.S. Video Games
 
