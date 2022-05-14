@@ -5,6 +5,10 @@
   - the remains of the day
   - a pale view of hills
 
+- read vim `:help user-manual`
+
+  - progress `usr_25`
+
 - 60 minutes of piano practice per day
 
   - **Progress** page 170 - adult piano adventure 1
