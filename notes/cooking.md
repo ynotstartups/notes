@@ -185,6 +185,10 @@ Ginger's drawing
 
 ![Cream Curry Udon](images/cooking/cream-curry-udon.webp){ loading=lazy }
 
+## Beef, Potato And Tomato Soup - 罗宋汤
+
+![Beef, Potato And Tomato Soup](images/cooking/beef-potato-and-tomato-soup.webp){ loading=lazy }
+
 ## Marbled Tea Eggs - 茶叶蛋
 
 ## Links to this note
