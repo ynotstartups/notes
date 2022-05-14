@@ -13,3 +13,8 @@ Submerge in boiling water for 8 minutes, instead of the instructed 5 minutes
 - 150g powder
 - 200g water
 - one egg
+
+## Pho Stock
+
+- Longdan Bun Bo Hue 顺化牛肉粉调味料
+- Waitrose beef stock
