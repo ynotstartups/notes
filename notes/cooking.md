@@ -189,6 +189,10 @@ Ginger's drawing
 
 ![Beef, Potato And Tomato Soup](images/cooking/beef-potato-and-tomato-soup.webp){ loading=lazy }
 
+## Spanish Omelette - 西班牙烘蛋
+
+![Spanish Omelette](images/cooking/spanish-omelette.webp){ loading=lazy }
+
 ## Marbled Tea Eggs - 茶叶蛋
 
 ## Links to this note
