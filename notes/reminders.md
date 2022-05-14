@@ -7,7 +7,7 @@
 
 - read vim `:help user-manual`
 
-  - progress `usr_25`
+  - progress `usr_41` - writing vim script
 
 - 60 minutes of piano practice per day
 
