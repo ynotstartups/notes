@@ -6,12 +6,13 @@
 
 ## London
 
+- [Bunbunbun](http://www.bunbunbun.co/)
 - [Dragon castle](https://www.dragoncastlelondon.com/)
 - [Franco Manca](https://www.francomanca.co.uk/)
 - [Honest bugger](https://www.honestburgers.co.uk/)
-- [Xijia dumplings](https://www.xihomedumplings.co.uk/)
-- [Bunbunbun](http://www.bunbunbun.co/)
+- [Kineya Mugimaru - tumpora](https://www.kineya.co.uk/)
 - [Romulo](https://www.romulocafe.co.uk/)
+- [Xijia dumplings](https://www.xihomedumplings.co.uk/)
 
 ## Istanbul
 
