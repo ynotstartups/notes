@@ -5,9 +5,13 @@
   - the remains of the day
   - a pale view of hills
 
+- Introduction To Software Product Management - University of Alberta
+
+  - **progress** Course 1 - Week 2
+
 - read vim `:help user-manual`
 
-  - progress `usr_41` - writing vim script
+  - **progress** `usr_41` - writing vim script
 
 - 60 minutes of piano practice per day
 
