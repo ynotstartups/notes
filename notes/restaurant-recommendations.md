@@ -11,6 +11,7 @@
 - [Franco Manca](https://www.francomanca.co.uk/)
 - [Honest bugger](https://www.honestburgers.co.uk/)
 - [Kineya Mugimaru - tumpora](https://www.kineya.co.uk/)
+- [Ozone Coffee](https://ozonecoffee.co.uk/)
 - [Romulo](https://www.romulocafe.co.uk/)
 - [Xijia dumplings](https://www.xihomedumplings.co.uk/)
 
