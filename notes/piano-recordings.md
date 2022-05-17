@@ -1,5 +1,11 @@
 # Piano Recordings
 
+## The Carnival Of Venice
+
+<audio controls>
+  <source src="../recordings/the-carnival-of-venice.mp3" type="audio/mpeg">
+</audio>
+
 ## Music Box Etude
 
 <audio controls>
