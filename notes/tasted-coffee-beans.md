@@ -3,12 +3,21 @@
 | Name           | Roaster | Origin      | Roast Level | Process               | Tasting Notes                                |
 | -------------- | ------- | ----------- | ----------- | --------------------- | -------------------------------------------- |
 | Aqi Badu       | Origin  | China       | Omni        | Natural               | Pineapple, Persimmon & Dark Chocolate        |
+| Barokah        | Origin  | Indonesia   | Omni        | Natural               | Strawberry, Grapefruit & Caramel             |
 | Elvis          | Origin  | Peru        | Omni        | Extended Fermentation | Raspberry, Lemongrass & Brown Sugar          |
 | Mensur Abahika | Ozone   | Ethiopia    | Omni        | Natural               | Blueberries, Cranberry, Jasmine              |
 | San Antonio    | Origin  | El Salvador | Omni        | Black Honey           | Raspberry, Apricot & Molasses                |
 | San Fermin     | Origin  | Colombia    | Omni        | Washes                | Orange Sherbet, Caramel, Berries             |
 | Wa Choo        | Origin  | China       | Omni        | Natural               | Pink Grapefruit, Pomegranate, Dark Chocolate |
 | Wa Choo        | Origin  | China       | Omni        | Washed                | Blackberry, Elderflower & Sugarcane          |
+
+## Barokah
+
+The Barokah Cooperative sits at the foot of Mount Kerinci, the highest active volcano in Indonesia. This area is located in the Ring of Fire, a path of over 450 volcanoes that wraps around the Pacific Ocean which is highly unstable with frequent eruptions and plate movements. Despite the unique environment, the volcanic soil is extremely lush and fertile, making it the perfect terroir for growing outstanding coffee.
+
+The natural process requires the fewest number of steps at the washing station. Cherries are picked before being placed on patios to dry. They are then moved again onto raised beds which provides shade and better airflow. Typically, this process heightens the sweetness in the final cup.
+
+Expect pronounced strawberry and grapefruit notes that sit alongside a long caramel-like finish.
 
 ## Elvis
 
