@@ -3,7 +3,6 @@
 - Books - Kazuo Ishiguro
 
   - the remains of the day
-  - a pale view of hills
 
 - Introduction To Software Product Management - University of Alberta
 
@@ -15,7 +14,7 @@
 
 - 60 minutes of piano practice per day
 
-  - **Progress** page 8 - adult piano adventures classics 1
+  - **Progress** page 18 - adult piano adventures classics 1
 
 ## Long Term Reminders
 
