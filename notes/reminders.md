@@ -8,13 +8,13 @@
 
   - **progress** Course 1 - Week 2
 
-- read vim `:help user-manual`
+- [learn vimscript the hard way](https://learnvimscriptthehardway.stevelosh.com/)
 
-  - **progress** `usr_41` - writing vim script
+  - **progress** chapter 3
 
 - 60 minutes of piano practice per day
 
-  - **Progress** page 18 - adult piano adventures classics 1
+  - **Progress** page 32 - adult piano adventures classics 1
 
 ## Long Term Reminders
 
