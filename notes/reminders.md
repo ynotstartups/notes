@@ -10,7 +10,7 @@
 
 - [learn vimscript the hard way](https://learnvimscriptthehardway.stevelosh.com/)
 
-  - **progress** chapter 3
+  - **progress** chapter 19
 
 - 60 minutes of piano practice per day
 
