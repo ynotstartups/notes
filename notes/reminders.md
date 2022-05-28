@@ -18,16 +18,16 @@
 
 ## New Habits To Build
 
-- use `jq` to parse json output
-- use `reminder sleep 10s && notify-send 'Time For Agenda' &` to parse json output
-- use `cheatsheet` to get cheatsheet online
-- command+shift+k to open google keep in chrome
-- i+a to insert agenda
-- i+m to insert git commit message from branch name
-- j to open jira ticket under cursor
-- e+v to open vimrc
-- y+p to copy file path
-- f to find
+- terminal: `jq` to parse json output
+- terminal: `reminder sleep 10s && notify-send 'Time For Agenda' &` to parse json output
+- terminal: `cheatsheet` to get cheatsheet online
+- i3:       `command+shift+k` to open google keep in chrome
+- vim:      `i+a` to insert agenda
+- vim:      `i+m` to insert git commit message from branch name
+- vim:      `j`   to open jira ticket under cursor
+- vim:      `e+v` to open vimrc
+- vim:      `y+p` to copy file path
+- vim:      `f`   to find
 
 ## Long Term Reminders
 
