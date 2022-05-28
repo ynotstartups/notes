@@ -1,5 +1,29 @@
 # Piano Recordings
 
+## Finale From New World Symphony
+
+<audio controls>
+  <source src="../recordings/finale-from-new-world-symphony.mp3" type="audio/mpeg">
+</audio>
+
+## Beethoven No.5
+
+<audio controls>
+  <source src="../recordings/beethoven-no.5.mp3" type="audio/mpeg">
+</audio>
+
+## Spring
+
+<audio controls>
+  <source src="../recordings/spring.mp3" type="audio/mpeg">
+</audio>
+
+## Autumn
+
+<audio controls>
+  <source src="../recordings/autumn.mp3" type="audio/mpeg">
+</audio>
+
 ## The Carnival Of Venice
 
 <audio controls>
