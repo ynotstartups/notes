@@ -4,6 +4,13 @@ A team Lead is not about being on the top in term of hierarchy, but at the front
 
 It's not about the end goal, it is all about the journey, just enjoy the day.
 
+Tech Lead brings value by
+
+1. enabling everyone on the team to contribute code as much as possible
+1. by avoiding rewrites due to people working in different ways
+1. by managing tech debt to make it easier to add code
+1. by promoting relationships between the development group and business colleagues to ensure the code addresses business goals and delivers true value
+
 ## How to run stand-up?
 
 1. open jira
@@ -17,12 +24,20 @@ It's not about the end goal, it is all about the journey, just enjoy the day.
 
 1. open jira
 1. going through current sprint person by person
+1. pull in tickets from groomed tickets in backlog
 1. plan for next sprint by BE, Design, iOS, Android, BI...
    - estimate tickets
    - pull in tickets for the next sprint
-1. backlog grooming
-   - discuss each ticket in grooming section
-   - designers present design of new feature, devs create tickets
+
+## How to run backlog refinement?
+
+1. groom/explain ticket in the grooming section of backlog
+   - the idea for refinement is for all of us to understand the tickets
+1. raise bug tickets and tech debt tickets that developers want to do next sprint
+
+Notes:
+
+- no need to come up with estimate during refinements, estimates are required during planning
 
 ## Jira setup
 
@@ -56,11 +71,9 @@ h1. Questions
 
 ## Meetings
 
-- Zoom Video Standup at 10:20 on Monday, Tuesday, Friday
-- Slack Text Standup on Wednesday
-- Weekly Standup With Automated Squad at 10:30 on Thursday
+- Standup at 10:20 everyday
 - Retrospective at 10:00 on Tuesday biweekly
-- Sprint Planning at 15:00 on Wednesday biweekly
+- Sprint Planning at 15:00 on Thursday biweekly
 
 ## API work flow
 
@@ -72,7 +85,7 @@ h1. Questions
 
 - all ongoing tasks should be in Jira
 - breakdown large tasks into subtasks in Jira board
-- initial estimates needs to more accurate
+- initial estimates needs to be accurate, spend time thinking about estimates after refinement and before planning
 
 ## ideals
 
@@ -83,5 +96,8 @@ h1. Questions
 
 ## topics for 1 on 1 with Product Manager
 
-- what tickets / work are coming up in the next sprint?
+- What tickets / work are coming up in the next sprint?
   - so that I can prepare the tickets for the next sprint and not be surprised if the priority suddenly changed
+- Team delivery / performance
+- Feedbacks
+- Blockers
