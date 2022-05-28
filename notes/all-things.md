@@ -299,33 +299,28 @@ Zoom,
 
 ## Clothes
 
-Disney t-shirt,
 V pattern white shoes,
-black backpack,
 black shoes,
-black slipper,
-black sweater,
-blue bucket hat,
-blue jean,
-blue scarf,
-brown chino,
-brown coat,
-brown scarf,
-converse bag,
+white shoes,
+green sandal,
+
 designer shirt,
 dual-color shirt,
-grey backpack,
+pattern hoody,
+
+white trouser,
+jeans,
+
 multiple nightwear,
 multiple socks,
 multiple underwear,
-pattern hoody,
-pattern t-shirt,
-thermal bottom,
-thermal top,
+
+black slipper,
+blue bucket hat,
+blue scarf,
+grey backpack,
 transparent glasses,
 vintage glasses,
-white shoes,
-white trouser,
 
 ## Kitchenware & tableware
 
