@@ -30,9 +30,12 @@ My wildest dream is to become [a stand-up comedian](stand-up-comedy.md), a [farm
 
 Ginger and I had made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
 
-## What am I doing now?
+## Don't know what to read? Start here
 
-See [here](reminders.md)!
+- [Cooking](cooking.md)
+- [Piano Learning Progress](piano-recordings.md)
+- [Tech Lead Cheat Sheet](cheat-sheet-tech-lead.md)
+- [What am I doing now?](reminders.md)
 
 ## Meaning Of Life
 
