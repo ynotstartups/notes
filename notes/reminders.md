@@ -4,13 +4,9 @@
 
   - the remains of the day
 
-- Introduction To Software Product Management - University of Alberta
+- Book: Docker In Action
 
-  - **progress** Course 1 - Week 2
-
-- [learn vimscript the hard way](https://learnvimscriptthehardway.stevelosh.com/)
-
-  - **progress** chapter 19
+  - **progress** 43 / 337 Part 1 Process isolation and environment-independent computing
 
 - 60 minutes of piano practice per day
 
