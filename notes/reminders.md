@@ -6,7 +6,7 @@
 
 - Book: Docker In Action
 
-  - **progress** 43 / 337 Part 1 Process isolation and environment-independent computing
+  - **progress** 51 / 337 2.2
 
 - 60 minutes of piano practice per day
 
@@ -17,6 +17,7 @@
 - terminal: `jq` to parse json output
 - terminal: `reminder sleep 10s && notify-send 'Time For Agenda' &` to parse json output
 - terminal: `cheatsheet` to get cheatsheet online
+- terminal: `mb` to drop into bash with vi keybinding
 - i3:       `command+shift+k` to open google keep in chrome
 - vim:      `i+a` to insert agenda
 - vim:      `i+m` to insert git commit message from branch name
