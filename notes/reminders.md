@@ -2,21 +2,19 @@
 
 - Books - Kazuo Ishiguro
 
-  - the remains of the day
-
 - Book: Docker In Action
 
-  - **progress** 51 / 337 2.2
+  - **progress** page 66 / 337 2.5 Building durable containers
 
 - 60 minutes of piano practice per day
 
-  - **Progress** page 32 - adult piano adventures classics 1
+  - **Progress** page 36 - adult piano adventures classics 1
 
 ## New Habits To Build
 
 - terminal: `jq` to parse json output
-- terminal: `reminder sleep 10s && notify-send 'Time For Agenda' &` to parse json output
-- terminal: `cheatsheet` to get cheatsheet online
+- terminal: `alarm 30m 'message foo bar baz'` to set alarm
+- terminal: `cheatsheet foo` to get cheatsheet for foo online
 - terminal: `mb` to drop into bash with vi keybinding
 - i3:       `command+shift+k` to open google keep in chrome
 - vim:      `i+a` to insert agenda
