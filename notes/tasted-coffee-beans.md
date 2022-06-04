@@ -4,12 +4,22 @@
 | -------------- | ------- | ----------- | ----------- | --------------------- | -------------------------------------------- |
 | Aqi Badu       | Origin  | China       | Omni        | Natural               | Pineapple, Persimmon & Dark Chocolate        |
 | Barokah        | Origin  | Indonesia   | Omni        | Natural               | Strawberry, Grapefruit & Caramel             |
+| Barokah        | Origin  | Indonesia   | Omni        | Washed                | Blackberry, Yuzu & Molasses                  |
 | Elvis          | Origin  | Peru        | Omni        | Extended Fermentation | Raspberry, Lemongrass & Brown Sugar          |
 | Mensur Abahika | Ozone   | Ethiopia    | Omni        | Natural               | Blueberries, Cranberry, Jasmine              |
 | San Antonio    | Origin  | El Salvador | Omni        | Black Honey           | Raspberry, Apricot & Molasses                |
 | San Fermin     | Origin  | Colombia    | Omni        | Washes                | Orange Sherbet, Caramel, Berries             |
+| Tuberosa Decaf | Origin  | Colombia    | Omni        | Sugarcane Decaf       | Apple, Stewed Plum, Caramel                  |
 | Wa Choo        | Origin  | China       | Omni        | Natural               | Pink Grapefruit, Pomegranate, Dark Chocolate |
 | Wa Choo        | Origin  | China       | Omni        | Washed                | Blackberry, Elderflower & Sugarcane          |
+
+## Tuberosa Decaf
+
+This coffee is decaffeinated using an all-natural Sugarcane process.
+
+Tuberosa is a collective effort by various small holders located in the Antioquia region of Colombia. Coffee from this region is special because it is grown in an ideal microclimate, with relatively cold weather and rich, mountainous soils. When choosing lots we look for coffees like Tuberosa that will work specifically well when decaffeinated; coffee that can undergo the Sugarcane process and still retain incredible flavour clarity in each cup.
+
+This coffee is decaffeinated using our new and the all-natural Sugarcane process. This involves pressurising and expanding the coffee beans with light steam, before it's rinsed in Ethanol Acetate (EA), an organic compound created by the fermentation of non-GMO Colombian sugarcane. Mountain water and steam are then added to remove any remaining caffeine before the coffee is dried and delivered to the local quality control lab to grade quality.
 
 ## Barokah
 
