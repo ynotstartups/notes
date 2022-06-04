@@ -1,8 +1,14 @@
 # What Am I Doing Now?
 
-- Books - Kazuo Ishiguro
+- Book - The Unconsoled - Kazuo Ishiguro
 
-- Book: Docker In Action
+  - **progress** 0
+
+- Comic - Watchmen - Alan Moore, Gave Gibbons
+
+  - **progress** 0
+
+- Book Docker In Action
 
   - **progress** page 66 / 337 2.5 Building durable containers
 
