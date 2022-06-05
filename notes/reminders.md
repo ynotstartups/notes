@@ -10,7 +10,7 @@
 
 - Book Docker In Action
 
-  - **progress** page 66 / 337 2.5 Building durable containers
+  - **progress** page 88 / 337 Working with storage and volumes
 
 - 60 minutes of piano practice per day
 
