@@ -10,7 +10,7 @@
 
 - Book Docker In Action
 
-  - **progress** page 88 / 337 Working with storage and volumes
+  - **progress** page 106 / 337 Single-host networking
 
 - 60 minutes of piano practice per day
 
