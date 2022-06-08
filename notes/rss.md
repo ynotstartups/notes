@@ -12,7 +12,7 @@ I go on [Hacker News](https://news.ycombinator.com/), however I only visit links
 
 ...
 
-This habit makes me wonder there must be a way to avoid the need to remember to check manually.
+This habit makes me wonder is there a way I can automate this.
 
 Funny enough, this is what my employer Lyst is trying to solve. Instead of users going to different retailer site to shop or compare, users can just go to Lyst and get the best price.
 
@@ -42,9 +42,11 @@ See below for an example RSS feed, RSS uses xml and it is super simple.
 
 ## RSS Client
 
-I use a client called [newsboat](https://newsboat.org/releases/2.27/docs/newsboat.html#_introduction).
+To interactive with RSS feeds, you will need a RSS client, e.g. [feedly](https://feedly.com/) is a popular a web based client.
 
-To subscribe to new RSS feeds, I need to add rss url to a file called `~/.newsboat/urls`.
+I use a terminal based client called [newsboat](https://newsboat.org/releases/2.27/docs/newsboat.html#_introduction).
+
+To subscribe to new RSS feeds, I add rss url to a file called `~/.newsboat/urls`.
 
 e.g.
 
@@ -170,3 +172,9 @@ rss = RSS(
 )
 print(rss)
 ```
+
+## Random RSS Feed Example
+
+- News such as TechCrunch, Economist...
+- Software releases such as mypy, django...
+- it service status, slack system status, new relic status...
