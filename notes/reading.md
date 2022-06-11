@@ -12,6 +12,10 @@
 
 **Normal People - Sally Rooney**
 
+**Klara and The Sun - Sally Rooney**
+
+**Conversation With Friends - Sally Rooney**
+
 **Nocturnes - Kazuo Ishiguro**
 
 **The Priory Of The Orange Tree - Samantha Shannon**
@@ -129,6 +133,10 @@ Wasn't about to finish, only read 150 pages
 
 **The Age Of Innocence - Edith Wharton**
 
+**The Diary Of a Nobody - Geogre And Weedon Grossmith**
+
+**Crime And Punishment - Fyodor Dostoyevsky**
+
 **How to Win Friends and Influence People - Dale Carnegie**
 
 **Design patterns : elements of reusable object-oriented software - Erich Gamma**
@@ -143,7 +151,13 @@ Obsessed with Victorian novel at the moment
 
 **The Way We Live Now - Anthony Trollope**
 
+**Middlemarch - George Eliot**
+
 ## 2019
+
+**The Catcher In The Rye - J.D. Salinger**
+
+**Vanity Fair - Thackeray**
 
 **Keys To Drawing**
 
@@ -173,6 +187,12 @@ Hmm, didn't finish, too difficult
 
 **Metaphysics - Aristotle**
 
+**The Picture Of Dorian Gray - Oscar Wilde**
+
+**Darcula - Bram Stoker**
+
+**Frankenstein - Mary Shelley**
+
 ## 2018
 
 **The life-changing magic of tidying**
@@ -181,11 +201,45 @@ This book makes me start practising minimalism, thank you Marie Kondo!
 
 **In The Miso Soup - Ryu Murakami, Ralph F. McCarthy**
 
+**The Red and the Black - Stenhadl**
+
+**Les Miserables - Victor Hugo**
+
+**A Christmas Carol - Charles Dickens**
+
+**Little Women - Louisa May Alcott**
+
+**The Handmaid's Tale - Margaret Atwood**
+
 ## 2017
 
 **War and Peace (Vintage Classics) - Leo Tolstoy**
 
 **Men Without Women - Haruki Murakami**
+
+**A Tale Of Two Cities - Charles Dickens**
+
+**David Copperfield - Charles Dickens**
+
+**Pride and Prejudice - Jane Austen**
+
+**Heart Of Darkness - Joseph Conrad**
+
+## 2016
+
+**The Three Musketeers - Dumas**
+
+**Jane Eyre - Charlotte Bronte**
+
+**We - Yevgeny Zamyatin**
+
+Dystopian
+
+**Brave New World - Aldous Huxley**
+
+**Animal Farm - George Orwell**
+
+**Lolita - Vladimir Nabokov**
 
 ## 2015
 
@@ -195,7 +249,13 @@ This book makes me start practising minimalism, thank you Marie Kondo!
 
 **Knowledge is Beautiful - David McCanless**
 
-## Before
+## Older
+
+**1984 - George Orwell**
+
+**One Hundred Years Of Solitude - Gabriel García Márquez**
+
+## First Book
 
 **Outliers**
 
