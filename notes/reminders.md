@@ -1,20 +1,11 @@
 # What Am I Doing Now?
 
-- Book - The Unconsoled - Kazuo Ishiguro
-
-  - **progress** 0
-
-- Comic - Watchmen - Alan Moore, Gave Gibbons
-
-  - **progress** Chapter 5
-
-- Book Docker In Action
-
-  - **progress** page 114 / 337 5.2.3 Beyond bridge networks
-
-- 60 minutes of piano practice per day
-
-  - **Progress** page 42 - adult piano adventures classics 1
+| Type                 | Name                              | Author                   | Progress        | Total          |
+| -------------------- | --------------------------------- | ------------------------ | --------------- | -------------- |
+| Fiction              | The Unconsoled                    | Kazuo Ishiguro           | 27              | 535            |
+| Comics               | Watchmen                          | Alan Moore, Gave Gibbons | Chapter 5       | Chapter 12     |
+| Software Engineering | Docker In Action                  | Jeff Nickloff            | Stephen Kuenzli | 125, chapter 6 |
+| Piano                | Adult Piano Adventures Classics 1 | Faber Nancy & Randall    | 42              | 80             |
 
 ## New Habits To Build
 
