@@ -50,6 +50,53 @@ Only read for new manager section
 
 Only read the first part, the smart note system itself, inspired this website
 
+**What if? : serious scientific answers to absurd hypothetical questions -
+Munroe Randall**
+
+**Factory Girls - Leslie Chang**
+
+**The Forever War - Joe Haldeman**
+
+**Dying Inside - Rovert Silverberg**
+
+Read half the book only
+
+**Childhood's End - Arthur Clarke**
+
+**Downward To The Earth - Robert Silverberg**
+
+**The Gods Themselves - Isaac Asimov**
+
+**Comics: Uzumaki Spiral In To Horror vol 1,2,3 - Junji Ito**
+
+Obsessed about comics at the moment
+
+**Comics: Eternals - Neil Gaiman**
+
+**Comics: Neonomicon - Alan Moore**
+
+**Comics: Kingdom Come - Mark Waid**
+
+**Comics: Age Of Ultron - Brian Michael Bendis**
+
+**Comics: Marvels - Kurt Busiek**
+
+**Comics: Batman R.I.P - Grant Morrison**
+
+**The World Atlas Of Coffee - James Hoffmann**
+
+Obsessed with coffee at the moment, James Hoffmann has a great youtube channel too
+
+**Comics: 1602 - Alan Moore**
+
+**Talking To My Daughter - Yanis Varoufakis**
+
+**Comics: The Book Of Human Insects - Tezuka Osamu**
+
+**Comics: Remina - Junji Ito**
+
+**Brief Answers To The Big Questions - Stephen Hawking**
+
 **Managing Oneself - Peter F. Drucker**
 
 **A Philosophy of Software Design - John Ousterhout**
@@ -131,6 +178,22 @@ Hmm, didn't finish, too difficult
 **The life-changing magic of tidying**
 
 This book makes me start practising minimalism, thank you Marie Kondo!
+
+**In The Miso Soup - Ryu Murakami, Ralph F. McCarthy**
+
+## 2017
+
+**War and Peace (Vintage Classics) - Leo Tolstoy**
+
+**Men Without Women - Haruki Murakami**
+
+## 2015
+
+**Python for Data Analysis - Wes McKinney**
+
+## 2014
+
+**Knowledge is Beautiful - David McCanless**
 
 ## Before
 
