@@ -1,5 +1,17 @@
 # Piano Recordings
 
+## Prince Of Denmark's March
+
+<audio controls>
+  <source src="../recordings/prince-of-denmarks-march.mp3" type="audio/mpeg">
+</audio>
+
+## Minuet
+
+<audio controls>
+  <source src="../recordings/minuet.mp3" type="audio/mpeg">
+</audio>
+
 ## Finale From New World Symphony
 
 <audio controls>
