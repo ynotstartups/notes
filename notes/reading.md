@@ -1,265 +1,109 @@
 # Readings
 
-## 2022
+| Year | Name                                                                       | Author                          | Comments                            |
+| ---- | -------------------------------------------------------------------------- | ------------------------------- | ----------------------------------- |
+| 2022 | Vim User Manual                                                            |                                 |                                     |
+| 2022 | Faber Adult Piano Adventures Book 1                                        |                                 |                                     |
+| 2022 | The Remains Of The Day                                                     | Kazuo Ishiguro                  |                                     |
+| 2022 | A Pale View Of Hills                                                       | Kazuo Ishiguro                  |                                     |
+| 2022 | Normal People                                                              | Sally Rooney                    |                                     |
+| 2022 | Klara and The Sun                                                          | Sally Rooney                    |                                     |
+| 2022 | Conversation With Friends                                                  | Sally Rooney                    |                                     |
+| 2022 | Nocturnes                                                                  | Kazuo Ishiguro                  |                                     |
+| 2022 | The Priory Of The Orange Tree                                              | Samantha Shannon                |                                     |
+| 2022 | Absolutely On Music                                                        | Murakami and Ozawa              |                                     |
+| 2022 | Coursera Introduction to Music                                             | Craig Wright                    |                                     |
+| 2022 | Harry Potter and the Philosopher's Stone Audio Book                        | J.K. Rowling                    |                                     |
+| 2022 | The young person's guide to playing the piano                              | Sidney Harrison                 |                                     |
+| 2022 | Never Let Me Go                                                            | Kazuo Ishiguro                  | Obssessed With Kazuo Ishiguro       |
+| 2022 | First Person Singular                                                      | Haruki Murakami                 |                                     |
+| 2022 | Ernest Hemingway on Writing                                                | Ernest Hemingway                | Started my journey of writing       |
+| 2022 | Penguin Great Ideas: Why I Write                                           | George Orwell                   |                                     |
+| 2022 | The Manager\`s Path: A Guide for Tech Leaders Navigating Growth and Change |                                 |                                     |
+| 2021 | Introduction to Linux (Third Edition)                                      | Machtelt Garrels                |                                     |
+| 2021 | How to Take Smart Notes                                                    | Sönke Ahrens                    |                                     |
+| 2021 | What if? : serious scientific answers to absurd hypothetical questions     | Munroe Randal                   |                                     |
+| 2021 | Factory Girls                                                              | Leslie Chang                    |                                     |
+| 2021 | The Forever War                                                            | Joe Haldeman                    |                                     |
+| 2021 | Dying Inside                                                               | Rovert Silverberg               |                                     |
+| 2021 | Childhood's End                                                            | Arthur Clarke                   |                                     |
+| 2021 | Downward To The Earth                                                      | Robert Silverberg               |                                     |
+| 2021 | The Gods Themselves                                                        | Isaac Asimov                    |                                     |
+| 2021 | Comics: Uzumaki Spiral In To Horror vol 1,2,3                              | Junji Ito                       |                                     |
+| 2021 | Comics: Eternals                                                           | Neil Gaiman                     |                                     |
+| 2021 | Comics: Neonomicon                                                         | Alan Moore                      |                                     |
+| 2021 | Comics: Kingdom Come                                                       | Mark Waid                       |                                     |
+| 2021 | Comics: Age Of Ultron                                                      | Brian Michael Bendis            |                                     |
+| 2021 | Comics: Marvels                                                            | Kurt Busiek                     |                                     |
+| 2021 | Comics: Batman R.I.P                                                       | Grant Morrison                  |                                     |
+| 2021 | The World Atlas Of Coffee                                                  | James Hoffmann                  |                                     |
+| 2021 | Comics: 1602                                                               | Alan Moore                      |                                     |
+| 2021 | Talking To My Daughter                                                     | Yanis Varoufakis                |                                     |
+| 2021 | Comics: The Book Of Human Insects                                          | Tezuka Osamu                    |                                     |
+| 2021 | Comics: Remina                                                             | Junji Ito                       |                                     |
+| 2021 | Brief Answers To The Big Questions                                         | Stephen Hawking                 |                                     |
+| 2021 | Managing Oneself                                                           | Peter F. Drucker                |                                     |
+| 2021 | A Philosophy of Software Design                                            | John Ousterhout                 |                                     |
+| 2021 | Dune                                                                       | Frank Herbert                   |                                     |
+| 2021 | Basic Fantasy Role-Playing Game 3rd Edition                                | Chris Gonnerman                 | Obsessed with Table Top RPG         |
+| 2021 | White Box: Fantastic Medieval Adventure Game                               | Charlie Mason                   |                                     |
+| 2021 | Snow Crash                                                                 | Neal Stephenson                 |                                     |
+| 2021 | Mona Lisa Overdrive (The Neuromancer Trilogy)                              | Neal Stephenson                 |                                     |
+| 2021 | Count Zero (The Neuromancer Trilogy)                                       | Neal Stephenson                 |                                     |
+| 2021 | Neuromancer (The Neuromancer Trilogy)                                      | Neal Stephenson                 |                                     |
+| 2021 | Computer Systems: A Programmer's Perspective, Global Edition               | Randal Bryant                   |                                     |
+| 2020 | Software Engineering at Google                                             | Titus Winters                   |                                     |
+| 2020 | The Age Of Innocence                                                       | Edith Wharton                   |                                     |
+| 2020 | The Diary Of a Nobody                                                      | Geogre And Weedon Grossmith     |                                     |
+| 2020 | Crime And Punishment                                                       | Fyodor Dostoyevsky              |                                     |
+| 2020 | How to Win Friends and Influence People                                    | Dale Carnegie                   |                                     |
+| 2020 | Design patterns : elements of reusable object-oriented software            | Erich Gamma                     |                                     |
+| 2020 | Refactoring                                                                | Martin Fowler                   |                                     |
+| 2020 | The Penguin History of the World                                           | J M Roberts                     |                                     |
+| 2020 | The Nether World                                                           | George Gissing                  |                                     |
+| 2020 | The Way We Live Now                                                        | Anthony Trollope                |                                     |
+| 2020 | Middlemarch                                                                | George Eliot                    |                                     |
+| 2019 | The Catcher In The Rye                                                     | J.D. Salinger                   |                                     |
+| 2019 | Vanity Fair                                                                | Thackeray                       |                                     |
+| 2019 | Keys To Drawing                                                            |                                 |                                     |
+| 2019 | Intelligent investor                                                       |                                 |                                     |
+| 2019 | Homage To Catalonia                                                        | George Orwell                   |                                     |
+| 2019 | Burmese Days                                                               | George Orwell                   |                                     |
+| 2019 | The Fall                                                                   | Albert Camus                    |                                     |
+| 2019 | Thus Spoke Zarathustra                                                     | Friedrich Nietzsche             |                                     |
+| 2019 | The Outsider                                                               | Albert Camus                    |                                     |
+| 2019 | Nausea - Jean                                                              | Paul Sartre                     |                                     |
+| 2019 | What is Art?                                                               | Leo Tolstoy                     |                                     |
+| 2019 | Metaphysics                                                                | Aristotle                       |                                     |
+| 2019 | The Picture Of Dorian Gray                                                 | Oscar Wilde                     |                                     |
+| 2019 | Darcula                                                                    | Bram Stoker                     |                                     |
+| 2019 | Frankenstein                                                               | Mary Shelley                    |                                     |
+| 2018 | The life-changing magic of tidying                                         | Marie Kondo                     | Made me start practising minimalism |
+| 2018 | In The Miso Soup                                                           | Ryu Murakami, Ralph F. McCarthy |                                     |
+| 2018 | The Red and the Black                                                      | Stenhadl                        |                                     |
+| 2018 | Les Miserables                                                             | Victor Hugo                     |                                     |
+| 2018 | A Christmas Carol                                                          | Charles Dickens                 |                                     |
+| 2018 | Little Women                                                               | Louisa May Alcott               |                                     |
+| 2018 | The Handmaid's Tale                                                        | Margaret Atwood                 |                                     |
+| 2017 | War and Peace (Vintage Classics)                                           | Leo Tolstoy                     |                                     |
+| 2017 | Men Without Women                                                          | Haruki Murakami                 |                                     |
+| 2017 | A Tale Of Two Cities                                                       | Charles Dickens                 |                                     |
+| 2017 | David Copperfield                                                          | Charles Dickens                 |                                     |
+| 2017 | Pride and Prejudice                                                        | Jane Austen                     |                                     |
+| 2017 | Heart Of Darkness                                                          | Joseph Conrad                   |                                     |
+| 2016 | The Three Musketeers                                                       | Dumas                           |                                     |
+| 2016 | Jane Eyre                                                                  | Charlotte Bronte                |                                     |
+| 2016 | We                                                                         | Yevgeny Zamyatin                | Dystopian                           |
+| 2016 | Brave New World                                                            | Aldous Huxley                   |                                     |
+| 2016 | Animal Farm                                                                | George Orwell                   |                                     |
+| 2016 | Lolita                                                                     | Vladimir Nabokov                |                                     |
+| 2015 | Python for Data Analysis                                                   | Wes McKinney                    |                                     |
+| 2014 | Knowledge is Beautiful                                                     | David McCanless                 |                                     |
+| 20XX | 1984                                                                       | George Orwell                   |                                     |
+| 20XX | One Hundred Years Of Solitude                                              | Gabriel García Márquez          |                                     |
+| 2012 | Outliers                                                                   |                                 |                                     |
 
-**Vim User Manual**
-
-**Faber Adult Piano Adventures Book 1**
-
-**The Remains Of The Day - Kazuo Ishiguro**
-
-**A Pale View Of Hills - Kazuo Ishiguro**
-
-**Normal People - Sally Rooney**
-
-**Klara and The Sun - Sally Rooney**
-
-**Conversation With Friends - Sally Rooney**
-
-**Nocturnes - Kazuo Ishiguro**
-
-**The Priory Of The Orange Tree - Samantha Shannon**
-
-Only read 1/3
-
-**Absolutely On Music - Murakami and Ozawa**
-
-**Coursera Introduction to Music - Craig Wright**
-
-**Harry Potter and the Philosopher's Stone Audio Book by J.K. Rowling**
-
-**The young person's guide to playing the piano - Sidney Harrison**
-
-**Never Let Me Go - Kazuo Ishiguro**
-
-Started liking Kazup Ishiguro
-
-**First Person Singular - Haruki Murakami**
-
-**Ernest Hemingway on Writing - Ernest Hemingway**
-
-Started my journey of writing
-
-**Penguin Great Ideas: Why I Write - George Orwell**
-
-**The Manager\`s Path: A Guide for Tech Leaders Navigating Growth and Change**
-
-Only read for new manager section
-
-## 2021
-
-**Introduction to Linux (Third Edition) - Machtelt Garrels**
-
-**How to Take Smart Notes - Sönke Ahrens**
-
-Only read the first part, the smart note system itself, inspired this website
-
-**What if? : serious scientific answers to absurd hypothetical questions -
-Munroe Randall**
-
-**Factory Girls - Leslie Chang**
-
-**The Forever War - Joe Haldeman**
-
-**Dying Inside - Rovert Silverberg**
-
-Read half the book only
-
-**Childhood's End - Arthur Clarke**
-
-**Downward To The Earth - Robert Silverberg**
-
-**The Gods Themselves - Isaac Asimov**
-
-**Comics: Uzumaki Spiral In To Horror vol 1,2,3 - Junji Ito**
-
-Obsessed about comics at the moment
-
-**Comics: Eternals - Neil Gaiman**
-
-**Comics: Neonomicon - Alan Moore**
-
-**Comics: Kingdom Come - Mark Waid**
-
-**Comics: Age Of Ultron - Brian Michael Bendis**
-
-**Comics: Marvels - Kurt Busiek**
-
-**Comics: Batman R.I.P - Grant Morrison**
-
-**The World Atlas Of Coffee - James Hoffmann**
-
-Obsessed with coffee at the moment, James Hoffmann has a great youtube channel too
-
-**Comics: 1602 - Alan Moore**
-
-**Talking To My Daughter - Yanis Varoufakis**
-
-**Comics: The Book Of Human Insects - Tezuka Osamu**
-
-**Comics: Remina - Junji Ito**
-
-**Brief Answers To The Big Questions - Stephen Hawking**
-
-**Managing Oneself - Peter F. Drucker**
-
-**A Philosophy of Software Design - John Ousterhout**
-
-**Dune - Frank Herbert**
-
-**Basic Fantasy Role-Playing Game 3rd Edition - Chris Gonnerman**
-
-Obsessed with table top RPG at the moment
-
-**White Box: Fantastic Medieval Adventure Game - Charlie Mason**
-
-**Snow Crash - Neal Stephenson**
-
-**Mona Lisa Overdrive (The Neuromancer Trilogy) - Neal Stephenson**
-
-The beginning of cyberpunk, great trilogy
-
-**Count Zero (The Neuromancer Trilogy) - Neal Stephenson**
-
-**Neuromancer (The Neuromancer Trilogy)- Neal Stephenson**
-
-**Computer Systems: A Programmer's Perspective, Global Edition - Randal Bryant**
-
-Wasn't about to finish, only read 150 pages
-
-## 2020
-
-**Software Engineering at Google - Titus Winters**
-
-**The Age Of Innocence - Edith Wharton**
-
-**The Diary Of a Nobody - Geogre And Weedon Grossmith**
-
-**Crime And Punishment - Fyodor Dostoyevsky**
-
-**How to Win Friends and Influence People - Dale Carnegie**
-
-**Design patterns : elements of reusable object-oriented software - Erich Gamma**
-
-**Refactoring - Martin Fowler**
-
-**The Penguin History of the World - J M Roberts**
-
-**The Nether World - George Gissing**
-
-Obsessed with Victorian novel at the moment
-
-**The Way We Live Now - Anthony Trollope**
-
-**Middlemarch - George Eliot**
-
-## 2019
-
-**The Catcher In The Rye - J.D. Salinger**
-
-**Vanity Fair - Thackeray**
-
-**Keys To Drawing**
-
-Tried to learn how to draw, wasn't successful
-
-**Intelligent investor**
-
-It jump-started my investment journey, I am still applying investment philosophy.
-
-**Homage To Catalonia - George Orwell**
-
-**Burmese Days - George Orwell**
-
-**The Fall - Albert Camus**
-
-Wasn't sure I understand the book at all
-
-**Thus Spoke Zarathustra - Friedrich Nietzsche**
-
-Hmm, didn't finish, too difficult
-
-**The Outsider - Albert Camus**
-
-**Nausea - Jean-Paul Sartre**
-
-**What is Art? - Leo Tolstoy**
-
-**Metaphysics - Aristotle**
-
-**The Picture Of Dorian Gray - Oscar Wilde**
-
-**Darcula - Bram Stoker**
-
-**Frankenstein - Mary Shelley**
-
-## 2018
-
-**The life-changing magic of tidying**
-
-This book makes me start practising minimalism, thank you Marie Kondo!
-
-**In The Miso Soup - Ryu Murakami, Ralph F. McCarthy**
-
-**The Red and the Black - Stenhadl**
-
-**Les Miserables - Victor Hugo**
-
-**A Christmas Carol - Charles Dickens**
-
-**Little Women - Louisa May Alcott**
-
-**The Handmaid's Tale - Margaret Atwood**
-
-## 2017
-
-**War and Peace (Vintage Classics) - Leo Tolstoy**
-
-**Men Without Women - Haruki Murakami**
-
-**A Tale Of Two Cities - Charles Dickens**
-
-**David Copperfield - Charles Dickens**
-
-**Pride and Prejudice - Jane Austen**
-
-**Heart Of Darkness - Joseph Conrad**
-
-## 2016
-
-**The Three Musketeers - Dumas**
-
-**Jane Eyre - Charlotte Bronte**
-
-**We - Yevgeny Zamyatin**
-
-Dystopian
-
-**Brave New World - Aldous Huxley**
-
-**Animal Farm - George Orwell**
-
-**Lolita - Vladimir Nabokov**
-
-## 2015
-
-**Python for Data Analysis - Wes McKinney**
-
-## 2014
-
-**Knowledge is Beautiful - David McCanless**
-
-## Older
-
-**1984 - George Orwell**
-
-**One Hundred Years Of Solitude - Gabriel García Márquez**
-
-## First Book
-
-**Outliers**
-
-Outliers started my journey of reading books at 17 years old.
+## Outliers
 
 I own this to a English tutor because I was not able to pass the IELTS English exam for university.
 
