@@ -9,33 +9,24 @@
 
 ## New Habits To Build
 
-- terminal: `jq` to parse json output
-
-- terminal: `aw` to open calendar view for this week
-
-- terminal: `am` to open calender view for this month
-
-- i3:       `command+shift+j` to open jira
-
-- vim:      `y+p` to copy file path
-
-- vim:      `f`   to find
-
-- terminal: `cheatsheet foo` to get cheatsheet for foo online
-
-- terminal: `mb` to drop into bash with vi keybinding
-
-- terminal: `vjira` to create jira ticket with template
-
-- i3:       `command+shift+k` to open google keep in chrome
-
-- vim:      `i+a` to insert agenda
-
-- vim:      `i+m` to insert git commit message from branch name
-
-- vim:      `j`   to open jira ticket under cursor
-
-- vim:      `e+v` to open vimrc
+| Type     | Command           | Function                                      |
+| -------- | ----------------- | --------------------------------------------- |
+| terminal | `am`              | open calender view for this month             |
+| terminal | `am`              | open calender view for this month             |
+| terminal | `aw`              | open calendar view for this week              |
+| terminal | `go FOO`          | google in terminal                            |
+| i3       | `command+shift+j` | open jira                                     |
+| -------- | ----------------- | --------------------------------------------- |
+| vim      | `yp`              | copy file path                                |
+| vim      | `f`               | find                                          |
+| terminal | `cheatsheet FOO`  | get cheatsheet for foo online                 |
+| terminal | `mb`              | drop into bash with vi keybinding             |
+| terminal | `vjira`           | create jira ticket with template              |
+| i3       | `command+shift+k` | open google keep in chrome                    |
+| vim      | `i+a`             | insert agenda                                 |
+| vim      | `i+m`             | insert git commit message from branch name    |
+| vim      | `j`               | open jira ticket under cursor                 |
+| vim      | `e+v`             | open vimrc                                    |
 
 ## Long Term Reminders
 
