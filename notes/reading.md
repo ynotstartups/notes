@@ -15,13 +15,13 @@
 | 2022 | Absolutely On Music                                                        | Murakami and Ozawa              |                                     |
 | 2022 | Coursera Introduction to Music                                             | Craig Wright                    |                                     |
 | 2022 | Harry Potter and the Philosopher's Stone Audio Book                        | J.K. Rowling                    |                                     |
-| 2022 | The young person's guide to playing the piano                              | Sidney Harrison                 |                                     |
+| 2022 | The young person's guide to playing the piano                              | Sidney Harrison                 | Started Learning Piano              |
 | 2022 | Never Let Me Go                                                            | Kazuo Ishiguro                  | Obssessed With Kazuo Ishiguro       |
 | 2022 | First Person Singular                                                      | Haruki Murakami                 |                                     |
 | 2022 | Ernest Hemingway on Writing                                                | Ernest Hemingway                | Started my journey of writing       |
 | 2022 | Penguin Great Ideas: Why I Write                                           | George Orwell                   |                                     |
 | 2022 | The Manager\`s Path: A Guide for Tech Leaders Navigating Growth and Change |                                 |                                     |
-| 2021 | Introduction to Linux (Third Edition)                                      | Machtelt Garrels                |                                     |
+| 2021 | Introduction to Linux (Third Edition)                                      | Machtelt Garrels                | Switched To Linux                   |
 | 2021 | How to Take Smart Notes                                                    | Sönke Ahrens                    |                                     |
 | 2021 | What if? : serious scientific answers to absurd hypothetical questions     | Munroe Randal                   |                                     |
 | 2021 | Factory Girls                                                              | Leslie Chang                    |                                     |
@@ -41,7 +41,7 @@
 | 2021 | Comics: 1602                                                               | Alan Moore                      |                                     |
 | 2021 | Talking To My Daughter                                                     | Yanis Varoufakis                |                                     |
 | 2021 | Comics: The Book Of Human Insects                                          | Tezuka Osamu                    |                                     |
-| 2021 | Comics: Remina                                                             | Junji Ito                       |                                     |
+| 2021 | Comics: Remina                                                             | Junji Ito                       | Started Reading Comics              |
 | 2021 | Brief Answers To The Big Questions                                         | Stephen Hawking                 |                                     |
 | 2021 | Managing Oneself                                                           | Peter F. Drucker                |                                     |
 | 2021 | A Philosophy of Software Design                                            | John Ousterhout                 |                                     |
