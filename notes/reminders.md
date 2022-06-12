@@ -1,11 +1,12 @@
 # What Am I Doing Now?
 
-| Name                        | Progress       | Total      |
-| --------------------------- | -------------- | ---------- |
-| The Unconsoled              | 27             | 535        |
-| Watchmen                    | Chapter 5      | Chapter 12 |
-| Docker In Action            | 125, Chapter 6 |            |
-| Piano Adventures Classics 1 | 42             | 80         |
+| Name                        | Progress       | Total |
+| --------------------------- | -------------- | ----- |
+| The Unconsoled              | 27             | 535   |
+| Docker In Action            | 125, Chapter 6 |       |
+| Piano Adventures Classics 1 | 42             | 80    |
+
+Note: Move to ./reading.md when done.
 
 ## New Habits To Build
 
