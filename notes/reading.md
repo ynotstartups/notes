@@ -2,7 +2,7 @@
 
 | Year | Name                                                                       | Author                          | Comments                            |
 | ---- | -------------------------------------------------------------------------- | ------------------------------- | ----------------------------------- |
-| 2022 | Watchmen                                                                   | Alan Moore, Dave Gibbons        |                                     |
+| 2022 | Comics: Watchmen                                                           | Alan Moore, Dave Gibbons        |                                     |
 | 2022 | Vim User Manual                                                            |                                 |                                     |
 | 2022 | Faber Adult Piano Adventures Book 1                                        |                                 |                                     |
 | 2022 | The Remains Of The Day                                                     | Kazuo Ishiguro                  |                                     |
