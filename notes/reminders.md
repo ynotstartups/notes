@@ -16,7 +16,7 @@ Note: Move to ./reading.md when done.
 | term     | `am`              | open calender view for this month  |
 | term     | `aw`              | open calendar view for this week   |
 | term     | `q, qo FOO`       | query FOO in duckduckgo            |
-| term     | `qp, qop FOO`     | query FOO in python docs via ddg   |
+| term     | `q '!py3 FOO'`    | query FOO in python docs           |
 | i3       | `command+shift+j` | open jira                          |
 | -------- | ----------------- | ---------------------------------- |
 | vim      | `yp`              | copy file path                     |
