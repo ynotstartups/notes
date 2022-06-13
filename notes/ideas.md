@@ -22,3 +22,33 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - b
     - c
 - Markdown: Sort by indent To Format File such as this one?
+
+## Books That I Want To Read
+
+**Software Engineering**
+
+- A Philosophy Of Software Design
+- Cloud Design Patterns - Microsoft Azure Docs
+- Database Internals: A Deep-Dive Into How Distributed Data Systems Work
+- Designing Data-Intensive Applications
+- Domain-Driven Design
+- Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
+- Pro Git By Scott Chacon And Ben Straub
+- Structure and interpretation of computer program
+- Test Driven Development: By Example
+- The C Programming Language By Brian Kernighan And Dennis Ritchie
+
+**Non-fictions**
+
+- Quiet: The Power of Introverts in a World That Can't Stop Talking
+  - To understand myself
+- Thinking, Fast and Slow
+  - To understand my mind
+- Guns, Germs, and Steel: The Fates of Human Societies
+
+**Fictions**
+
+- The Betrothed by Alessandro Manzoni
+  - I want to read an italian classic
+- The Forsyte Saga by John Galsworthy
+  - family drama
