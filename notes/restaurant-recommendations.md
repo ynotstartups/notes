@@ -8,6 +8,7 @@
 
 - [Bunbunbun](http://www.bunbunbun.co/)
 - [Dragon castle](https://www.dragoncastlelondon.com/)
+- [Flat Iron](https://flatironsteak.co.uk/)
 - [Franco Manca](https://www.francomanca.co.uk/)
 - [Honest bugger](https://www.honestburgers.co.uk/)
 - [Kineya Mugimaru - tumpora](https://www.kineya.co.uk/)
