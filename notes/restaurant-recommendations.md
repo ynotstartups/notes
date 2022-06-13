@@ -6,15 +6,24 @@
 
 ## London
 
-- [Bunbunbun](http://www.bunbunbun.co/)
-- [Dragon castle](https://www.dragoncastlelondon.com/)
+- [BúnBúnBún](http://www.bunbunbun.co/)
+  - best pho
+- [Dragon Castle](https://www.dragoncastlelondon.com/)
+  - best dimsum
 - [Flat Iron](https://flatironsteak.co.uk/)
 - [Franco Manca](https://www.francomanca.co.uk/)
-- [Honest bugger](https://www.honestburgers.co.uk/)
-- [Kineya Mugimaru - tumpora](https://www.kineya.co.uk/)
+  - best pizza
+- [Honest Burger](https://www.honestburgers.co.uk/)
+  - best burger
+- [Kineya Mugimaru - Tumpora](https://www.kineya.co.uk/)
+  - best affordable udon
+- [Koya Udon](https://www.koya.co.uk/?www.web3389.com)
+  - best udon
 - [Ozone Coffee](https://ozonecoffee.co.uk/)
+  - best filter coffee and brunch
 - [Romulo](https://www.romulocafe.co.uk/)
 - [Xijia dumplings](https://www.xihomedumplings.co.uk/)
+  - best dumplings
 
 ## Istanbul
 
