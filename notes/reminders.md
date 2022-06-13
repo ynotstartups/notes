@@ -8,36 +8,7 @@
 
 Note: Move to ./reading.md when done.
 
-## New Habits To Build
-
-| Type     | Command           | Function                           |
-| -------- | ----------------- | ---------------------------------- |
-| term     | `am`              | open calender view for this month  |
-| term     | `am`              | open calender view for this month  |
-| term     | `aw`              | open calendar view for this week   |
-| term     | `q, qo FOO`       | query FOO in duckduckgo            |
-| term     | `q '!py3 FOO'`    | query FOO in python docs           |
-| i3       | `command+shift+j` | open jira                          |
-| -------- | ----------------- | ---------------------------------- |
-| vim      | `yp`              | copy file path                     |
-| vim      | `f`               | find                               |
-| term     | `cheatsheet FOO`  | get cheatsheet for foo online      |
-| term     | `mb`              | drop into bash with vi keybinding  |
-| term     | `vjira`           | create jira ticket with template   |
-| i3       | `command+shift+k` | open google keep in chrome         |
-| vim      | `i+a`             | agenda                             |
-| vim      | `i+m`             | git commit message from branch     |
-| vim      | `j`               | open jira ticket under cursor      |
-| vim      | `e+v`             | open vimrc                         |
-
-## Long Term Reminders
-
-- [Write down three good things a day](https://ggia.berkeley.edu/practice/three-good-things)
-- Learn to understand, talk about and write down my emotion
-- Correct standing and seating posture
-- Workout daily
-- Write down important facts about people
-- [Progression via books](./reading.md)
+- Develop the idea [Progression via books](./reading.md)
   - When I look back on the books that I finished or not finished, I know those are my own progress
     - Other medias (e.g. articles, tv series, movies) be recorded too, if they turned out to be influential on me
   - Then life or life progression is simplified to choose the next books to read
@@ -108,3 +79,32 @@ Note: Move to ./reading.md when done.
   - it seems daunting that they are so many classics that I should read but there is no point to painstakingly go through them one by one. I think to effectively learn something, we need to understand the fundamental and the theory as well as practice, so choose a book that's most relevant to work at hand and then read and practice.
   - modern technology is very complex, so understand the underpinning fundamental scales better, in other words, learning from the bottom up instead of top down is the only possible solution
   - TODO: write down the list books with description and why do I think I should read them?
+
+## New Habits To Build
+
+| Type     | Command           | Function                           |
+| -------- | ----------------- | ---------------------------------- |
+| term     | `am`              | open calender view for this month  |
+| term     | `aw`              | open calendar view for this week   |
+| term     | `q, qo FOO`       | query FOO in duckduckgo            |
+| term     | `q '!py3 FOO'`    | query FOO in python docs           |
+| i3       | `command+shift+j` | open jira                          |
+| -------- | ----------------- | ---------------------------------- |
+| vim      | `yp`              | copy file path                     |
+| vim      | `f`               | find                               |
+| term     | `cheatsheet FOO`  | get cheatsheet for foo online      |
+| term     | `mb`              | drop into bash with vi keybinding  |
+| term     | `vjira`           | create jira ticket with template   |
+| i3       | `command+shift+k` | open google keep in chrome         |
+| vim      | `i+a`             | agenda                             |
+| vim      | `i+m`             | git commit message from branch     |
+| vim      | `j`               | open jira ticket under cursor      |
+| vim      | `e+v`             | open vimrc                         |
+
+## Long Term Reminders
+
+- [Write down three good things a day](https://ggia.berkeley.edu/practice/three-good-things)
+- Learn to understand, talk about and write down my emotion
+- Correct standing and seating posture
+- Workout daily
+- Write down important facts about people
