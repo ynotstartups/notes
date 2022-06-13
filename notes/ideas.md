@@ -1,5 +1,13 @@
 # Ideas
 
+The idea of this idea documentation is to note down the random ideas I have and add use case when one idea turns out to be common and worth solving.
+
+Time is limited, we cannot simply do all of our random ideas, otherwise, nothing can be achieved.
+
+We need to find out the fundamental theme of these ideas and then perhaps we can find a solution that fixes multiple problems instead of individual problems, similar to how one runs `retro`.
+
+## Random Ideas
+
 - book: Thinking, Fast and Slow - Daniel Kahneman
   - learn about human behaviours
   - learn about decision making
