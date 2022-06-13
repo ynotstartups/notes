@@ -1,0 +1,72 @@
+# Progression Via Books
+
+- When I look back on the books that I finished or not finished, I know those are my own progress
+  - Other medias (e.g. articles, tv series, movies) be recorded too, if they turned out to be influential on me
+- Then life or life progression is simplified to choose the next books to read
+- Reading the right books are critical, though it is not difficult
+  - the simple answer is to read classics
+- e.g. I work as a backend engineer, what are the books I should read?
+  - A Philosophy Of Software Design
+  - Cloud Design Patterns - Microsoft Azure Docs
+  - Database Internals: A Deep-Dive Into How Distributed Data Systems Work
+  - Designing Data-Intensive Applications
+  - Domain-Driven Design
+  - Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
+  - Pro Git By Scott Chacon And Ben Straub
+  - Structure and interpretation of computer program
+  - Test Driven Development: By Example
+  - The C Programming Language By Brian Kernighan And Dennis Ritchie
+- e.g. What are the technology that I use at work and how can I better understand what I am doing?
+  - ADR
+  - API Design
+  - Android
+  - Markdown, RST
+  - UI/UX Design
+  - aws
+  - bash
+  - circleCI
+  - communications
+  - confluence
+  - ctags
+  - django, orm (object-relational mapping layer), drf, middleware,
+  - django otm
+  - django-ninja
+  - docker
+  - docker-compose
+  - git
+  - github
+  - networking, http, ip, load balancer, auth ...
+  - refactoring
+  - analytics
+  - iOS
+  - image processing
+  - ipython
+  - jira
+  - kubernetes
+  - linux
+  - locale?
+  - make
+  - managements
+  - microservices architecture
+  - mypy
+  - networking
+  - wsgi
+  - poetry
+  - postgres
+  - project management
+  - testings, unit tests, end2end test
+  - pytest
+  - python
+  - python virtual env
+  - redis
+  - running meetings
+  - sqs queues
+  - tech lead
+  - vim
+  - writing documentations
+  - writing tickets
+  - yaml
+  - monitoring, kibana, newrelic, sentry
+- it seems daunting that they are so many classics that I should read but there is no point to painstakingly go through them one by one. I think to effectively learn something, we need to understand the fundamental and the theory as well as practice, so choose a book that's most relevant to work at hand and then read and practice.
+- modern technology is very complex, so understand the underpinning fundamental scales better, in other words, learning from the bottom up instead of top down is the only possible solution
+- TODO: write down the list books with description and why do I think I should read them?
