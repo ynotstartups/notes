@@ -21,6 +21,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - a
     - b
     - c
+- Vim: autocorrect all misspelling words
 - Markdown: Sort by indent To Format File such as this one?
 
 ## Books That I Want To Read
