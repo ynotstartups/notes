@@ -69,4 +69,3 @@
   - monitoring, kibana, newrelic, sentry
 - it seems daunting that they are so many classics that I should read but there is no point to painstakingly go through them one by one. I think to effectively learn something, we need to understand the fundamental and the theory as well as practice, so choose a book that's most relevant to work at hand and then read and practice.
 - modern technology is very complex, so understand the underpinning fundamental scales better, in other words, learning from the bottom up instead of top down is the only possible solution
-- TODO: write down the list books with description and why do I think I should read them?
