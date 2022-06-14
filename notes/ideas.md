@@ -27,18 +27,17 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 **Software Engineering**
 
-- A Philosophy Of Software Design
 - Cloud Design Patterns - Microsoft Azure Docs
 - Database Internals: A Deep-Dive Into How Distributed Data Systems Work
 - Designing Data-Intensive Applications
 - Domain-Driven Design
 - Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
-- Pro Git By Scott Chacon And Ben Straub
-- Structure and interpretation of computer program
+- Pro Git - Scott Chacon And Ben Straub
+- Structure And Interpretation Of Computer Program
 - Test Driven Development: By Example
-- The C Programming Language By Brian Kernighan And Dennis Ritchie
+- The C Programming Language - Brian Kernighan And Dennis Ritchie
 
-**Non-fictions**
+**Non-Fictions**
 
 - Quiet: The Power of Introverts in a World That Can't Stop Talking
   - To understand myself
@@ -48,6 +47,10 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 **Fictions**
 
+- All Novels by Kazuo Ishiguro
+  - An Artist of the Floating World
+  - When We Were Orphans
+  - The Buried Giant
 - The Betrothed by Alessandro Manzoni
   - I want to read an italian classic
 - The Forsyte Saga by John Galsworthy
