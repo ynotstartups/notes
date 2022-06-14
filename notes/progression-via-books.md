@@ -1,12 +1,15 @@
 # Progression Via Books
 
-## The Idea
+## Realisation
 
-I see progress when I read a book, or completed any other medias (e.g. articles, tv series, movies...).
-
+I realised that I saw progress on my self when I finish reading a book, or completed any other medias (e.g. articles, tv series, movies...).
 See `./reading.md`.
 
+## What is The Big Idea?
+
 Progression in life is simplified to the cycle of finishing a book and choosing next book to read.
+
+## How to execution this idea?
 
 Then reading the right books becomes critical, time is limited.
 
@@ -33,7 +36,7 @@ What are the things that I do in work? What are the books that I should read?
 
 ADR,API Design,Android,Markdown, RST,UI/UX Design,aws,bash,circleCI,communications,confluence,ctags,django, orm (object-relational mapping layer), drf, middleware,,django otm,django-ninja,docker,docker-compose,git,github,networking, http, ip, load balancer, auth ...,refactoring,analytics,iOS,image processing,ipython,jira,kubernetes,linux,locale?,make,managements,microservices architecture,mypy,networking,wsgi,poetry,postgres,project management,testings, unit tests, end2end test,pytest,python,python virtual env,redis,running meetings,sqs queues,tech lead,vim,writing documentations,writing tickets,yaml, monitoring, kibana, newrelic, sentry
 
-Modern technology is very complex, so understand the underpinning fundamental scales better, in other words, learning from the bottom up instead of top down is the only possible solution
+Modern technology is very complex, so understand the underpinning fundamental scales better, in other words, learning from the bottom up instead of top down is the only possible solution.
 
 ## Conclusion
 
