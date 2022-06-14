@@ -2,13 +2,15 @@
 
 - Develop the idea [Progression via books](./progression-via-books.md)
 
-| Name                        | Progress       | Total |
-| --------------------------- | -------------- | ----- |
-| The Unconsoled              | 27             | 535   |
-| Docker In Action            | 125, Chapter 6 |       |
-| Piano Adventures Classics 1 | 42             | 80    |
+| Name                        | Progress   | Total  | Notes                          |
+| --------------------------- | ---------- | ------ | ------------------------------ |
+| Docker In Action            | 125, Ch. 6 | 337    | Software Engineering           |
+| My Liberation Diary         | Ep. 2      | Ep. 16 | Understanding Human & Emotions |
+| Piano Adventures Classics 1 | 42         | 80     | Music                          |
+| Talking With Tech Leads     | 72         | 253    | Tech Lead                      |
+| The Unconsoled              | 27         | 535    | Understanding Human & Emotions |
 
-Note: Move to ./reading.md when done.
+Note: Move to `./reading.md` when done.
 
 ## New Habits To Build
 
