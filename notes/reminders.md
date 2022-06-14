@@ -7,7 +7,7 @@
 | Docker In Action            | 125, Ch. 6 | 337    | Software Engineering           |
 | My Liberation Diary         | Ep. 2      | Ep. 16 | Understanding Human & Emotions |
 | Piano Adventures Classics 1 | 42         | 80     | Music                          |
-| Talking With Tech Leads     | 72         | 253    | Tech Lead                      |
+| Talking With Tech Leads     | 104        | 253    | Tech Lead                      |
 | The Unconsoled              | 27         | 535    | Understanding Human & Emotions |
 
 Note: Move to `./reading.md` when done.
