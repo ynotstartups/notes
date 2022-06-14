@@ -25,6 +25,10 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Books That I Want To Read
 
+**Criteria**
+
+- Classics
+
 **Software Engineering**
 
 - Cloud Design Patterns - Microsoft Azure Docs
