@@ -8,21 +8,19 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- book: Thinking, Fast and Slow - Daniel Kahneman
-  - learn about human behaviours
-  - learn about decision making
-- Vim: Caser Plugin don't remove dash `-` when using `gst`
+- LIFE: Create my own README page similar to https://eugeneyan.com/readme/
+- VIM: Caser Plugin don't remove dash `-` when using `gst`
   - useful in markdown to preserve the list syntax, such as this one at the front
   - I do want the dash in the title e.g. The C Programming Language - Brian Kernighan And Dennis Ritchie
-- Vim: Buffer Management, Don't know what Vim buffer I have, use leader B to open the list of buffers?
+- VIM: Buffer Management, Don't know what Vim buffer I have, use leader B to open the list of buffers?
   - it can use as reminder to see what files I am working at too
-- Vim: Visual In Indent
+- VIM: Visual In Indent
   - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
     - a
     - b
     - c
-- Vim: autocorrect all misspelling words
-- Markdown: Sort by indent To Format File such as this one?
+- VIM: autocorrect all misspelling words
+- MARKDOWN: Sort by indent To Format File such as this one?
 
 ## Books That I Want To Read
 
@@ -32,6 +30,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 **Software Engineering**
 
+- Code: The Hidden Language of Computer Hardware and Software
 - Cloud Design Patterns - Microsoft Azure Docs
 - Database Internals: A Deep-Dive Into How Distributed Data Systems Work
 - Designing Data-Intensive Applications
@@ -60,3 +59,9 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
   - I want to read an italian classic
 - The Forsyte Saga by John Galsworthy
   - family drama
+
+## Random Articles That Might Be Interesting
+
+- [Read Time Recommendation System](https://eugeneyan.com/writing/real-time-recommendations/#how-to-design-and-implement-an-mvp)
+- [How Big Tech Runs Tech Projects without Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
+- [Coursera Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)

@@ -16,22 +16,23 @@ Note: Move to `./reading.md` when done.
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| i3       | `command+shift+j` | open jira                          |
+| i3       | `command+shift+k` | open google keep in chrome         |
 | term     | `am`              | open calender view for this month  |
 | term     | `aw`              | open calendar view for this week   |
-| term     | `q, qo FOO`       | query FOO in duckduckgo            |
-| term     | `q '!py3 FOO'`    | query FOO in python docs           |
-| i3       | `command+shift+j` | open jira                          |
-| -------- | ----------------- | ---------------------------------- |
-| vim      | `yp`              | copy file path                     |
-| vim      | `f`               | find                               |
 | term     | `cheatsheet FOO`  | get cheatsheet for foo online      |
 | term     | `mb`              | drop into bash with vi keybinding  |
 | term     | `vjira`           | create jira ticket with template   |
-| i3       | `command+shift+k` | open google keep in chrome         |
+| vim      | `e+v`             | open vimrc                         |
+| vim      | `f`               | find                               |
+| vim      | `t`               | shows Table Of Content for md      |
+| vim      | `yp`              | copy file path                     |
+| -------- | ----------------- | ---------------------------------- |
+| term     | `q, qo FOO`       | query FOO in duckduckgo            |
+| term     | `q '!py3 FOO'`    | query FOO in python docs           |
 | vim      | `i+a`             | agenda                             |
 | vim      | `i+m`             | git commit message from branch     |
 | vim      | `j`               | open jira ticket under cursor      |
-| vim      | `e+v`             | open vimrc                         |
 
 ## Long Term Reminders
 
