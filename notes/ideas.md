@@ -9,9 +9,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 ## Random Ideas
 
 - LIFE: Create my own README page similar to https://eugeneyan.com/readme/
-- VIM: Caser Plugin don't remove dash `-` when using `gst`
-  - useful in markdown to preserve the list syntax, such as this one at the front
-  - I do want the dash in the title e.g. The C Programming Language - Brian Kernighan And Dennis Ritchie
 - VIM: Buffer Management, Don't know what Vim buffer I have, use leader B to open the list of buffers?
   - it can use as reminder to see what files I am working at too
 - VIM: Visual In Indent
