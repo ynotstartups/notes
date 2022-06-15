@@ -1,5 +1,11 @@
 # Progression Via Books
 
+## The Question
+
+How do we know we are progressing in life?
+
+TODO: better describe the problem of hard to trace progression in life
+
 ## Realisation
 
 I realised that I saw progress on my self when I finish reading a book, or completed any other medias (e.g. articles, tv series, movies...).
