@@ -5,9 +5,9 @@
 | Name                        | Progress   | Total  | Notes                          |
 | --------------------------- | ---------- | ------ | ------------------------------ |
 | Docker In Action            | 125, Ch. 6 | 337    | Software Engineering           |
-| My Liberation Diary         | Ep. 2      | Ep. 16 | Understanding Human & Emotions |
-| Piano Adventures Classics 1 | 42         | 80     | Music                          |
-| Talking With Tech Leads     | 104        | 253    | Tech Lead                      |
+| My Liberation Diary         | Ep. 3      | Ep. 16 | Understanding Human & Emotions |
+| Piano Adventures Classics 1 | 46         | 80     | Music                          |
+| Talking With Tech Leads     | 127        | 253    | Tech Lead                      |
 | The Unconsoled              | 27         | 535    | Understanding Human & Emotions |
 
 Note: Move to `./reading.md` when done.
@@ -23,6 +23,7 @@ Note: Move to `./reading.md` when done.
 | term     | `cheatsheet FOO`  | get cheatsheet for foo online      |
 | term     | `mb`              | drop into bash with vi keybinding  |
 | term     | `vjira`           | create jira ticket with template   |
+| term     | `p`               | my open prs                        |
 | vim      | `e+v`             | open vimrc                         |
 | vim      | `f`               | find                               |
 | vim      | `t`               | shows Table Of Content for md      |
