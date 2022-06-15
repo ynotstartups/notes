@@ -1,8 +1,11 @@
 # Cheat Sheet Tech Lead
 
-A team Lead is not about being on the top in term of hierarchy, but at the front of the team,  like a leader of adventure, when there is a blocker, you need to jump in and unblock the, and direct the team to the right direction.
+> A team Lead is not about being on the top in term of hierarchy, but at the front of the team,  like a leader of adventure, when there is a blocker, you need to jump in and unblock the, and direct the team to the right direction.
 
-It's not about the end goal, it is all about the journey, just enjoy the day.
+> Act as a shepherd, looking after the team and steer them loosely in the right direction, rather than enforcing all my idea.
+> -- Jon Pither, Talking With Tech Leads
+
+It's not about the end goal, it is all about the journey, so enjoy the day.
 
 Tech Lead brings value by
 
@@ -78,7 +81,7 @@ h1. Questions
 ## API work flow
 
 1. API Design Doc first
-1. FE tickets iOS & Android
+1. iOS & Android tickets
 1. BE tickets
 
 ## reminders
