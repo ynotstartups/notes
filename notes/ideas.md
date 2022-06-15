@@ -8,7 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- LIFE: Create my own README page similar to https://eugeneyan.com/readme/
+- LIFE: Enrich my own README page similar to https://eugeneyan.com/readme/
+  - `./readme.md` - use `gf` to edit
 - LIFE: Keep a brag document for work similar to Create my own README page similar to https://jvns.ca/blog/brag-documents/
 - VIM: Buffer Management, Don't know what Vim buffer I have, use leader B to open the list of buffers?
   - it can use as reminder to see what files I am working at too
