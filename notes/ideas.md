@@ -56,6 +56,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - Thinking, Fast and Slow
   - To understand my mind
 - Guns, Germs, and Steel: The Fates of Human Societies
+- Drive: The Surprising Truth About What Motivates Us
+  - To learn about motivations
 
 **Fictions**
 
