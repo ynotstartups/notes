@@ -93,12 +93,30 @@ h1. Questions
 - breakdown large tasks into subtasks in Jira board
 - initial estimates needs to be accurate, spend time thinking about estimates after refinement and before planning
 
-## ideals
+## ideals - tech
 
 - 100% code coverage
 - documentations
 - strict typing
 - comprehensible tickets
+
+## ideals - behaviour
+
+- Before Standup
+  - 🔎 Focus on 3 most important things on each day
+  - 🎉 Prepare at least one celebration
+- My role is to remove obstacles, manage the stakeholders, and clear a path to incrementally improve the system. In return I expected everyone to be professional, speak out when they felt things weren't right, and respect the ideas of shared ownership.
+- If I am doing my job right, you should not feel my existence.
+- I consider myself a facilitator instead of a leader.
+- Only needs to do 3 things:
+  1. Provide (training, motivation, resources, opportunities, etc.)
+  1. Remove (blockers, confusion, politics)
+  1. Get Out Of The Way.
+- Bring Positive Energy! Celebrate wins!
+- Need to be realistic on deliverables
+- to tell the team in stand-up
+  - `Thursday: planning today, spend sometime to understand the tickets from backlog or refinement and think about the estimate before planning`
+  - `Friendly Reminder: We have refinement today, have a think about any tech debt and bug tickets that you want to discuss and bring into next sprint.`
 
 ## topics for 1 on 1 with Product Manager
 
