@@ -7,7 +7,7 @@
 | Docker In Action            | 125, Ch. 6 | 337    |
 | My Liberation Diary         | Ep. 3      | Ep. 16 |
 | Piano Adventures Classics 1 | 46         | 80     |
-| Talking With Tech Leads     | 147        | 253    |
+| Talking With Tech Leads     | 174        | 253    |
 | The Unconsoled              | 27         | 535    |
 
 Note: Move to `./reading.md` when done.
