@@ -10,7 +10,7 @@
 | Talking With Tech Leads     | 174        | 253    |
 | The Unconsoled              | 27         | 535    |
 
-Note: Move to `./reading.md` when done.
+Note: Move to [reading](./reading.md) when done.
 
 ## New Habits To Build
 
@@ -25,6 +25,7 @@ Note: Move to `./reading.md` when done.
 | vim      | `t`               | shows Table Of Content for md      |
 | vim      | `yp`              | copy file path                     |
 | vim      | `+1,-1`           | insert emoji                       |
+| vim      | `cwiw .`          | exchange word                      |
 | -------- | ----------------- | ---------------------------------- |
 | vim      | `e+v`             | open vimrc                         |
 | term     | `am`              | open calender view for this month  |
