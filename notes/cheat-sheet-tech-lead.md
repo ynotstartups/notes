@@ -75,8 +75,11 @@ h1. Questions
 ## Meetings
 
 - Standup at 10:20 everyday
-- Retrospective at 10:00 on Tuesday biweekly
-- Sprint Planning at 15:00 on Thursday biweekly
+- Weekly Disco Metrics at 10:40 on Thursday
+- Two Week Sprint
+  - Week 1: Retrospective at 10:00 on Tuesday
+  - Week 1: Refinement at 10:00 on Thursday
+  - Week 2: Sprint Planning at 15:00 on Thursday
 
 ## API work flow
 
