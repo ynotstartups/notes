@@ -8,6 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- MKFORMATS: auto fix to not stop the commit
 - VIM: Use vim-fugitive and build habits of add and commit in vim
   - useful for pushing changes in vim, especially for notes and dotfiles
 - LIFE: Enrich my own README page similar to https://eugeneyan.com/readme/
