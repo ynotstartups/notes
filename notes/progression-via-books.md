@@ -9,7 +9,7 @@ TODO: better describe the problem of hard to trace progression in life
 ## Realisation
 
 I realised that I saw progress on my self when I finish reading a book, or completed any other medias (e.g. articles, tv series, movies...).
-See `./reading.md`.
+See [reading](./reading.md)
 
 ## What is The Big Idea?
 
