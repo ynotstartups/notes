@@ -8,6 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- VIM: Use vim-fugitive and build habits of add and commit in vim
+  - useful for pushing changes in vim, especially for notes and dotfiles
 - LIFE: Enrich my own README page similar to https://eugeneyan.com/readme/
   - `./readme.md` - use `gf` to edit
 - LIFE: Keep a brag document for work similar to Create my own README page similar to https://jvns.ca/blog/brag-documents/
@@ -18,7 +20,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - a
     - b
     - c
-- VIM: autocorrect all misspelling words
+- VIM: autocorrect all misspelling words as one writes
 - MARKDOWN: Sort by indent To Format File such as this one?
 
 ## Books That I Want To Read
@@ -39,6 +41,13 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - Structure And Interpretation Of Computer Program
 - Test Driven Development: By Example
 - The C Programming Language - Brian Kernighan And Dennis Ritchie
+
+**Tech Lead**
+
+- Gamestorming - learning how to facilitate and doing workshop
+  - review: This is a great, at times brilliant book, for anyone interested in creativity and creativity techniques.
+  - review: This is a very practical book. Each technique for engaging colleagues or clients in a brainstorming session is laid out in simple steps over a paragragh or two
+  - review: Life changingly good for facilitation! An endless supply of ideas and constructs plus enough theory and structure to help you deliver. I carry this around constantly when needing to design team building, strategy exercises, or really any workshop. Also serves as useful prompt for designing your own games.
 
 **Non-Fictions**
 
