@@ -22,6 +22,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - c
 - VIM: autocorrect all misspelling words as one writes
 - MARKDOWN: Sort by indent To Format File such as this one?
+- TERMINAL: gh api to return list of not approved PR waiting for me to review
 
 ## Books That I Want To Read
 
@@ -41,6 +42,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - Structure And Interpretation Of Computer Program
 - Test Driven Development: By Example
 - The C Programming Language - Brian Kernighan And Dennis Ritchie
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 
 **Tech Lead**
 
@@ -48,6 +50,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
   - review: This is a great, at times brilliant book, for anyone interested in creativity and creativity techniques.
   - review: This is a very practical book. Each technique for engaging colleagues or clients in a brainstorming session is laid out in simple steps over a paragragh or two
   - review: Life changingly good for facilitation! An endless supply of ideas and constructs plus enough theory and structure to help you deliver. I carry this around constantly when needing to design team building, strategy exercises, or really any workshop. Also serves as useful prompt for designing your own games.
+- An Elegant Puzzle: Systems of Engineering Management
+  - Will Larson’s An Elegant Puzzle focuses on the particular challenges of engineering management—from sizing teams to handling technical debt to performing succession planning—and provides a path to the good solutions.
 
 **Non-Fictions**
 
