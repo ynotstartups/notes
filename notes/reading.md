@@ -2,7 +2,7 @@
 
 | Year | Name                                                            | Author                          | Comments                            |
 | ---- | --------------------------------------------------------------- | ------------------------------- | ----------------------------------- |
-| 2022 | Talking With Tech Leads                                         | Patrick Kua                     | Good For Understanding The Role     |
+| 2022 | Talking With Tech Leads                                         | Patrick Kua                     | Became Tech Lead                    |
 | 2022 | Flow                                                            | Mihaly Csikszentmihalyi         | Happiness == Flow                   |
 | 2022 | Comics: Watchmen                                                | Alan Moore, Dave Gibbons        |                                     |
 | 2022 | Vim User Manual                                                 |                                 |                                     |
