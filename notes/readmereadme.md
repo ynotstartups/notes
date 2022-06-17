@@ -17,12 +17,14 @@ A WIP user manual to operating Tiger Huang
 
 ## What are my quirks?
 
-- **Introvert**: I am afraid to talk to people that I am not familiar with.
+- **Introvert**
+  - I am afraid to talk to people that I am not familiar with.
+  - Sometimes uncomfortable/nervous during socials.
 
 ## What do I value most?
 
 - **Growth**: I want to learn new things and get exposed to new knowledge every day.
-- **Life Insights**: I want to know more about life and human experience.
+- **Life Insights**: Deep conversations, I want to understand more about life and human experience.
 
 ## What do I enjoy working on?
 
