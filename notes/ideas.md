@@ -8,12 +8,10 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- MKFORMATS: auto fix to not stop the commit
-- VIM: vim exchange text is a good idea, I should use it
 - VIM: Use vim-fugitive and build habits of add and commit in vim
   - useful for pushing changes in vim, especially for notes and dotfiles
 - LIFE: Enrich my own README page similar to https://eugeneyan.com/readme/
-  - `./readme.md` - use `gf` to edit
+  - [readme](./readmereadme.md) - use `gf` to edit
 - LIFE: Keep a brag document for work similar to Create my own README page similar to https://jvns.ca/blog/brag-documents/
 - VIM: Buffer Management, Don't know what Vim buffer I have, use leader B to open the list of buffers?
   - it can use as reminder to see what files I am working at too
