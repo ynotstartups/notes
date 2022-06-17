@@ -1,13 +1,10 @@
 # What Am I Doing Now?
 
-- Develop the idea [Progression via books](./progression-via-books.md)
-
 | Name                        | Progress   | Total  |
 | --------------------------- | ---------- | ------ |
 | Docker In Action            | 125, Ch. 6 | 337    |
-| My Liberation Diary         | Ep. 3      | Ep. 16 |
+| My Liberation Diary         | Ep. 4      | Ep. 16 |
 | Piano Adventures Classics 1 | 46         | 80     |
-| Talking With Tech Leads     | 174        | 253    |
 | The Unconsoled              | 27         | 535    |
 
 Note: Move to [reading](./reading.md) when done.
