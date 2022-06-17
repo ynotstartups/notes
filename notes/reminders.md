@@ -27,6 +27,9 @@ Note: Move to [reading](./reading.md) when done.
 | vim      | `yp`              | copy file path                     |
 | vim      | `+1,-1`           | insert emoji                       |
 | vim      | `cwiw .`          | exchange word                      |
+| vimium   | `W`               | move tab to new window             |
+| vimium   | `c`               | close all other tabs               |
+| vimium   | `C`               | close tabs on the right            |
 | -------- | ----------------- | ---------------------------------- |
 | vim      | `e+v`             | open vimrc                         |
 | term     | `am`              | open calender view for this month  |
