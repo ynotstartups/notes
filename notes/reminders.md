@@ -21,6 +21,7 @@ Note: Move to [reading](./reading.md) when done.
 | term     | `mb`              | drop into bash with vi keybinding  |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open prs                        |
+| term     | `vn, vp, vd`      | autocomplete vim in directories    |
 | vim      | `f`               | find                               |
 | vim      | `t`               | shows Table Of Content for md      |
 | vim      | `yp`              | copy file path                     |
