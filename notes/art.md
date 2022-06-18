@@ -1,5 +1,16 @@
 # Art
 
+## Machine - 180 Strand
+
+![Machine 0](images/art/machine-0-180-strand.webp)
+![Machine 1](images/art/machine-1-180-strand.webp)
+
+## Walter Richard Sickert
+
+[Who is this artist?](https://whoisthisartist.netlify.app/gallery/walter-richard-sickert)
+
+![Walter Richard Sickert](images/art/soldiers-of-king-albert-at-the-ready.webp)
+
 ## Zadok Ben-David
 
 [Who is this artist?](https://whoisthisartist.netlify.app/gallery/zadok-ben-david)
