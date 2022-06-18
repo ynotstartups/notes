@@ -13,7 +13,8 @@ A WIP user manual to operating Tiger Huang
 ## What are my super powers?
 
 - **Empathy**: I care about others, and want others to success.
-- **Communication**: I like to write, but I don't know if the writings are good though.
+- **Communication**: I practise writing and like to talk to others.
+- **Continuous Improvement**: I constantly reinvent myself in the right direction.
 
 ## What are my quirks?
 
