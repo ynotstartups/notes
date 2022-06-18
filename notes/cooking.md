@@ -193,6 +193,10 @@ Ginger's drawing
 
 ![Spanish Omelette](images/cooking/spanish-omelette.webp){ loading=lazy }
 
+## Cold Brew On Rock
+
+![Cold Brew On Rock](images/cooking/cold-brew-on-rock.webp){ loading=lazy }
+
 ## Marbled Tea Eggs - 茶叶蛋
 
 ## Links to this note
