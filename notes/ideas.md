@@ -82,7 +82,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
   - https://jamescooke.info/aaa-part-2-extracting-arrange-code-to-make-fixtures.html
 - [Writing Your Own Bash Complete Function](https://fahdshariff.blogspot.com/2011/04/writing-your-own-bash-completion.html)
 - [Blog Series On Bash Profile](https://fahdshariff.blogspot.com/2011/03/my-bash-profile-part-i.html)
-- [Read Time Recommendation System](https://eugeneyan.com/writing/real-time-recommendations/#how-to-design-and-implement-an-mvp)
+- [Real Time Recommendation System](https://eugeneyan.com/writing/real-time-recommendations/#how-to-design-and-implement-an-mvp)
 - [How Big Tech Runs Tech Projects without Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 - [Coursera Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)
 - [Optimizing Docker Images](https://www.ctl.io/developers/blog/post/optimizing-docker-images/)
