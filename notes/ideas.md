@@ -8,12 +8,13 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- VIM: start using vim tabs
+  - write down the commands
 - VIM: Use vim-fugitive and build habits of add and commit in vim
   - useful for pushing changes in vim, especially for notes and dotfiles
-- LIFE: Enrich my own README page similar to https://eugeneyan.com/readme/
-  - [readme](./readmereadme.md) - use `gf` to edit
 - LIFE: Keep a brag document for work similar to Create my own README page similar to https://jvns.ca/blog/brag-documents/
-- VIM: Buffer Management, Don't know what Vim buffer I have, use leader B to open the list of buffers?
+- VIM: Buffer Management, Don't know what Vim buffer I have
+  - use leader B to open the list of buffers?
   - it can use as reminder to see what files I am working at too
 - VIM: Visual In Indent
   - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
@@ -84,3 +85,4 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - [Read Time Recommendation System](https://eugeneyan.com/writing/real-time-recommendations/#how-to-design-and-implement-an-mvp)
 - [How Big Tech Runs Tech Projects without Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 - [Coursera Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)
+- [Optimizing Docker Images](https://www.ctl.io/developers/blog/post/optimizing-docker-images/)
