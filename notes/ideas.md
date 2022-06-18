@@ -8,6 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
+  - `zip -r download-archive.zip Downloads`
 - Regex: properly learn about regular expression?
 - VIM: start using vim tabs
   - write down the commands
@@ -34,7 +36,18 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 **Software Engineering**
 
+_next_
+
+- Operating Systems: Three Easy Pieces
+  - Or start with intro instead of text book
+  - How Computers Work: From Amps to Apps: A Hands-On Guide to the Inner Workings of the Machine
+- Computer Networking: A Top down approach
+  - Or start with intro instead of text book
+  - Introduction to Networking: How the Internet Works
 - Code: The Hidden Language of Computer Hardware and Software
+
+_future_
+
 - Cloud Design Patterns - Microsoft Azure Docs
 - Database Internals: A Deep-Dive Into How Distributed Data Systems Work
 - Designing Data-Intensive Applications
@@ -57,8 +70,13 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 **Non-Fictions**
 
+_next_
+
 - Quiet: The Power of Introverts in a World That Can't Stop Talking
   - To understand myself
+
+_future_
+
 - Thinking, Fast and Slow
   - To understand my mind
 - Guns, Germs, and Steel: The Fates of Human Societies
