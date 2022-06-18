@@ -76,6 +76,9 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Articles That Might Be Interesting
 
+- [ ] Read Arrange Act Assert pattern for Python developers
+  - https://jamescooke.info/arrange-act-assert-pattern-for-python-developers.html
+  - https://jamescooke.info/aaa-part-2-extracting-arrange-code-to-make-fixtures.html
 - [Writing Your Own Bash Complete Function](https://fahdshariff.blogspot.com/2011/04/writing-your-own-bash-completion.html)
 - [Blog Series On Bash Profile](https://fahdshariff.blogspot.com/2011/03/my-bash-profile-part-i.html)
 - [Read Time Recommendation System](https://eugeneyan.com/writing/real-time-recommendations/#how-to-design-and-implement-an-mvp)
