@@ -8,6 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- Regex: properly learn about regular expression?
 - VIM: start using vim tabs
   - write down the commands
 - VIM: Use vim-fugitive and build habits of add and commit in vim
