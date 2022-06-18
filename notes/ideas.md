@@ -109,3 +109,4 @@ _future_
 - [How Big Tech Runs Tech Projects without Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 - [Coursera Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)
 - [Optimizing Docker Images](https://www.ctl.io/developers/blog/post/optimizing-docker-images/)
+- [The Case for Free Online Books](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
