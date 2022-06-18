@@ -82,6 +82,10 @@ _future_
 - Guns, Germs, and Steel: The Fates of Human Societies
 - Drive: The Surprising Truth About What Motivates Us
   - To learn about motivations
+- The Design Of Everyday Things
+- The Elements Of Style
+  - reference for writing
+- The Vintage Guide To Classical Music
 
 **Fictions**
 
