@@ -1,5 +1,7 @@
 # What Am I Doing Now?
 
+Enrich [README](./readmereadme.md)
+
 | Name                        | Progress   | Total  |
 | --------------------------- | ---------- | ------ |
 | Docker In Action            | 125, Ch. 6 | 337    |
@@ -24,9 +26,11 @@ Note: Move to [reading](./reading.md) when done.
 | vim      | `yp`              | copy file path                     |
 | vim      | `+1,-1`           | insert emoji                       |
 | vim      | `cwiw .`          | exchange word                      |
+| vim      | `ca#`             | quick change markdown title        |
 | vimium   | `W`               | move tab to new window             |
 | vimium   | `c`               | close all other tabs               |
 | vimium   | `C`               | close tabs on the right            |
+| vimium   | `yt`              | duplicate  current tab             |
 | -------- | ----------------- | ---------------------------------- |
 | vim      | `e+v`             | open vimrc                         |
 | term     | `am`              | open calender view for this month  |
