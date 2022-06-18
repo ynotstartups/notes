@@ -1,5 +1,23 @@
 # Piano Recordings
 
+## Caro Nome
+
+<audio controls>
+  <source src="../recordings/caro-nome.mp3" type="audio/mpeg">
+</audio>
+
+## Theme From The Surprise Symphony
+
+<audio controls>
+  <source src="../recordings/theme-from-the-surprise-symphony.mp3" type="audio/mpeg">
+</audio>
+
+## The Trout
+
+<audio controls>
+  <source src="../recordings/the-trout.mp3" type="audio/mpeg">
+</audio>
+
 ## Prince Of Denmark's March
 
 <audio controls>
