@@ -9,7 +9,10 @@ Enrich [README](./readmereadme.md)
 | Piano Adventures Classics 1 | 46         | 80     |
 | The Unconsoled              | 27         | 535    |
 
-Note: Move to [reading](./reading.md) when done.
+**Note:**
+
+- Create a note to save quotes and learnings
+- Move to [reading](./reading.md) when done
 
 ## New Habits To Build
 
