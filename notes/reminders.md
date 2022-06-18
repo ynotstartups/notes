@@ -4,7 +4,7 @@ Enrich [README](./readmereadme.md)
 
 | Name                        | Progress   | Total  |
 | --------------------------- | ---------- | ------ |
-| Docker In Action            | 125, Ch. 6 | 337    |
+| Docker In Action            | 151, Ch. 7 | 337    |
 | My Liberation Diary         | Ep. 4      | Ep. 16 |
 | Piano Adventures Classics 1 | 46         | 80     |
 | The Unconsoled              | 27         | 535    |
@@ -21,10 +21,11 @@ Note: Move to [reading](./reading.md) when done.
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open prs                        |
 | term     | `vn, vp, vd`      | autocomplete vim in directories    |
+| term     | `linux_sandbox`   | docker run busybox                 |
 | vim      | `f`               | find                               |
 | vim      | `t`               | shows Table Of Content for md      |
 | vim      | `yp`              | copy file path                     |
-| vim      | `+1,-1`           | insert emoji                       |
+| vim      | `:+1:,:-1:`       | insert emoji                       |
 | vim      | `cwiw .`          | exchange word                      |
 | vim      | `ca#`             | quick change markdown title        |
 | vimium   | `W`               | move tab to new window             |
