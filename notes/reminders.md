@@ -4,7 +4,7 @@ Enrich [README](./readmereadme.md)
 
 | Name                        | Progress   | Total  |
 | --------------------------- | ---------- | ------ |
-| Docker In Action            | 163, Ch. 7 | 337    |
+| Docker In Action            | 170, Ch. 7 | 337    |
 | My Liberation Diary         | Ep. 4      | Ep. 16 |
 | Piano Adventures Classics 1 | 46         | 80     |
 | The Unconsoled              | 27         | 535    |
@@ -18,8 +18,6 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
-| i3       | `command+shift+j` | open jira                          |
-| i3       | `command+shift+k` | open google keep in chrome         |
 | term     | `mb`              | drop into bash with vi keybinding  |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open prs                        |
