@@ -8,6 +8,11 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- GIT: go through and understand
+  - `git help cli`
+  - `git help diffcore`
+  - `git help tutorial-2`
+  - `git help workflows`
 - TERMINAL: use `zathura` vim-based minimal PDF reader
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
@@ -34,30 +39,42 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 **Criteria**
 
 - Classics
+- Potentially Life Changing
+- Foundational Knowledge
 
 **Software Engineering**
 
 _next_
 
-- Operating Systems: Three Easy Pieces
-  - Or start with intro instead of text book
-  - How Computers Work: From Amps to Apps: A Hands-On Guide to the Inner Workings of the Machine
-- Computer Networking: A Top down approach
-  - Or start with intro instead of text book
-  - Introduction to Networking: How the Internet Works
 - Code: The Hidden Language of Computer Hardware and Software
+- How Computers Work: From Amps to Apps: A Hands-On Guide to the Inner Workings of the Machine
 
 _future_
 
-- Cloud Design Patterns - Microsoft Azure Docs
-- Database Internals: A Deep-Dive Into How Distributed Data Systems Work
+- Operating Systems: Three Easy Pieces
+
+- Modern Operating Systems
+
 - Designing Data-Intensive Applications
-- Domain-Driven Design
-- Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
-- Pro Git - Scott Chacon And Ben Straub
+
 - Structure And Interpretation Of Computer Program
+
+- Machine Learning: A Probabilistic Perspective
+
+- Cloud Design Patterns - Microsoft Azure Docs
+
+- Database Internals: A Deep-Dive Into How Distributed Data Systems Work
+
+- Domain-Driven Design
+
+- Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
+
+- Pro Git - Scott Chacon And Ben Straub
+
 - Test Driven Development: By Example
+
 - The C Programming Language - Brian Kernighan And Dennis Ritchie
+
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 
 **Tech Lead**
