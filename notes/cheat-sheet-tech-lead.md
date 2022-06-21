@@ -63,6 +63,11 @@ h1. Analytics
 
 h1. Design
 
+h1. How To QA
+
+Frontend Ticket: BDD
+Backend Ticket: Endpoint + Expected Response
+
 h1. Tech Notes
 
 h1. Questions
