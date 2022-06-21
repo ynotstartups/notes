@@ -15,3 +15,7 @@
 - [Indochina Coffee Importer](https://indochinacoffee.com/)
 - [Yunnan Coffee Traders](https://yunnancoffeetraders.com/farms/)
 - [Torch Coffee Labs](https://www.torchcoffee.asia/)
+
+## Tech
+
+- [Code Review Best Practices](https://google.github.io/eng-practices/)
