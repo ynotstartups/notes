@@ -21,6 +21,8 @@ A WIP user manual to operating Tiger Huang
 - **Introvert**
   - I am afraid to talk to people that I am not familiar with.
   - Sometimes uncomfortable/nervous during socials.
+- **cannot think properly when put on the spot**
+  - prefer schedule a meeting and have time to prepare
 
 ## What do I value most?
 
