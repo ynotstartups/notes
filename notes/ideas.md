@@ -59,31 +59,20 @@ _next_
 _future_
 
 - Operating Systems: Three Easy Pieces
-
 - Modern Operating Systems
-
 - Coder At Work
-
 - Designing Data-Intensive Applications
-
 - Structure And Interpretation Of Computer Program
-
 - Machine Learning: A Probabilistic Perspective
-
+- The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+  - by Charles Petzold, author of Code
 - Cloud Design Patterns - Microsoft Azure Docs
-
 - Database Internals: A Deep-Dive Into How Distributed Data Systems Work
-
 - Domain-Driven Design
-
 - Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
-
 - Pro Git - Scott Chacon And Ben Straub
-
 - Test Driven Development: By Example
-
 - The C Programming Language - Brian Kernighan And Dennis Ritchie
-
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 
 **Tech Lead**
