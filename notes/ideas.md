@@ -8,6 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- switch to RG
+  - why not keep using git grep?
 - TERMINAL: use `zathura` vim-based minimal PDF reader
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
