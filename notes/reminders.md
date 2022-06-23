@@ -5,10 +5,10 @@ Enrich [README](./readmereadme.md)
 | Name                        | Progress         | Total  |
 | --------------------------- | ---------------- | ------ |
 | Docker In Action            | 186, multi stage | 337    |
-| My Liberation Diary         | Ep. 9            | Ep. 16 |
+| My Liberation Diary         | Ep. 10           | Ep. 16 |
 | Piano Adventures Classics 1 | 50               | 80     |
 | The Unconsoled              | 27               | 535    |
-| Code                        | 87               | 382    |
+| Code                        | 181              | 382    |
 
 **Note:**
 
@@ -19,22 +19,23 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
-| term     | `mb`              | drop into bash with vi keybinding  |
+| term     | `vman`            | open manual page in vim            |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open prs                        |
-| term     | `vn, vp, vd`      | autocomplete vim in directories    |
 | term     | `linux_sandbox`   | docker run busybox                 |
 | vim      | `f`               | find                               |
-| vim      | `t`               | shows Table Of Content for md      |
-| vim      | `yp`              | copy file path                     |
-| vim      | `:+1:,:-1:`       | insert emoji                       |
 | vim      | `cwiw .`          | exchange word                      |
-| vim      | `ca#`             | quick change markdown title        |
 | vimium   | `W`               | move tab to new window             |
 | vimium   | `c`               | close all other tabs               |
 | vimium   | `C`               | close tabs on the right            |
 | vimium   | `yt`              | duplicate  current tab             |
 | -------- | ----------------- | ---------------------------------- |
+| vim      | `ca#`             | quick change markdown title        |
+| vim      | `yp`              | copy file path                     |
+| vim      | `:+1:,:-1:`       | insert emoji                       |
+| vim      | `t`               | shows Table Of Content for md      |
+| term     | `vn, vp, vd`      | autocomplete vim in directories    |
+| term     | `mb`              | drop into bash with vi keybinding  |
 | vim      | `e+v`             | open vimrc                         |
 | term     | `am`              | open calender view for this month  |
 | term     | `aw`              | open calendar view for this week   |
