@@ -63,3 +63,29 @@ docker container run --rm -v "$(pwd)":/usr/src/hello \
 - An image is a stack of layers that’s identified by its top layer.
 - An image’s size on disk is the sum of the sizes of its component layers.
 - Images can be exported to and imported from a flat tarball representation by using the docker container export and docker image import commands.
+
+## 187
+
+Example for multi stage build
+
+```dockerfile
+FROM golang:1-alpine as builder
+
+RUN apk update && apk add ca-certificates
+
+ENV HTTP_CLIENT_SRC=$GOPATH/src/dia/http-client/
+COPY . $HTTP_CLIENT_SRC
+WORKDIR $HTTP_CLIENT_SRC
+
+RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -v -o /go/bin/http-client
+
+# ----
+
+# See this FROM as
+FROM scratch as runtime
+ENV PATH="/bin"
+# See this COPY --from
+COPY --from=builder /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
+COPY --from=builder /go/bin/http-client /http-client
+ENTRYPOINT ["/http-client"]
+```
