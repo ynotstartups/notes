@@ -1,17 +1,27 @@
 # Brewed Coffee Beans
 
-| Name           | Roaster | Origin      | Roast Level | Process               | Tasting Notes                                |
-| -------------- | ------- | ----------- | ----------- | --------------------- | -------------------------------------------- |
-| Aqi Badu       | Origin  | China       | Omni        | Natural               | Pineapple, Persimmon & Dark Chocolate        |
-| Barokah        | Origin  | Indonesia   | Omni        | Natural               | Strawberry, Grapefruit & Caramel             |
-| Barokah        | Origin  | Indonesia   | Omni        | Washed                | Blackberry, Yuzu & Molasses                  |
-| Elvis          | Origin  | Peru        | Omni        | Extended Fermentation | Raspberry, Lemongrass & Brown Sugar          |
-| Mensur Abahika | Ozone   | Ethiopia    | Omni        | Natural               | Blueberries, Cranberry, Jasmine              |
-| San Antonio    | Origin  | El Salvador | Omni        | Black Honey           | Raspberry, Apricot & Molasses                |
-| San Fermin     | Origin  | Colombia    | Omni        | Washes                | Orange Sherbet, Caramel, Berries             |
-| Tuberosa Decaf | Origin  | Colombia    | Omni        | Sugarcane Decaf       | Apple, Stewed Plum, Caramel                  |
-| Wa Choo        | Origin  | China       | Omni        | Natural               | Pink Grapefruit, Pomegranate, Dark Chocolate |
-| Wa Choo        | Origin  | China       | Omni        | Washed                | Blackberry, Elderflower & Sugarcane          |
+| Name           | Roaster | Origin      | Roast Level | Process                | Tasting Notes                                |
+| -------------- | ------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
+| Aqi Badu       | Origin  | China       | Omni        | Natural                | Pineapple, Persimmon & Dark Chocolate        |
+| Barokah        | Origin  | Indonesia   | Omni        | Natural                | Strawberry, Grapefruit & Caramel             |
+| Barokah        | Origin  | Indonesia   | Omni        | Washed                 | Blackberry, Yuzu & Molasses                  |
+| Elvis          | Origin  | Peru        | Omni        | Extended Fermentation  | Raspberry, Lemongrass & Brown Sugar          |
+| Mensur Abahika | Ozone   | Ethiopia    | Omni        | Natural                | Blueberries, Cranberry, Jasmine              |
+| San Antonio    | Origin  | El Salvador | Omni        | Black Honey            | Raspberry, Apricot & Molasses                |
+| Lichia         | Origin  | Brazil      | Omni        | Anaerobic Fermentation | Apricot, Date, Milk Chocolate                |
+| San Fermin     | Origin  | Colombia    | Omni        | Washes                 | Orange Sherbet, Caramel, Berries             |
+| Tuberosa Decaf | Origin  | Colombia    | Omni        | Sugarcane Decaf        | Apple, Stewed Plum, Caramel                  |
+| Wa Choo        | Origin  | China       | Omni        | Natural                | Pink Grapefruit, Pomegranate, Dark Chocolate |
+| Wa Choo        | Origin  | China       | Omni        | Washed                 | Blackberry, Elderflower & Sugarcane          |
+
+## Lichia
+
+A cup bursting full of apricot-like qualities.
+Long-term relationships underpin our approach to coffee sourcing. Being open. Listening. Learning. Paying fairly. Working together to create an outstanding cup. This lot produced by Virgulino Muniz in Brazil, is a perfect example of that. Our partnership spans over 11 years and each year his crop seems to get better.
+
+Named Lichia as it’s grown in an area on the Das Almas farm that is full of lychees, it has a Icatu varietal and was processed using an anaerobic fermentation technique. This involves placing washed coffee cherries in an airtight container to ferment for almost 3 days before being placed outside to dry. This method increases the acidic qualities and structure in the final cup which is bursting full of apricot-like qualities.
+
+It’s so exciting to see Virgulino trying new innovative practices on a farm that been central to our work for so many years.
 
 ## Tuberosa Decaf
 
