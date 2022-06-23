@@ -24,10 +24,9 @@ Enrich [README](./readmereadme.md)
 | term     | `p`               | my open prs                        |
 | term     | `linux_sandbox`   | docker run busybox                 |
 | term     | `$mod+Shift+n`    | nautilus ~/Downloads/              |
-| vim      | `f`               | find                               |
 | vim      | `cwiw .`          | exchange word                      |
-| vim      | `t`               | edit this file in new tab          |
-| vim      | `gt, gT`          | next tab and previous tab          |
+| vim      | `<leader>t`       | edit this file in new tab          |
+| vim      | `]t, [t`          | next tab and previous tab          |
 | vimium   | `W`               | move tab to new window             |
 | vimium   | `c`               | close all other tabs               |
 | vimium   | `C`               | close tabs on the right            |
