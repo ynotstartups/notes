@@ -10,7 +10,6 @@
   - best pho
 - [Dragon Castle](https://www.dragoncastlelondon.com/)
   - best dimsum
-- [Flat Iron](https://flatironsteak.co.uk/)
 - [Franco Manca](https://www.francomanca.co.uk/)
   - best pizza
 - [Honest Burger](https://www.honestburgers.co.uk/)
