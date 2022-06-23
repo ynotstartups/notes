@@ -1,5 +1,11 @@
 # Piano Recordings
 
+## Spring Song
+
+<audio controls>
+  <source src="../recordings/spring-song.mp3" type="audio/mpeg">
+</audio>
+
 ## Caro Nome
 
 <audio controls>
