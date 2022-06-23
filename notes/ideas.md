@@ -8,18 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- add a cheatsheet for JIRA markdown format
-  - link \[text|url\]
-  - bold *foo*
-  - italic _foo_
-  - no number list -
-  - list in list --
-  - number list #
-- GIT: go through and understand
-  - `git help cli`
-  - `git help diffcore`
-  - `git help tutorial-2`
-  - `git help workflows`
 - TERMINAL: use `zathura` vim-based minimal PDF reader
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
