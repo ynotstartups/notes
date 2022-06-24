@@ -8,7 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- replace `--lf` in install script to long form option names
 - VIM: better dockerfile syntax?
   - fork https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim
     - add django-admin, source to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
@@ -22,14 +21,9 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
 - Regex: properly learn about regular expression?
-- VIM: start using vim tabs
-  - write down the commands
 - VIM: Use vim-fugitive and build habits of add and commit in vim
   - useful for pushing changes in vim, especially for notes and dotfiles
 - LIFE: Keep a brag document for work similar to Create my own README page similar to https://jvns.ca/blog/brag-documents/
-- VIM: Buffer Management, Don't know what Vim buffer I have
-  - use leader B to open the list of buffers?
-  - it can use as reminder to see what files I am working at too
 - VIM: Visual In Indent
   - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
     - a
