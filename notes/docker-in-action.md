@@ -89,3 +89,42 @@ COPY --from=builder /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certifi
 COPY --from=builder /go/bin/http-client /http-client
 ENTRYPOINT ["/http-client"]
 ```
+
+## 197
+
+SUID and SGID permissions
+
+The well-known filesystem permissions (read, write, execute) are
+only a portion of the set defined by Linux. In addition to those, two are of particular
+interest: SUID and SGID.
+
+These two are similar in nature. An executable file with the SUID bit set will always
+execute as its owner. Consider a program like /usr/bin/passwd, which is owned by the
+root user and has the SUID permission set. If a nonroot user such as bob executes
+passwd, he will execute that program as the root user.
+
+## 201
+
+**Image Distribution Spectrum**
+
+from simple/restrictive to complicated/flexible
+
+- hosted registry with public repositories e.g. public docker hub
+- hosted registry with private repositories e.g. private docker hub
+- private repositories e.g. amazon ECR private container repository
+- custom image distribution infrastructure
+- image source distributions
+
+**Selection criteria**
+
+When making a decision, consider how important each of these is in your situation:
+
+- Cost
+- Visibility
+- Transport speed or bandwidth overhead
+- Longevity control
+- Availability control
+- Access control
+- Artifact integrity
+- Artifact confidentiality
+- Requisite expertise
