@@ -5,7 +5,7 @@ Enrich [README](./readmereadme.md)
 | Name                        | Progress | Total  |
 | --------------------------- | -------- | ------ |
 | Docker In Action            | 225      | 337    |
-| My Liberation Diary         | Ep. 11   | Ep. 16 |
+| My Liberation Diary         | Ep. 13   | Ep. 16 |
 | Piano Adventures Classics 1 | 50       | 80     |
 | Code                        | 181      | 382    |
 
@@ -20,7 +20,8 @@ Enrich [README](./readmereadme.md)
 | -------- | ----------------- | ---------------------------------- |
 | term     | `vman`            | open manual page in vim            |
 | term     | `vjira`           | create jira ticket with template   |
-| term     | `p`               | my open prs                        |
+| term     | `p`               | my open PRs                        |
+| term     | `pw`              | open PRs waiting for my review     |
 | term     | `linux_sandbox`   | docker run busybox                 |
 | term     | `$mod+Shift+n`    | nautilus ~/Downloads/              |
 | vim      | `cwiw .`          | exchange word                      |
