@@ -8,8 +8,22 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- replace `--lf` in install script to long form option names
+- VIM: better dockerfile syntax?
+  - fork https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim
+    - add django-admin, source to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
+- start using snippet or just continue using `abbreviations`
+  - why what how template
+  - refinement and planning reminders
+  - Jira tickets templates
+  - bug report template
+  - variable columns tables in markdown
 - switch to RG
   - why not keep using git grep?
+  - git grep v.s. Rg
+  - Rg works in all directories, git grep only works in git repos
+  - Git grep causes screen flash in my current setup, bad.
+  - Need another command `GW` to search word, but Rg is smart enough to search work under cursor when no search term is applied
 - TERMINAL: use `zathura` vim-based minimal PDF reader
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
