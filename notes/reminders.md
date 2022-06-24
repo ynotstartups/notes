@@ -2,13 +2,12 @@
 
 Enrich [README](./readmereadme.md)
 
-| Name                        | Progress         | Total  |
-| --------------------------- | ---------------- | ------ |
-| Docker In Action            | 186, multi stage | 337    |
-| My Liberation Diary         | Ep. 10           | Ep. 16 |
-| Piano Adventures Classics 1 | 50               | 80     |
-| The Unconsoled              | 27               | 535    |
-| Code                        | 181              | 382    |
+| Name                        | Progress | Total  |
+| --------------------------- | -------- | ------ |
+| Docker In Action            | 225      | 337    |
+| My Liberation Diary         | Ep. 11   | Ep. 16 |
+| Piano Adventures Classics 1 | 50       | 80     |
+| Code                        | 181      | 382    |
 
 **Note:**
 
