@@ -1,5 +1,10 @@
 # Docker In Action
 
+## Question?
+
+- What does `PublishMode: ingress` mean in docker service?
+  - ingress handles traffics from outside of the docker swarm
+
 ## Page 158
 
 Docker layers are collections of the changes made in union file system layer + metadata/context.
@@ -128,3 +133,126 @@ When making a decision, consider how important each of these is in your situatio
 - Artifact integrity
 - Artifact confidentiality
 - Requisite expertise
+
+## 250
+
+```json
+[
+    {
+        "ID": "qpb18wpdf63qk4lkrg2zgfw64",
+        "Version": {
+            "Index": 12
+        },
+        "CreatedAt": "2022-06-25T08:13:39.032086605Z",
+        "UpdatedAt": "2022-06-25T08:13:39.053408876Z",
+        "Spec": {
+            "Name": "hello-world",
+            "Labels": {},
+            "TaskTemplate": {
+                "ContainerSpec": {
+                    "Image": "dockerinaction/ch11_service_hw:v1",
+                    "Init": false,
+                    "StopGracePeriod": 10000000000,
+                    "DNSConfig": {},
+                    "Isolation": "default"
+                },
+                "Resources": {
+                    "Limits": {},
+                    "Reservations": {}
+                },
+                "RestartPolicy": {
+                    "Condition": "any",
+                    "Delay": 5000000000,
+                    "MaxAttempts": 0
+                },
+                "Placement": {},
+                "ForceUpdate": 0,
+                "Runtime": "container"
+            },
+            "Mode": {
+                "Replicated": {
+                    "Replicas": 1
+                }
+            },
+            "UpdateConfig": {
+                "Parallelism": 1,
+                "FailureAction": "pause",
+                "Monitor": 5000000000,
+                "MaxFailureRatio": 0,
+                "Order": "stop-first"
+            },
+            "RollbackConfig": {
+                "Parallelism": 1,
+                "FailureAction": "pause",
+                "Monitor": 5000000000,
+                "MaxFailureRatio": 0,
+                "Order": "stop-first"
+            },
+            "EndpointSpec": {
+                "Mode": "vip",
+                "Ports": [
+                    {
+                        "Protocol": "tcp",
+                        "TargetPort": 80,
+                        "PublishedPort": 8080,
+                        "PublishMode": "ingress"
+                    }
+                ]
+            }
+        },
+        "Endpoint": {
+            "Spec": {
+                "Mode": "vip",
+                "Ports": [
+                    {
+                        "Protocol": "tcp",
+                        "TargetPort": 80,
+                        "PublishedPort": 8080,
+                        "PublishMode": "ingress"
+                    }
+                ]
+            },
+            "Ports": [
+                {
+                    "Protocol": "tcp",
+                    "TargetPort": 80,
+                    "PublishedPort": 8080,
+                    "PublishMode": "ingress"
+                }
+            ],
+            "VirtualIPs": [
+                {
+                    "NetworkID": "icjrjs9krq231yn647ih6w0gt",
+                    "Addr": "10.0.0.3/24"
+                }
+            ]
+        }
+    }
+]
+```
+
+The difficulty of running a service is, by definition, more about managing
+availability of something on a network.
+
+So it shouldn’t be too surprising that a service
+definition is predominantly about how to run replicas, manage changes to the software, and route requests to the service endpoint to that software.
+
+run three replicas of hello-world service
+
+`docker service scale hello-world=3`
+
+global, tells Docker to run one replica on each node in the swarm cluster.
+Services in global mode are useful for maintaining a common set of
+infrastructure services that must be available locally on each node in a
+cluster.
+
+## 257
+
+Comment support is one of the most popular reasons to adopt YAML instead of
+JSON today.
+
+## 260
+
+Docker stack is a named collection of services, volumes, networks, secrets, and configs.
+
+The docker stack subcommands manage stacks.
