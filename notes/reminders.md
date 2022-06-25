@@ -18,6 +18,7 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| git      | `HEAD~`           | `reset HEAD~ --soft` last commit   |
 | term     | `vman`            | open manual page in vim            |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
