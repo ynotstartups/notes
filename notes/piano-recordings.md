@@ -1,5 +1,11 @@
 # Piano Recordings
 
+## Aria
+
+<audio controls>
+  <source src="../recordings/aria.mp3" type="audio/mpeg">
+</audio>
+
 ## Spring Song
 
 <audio controls>
