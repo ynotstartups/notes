@@ -8,21 +8,24 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- VIM: better dockerfile syntax?
-  - fork https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim
-    - add django-admin, source to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
+- fork `ekalinin/Dockerfile.vim`
+  - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
 - start using snippet or just continue using `abbreviations`
   - why what how template
   - refinement and planning reminders
   - Jira tickets templates
   - bug report template
   - variable columns tables in markdown
+  - 👍 abbreviations - simpler to setup, no dependencies
 - TERMINAL: use `zathura` vim-based minimal PDF reader
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
 - Regex: properly learn about regular expression?
+  - `\b` - word boundary
+  - 👎 learn as I go
 - VIM: Use vim-fugitive and build habits of add and commit in vim
   - useful for pushing changes in vim, especially for notes and dotfiles
+  - 👎 can do it in terminal
 - LIFE: Keep a brag document for work similar to Create my own README page similar to https://jvns.ca/blog/brag-documents/
 - VIM: Visual In Indent
   - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
@@ -31,7 +34,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - c
 - VIM: autocorrect all misspelling words as one writes
 - MARKDOWN: Sort by indent To Format File such as this one?
-- TERMINAL: gh api to return list of not approved PR waiting for me to review
 
 ## Books That I Want To Read
 
@@ -45,17 +47,17 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 _next_
 
-- Code: The Hidden Language of Computer Hardware and Software
 - How Computers Work: From Amps to Apps: A Hands-On Guide to the Inner Workings of the Machine
-
-_future_
-
 - Operating Systems: Three Easy Pieces
+
+_later_
+
+- kubernetes in action
+- Designing Data-Intensive Applications
+- Machine Learning: A Probabilistic Perspective
 - Modern Operating Systems
 - Coder At Work
-- Designing Data-Intensive Applications
 - Structure And Interpretation Of Computer Program
-- Machine Learning: A Probabilistic Perspective
 - The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
   - by Charles Petzold, author of Code
 - Cloud Design Patterns - Microsoft Azure Docs
@@ -83,7 +85,7 @@ _next_
 - Quiet: The Power of Introverts in a World That Can't Stop Talking
   - To understand myself
 
-_future_
+_later_
 
 - Thinking, Fast and Slow
   - To understand my mind
@@ -108,7 +110,8 @@ _future_
 
 ## Random Articles That Might Be Interesting
 
-- [ ] Read Arrange Act Assert pattern for Python developers
+- [The 12 factor app](https://12factor.net/)
+- Arrange Act Assert pattern for Python developers
   - https://jamescooke.info/arrange-act-assert-pattern-for-python-developers.html
   - https://jamescooke.info/aaa-part-2-extracting-arrange-code-to-make-fixtures.html
 - [Writing Your Own Bash Complete Function](https://fahdshariff.blogspot.com/2011/04/writing-your-own-bash-completion.html)
