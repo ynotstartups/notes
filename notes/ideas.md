@@ -8,10 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- Rg: setup config
-  1. set `RIPGREP_CONFIG_PATH` in bash and points to a file dotfile
-  1. add `--hidden` to config file
-  1. add `--glob=!.git/*` to config file
+- read Rg man page
 - fork `ekalinin/Dockerfile.vim`
   - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
 - start using snippet or just continue using `abbreviations`
@@ -25,6 +22,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
 - Regex: properly learn about regular expression?
+  - learn perl like regex
   - `\b` - word boundary
   - 👎 learn as I go
 - VIM: Use vim-fugitive and build habits of add and commit in vim
