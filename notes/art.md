@@ -1,5 +1,10 @@
 # Art
 
+## The Dark Trail Nicole Eisenman
+
+![The Dark Trail Nicole Eisenman 1](images/art/the-dark-trail-nicole-eisenman-1.webp)
+![The Dark Trail Nicole Eisenman 0](images/art/the-dark-trail-nicole-eisenman-0.webp)
+
 ## Machine - 180 Strand
 
 ![Machine 0](images/art/machine-0-180-strand.webp)
