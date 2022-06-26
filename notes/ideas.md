@@ -54,22 +54,27 @@ _next_
 
 _later_
 
-- kubernetes in action
-- Designing Data-Intensive Applications
-- Machine Learning: A Probabilistic Perspective
-- Modern Operating Systems
-- Coder At Work
-- Structure And Interpretation Of Computer Program
-- The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+- Math: Fundamental of Mathematical Analysis
+- Biology: The Cartoon Guide To Biology
+- CS: The Manga Guide To Cryptiography
+- CS: Grokking Algorithms
+- CS: kubernetes in action
+- CS: Designing Data-Intensive Applications
+- Stat: Machine Learning: A Probabilistic Perspective
+- CS: Modern Operating Systems
+- CS: Coder At Work
+- CS: Structure And Interpretation Of Computer Program
+- CS: The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
   - by Charles Petzold, author of Code
-- Cloud Design Patterns - Microsoft Azure Docs
-- Database Internals: A Deep-Dive Into How Distributed Data Systems Work
-- Domain-Driven Design
-- Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
-- Pro Git - Scott Chacon And Ben Straub
-- Test Driven Development: By Example
-- The C Programming Language - Brian Kernighan And Dennis Ritchie
-- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
+- CS: Cloud Design Patterns - Microsoft Azure Docs
+- CS: Database Internals: A Deep-Dive Into How Distributed Data Systems Work
+- CS: Domain-Driven Design
+- CS: Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
+- CS: Pro Git - Scott Chacon And Ben Straub
+- CS: Test Driven Development: By Example
+- CS: The C Programming Language - Brian Kernighan And Dennis Ritchie
+- CS: [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
+- CS: Learning Agile
 
 **Tech Lead**
 
