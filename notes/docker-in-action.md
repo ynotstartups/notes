@@ -256,3 +256,26 @@ JSON today.
 Docker stack is a named collection of services, volumes, networks, secrets, and configs.
 
 The docker stack subcommands manage stacks.
+
+## 271
+
+Most application authors do not want to change the program’s source code and
+rebuild the application each time they need to vary the behavior of an
+application.  Instead, they program the application to read configuration
+data on startup and adjust its behavior accordingly at runtime.
+
+## 284
+
+**Problems with secrets as environment variables**
+
+The most important and common problems with using environment variables as
+secret transfer mechanisms are as follows:
+\- You can’t assign access-control mechanisms to an environment variable.
+\- This means any process executed by the application will likely have access to
+those env vars. To illustrate this, think about what it might mean for an application that does image resizing via ImageMagick to execute resizing operations
+with untrusted input in the environment containing the parent application’s
+secrets. If the environment contains API keys in well-known locations, as is
+common with cloud providers, those secrets could be stolen easily. Some languages and libraries will help you prepare a safe process execution environment, but your mileage will vary.
+\- Many applications will print all of their environment variables to standard out
+when issued a debugging command or when they crash. This means you may
+expose secrets in your logs on a regular basis.
