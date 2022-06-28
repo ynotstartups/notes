@@ -18,20 +18,21 @@ Enrich [README](./readmereadme.md)
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
 | git      | `HEAD~`           | `reset HEAD~ --soft` last commit   |
-| term     | `vman`            | open manual page in vim            |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
 | term     | `pw`              | open PRs waiting for my review     |
 | term     | `linux_sandbox`   | docker run busybox                 |
 | term     | `$mod+Shift+n`    | nautilus ~/Downloads/              |
 | vim      | `cwiw .`          | exchange word                      |
-| vim      | `<leader>t`       | edit this file in new tab          |
-| vim      | `]t, [t`          | next tab and previous tab          |
+| vim      | `as, is`          | builtin sentence text object       |
+| vim      | `()`              | jump to prev, next sentence        |
 | vimium   | `W`               | move tab to new window             |
 | vimium   | `c`               | close all other tabs               |
 | vimium   | `C`               | close tabs on the right            |
 | vimium   | `yt`              | duplicate  current tab             |
 | -------- | ----------------- | ---------------------------------- |
+| vim      | `<leader>n`       | edit this file in new tab          |
+| vim      | `]t, [t`          | next tab and previous tab          |
 | vim      | `ca#`             | quick change markdown title        |
 | vim      | `yp`              | copy file path                     |
 | vim      | `:+1:,:-1:`       | insert emoji                       |
