@@ -279,3 +279,27 @@ common with cloud providers, those secrets could be stolen easily. Some language
 \- Many applications will print all of their environment variables to standard out
 when issued a debugging command or when they crash. This means you may
 expose secrets in your logs on a regular basis.
+
+## 291
+
+Docker Swarm is a clustering technology that connects a set of hosts running Docker
+and lets you run applications built using Docker services across those machines.
+
+## 307
+
+Clients interact with the example application’s API service by using HTTP. HTTP
+is an application protocol (layer 7) that is transported over the TCP/IP (layer
+4\) networking protocol. Docker also supports services that listen on UDP/IP
+(layer 4). **The Swarm routing mesh relies on IPVS, which routes and balances
+network traffic at layer 4.**  The distinction between routing at layer 4 versus
+layer 7 is important. Because Swarm routes and load-balances connections at the
+IP layer, it means client connections will be balanced across backend service
+tasks, not HTTP requests. When one client Bypassing the routing mesh An
+alternate PublishMode called host bypasses the routing mesh and attachment to
+the ingress network. When using this mode, clients connect directly to the
+service task on a given host. If a task is deployed there, it can handle the
+connection; otherwise, the connection attempt will fail.  This PublishMode is
+likely most appropriate for services that are deployed in global mode so that
+there is one, and only one, task for a particular service on a cluster node.
+This ensures that a task is available to handle requests and avoids port
+collisions. Global services are explained in more detail in section 13.4.3.
