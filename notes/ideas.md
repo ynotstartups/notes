@@ -8,6 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- VIM: try out https://github.com/preservim/vim-textobj-sentence
+- VIM: try out https://github.com/preservim/vim-litecorrect
 - read Rg man page
 - fork `ekalinin/Dockerfile.vim`
   - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
