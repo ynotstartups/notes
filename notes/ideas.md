@@ -8,12 +8,12 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- VIM: try out https://github.com/preservim/vim-textobj-sentence
-- VIM: try out https://github.com/preservim/vim-litecorrect
-- read Rg man page
-- fork `ekalinin/Dockerfile.vim`
+- TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
+  - `zip -r download-archive.zip Downloads`
+  - setup alias?
+- DOCKER: fork `ekalinin/Dockerfile.vim`
   - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
-- start using snippet or just continue using `abbreviations`
+- VIM: start using snippet or just continue using `abbreviations`
   - why what how template
   - refinement and planning reminders
   - Jira tickets templates
@@ -21,23 +21,13 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
   - variable columns tables in markdown
   - 👍 abbreviations - simpler to setup, no dependencies
 - TERMINAL: use `zathura` vim-based minimal PDF reader
-- TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
-  - `zip -r download-archive.zip Downloads`
-- Regex: properly learn about regular expression?
-  - learn perl like regex
-  - `\b` - word boundary
-  - 👎 learn as I go
-- VIM: Use vim-fugitive and build habits of add and commit in vim
-  - useful for pushing changes in vim, especially for notes and dotfiles
-  - 👎 can do it in terminal
-- LIFE: Keep a brag document for work similar to Create my own README page similar to https://jvns.ca/blog/brag-documents/
 - VIM: Visual In Indent
   - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
     - a
     - b
     - c
-- VIM: autocorrect all misspelling words as one writes
 - MARKDOWN: Sort by indent To Format File such as this one?
+- VIM: autocorrect all misspelling words as one writes
 
 ## Books That I Want To Read
 
