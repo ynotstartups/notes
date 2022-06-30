@@ -9,7 +9,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 ## Random Ideas
 
 - GIT: read https://jwiegley.github.io/git-from-the-bottom-up/
-- VIM: allow visual select and `.` to apply on each line
 - TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
   - `zip -r download-archive.zip Downloads`
   - setup alias?
