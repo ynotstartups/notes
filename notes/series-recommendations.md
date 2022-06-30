@@ -1,5 +1,6 @@
 # Series Recommendations
 
+- [My Liberation Diary](https://www.imdb.com/title/tt15146130/)
 - [Clarkson's Farm](https://www.imdb.com/title/tt11733006/)
 - [Dopesick](https://www.imdb.com/title/tt9174558/)
 - [How To With John Wilson](https://www.imdb.com/title/tt10801534/)
