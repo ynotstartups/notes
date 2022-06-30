@@ -2,11 +2,10 @@
 
 Enrich [README](./readmereadme.md)
 
-| Name                        | Progress | Total  |
-| --------------------------- | -------- | ------ |
-| My Liberation Diary         | Ep. 15   | Ep. 16 |
-| Piano Adventures Classics 1 | 50       | 80     |
-| Code                        | 216      | 382    |
+| Name                        | Progress | Total |
+| --------------------------- | -------- | ----- |
+| Piano Adventures Classics 1 | 57       | 80    |
+| Code                        | 216      | 382   |
 
 **Note:**
 
@@ -23,7 +22,7 @@ Enrich [README](./readmereadme.md)
 | term     | `pw`              | open PRs waiting for my review     |
 | term     | `linux_sandbox`   | docker run busybox                 |
 | term     | `$mod+Shift+n`    | nautilus ~/Downloads/              |
-| vim      | `cwiw .`          | exchange word                      |
+| vim      | `cxiw .`          | exchange word                      |
 | vim      | `as, is`          | builtin sentence text object       |
 | vim      | `()`              | jump to prev, next sentence        |
 | vimium   | `W`               | move tab to new window             |
