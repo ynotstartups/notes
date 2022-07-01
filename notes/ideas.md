@@ -8,10 +8,10 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- VIM: read new vim 9 script https://vimhelp.org/vim9.txt.html
+  - similar to javascript?
 - GIT: read https://jwiegley.github.io/git-from-the-bottom-up/
-- TERMINAL: zip downloads folder into a file instead of dangerous `rm -r`
-  - `zip -r download-archive.zip Downloads`
-  - setup alias?
+  - to learn more about git
 - DOCKER: fork `ekalinin/Dockerfile.vim`
   - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
 - VIM: start using snippet or just continue using `abbreviations`
