@@ -1,5 +1,16 @@
 # Piano Recordings
 
+## March Of The English Guard
+
+<audio controls>
+  <source src="../recordings/march-of-the-english-guard.mp3" type="audio/mpeg">
+</audio>
+
+## Theme From Sonata A Major
+
+<audio controls>
+  <source src="../recordings/theme-from-sonata-a-major.mp3" type="audio/mpeg">
+</audio>
 ## Aria
 
 <audio controls>
