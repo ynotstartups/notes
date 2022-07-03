@@ -25,6 +25,8 @@ Enrich [README](./readmereadme.md)
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `as, is`          | builtin sentence text object       |
 | vim      | `()`              | jump to prev, next sentence        |
+| vim      | `H, L`            | move to next tab, like vimium      |
+| vim      | `J, K`            | move to next window                |
 | vimium   | `W`               | move tab to new window             |
 | vimium   | `c`               | close all other tabs               |
 | vimium   | `C`               | close tabs on the right            |
