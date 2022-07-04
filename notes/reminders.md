@@ -5,7 +5,7 @@ Enrich [README](./readmereadme.md)
 | Name                        | Progress | Total |
 | --------------------------- | -------- | ----- |
 | Piano Adventures Classics 1 | 60       | 80    |
-| Code                        | 286      | 382   |
+| Code                        | 304      | 382   |
 
 **Note:**
 
