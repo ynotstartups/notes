@@ -57,6 +57,7 @@ _later_
 - CS: Modern Operating Systems
 - CS: Coder At Work
 - CS: Structure And Interpretation Of Computer Program
+- CS: Introduction to Cryptography: Principles and Applications
 - CS: The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
   - by Charles Petzold, author of Code
 - CS: Cloud Design Patterns - Microsoft Azure Docs
