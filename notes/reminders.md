@@ -5,7 +5,6 @@ Enrich [README](./readmereadme.md)
 | Name                        | Progress | Total |
 | --------------------------- | -------- | ----- |
 | Piano Adventures Classics 1 | 64       | 80    |
-| Code                        | 364      | 382   |
 
 **Note:**
 
@@ -17,6 +16,7 @@ Enrich [README](./readmereadme.md)
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
 | git      | `HEAD~`           | `reset HEAD~ --soft` last commit   |
+| git      | `g_copy_log_body` | to paste amended message into PR   |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
 | term     | `pw`              | open PRs waiting for my review     |

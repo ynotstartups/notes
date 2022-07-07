@@ -2,6 +2,7 @@
 
 | Year | Name                                                            | Author                          | Comments                            |
 | ---- | --------------------------------------------------------------- | ------------------------------- | ----------------------------------- |
+| 2022 | Code                                                            | Charles Petzold                 |                                     |
 | 2022 | Docker In Action                                                | Jeff Nickoloff                  |                                     |
 | 2022 | Talking With Tech Leads                                         | Patrick Kua                     | Became Tech Lead                    |
 | 2022 | Flow                                                            | Mihaly Csikszentmihalyi         | Happiness == Flow                   |
