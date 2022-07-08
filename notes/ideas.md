@@ -8,29 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- GIT: is it possible to prepare git commit message while working on a PR
-  - instead of always writing git commit message at the end
-- VIM: read new vim 9 script https://vimhelp.org/vim9.txt.html
-  - similar to javascript?
-- GIT: read https://jwiegley.github.io/git-from-the-bottom-up/
-  - to learn more about git
-- DOCKER: fork `ekalinin/Dockerfile.vim`
-  - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
-- VIM: start using snippet or just continue using `abbreviations`
-  - why what how template
-  - refinement and planning reminders
-  - Jira tickets templates
-  - bug report template
-  - variable columns tables in markdown
-  - 👍 abbreviations - simpler to setup, no dependencies
 - TERMINAL: use `zathura` vim-based minimal PDF reader
-- VIM: Visual In Indent
-  - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
-    - a
-    - b
-    - c
-- MARKDOWN: Sort by indent To Format File such as this one?
-- VIM: autocorrect all misspelling words as one writes
 
 ## Books That I Want To Read
 
@@ -125,3 +103,28 @@ _later_
 - [Coursera Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)
 - [Optimizing Docker Images](https://www.ctl.io/developers/blog/post/optimizing-docker-images/)
 - [The Case for Free Online Books](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
+
+## Ideas - Future
+
+- GIT: is it possible to prepare git commit message while working on a PR
+  - instead of always writing git commit message at the end
+- VIM: read new vim 9 script https://vimhelp.org/vim9.txt.html
+  - similar to javascript?
+- GIT: read https://jwiegley.github.io/git-from-the-bottom-up/
+  - to learn more about git
+- DOCKER: fork `ekalinin/Dockerfile.vim`
+  - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
+- VIM: start using snippet or just continue using `abbreviations`
+  - why what how template
+  - refinement and planning reminders
+  - Jira tickets templates
+  - bug report template
+  - variable columns tables in markdown
+  - 👍 abbreviations - simpler to setup, no dependencies
+- VIM: Visual In Indent
+  - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
+    - a
+    - b
+    - c
+- MARKDOWN: Sort by indent To Format File such as this one?
+- VIM: autocorrect all misspelling words as one writes
