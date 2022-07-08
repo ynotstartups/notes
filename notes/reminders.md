@@ -2,9 +2,10 @@
 
 Enrich [README](./readmereadme.md)
 
-| Name                        | Progress | Total |
-| --------------------------- | -------- | ----- |
-| Piano Adventures Classics 1 | 64       | 80    |
+| Name                               | Progress | Total |
+| ---------------------------------- | -------- | ----- |
+| Piano Adventures Classics 1        | 64       | 80    |
+| Operating System Three Easy Pieces | 047      | 747   |
 
 **Note:**
 
