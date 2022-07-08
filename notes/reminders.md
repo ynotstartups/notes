@@ -19,12 +19,13 @@ Enrich [README](./readmereadme.md)
 | -------- | ----------------- | ---------------------------------- |
 | git      | `HEAD~`           | `reset HEAD~ --soft` last commit   |
 | git      | `g_copy_log_body` | to paste amended message into PR   |
+| i3       | `$mod+Shift+b`    | open books                         |
+| i3       | `$mod+Shift+n`    | nautilus ~/Downloads/              |
 | term     | `nw`              | rss feeds for work                 |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
 | term     | `pw`              | open PRs waiting for my review     |
 | term     | `linux_sandbox`   | docker run busybox                 |
-| term     | `$mod+Shift+n`    | nautilus ~/Downloads/              |
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `as, is`          | builtin sentence text object       |
 | vim      | `()`              | jump to prev, next sentence        |

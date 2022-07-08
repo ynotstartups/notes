@@ -8,8 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- TERMINAL: use `zathura` vim-based minimal PDF reader
-
 ## Books That I Want To Read
 
 **Criteria**
