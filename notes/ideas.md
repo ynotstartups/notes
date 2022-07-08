@@ -8,7 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- NEWSBOAT: split one for tech/work, another one for fun?
 - GIT: is it possible to prepare git commit message while working on a PR
   - instead of always writing git commit message at the end
 - VIM: read new vim 9 script https://vimhelp.org/vim9.txt.html
