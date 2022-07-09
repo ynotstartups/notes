@@ -8,6 +8,10 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
+- VIM: obsession.vim less manual session support https://github.com/tpope/vim-obsession
+- VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
+
 ## Books That I Want To Read
 
 **Criteria**
