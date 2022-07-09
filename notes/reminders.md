@@ -30,6 +30,7 @@ Enrich [README](./readmereadme.md)
 | vim      | `as, is`          | builtin sentence text object       |
 | vim      | `()`              | jump to prev, next sentence        |
 | fugitive | `cvc`             | commit with verbose                |
+| fugitive | `:GBrowse!`       | put URL in clipboard               |
 | fugitive | `:Git difftool`   | open diffs in quick fix            |
 | fugitive | `:Git mergetool`  | open merge conflicts in quick fix  |
 | vimium   | `c`               | close all other tabs               |
