@@ -20,9 +20,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 _next_
 
-- How Computers Work: From Amps to Apps: A Hands-On Guide to the Inner Workings of the Machine
-- Operating Systems: Three Easy Pieces
-
 _later_
 
 - Math: Fundamental of Mathematical Analysis
