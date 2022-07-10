@@ -22,6 +22,7 @@ Enrich [README](./readmereadme.md)
 | i3       | `$mod+Shift+b`    | open books                         |
 | i3       | `$mod+Shift+n`    | nautilus ~/Downloads/              |
 | term     | `nw`              | rss feeds for work                 |
+| term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
 | term     | `pw`              | open PRs waiting for my review     |
@@ -29,10 +30,13 @@ Enrich [README](./readmereadme.md)
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `as, is`          | builtin sentence text object       |
 | vim      | `()`              | jump to prev, next sentence        |
+| vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
 | fugitive | `cvc`             | commit with verbose                |
 | fugitive | `:GBrowse!`       | put URL in clipboard               |
 | fugitive | `:Git difftool`   | open diffs in quick fix            |
 | fugitive | `:Git mergetool`  | open merge conflicts in quick fix  |
+| vimium   | `a`               | use instead of f, open links       |
+| vimium   | `T`               | search open tabs                   |
 | vimium   | `c`               | close all other tabs               |
 | vimium   | `C`               | close tabs on the right            |
 | -------- | ----------------- | ---------------------------------- |
