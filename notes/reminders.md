@@ -6,7 +6,7 @@ Enrich [README](./readmereadme.md)
 | ------------------------------------- | -------- | ----- |
 | Piano Adventures Classics 1           | 64       | 80    |
 | Operating System Three Easy Pieces    | 047      | 747   |
-| Computer Networking Top Down Approach | 013      | 775   |
+| Computer Networking Top Down Approach | 029      | 775   |
 
 **Note:**
 
@@ -17,19 +17,12 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
-| git      | `HEAD~`           | `reset HEAD~ --soft` last commit   |
 | git      | `g_copy_log_body` | to paste amended message into PR   |
 | i3       | `$mod+Shift+b`    | open books                         |
-| i3       | `$mod+Shift+n`    | nautilus ~/Downloads/              |
-| term     | `nw`              | rss feeds for work                 |
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
-| term     | `pw`              | open PRs waiting for my review     |
-| term     | `linux_sandbox`   | docker run busybox                 |
 | vim      | `cxiw .`          | exchange word                      |
-| vim      | `as, is`          | builtin sentence text object       |
-| vim      | `()`              | jump to prev, next sentence        |
 | vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
 | fugitive | `cvc`             | commit with verbose                |
 | fugitive | `:GBrowse!`       | put URL in clipboard               |
@@ -37,9 +30,16 @@ Enrich [README](./readmereadme.md)
 | fugitive | `:Git mergetool`  | open merge conflicts in quick fix  |
 | vimium   | `a`               | use instead of f, open links       |
 | vimium   | `T`               | search open tabs                   |
+| -------- | ----------------- | ---------------------------------- |
+| git      | `HEAD~`           | `reset HEAD~ --soft` last commit   |
+| vim      | `as, is`          | builtin sentence text object       |
+| vim      | `()`              | jump to prev, next sentence        |
 | vimium   | `c`               | close all other tabs               |
 | vimium   | `C`               | close tabs on the right            |
-| -------- | ----------------- | ---------------------------------- |
+| term     | `linux_sandbox`   | docker run busybox                 |
+| term     | `pw`              | open PRs waiting for my review     |
+| term     | `nw`              | rss feeds for work                 |
+| i3       | `$mod+Shift+n`    | nautilus ~/Downloads/              |
 | vimium   | `W`               | move tab to new window             |
 | vimium   | `yt`              | duplicate  current tab             |
 | vim      | `H, L`            | move to next tab, like vimium      |
