@@ -8,6 +8,10 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- JIRA
+  - `jira describe TICKET` - show description for a ticket
+  - `jira create ticket`
+    - prompts for title and other fields...
 - VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
 - VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
 
@@ -64,8 +68,6 @@ _next_
 
 _later_
 
-- Quiet: The Power of Introverts in a World That Can't Stop Talking
-  - To understand myself
 - Thinking, Fast and Slow
   - To understand my mind
 - Guns, Germs, and Steel: The Fates of Human Societies
@@ -74,7 +76,6 @@ _later_
 - The Design Of Everyday Things
 - The Elements Of Style
   - reference for writing
-- The Vintage Guide To Classical Music
 
 **Fictions**
 
