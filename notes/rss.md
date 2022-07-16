@@ -1,4 +1,50 @@
-# RSS
+# RSS Presentation
+
+## Setup Of Presentation
+
+- window 1 - presentation
+
+  - this file
+
+- window 2 - newboat
+
+  - left: `n`
+  - right: `nw`
+
+- window 3 - url
+
+  - newsboat url
+
+- window 4 - chrome
+  \- who am I?
+  \- rss example https://jvns.ca/
+  \- rss example https://status.docker.com/
+  \- rss example https://status.python.org/
+  \- rss client https://feedly.com/i/my
+
+- window 5 - misc
+
+- run the following commands to rename workspace
+
+```
+i3-msg 'rename workspace 1 to "1:presentation"'
+i3-msg 'rename workspace 2 to "2:newsboat"'
+i3-msg 'rename workspace 3 to "3:url"'
+i3-msg 'rename workspace 4 to "4:chrome"'
+i3-msg 'rename workspace 5 to "5:misc"'
+```
+
+## Theme
+
+- text
+- boring? old tech
+- hacky code
+
+## Who Am I?
+
+Go through https://ynotstartups.github.io/
+
+## Why RSS - Personal Story
 
 I found myself constantly checking several websites to get information.
 
@@ -17,6 +63,19 @@ This habit makes me wonder is there a way I can automate this.
 Funny enough, this is what my employer Lyst is trying to solve. Instead of users going to different retailer site to shop or compare, users can just go to Lyst and get the best price.
 
 Turns out [RSS](https://en.wikipedia.org/wiki/RSS) is designed just for this purpose, basically, you can consider RSS is like Lyst but for the internet, or a twitter which can follow anything on the internet.
+
+## What is RSS?
+
+Imagine it is
+
+1. shows window 4, examples of RSS buttons on the internet
+1. shows window 2, examples of RSS feeds in newsboat
+
+Quickly discuss alternatives that I don't use
+
+- email - prefer email to be critical things, I dislike newsletter because of companies use email as marketing tool and irrelevant recommendations
+- slack - for work only, cannot use for personal life
+- twitter - I don't have twitter
 
 ## RSS Feed Example
 
@@ -68,10 +127,6 @@ See below for example of using python web scraping to generate RSS feed.
 - Little python scripting can save me so much time and effort, the return of investment for these scripts are super high.
 - I can finally keep track of the different engineering blogs, github's engineering blog, or individual bloggers.
 - Turns out Podcasts are always distributed using RSS!
-
-## Conclusion
-
-RSS is so simple yet elegant and super powerful, a simple script can save you so much time and effort.
 
 ## Getting Barbican's Monday Movie Example
 
@@ -173,8 +228,6 @@ rss = RSS(
 print(rss)
 ```
 
-## Random RSS Feed Example
+## Conclusion
 
-- News such as TechCrunch, Economist...
-- Software releases such as mypy, django...
-- it service status, slack system status, new relic status...
+RSS is so simple yet elegant and super powerful, a simple script can save you so much time and effort.
