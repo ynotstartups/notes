@@ -21,6 +21,7 @@ Enrich [README](./readmereadme.md)
 | git      | `g_copy_log_body` | to paste amended message into PR   |
 | i3       | `$mod+Shift+b`    | open books                         |
 | i3       | `$mod+r`          | rename workspace                   |
+| i3       | `$mod+C+S+l`      | lock i3                            |
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
