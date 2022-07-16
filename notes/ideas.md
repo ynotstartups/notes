@@ -9,7 +9,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 ## Random Ideas
 
 - JIRA
-  - `jira -b` - print out ticket as branch name
   - `jira describe TICKET` - show description for a ticket
   - `jira create ticket`
     - prompts for title and other fields...
