@@ -20,11 +20,14 @@ Enrich [README](./readmereadme.md)
 | -------- | ----------------- | ---------------------------------- |
 | git      | `g_copy_log_body` | to paste amended message into PR   |
 | i3       | `$mod+Shift+b`    | open books                         |
+| i3       | `$mod+r`          | rename workspace                   |
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
+| vim      | `:make lint`      | record vim session `vim -S foo`    |
+| vim      | `zm`              | apply fold                         |
 | fugitive | `cvc`             | commit with verbose                |
 | fugitive | `:GBrowse!`       | put URL in clipboard               |
 | fugitive | `:Git difftool`   | open diffs in quick fix            |
