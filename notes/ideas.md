@@ -88,6 +88,10 @@ _later_
 - The Forsyte Saga by John Galsworthy
   - family drama
 
+## Random Papers That Might Be Interesting
+
+- [Measuring the Business Value of Recommender Systems](https://arxiv.org/pdf/1908.08328.pdf)
+
 ## Random Articles That Might Be Interesting
 
 - [The 12 factor app](https://12factor.net/)
