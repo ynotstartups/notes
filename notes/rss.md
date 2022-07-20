@@ -228,6 +228,12 @@ rss = RSS(
 print(rss)
 ```
 
+## Why Isn't Rss More Popular?
+
+Wikipedia: Several major sites such as Facebook and Twitter previously offered RSS feeds but have reduced or removed support. Additionally, rss client Google Reader have been discontinued as of 2013 having cited declining popularity in RSS.
+
+Answer is that there is no commercial or economics incentives for the different business to work together to provide the best user experience, instead each major websites want you to spend as much time as possible in their own websites.
+
 ## Conclusion
 
 RSS is so simple yet elegant and super powerful, a simple script can save you so much time and effort.
