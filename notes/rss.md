@@ -16,13 +16,17 @@
   - newsboat url
 
 - window 4 - chrome
-  \- who am I?
-  \- rss example https://jvns.ca/
-  \- rss example https://status.docker.com/
-  \- rss example https://status.python.org/
-  \- rss client https://feedly.com/i/my
+
+  - who am I?
+  - rss example https://jvns.ca/
+  - rss example https://status.docker.com/
+  - rss example https://status.python.org/
+  - rss example https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH
+  - rss client https://feedly.com/i/my
 
 - window 5 - misc
+
+- window 6 - slack with #software-releases channel
 
 - run the following commands to rename workspace
 
@@ -32,6 +36,7 @@ i3-msg 'rename workspace 2 to "2:newsboat"'
 i3-msg 'rename workspace 3 to "3:url"'
 i3-msg 'rename workspace 4 to "4:chrome"'
 i3-msg 'rename workspace 5 to "5:misc"'
+i3-msg 'rename workspace 6 to "6:slack"'
 ```
 
 ## Theme
@@ -62,14 +67,18 @@ This habit makes me wonder is there a way I can automate this.
 
 Funny enough, this is what my employer Lyst is trying to solve. Instead of users going to different retailer site to shop or compare, users can just go to Lyst and get the best price.
 
-Turns out [RSS](https://en.wikipedia.org/wiki/RSS) is designed just for this purpose, basically, you can consider RSS is like Lyst but for the internet, or a twitter which can follow anything on the internet.
+Turns out [RSS](https://en.wikipedia.org/wiki/RSS) is designed just for this purpose, basically, you can consider RSS is like a twitter which can follow anything on the internet.
 
-## What is RSS?
+## RSS Feed Example
 
 Imagine it is
 
 1. shows window 4, examples of RSS buttons on the internet
 1. shows window 2, examples of RSS feeds in newsboat
+1. shows window 3, RSS feeds urls
+1. shows window 6
+   - show example of slack with #software-releases channel
+   - even slack can subscribe to rss `/feed help`
 
 Quickly discuss alternatives that I don't use
 
@@ -77,7 +86,7 @@ Quickly discuss alternatives that I don't use
 - slack - for work only, cannot use for personal life
 - twitter - I don't have twitter
 
-## RSS Feed Example
+## What is RSS?
 
 See below for an example RSS feed, RSS uses xml and it is super simple.
 
@@ -99,7 +108,9 @@ See below for an example RSS feed, RSS uses xml and it is super simple.
 </rss>
 ```
 
-## RSS Client
+There is an alternative ATOM format, but I am not gonna discuss here.
+
+## How to use RSS? RSS Client
 
 To interactive with RSS feeds, you will need a RSS client, e.g. [feedly](https://feedly.com/) is a popular a web based client.
 
@@ -120,13 +131,6 @@ https://hnrss.org/newest?comments=200 tech news
 The most amazing thing of newsboat is that it can take the output of a [program](https://newsboat.org/releases/2.27/docs/newsboat.html#_scripts_and_filters_snownews_extensions) as a RSS feed.
 
 See below for example of using python web scraping to generate RSS feed.
-
-## Some learnings after started using RSS feed
-
-- Did you know you can subscribe to a specific playlist instead of a whole channel, why didn't youtube provide this functionality?
-- Little python scripting can save me so much time and effort, the return of investment for these scripts are super high.
-- I can finally keep track of the different engineering blogs, github's engineering blog, or individual bloggers.
-- Turns out Podcasts are always distributed using RSS!
 
 ## Getting Barbican's Monday Movie Example
 
@@ -228,12 +232,25 @@ rss = RSS(
 print(rss)
 ```
 
+## Some learnings after started using RSS feed
+
+- Did you know you can subscribe to a specific playlist instead of a whole channel, why didn't youtube provide this functionality?
+- Little python scripting can save me so much time and effort, the return of investment for these scripts are super high.
+- I can finally keep track of the different engineering blogs, github's engineering blog, or individual bloggers.
+- Turns out Podcasts are always distributed using RSS!
+
 ## Why Isn't Rss More Popular?
+
+Even though RSS is quite an old technology, 2005 - 2006
 
 Wikipedia: Several major sites such as Facebook and Twitter previously offered RSS feeds but have reduced or removed support. Additionally, rss client Google Reader have been discontinued as of 2013 having cited declining popularity in RSS.
 
 Answer is that there is no commercial or economics incentives for the different business to work together to provide the best user experience, instead each major websites want you to spend as much time as possible in their own websites.
 
+Business don't always have user's best interests in mind, so we need to do some work to make them fits our workflow.
+
 ## Conclusion
 
-RSS is so simple yet elegant and super powerful, a simple script can save you so much time and effort.
+RSS is so simple yet elegant and super powerful technology, a simple script can save you so much time and effort.
+
+## Question?
