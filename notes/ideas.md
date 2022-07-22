@@ -68,11 +68,8 @@ _next_
 
 _later_
 
-- Thinking, Fast and Slow
-  - To understand my mind
+- Nonviolent Communication -- A Language of Life: Life-Changing Tools for Healthy Relationships
 - Guns, Germs, and Steel: The Fates of Human Societies
-- Drive: The Surprising Truth About What Motivates Us
-  - To learn about motivations
 - The Design Of Everyday Things
 - The Elements Of Style
   - reference for writing
