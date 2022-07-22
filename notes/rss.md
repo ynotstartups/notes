@@ -6,18 +6,19 @@
 
   - this file
 
-- window 2 - newboat
+- window 2 - newboat and configs
 
   - left: `n`
-  - right: `nw`
+  - right: `vim /home/tiger/Documents/private_dotfiles/urls`
 
-- window 3 - url
+- window 3 - newboat tech and configs tech
 
-  - newsboat url
+  - left: `nw`
+  - right: `vim /home/tiger/Documents/private_dotfiles/urls-work`
 
 - window 4 - chrome
 
-  - who am I?
+  - who am I? https://ynotstartups.github.io/
   - rss example https://jvns.ca/
   - rss example https://status.docker.com/
   - rss example https://status.python.org/
@@ -33,7 +34,7 @@
 ```
 i3-msg 'rename workspace 1 to "1:presentation"'
 i3-msg 'rename workspace 2 to "2:newsboat"'
-i3-msg 'rename workspace 3 to "3:url"'
+i3-msg 'rename workspace 3 to "3:url configs"'
 i3-msg 'rename workspace 4 to "4:chrome"'
 i3-msg 'rename workspace 5 to "5:misc"'
 i3-msg 'rename workspace 6 to "6:slack"'
@@ -41,25 +42,27 @@ i3-msg 'rename workspace 6 to "6:slack"'
 
 ## Theme
 
-- text
-- boring? old tech
+- reading through text
+- boring? old tech, RSS is popular in 2004 - 2005
 - hacky code
 
 ## Who Am I?
 
 Go through https://ynotstartups.github.io/
 
-## Why RSS - Personal Story
+## Let's start with a Personal Story
 
 I found myself constantly checking several websites to get information.
 
 For example,
 
+I like to keep track of new properties in City of London.
+
 Every Monday, I check [barbican cinema website](https://www.barbican.org.uk/whats-on/cinema) because the cinema ticket is only £6 on Monday.
 
 If I want to check if there are new art exhibitions, I use [timeout](https://www.timeout.com/london/art/top-10-art-exhibitions-in-london) .
 
-I go on [Hacker News](https://news.ycombinator.com/), however I only visit links with a large amount of comments.
+I go on [Hacker News](https://news.ycombinator.com/), however I only open links with a large amount of comments.
 
 ...
 
@@ -70,8 +73,6 @@ Funny enough, this is what my employer Lyst is trying to solve. Instead of users
 Turns out [RSS](https://en.wikipedia.org/wiki/RSS) is designed just for this purpose, basically, you can consider RSS is like a twitter which can follow anything on the internet.
 
 ## RSS Feed Example
-
-Imagine it is
 
 1. shows window 4, examples of RSS buttons on the internet
 1. shows window 2, examples of RSS feeds in newsboat
@@ -86,24 +87,28 @@ Quickly discuss alternatives that I don't use
 - slack - for work only, cannot use for personal life
 - twitter - I don't have twitter
 
-## What is RSS?
+## What is RSS internally?
 
 See below for an example RSS feed, RSS uses xml and it is super simple.
+
+- channels - similar to a twitter account
+- items in channel - similar to a tweet
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
+<!-- channel starts below -->
 <channel>
- <title>RSS Title</title>
- <description>This is an example of an RSS feed</description>
- <link>http://www.example.com/main.html</link>
+    <title>RSS Title</title>
+    <description>This is an example of an RSS feed</description>
+    <link>http://www.example.com/main.html</link>
 
- <item>
-  <title>Example entry</title>
-  <description>Here is some text containing an interesting description.</description>
-  <link>http://www.example.com/blog/post/1</link>
- </item>
-
+    <!--items start below-->
+    <item>
+        <title>Example entry</title>
+        <description>Here is some text containing an interesting description.</description>
+        <link>http://www.example.com/blog/post/1</link>
+    </item>
 </channel>
 </rss>
 ```
@@ -127,6 +132,10 @@ http://githubengineering.com/atom.xml tech
 # News with more than 200 comments from Hacker News
 https://hnrss.org/newest?comments=200 tech news
 ```
+
+- discuss https://hnrss.org/newest?comments=200
+  - this RSS is not provided by hacker news officially
+  - but it is a third party site which allows you to filter news in different ways
 
 The most amazing thing of newsboat is that it can take the output of a [program](https://newsboat.org/releases/2.27/docs/newsboat.html#_scripts_and_filters_snownews_extensions) as a RSS feed.
 
