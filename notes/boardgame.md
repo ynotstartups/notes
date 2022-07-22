@@ -49,9 +49,9 @@ I wrote a [scraper](https://github.com/ynotstartups/bga-scraper) for all the gam
 
 ## Board Game To Try Next
 
-The Castles Of Burgundy
-
-Agricola - complex and long game
+- Puerto Rico, similar gameplay with argicola
+- The Castles Of Burgundy
+- Agricola - complex and long game
 
 ## Board Game Not Considering
 
