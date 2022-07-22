@@ -42,7 +42,7 @@ i3-msg 'rename workspace 6 to "6:slack"'
 
 ## Theme
 
-- reading through text
+- reading through text, not ready a powerpoint presentation, because I don't have many points that I want to make.
 - boring? old tech, RSS is popular in 2004 - 2005
 - hacky code
 
