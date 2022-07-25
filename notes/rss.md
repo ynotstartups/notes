@@ -34,7 +34,7 @@
 ```
 i3-msg 'rename workspace 1 to "1:presentation"'
 i3-msg 'rename workspace 2 to "2:newsboat"'
-i3-msg 'rename workspace 3 to "3:url configs"'
+i3-msg 'rename workspace 3 to "3:newsboat tech"'
 i3-msg 'rename workspace 4 to "4:chrome"'
 i3-msg 'rename workspace 5 to "5:misc"'
 i3-msg 'rename workspace 6 to "6:slack"'
