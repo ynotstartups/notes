@@ -2,12 +2,12 @@
 
 Enrich [README](./readmereadme.md)
 
-| Name                                  | Progress | Total |
-| ------------------------------------- | -------- | ----- |
-| Piano Adventures Classics 1           | 64       | 80    |
-| Operating System Three Easy Pieces    | 047      | 747   |
-| Computer Networking Top Down Approach | 093      | 775   |
-| monster hunter world: rank            | 000      | ???   |
+| Name                                  | Progress   | Total |
+| ------------------------------------- | ---------- | ----- |
+| Piano Adventures Classics 1           | 64         | 80    |
+| Operating System Three Easy Pieces    | 047        | 747   |
+| Computer Networking Top Down Approach | 093        | 775   |
+| monster hunter world: rank            | HR 25 MR 3 | ???   |
 
 **Note:**
 
