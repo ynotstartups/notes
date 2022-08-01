@@ -14,6 +14,17 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - prompts for title and other fields...
 - VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
 - VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
+- MHW: Complete Help Quests
+- MHW: S&S with each elemental damage
+  - [ ] fire
+  - [ ] ice
+  - [ ] electricity
+  - [ ] Dragon
+- MHW: Setup all camps
+  - [ ] wildspire waste
+  - [ ] rotten vale
+  - [ ] Elder's Recess
+- Sleep Charm 3 to prevent sleep to fight nightshape paolulu
 
 ## Books That I Want To Read
 
