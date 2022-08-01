@@ -5,7 +5,6 @@ Enrich [README](./readmereadme.md)
 | Name                                  | Progress   | Total |
 | ------------------------------------- | ---------- | ----- |
 | Piano Adventures Book 2               | 022        | 195   |
-| Operating System Three Easy Pieces    | 047        | 747   |
 | Computer Networking Top Down Approach | 099        | 775   |
 | monster hunter world: rank            | HR 25 MR 3 | ???   |
 
