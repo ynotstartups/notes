@@ -2,6 +2,9 @@
 
 | Year | Name                                                            | Author                          | Comments                            |
 | ---- | --------------------------------------------------------------- | ------------------------------- | ----------------------------------- |
+| 2022 | Faber Adult Piano Classics Book 1                               |                                 |                                     |
+| 2022 | Children Of Ruin                                                | Adrian Tchaikovsky              | Great Sci-fi                        |
+| 2022 | Children Of Time                                                | Adrian Tchaikovsky              | Great Sci-fi                        |
 | 2022 | Code                                                            | Charles Petzold                 |                                     |
 | 2022 | Docker In Action                                                | Jeff Nickoloff                  |                                     |
 | 2022 | Talking With Tech Leads                                         | Patrick Kua                     | Became Tech Lead                    |
