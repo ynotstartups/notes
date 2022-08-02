@@ -14,12 +14,15 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - prompts for title and other fields...
 - VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
 - VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
-- MHW: Complete Help Quests
+- MHW: Clutch Claw learn how to wound part
+- MHW: Damage focused High Rank Set
+  - change leg piece to rathalos greaves alpha
 - MHW: S&S with each elemental damage
-  - [ ] fire
+  - [x] fire
   - [ ] ice
   - [ ] electricity
   - [ ] Dragon
+  - [x] water
 - MHW: Setup all camps
   - [ ] wildspire waste
   - [ ] rotten vale
