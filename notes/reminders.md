@@ -2,11 +2,11 @@
 
 Enrich [README](./readmereadme.md)
 
-| Name                                  | Progress   | Total |
-| ------------------------------------- | ---------- | ----- |
-| Piano Adventures Book 2               | 024        | 195   |
-| Computer Networking Top Down Approach | 129        | 775   |
-| monster hunter world: rank            | HR 32 MR 3 | ???   |
+| Name                                  | Progress    | Total |
+| ------------------------------------- | ----------- | ----- |
+| Piano Adventures Book 2               | 024         | 195   |
+| Computer Networking Top Down Approach | 129         | 775   |
+| monster hunter world: rank            | HR 32 MR 07 | ???   |
 
 **Note:**
 
