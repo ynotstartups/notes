@@ -37,3 +37,15 @@ A: binomial distribution with probability 0.1, number of trials 35, we want the 
 >>> sum([binom.pmf(i, 35, 0.1) for i in range(11, 36)])
 0.0004242975954508265
 ```
+
+## 109 - persistent tcp connection v.s. non-persistent
+
+should each request/response pair be sent over a separate TCP connection, or should all of the requests and their corresponding responses be sent over the same TCP connection? In the former approach, the application is said to use **non-persistent connections**; and in the latter approach, **persistent connections**.
+
+## 124 - Goal For HTTP/2
+
+The primary goals for HTTP/2 are to reduce user-perceived latency by enabling request and response multiplexing over a *single* TCP connection, provide request prioritization and server push, and provide efficient compression of HTTP header fields. HTTP/2 does not change HTTP methods, status code, URLs, or header fields. Instead, HTTP/2 changes how the data is formatted and transported between the client and server.
+
+## 126 - break down HTTP message to frames
+
+The ability to break down an HTTP message into independent frames, interleave them, and then reassemble them on the other end is the single most important enhancement of HTTP/2. The framing is done by the framing sub-layer of the HTTP/2 protocol. When a server wants to send an HTTP response, the response is processed by the framing sub-layer, where it is broken down into frames. The header field of the response becomes one frame, and the body of the message is broken down into one for more additional frames. The frames of the response are then interleaved by the framing sub-layer in the server with the frames of other responses and sent over the single persistent TCP connection. As the frames arrive at the client, they are first reassembled into the original response messages at the framing sub-layer and then processed by the browser as usual. Similarly, a client’s HTTP requests are broken into frames and interleaved.  In addition to breaking down each HTTP message into independent frames, the framing sublayer also binary encodes the frames. Binary protocols are more efficient to parse, lead to slightly smaller frames, and are less error-prone.
