@@ -4,9 +4,9 @@ Enrich [README](./readmereadme.md)
 
 | Name                                  | Progress   | Total |
 | ------------------------------------- | ---------- | ----- |
-| Piano Adventures Book 2               | 022        | 195   |
-| Computer Networking Top Down Approach | 099        | 775   |
-| monster hunter world: rank            | HR 25 MR 3 | ???   |
+| Piano Adventures Book 2               | 024        | 195   |
+| Computer Networking Top Down Approach | 129        | 775   |
+| monster hunter world: rank            | HR 32 MR 3 | ???   |
 
 **Note:**
 
@@ -17,24 +17,27 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
-| git      | `g_copy_log_body` | to paste amended message into PR   |
-| i3       | `$mod+Shift+b`    | open books                         |
-| i3       | `$mod+r`          | rename workspace                   |
-| i3       | `$mod+C+S+l`      | lock i3                            |
+| i3       | `$mod+Shift+m`    | open thunderbird mail              |
+| i3       | `$mod+minus`      | open scratch pad                   |
+| i3       | `+Shift+minus`    | move to scratch pad                |
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
-| vim      | `:make lint`      | record vim session `vim -S foo`    |
+| vim      | `:make lint`      | run make and open quickfix         |
 | vim      | `zm`              | apply fold                         |
-| fugitive | `cvc`             | commit with verbose                |
+| vimium   | `T`               | search open tabs                   |
+| -------- | ----------------- | ---------------------------------- |
+| git      | `g_copy_log_body` | to paste amended message into PR   |
+| i3       | `$mod+Shift+b`    | open books                         |
+| i3       | `$mod+r`          | rename workspace                   |
+| i3       | `$mod+C+S+l`      | lock i3                            |
+| vimium   | `a`               | use instead of f, open links       |
 | fugitive | `:GBrowse!`       | put URL in clipboard               |
 | fugitive | `:Git difftool`   | open diffs in quick fix            |
 | fugitive | `:Git mergetool`  | open merge conflicts in quick fix  |
-| vimium   | `a`               | use instead of f, open links       |
-| vimium   | `T`               | search open tabs                   |
-| -------- | ----------------- | ---------------------------------- |
+| term     | `jira`            | see requested jira ticket          |
 | git      | `HEAD~`           | `reset HEAD~ --soft` last commit   |
 | vim      | `as, is`          | builtin sentence text object       |
 | vim      | `()`              | jump to prev, next sentence        |
