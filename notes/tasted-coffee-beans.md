@@ -2,6 +2,9 @@
 
 | Name           | Roaster | Origin      | Roast Level | Process                | Tasting Notes                                |
 | -------------- | ------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
+| Nemba          | Origin  | Burundi     | Omni        | Washed                 | Blackberry, Clementine & Brown Sugar         |
+| Canya          | Origin  | Panama      | Omni        | Natural                | Mandarin, Pineapple, Demerara Sugar          |
+| Aki            | Origin  | El Salvador | Omni        | Natural                | Mango, Grapefruit, Papaya                    |
 | Aqi Badu       | Origin  | China       | Omni        | Natural                | Pineapple, Persimmon & Dark Chocolate        |
 | Barokah        | Origin  | Indonesia   | Omni        | Natural                | Strawberry, Grapefruit & Caramel             |
 | Barokah        | Origin  | Indonesia   | Omni        | Washed                 | Blackberry, Yuzu & Molasses                  |
@@ -13,6 +16,34 @@
 | Tuberosa Decaf | Origin  | Colombia    | Omni        | Sugarcane Decaf        | Apple, Stewed Plum, Caramel                  |
 | Wa Choo        | Origin  | China       | Omni        | Natural                | Pink Grapefruit, Pomegranate, Dark Chocolate |
 | Wa Choo        | Origin  | China       | Omni        | Washed                 | Blackberry, Elderflower & Sugarcane          |
+
+## Nemba
+
+Nemba brings clarity in the mouthfeel and crisp berry-like acidity throughout.
+
+Nemba Washing Station is located in the Northern Province of Kayanza. Nemba collaborate with local smallholder producers to ensure they have access to the necessary farming tools and training, pre and post-harvest. The washing station uses a monitoring system to ensure traceability witihin the supply and process chain. 3,000+ local smallholders sell coffee cherries to the washing station daily during the harvest season.
+
+Quality control starts once the cherries are delivered. The cherries are floated in small buckets to remove any defects, along with any remaining pulp. Cherries are then moved to cement tanks to ferment without water for 12 hours, and then submerged in local spring water for another 12-24 hours. Once the process is complete, the coffee was moved to raised drying beds for a further 2 to 3 weeks.
+
+## Canya
+
+Enoc Caballero, his wife Yaneth, and their children Libney and Abner are the impressive team behind Canya.
+
+Despite huge challenges, the family has adapted since we met in 2020; from the Roya leaf rust decimating their crops - resulting in the family replanting new Red Pacamara trees - to a loss of lands on their plantation. The results from their most recent harvest are truly remarkable.
+
+The unique Pacamara varietal is a cross between the Pacas (a dwarf mutation of Bourbon) and Maragogype varietals. Trees are often smaller in size, producing some of the largest coffee seeds, which are world-renowned for their remarkable quality.
+
+## Aki
+
+Part of the Pacamara Trio, this coffee is super tropical and a favourite of ours each harvest.
+
+Three coffees, three countries, one varietal. Explore the our latest trio release which shines a spotlight on the Pacamara varietal - try all three coffees for £24.95
+
+This is the eighth year we have showcased Carlos Pola’s delicious coffee, from the hills near the Santa Ana volcano. We have always been captivated by his passion to not only produce delicious coffee but to create innovative production techniques, which he then shares with fellow producers.
+
+This Red Pacamara lot displays an interesting and dynamic tropical flavour profile. It’s born from a relationship between the giant Red Pacamara bean and Carlos’s careful processing.
+
+Creating a coffee that is intensely sweet, displaying a flavour profile that is typical of the Red Pacamara bean: incredibly juicy, with tropical fruit highlights of mango, grapefruit and papaya.
 
 ## Lichia
 
