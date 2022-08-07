@@ -1,5 +1,19 @@
 # Art
 
+## Coffee Or Me - St Paul, London
+
+![Coffee Or Me 0](images/art/coffee-or-me-0.webp)
+![Coffee Or Me 1](images/art/coffee-or-me-1.webp)
+
+## Ad Minoliti - Tate, St Ives
+
+![St Ive Ad Minoliti 0](images/art/st-ive-ad-minoliti-0.webp)
+![St Ive Ad Minoliti 1](images/art/st-ive-ad-minoliti-1.webp)
+
+## Tiffany - Saatchi, London
+
+![Tiffany Saatchi London](images/art/tiffany-saatchi-london.webp)
+
 ## The Dark Trail Nicole Eisenman
 
 ![The Dark Trail Nicole Eisenman 1](images/art/the-dark-trail-nicole-eisenman-1.webp)
