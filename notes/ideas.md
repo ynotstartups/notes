@@ -8,26 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- JIRA
-  - `jira describe TICKET` - show description for a ticket
-  - `jira create ticket`
-    - prompts for title and other fields...
 - VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
 - VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
-- MHW: Clutch Claw learn how to wound part
-- MHW: Damage focused High Rank Set
-  - change leg piece to rathalos greaves alpha
-- MHW: S&S with each elemental damage
-  - [x] fire
-  - [ ] ice
-  - [ ] electricity
-  - [ ] Dragon
-  - [x] water
-- MHW: Setup all camps
-  - [ ] wildspire waste
-  - [ ] rotten vale
-  - [ ] Elder's Recess
-- Sleep Charm 3 to prevent sleep to fight nightshape paolulu
 
 ## Books That I Want To Read
 
@@ -142,3 +124,7 @@ _later_
     - c
 - MARKDOWN: Sort by indent To Format File such as this one?
 - VIM: autocorrect all misspelling words as one writes
+- JIRA
+  - `jira describe TICKET` - show description for a ticket
+  - `jira create ticket`
+    - prompts for title and other fields...
