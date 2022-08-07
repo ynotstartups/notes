@@ -1,5 +1,41 @@
 # Piano Recordings
 
+## Yellow Bird
+
+<audio controls>
+  <source src="../recordings/yellow-bird.mp3" type="audio/mpeg">
+</audio>
+
+## Barcarolle
+
+<audio controls>
+  <source src="../recordings/barcarolle.mp3" type="audio/mpeg">
+</audio>
+
+## Laughing song
+
+<audio controls>
+  <source src="../recordings/laughing-song.mp3" type="audio/mpeg">
+</audio>
+
+## Niagara Falls
+
+<audio controls>
+  <source src="../recordings/niagara-falls.mp3" type="audio/mpeg">
+</audio>
+
+## O Sole Mio
+
+<audio controls>
+  <source src="../recordings/o-sole-mio.mp3" type="audio/mpeg">
+</audio>
+
+## Theme From Magic Flute
+
+<audio controls>
+  <source src="../recordings/theme-from-magic-flute.mp3" type="audio/mpeg">
+</audio>
+
 ## March Of The English Guard
 
 <audio controls>
