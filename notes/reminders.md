@@ -4,9 +4,9 @@ Enrich [README](./readmereadme.md)
 
 | Name                                  | Progress    | Total |
 | ------------------------------------- | ----------- | ----- |
-| Piano Adventures Book 2               | 024         | 195   |
-| Computer Networking Top Down Approach | 129         | 775   |
-| monster hunter world: rank            | HR 35 MR 07 | ???   |
+| Piano Adventures Book 2               | 029         | 195   |
+| Computer Networking Top Down Approach | 169         | 775   |
+| monster hunter world: rank            | HR 41 MR 13 | ???   |
 
 **Note:**
 
@@ -17,18 +17,24 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
-| i3       | `$mod+Shift+m`    | open thunderbird mail              |
-| i3       | `$mod+minus`      | open scratch pad                   |
-| i3       | `+Shift+minus`    | move to scratch pad                |
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
+| vim      | `:chistory`       | show quickfix history              |
+| vim      | `:2chistory`      | use second quickfix in history     |
+| vim      | `gl2j:`           | to align lines with symbol `:`     |
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
 | vim      | `:make lint`      | run make and open quickfix         |
 | vim      | `zm`              | apply fold                         |
+| vim      | `H, L`            | move to next tab, like vimium      |
+| vim      | `J, K`            | move to next window                |
+| vim      | `tabfind`         | find but open in new tabs          |
 | vimium   | `T`               | search open tabs                   |
 | -------- | ----------------- | ---------------------------------- |
+| i3       | `$mod+Shift+m`    | open thunderbird mail              |
+| i3       | `$mod+minus`      | open scratch pad                   |
+| i3       | `+Shift+minus`    | move to scratch pad                |
 | git      | `g_copy_log_body` | to paste amended message into PR   |
 | i3       | `$mod+Shift+b`    | open books                         |
 | i3       | `$mod+r`          | rename workspace                   |
@@ -49,8 +55,6 @@ Enrich [README](./readmereadme.md)
 | i3       | `$mod+Shift+n`    | nautilus ~/Downloads/              |
 | vimium   | `W`               | move tab to new window             |
 | vimium   | `yt`              | duplicate  current tab             |
-| vim      | `H, L`            | move to next tab, like vimium      |
-| vim      | `J, K`            | move to next window                |
 | vim      | `<leader>n`       | edit this file in new tab          |
 | vim      | `]t, [t`          | next tab and previous tab          |
 | vim      | `ca#`             | quick change markdown title        |
