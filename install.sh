@@ -3,7 +3,7 @@
 ### Check if a directory does not exist ###
 if [ ! -d './venv' ]
 then
-    python3.10 -m venv .venv
+    python -m venv .venv
 fi
 
 source .venv/bin/activate
