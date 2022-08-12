@@ -8,8 +8,23 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
-- VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
+- CS: understand how utf-8 encoding worked and how is it related to unicodes?
+
+  - read https://realpython.com/python-encodings-guide/
+
+- MHW: Grimalkynes
+
+  - [ ] protectors - https://game8.co/games/Monster-Hunter-World/archives/305942
+  - [ ] troupers - https://game8.co/games/Monster-Hunter-World/archives/305966
+  - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
+  - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
+
+- MHW: Status Resistant Charm
+
+  - [ ] sleep
+  - [ ] para
+  - [ ] water
+  - [ ] dragon
 
 ## Books That I Want To Read
 
@@ -99,6 +114,7 @@ _later_
 - [Coursera Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)
 - [Optimizing Docker Images](https://www.ctl.io/developers/blog/post/optimizing-docker-images/)
 - [The Case for Free Online Books](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
+- [Readable CDN Overview](https://people.cs.rutgers.edu/~rmartin/teaching/fall15/papers/arch2/cdn.pdf)
 
 ## Ideas - Future
 
@@ -128,3 +144,5 @@ _later_
   - `jira describe TICKET` - show description for a ticket
   - `jira create ticket`
     - prompts for title and other fields...
+- VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
+- VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
