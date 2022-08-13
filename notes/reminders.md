@@ -5,7 +5,7 @@ Enrich [README](./readmereadme.md)
 | Name                                  | Progress    | Total |
 | ------------------------------------- | ----------- | ----- |
 | Piano Adventures Book 2               | 029         | 195   |
-| Computer Networking Top Down Approach | 169         | 775   |
+| Computer Networking Top Down Approach | 174         | 775   |
 | monster hunter world: rank            | HR 41 MR 13 | ???   |
 
 **Note:**
@@ -17,6 +17,7 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| term     | `pydoc`           | for python3 docs                   |
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
