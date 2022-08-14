@@ -1,5 +1,17 @@
 # Piano Recordings
 
+## Sloop John B
+
+<audio controls>
+  <source src="../recordings/sloop-john-b.mp3" type="audio/mpeg">
+</audio>
+
+## Brahm's Lullaby
+
+<audio controls>
+  <source src="../recordings/brahms-lullaby.mp3" type="audio/mpeg">
+</audio>
+
 ## Yellow Bird
 
 <audio controls>
