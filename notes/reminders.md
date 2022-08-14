@@ -6,7 +6,7 @@ Enrich [README](./readmereadme.md)
 | ------------------------------------- | ----------- | ----- |
 | Piano Adventures Book 2               | 029         | 195   |
 | Computer Networking Top Down Approach | 174         | 775   |
-| monster hunter world: rank            | HR 41 MR 13 | ???   |
+| monster hunter world: rank            | HR 44 MR 13 | ???   |
 
 **Note:**
 
@@ -31,6 +31,7 @@ Enrich [README](./readmereadme.md)
 | vim      | `H, L`            | move to next tab, like vimium      |
 | vim      | `J, K`            | move to next window                |
 | vim      | `tabfind`         | find but open in new tabs          |
+| vimium   | `<a-p>`           | pin and unpin current tab          |
 | vimium   | `T`               | search open tabs                   |
 | -------- | ----------------- | ---------------------------------- |
 | i3       | `$mod+Shift+m`    | open thunderbird mail              |
