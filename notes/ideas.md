@@ -8,14 +8,13 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- CS: learn about python socket
+- CS: learn about python socket programming
   - https://realpython.com/python-sockets/
 - CS: Do Homework Problems and Questions
   - Chapter 2 computer networking 177
 - CS: learn about errors raised from python requests library
   - either write a simple python server to trigger errors
-  - or install wireshark intercept frames in wireshark to manually trigger errors
-    - [ ] install wireshark
+  - or use wireshark intercept frames in wireshark to manually trigger errors
   - errors in request library https://requests.readthedocs.io/en/latest/api/#exceptions
     - ConnectionError
     - HTTPError
@@ -24,15 +23,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
     - ConnectTimeout
     - ReadTimeout
 - MHW: Grimalkynes
-  - [ ] protectors - https://game8.co/games/Monster-Hunter-World/archives/305942
-  - [ ] troupers - https://game8.co/games/Monster-Hunter-World/archives/305966
   - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
   - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
-- MHW: Status Resistant Charm
-  - [ ] sleep
-  - [ ] para
-  - [ ] water
-  - [ ] dragon
 
 ## Books That I Want To Read
 
