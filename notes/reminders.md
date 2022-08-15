@@ -21,6 +21,7 @@ Enrich [README](./readmereadme.md)
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
+| vim      | `:hardcopy`       | print visually selected lines      |
 | vim      | `:chistory`       | show quickfix history              |
 | vim      | `:2chistory`      | use second quickfix in history     |
 | vim      | `gl2j:`           | to align lines with symbol `:`     |
