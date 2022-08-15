@@ -11,8 +11,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - Print From Terminal
   - read about internal printing protocol
   - [ ] read about CUPS - Common UNIX Printing System - https://en.wikipedia.org/wiki/CUPS
-  - read about how to print from terminal, http://localhost:631/help/options.html
-  - `:hardcopy` in vim, read about `:help print.txt`
+  - [x] read about how to print from terminal, http://localhost:631/help/options.html
+  - [x] `:hardcopy` in vim, read about `:help print.txt`
 - CS: learn about python socket programming
   - https://realpython.com/python-sockets/
 - CS: Do Homework Problems and Questions
