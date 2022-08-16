@@ -5,7 +5,8 @@ Enrich [README](./readmereadme.md)
 | Name                                  | Progress    | Total |
 | ------------------------------------- | ----------- | ----- |
 | Piano Adventures Book 2               | 029         | 195   |
-| Computer Networking Top Down Approach | 174         | 775   |
+| Computer Networking Top Down Approach | 180         | 775   |
+| Beautiful World... Sally Rooney       | 090         | 337   |
 | monster hunter world: rank            | HR 44 MR 13 | ???   |
 
 **Note:**
