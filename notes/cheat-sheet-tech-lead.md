@@ -130,3 +130,20 @@ h1. Questions
 - Team delivery / performance
 - Feedbacks
 - Blockers
+
+## estimates
+
+We changed the estimate to original estimate because he suggest not to change estimate to remaining estimate
+
+- the estimate should the estimate of the entire work even if it spanned multiple sprints
+- it averages out into an average *velocity*
+- we can use comments on ticket if needed to indicate whats left or just team understanding even if it says 8 there's not 8 left to do but leave JIRA as 8
+
+*Some comments regarding velocity*
+
+We are not using velocity in the squad but it is average amount of story points we can do per sprint in the squad.
+
+For example in the following sprint we agree 32 number of story points and during the week the remaining story points should slowly drop down to zero, in burndown chart.
+
+Then if for the next 3 sprints, we are completing 30, 33, 31 story points the we can say our (average) velocity is 32.
+Velocity is useful to know what's the realistic amount of tickets / work we can do per sprint.
