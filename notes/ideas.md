@@ -10,18 +10,9 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 - CS: learn about python socket programming
   - [ ] https://realpython.com/python-sockets/
-- CS: Do Homework Problems and Questions
-  - Chapter 2 computer networking 177
-- CS: learn about errors raised from python requests library
-  - either write a simple python server to trigger errors
-  - or use wireshark intercept frames in wireshark to manually trigger errors
-  - errors in request library https://requests.readthedocs.io/en/latest/api/#exceptions
-    - ConnectionError
-    - HTTPError
-    - URLRequired
-    - TooManyRedirects
-    - ConnectTimeout
-    - ReadTimeout
+  - Handling Multiple Connections
+- CS: go through all python howtos
+  - https://docs.python.org/3/howto/index.html
 - MHW: Grimalkynes
   - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
   - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
