@@ -8,14 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- Print From Terminal
-  - [x] read about internal printing protocol
-    - https://www.pwg.org/ipp/ippguide.html
-  - [x] read about CUPS - Common UNIX Printing System - https://en.wikipedia.org/wiki/CUPS
-  - [x] read about how to print from terminal, http://localhost:631/help/options.html
-  - [x] `:hardcopy` in vim, read about `:help print.txt`
 - CS: learn about python socket programming
-  - https://realpython.com/python-sockets/
+  - [ ] https://realpython.com/python-sockets/
 - CS: Do Homework Problems and Questions
   - Chapter 2 computer networking 177
 - CS: learn about errors raised from python requests library
