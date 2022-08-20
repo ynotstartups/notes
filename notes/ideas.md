@@ -28,6 +28,7 @@ _next_
 
 _later_
 
+- CS: CPython Internals
 - Math: Fundamental of Mathematical Analysis
 - Biology: The Cartoon Guide To Biology
 - CS: The Manga Guide To Cryptiography
