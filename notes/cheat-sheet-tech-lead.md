@@ -162,3 +162,11 @@ For example in the following sprint we agree 32 number of story points and durin
 
 Then if for the next 3 sprints, we are completing 30, 33, 31 story points the we can say our (average) velocity is 32.
 Velocity is useful to know what's the realistic amount of tickets / work we can do per sprint.
+
+## Required tickets for each project
+
+- Add  Epic ticket for project
+- QA: BDD senarios
+- BE, iOS, Android: Heimdall
+- BE, iOS, Android: Breakdown tickets with estimates
+- BE, iOS, Android: spikes for uncertainties
