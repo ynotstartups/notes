@@ -59,6 +59,8 @@ h1. Description
 
 h1. Acceptance Criteria
 
+- A/B test required
+
 h1. Analytics
 
 h1. Design
@@ -122,6 +124,17 @@ h1. Questions
 - to tell the team in stand-up
   - `Thursday: planning today, spend sometime to understand the tickets from backlog or refinement and think about the estimate before planning`
   - `Friendly Reminder: We have refinement today, have a think about any tech debt and bug tickets that you want to discuss and bring into next sprint.`
+- Ticket Template
+  - Description
+  - Acceptance Criteria
+    - A/B test required
+  - Analytics
+  - Design
+  - How To QA
+    - Frontend Ticket: BDD
+    - Backend Ticket: Endpoint + Expected Response
+  - Tech Notes
+  - Questions
 
 ## topics for 1 on 1 with Product Manager
 
@@ -130,6 +143,8 @@ h1. Questions
 - Team delivery / performance
 - Feedbacks
 - Blockers
+- Ongoing Issues
+- Ongoing Experiments A/B tests
 
 ## estimates
 
