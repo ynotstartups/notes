@@ -8,9 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- CS: learn about python socket programming
-  - [ ] https://realpython.com/python-sockets/
-  - Handling Multiple Connections
 - CS: go through all python howtos
   - https://docs.python.org/3/howto/index.html
 - MHW: Grimalkynes
