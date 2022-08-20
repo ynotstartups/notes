@@ -4,8 +4,8 @@ Enrich [README](./readmereadme.md)
 
 | Name                                  | Progress    | Total |
 | ------------------------------------- | ----------- | ----- |
-| Computer Networking Top Down Approach | 192         | 775   |
-| Beautiful World... Sally Rooney       | 166         | 337   |
+| Computer Networking Top Down Approach | 199         | 775   |
+| Beautiful World... Sally Rooney       | 229         | 337   |
 | Piano Adventures Book 2               | 029         | 195   |
 | monster hunter world: rank            | HR 44 MR 13 | ???   |
 
@@ -22,12 +22,14 @@ Enrich [README](./readmereadme.md)
 | term     | `jira`            | see requested jira ticket          |
 | term     | `vjira`           | create jira ticket with template   |
 | term     | `p`               | my open PRs                        |
+| vim      | `gq<motion>`      | use black to format python         |
 | vim      | `:hardcopy`       | print visually selected lines      |
 | vim      | `:chistory`       | show quickfix history              |
 | vim      | `:2chistory`      | use second quickfix in history     |
 | vim      | `gl2j:`           | to align lines with symbol `:`     |
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
+| vim      | `:set makeprg=`   | e.g. `flake8`, run `:make`         |
 | vim      | `:make lint`      | run make and open quickfix         |
 | vim      | `zm`              | apply fold                         |
 | vim      | `H, L`            | move to next tab, like vimium      |
