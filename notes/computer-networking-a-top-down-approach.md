@@ -49,3 +49,35 @@ The primary goals for HTTP/2 are to reduce user-perceived latency by enabling re
 ## 126 - break down HTTP message to frames
 
 The ability to break down an HTTP message into independent frames, interleave them, and then reassemble them on the other end is the single most important enhancement of HTTP/2. The framing is done by the framing sub-layer of the HTTP/2 protocol. When a server wants to send an HTTP response, the response is processed by the framing sub-layer, where it is broken down into frames. The header field of the response becomes one frame, and the body of the message is broken down into one for more additional frames. The frames of the response are then interleaved by the framing sub-layer in the server with the frames of other responses and sent over the single persistent TCP connection. As the frames arrive at the client, they are first reassembled into the original response messages at the framing sub-layer and then processed by the browser as usual. Similarly, a client’s HTTP requests are broken into frames and interleaved.  In addition to breaking down each HTTP message into independent frames, the framing sublayer also binary encodes the frames. Binary protocols are more efficient to parse, lead to slightly smaller frames, and are less error-prone.
+
+## 197 - IP network-layer protocol v.s UDP and TCP Transport Layer
+
+**IP**
+
+IP deliver segments between communicating hosts.
+
+**UDP and TCP**
+
+- the fundamental respectabilities of UDP and TCP is to extend IP's delivery service between two end systems to a delivery service between two processes running on the end systems.
+- UDP and TCP also provide integrity checking by including error-detection fields in their segments’ headers.
+
+These two minimal transport-layer services,
+1\. process-to-process data delivery
+2\. error checking
+are the only two services that UDP provides!
+
+TCP also provides reliable **data transfer**, **congestion control**
+
+## 198 - Demultiplexing vs Multiplexing
+
+**Demultiplexing**
+
+This job of delivering the data in a transport-layer segment to the correct
+socket is called demultiplexing.
+
+**Multiplexing**
+
+The job of gathering data chunks at the source host from different sockets,
+encapsulating each data chunk with header information (that will later be used
+in demultiplexing) to create segments, and passing the segments to the network
+layer is called multiplexing.
