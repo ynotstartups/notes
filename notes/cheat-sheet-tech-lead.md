@@ -25,22 +25,39 @@ Tech Lead brings value by
 
 ## How to run sprint planning?
 
-1. open jira
-1. going through current sprint person by person
-1. pull in tickets from groomed tickets in backlog
-1. plan for next sprint by BE, Design, iOS, Android, BI...
-   - estimate tickets
-   - pull in tickets for the next sprint
+- [ ] ask if there is any holiday plan
+- [ ] open jira
+- [ ] going through current sprint person by person
+- [ ] pull in tickets from groomed tickets in backlog
+- [ ] plan for next sprint by BE, iOS, Android, Data Science, QA...
+  - estimate tickets
+  - pull in tickets for the next sprint
+- [ ] write down sprint goal
+  - [ ] goal for each BE
+  - [ ] goal for iOS
+  - [ ] goal for Android
+  - [ ] goal for Data Science
+  - [ ] goal for QA
+  - [ ] goal for Product
+  - [ ] cutoff for release date
+  - [ ] release date
 
-## How to run backlog refinement?
+## Reminder
 
-1. groom/explain ticket in the grooming section of backlog
-   - the idea for refinement is for all of us to understand the tickets
-1. raise bug tickets and tech debt tickets that developers want to do next sprint
+- count **Estimates** to have realistic goal for sprint
+
+## How to run refinement?
+
+- [ ] optional - designer explain upcoming project
+- [ ] groom/explain ticket in the grooming section of backlog
+  - the idea for refinement is for all of us to understand the tickets
+- [ ] ask for bug tickets and tech debt tickets from developers want to do next sprint
+- [ ] ask if there will be other tickets not in grooming yet from products, QA ...
+- [ ] anything else?
 
 Notes:
 
-- no need to come up with estimate during refinements, estimates are required during planning
+- No need to come up with estimate during refinements, estimates are required during planning
 
 ## Jira setup
 
@@ -82,7 +99,7 @@ h1. Questions
 ## Meetings
 
 - Standup at 10:20 everyday
-- Weekly Disco Metrics at 10:40 on Thursday
+- Weekly Metrics Sync at 10:40 on Thursday
 - Two Week Sprint
   - Week 1: Retrospective at 10:00 on Tuesday
   - Week 1: Refinement at 10:00 on Thursday
@@ -94,12 +111,6 @@ h1. Questions
 1. iOS & Android tickets
 1. BE tickets
 
-## reminders
-
-- all ongoing tasks should be in Jira
-- breakdown large tasks into subtasks in Jira board
-- initial estimates needs to be accurate, spend time thinking about estimates after refinement and before planning
-
 ## ideals - tech
 
 - 100% code coverage
@@ -109,6 +120,10 @@ h1. Questions
 
 ## ideals - behaviour
 
+- jira
+  - all ongoing tasks should be in Jira
+  - breakdown large tasks into subtasks in Jira board
+  - initial estimates needs to be accurate, spend time thinking about estimates after refinement and before planning
 - Before Standup
   - 🔎 Focus on 3 most important things on each day
   - 🎉 Prepare at least one celebration
@@ -136,7 +151,7 @@ h1. Questions
   - Tech Notes
   - Questions
 
-## topics for 1 on 1 with Product Manager
+## Topics for 1 on 1 with Product Manager
 
 - What tickets / work are coming up in the next sprint?
   - so that I can prepare the tickets for the next sprint and not be surprised if the priority suddenly changed
@@ -146,7 +161,7 @@ h1. Questions
 - Ongoing Issues
 - Ongoing Experiments A/B tests
 
-## estimates
+## Estimates
 
 We changed the estimate to original estimate because he suggest not to change estimate to remaining estimate
 
