@@ -17,10 +17,7 @@ Enrich [README](./readmereadme.md)
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
-| term     | `pydoc`           | for python3 docs                   |
 | term     | `jira`            | see requested jira ticket          |
-| term     | `vjira`           | create jira ticket with template   |
-| term     | `p`               | my open PRs                        |
 | vim      | `gq<motion>`      | use black to format python         |
 | vim      | `:hardcopy`       | print visually selected lines      |
 | vim      | `:chistory`       | show quickfix history              |
@@ -30,12 +27,8 @@ Enrich [README](./readmereadme.md)
 | vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
 | vim      | `:set makeprg=`   | e.g. `flake8`, run `:make`         |
 | vim      | `:make lint`      | run make and open quickfix         |
-| vim      | `zm`              | apply fold                         |
-| vim      | `H, L`            | move to next tab, like vimium      |
-| vim      | `J, K`            | move to next window                |
-| vim      | `tabfind`         | find but open in new tabs          |
+| vim      | `:tabfind`        | find but open in new tabs          |
 | vimium   | `<a-p>`           | pin and unpin current tab          |
-| vimium   | `T`               | search open tabs                   |
 | -------- | ----------------- | ---------------------------------- |
 | i3       | `$mod+Shift+m`    | open thunderbird mail              |
 | i3       | `$mod+minus`      | open scratch pad                   |
