@@ -42,7 +42,7 @@ Tech Lead brings value by
   - [ ] cutoff for release date
   - [ ] release date
 
-## Reminder
+**Reminder**
 
 - count **Estimates** to have realistic goal for sprint
 
