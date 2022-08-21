@@ -8,8 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- CS: go through all python howtos
-  - https://docs.python.org/3/howto/index.html
 - MHW: Grimalkynes
   - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
   - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
