@@ -1,5 +1,6 @@
 # Series Recommendations
 
+- [The White Lotus](https://www.imdb.com/title/tt13406094/)
 - [My Story Is Long](https://www.imdb.com/title/tt10691872/)
 - [My Liberation Diary](https://www.imdb.com/title/tt15146130/)
 - [Clarkson's Farm](https://www.imdb.com/title/tt11733006/)
