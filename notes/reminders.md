@@ -18,12 +18,17 @@ Enrich [README](./readmereadme.md)
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
 | term     | `jira`            | see requested jira ticket          |
+| term     | `jira -d ticket`  | see description of jira ticket     |
+| vim-fzf  | `<leader>ff`      | find files                         |
+| vim-fzf  | `<leader>fl`      | find lines in open buffer          |
+| vim-fzf  | `<leader>ft`      | find tags                          |
 | vim      | `gq<motion>`      | use black to format python         |
 | vim      | `:hardcopy`       | print visually selected lines      |
 | vim      | `:chistory`       | show quickfix history              |
 | vim      | `:2chistory`      | use second quickfix in history     |
 | vim      | `gl2j:`           | to align lines with symbol `:`     |
 | vim      | `cxiw .`          | exchange word                      |
+| vim      | `ca#`             | quick change markdown title        |
 | vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
 | vim      | `:set makeprg=`   | e.g. `flake8`, run `:make`         |
 | vim      | `:make lint`      | run make and open quickfix         |
@@ -55,10 +60,9 @@ Enrich [README](./readmereadme.md)
 | vimium   | `yt`              | duplicate  current tab             |
 | vim      | `<leader>n`       | edit this file in new tab          |
 | vim      | `]t, [t`          | next tab and previous tab          |
-| vim      | `ca#`             | quick change markdown title        |
 | vim      | `yp`              | copy file path                     |
 | vim      | `:+1:,:-1:`       | insert emoji                       |
-| vim      | `t`               | shows Table Of Content for md      |
+| vim      | `<leader>t`       | shows Table Of Content for md      |
 | term     | `vn, vp, vd`      | autocomplete vim in directories    |
 | term     | `mb`              | drop into bash with vi keybinding  |
 | vim      | `e+v`             | open vimrc                         |
