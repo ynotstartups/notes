@@ -8,6 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- start using fzf
+  - https://www.youtube.com/watch?v=qgG5Jhi_Els
 - MHW: Grimalkynes
   - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
   - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
