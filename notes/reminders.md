@@ -1,17 +1,12 @@
 # What Am I Doing Now?
 
-Enrich [README](./readmereadme.md)
-
 | Name                                  | Progress    | Total |
 | ------------------------------------- | ----------- | ----- |
 | Computer Networking Top Down Approach | 199         | 775   |
 | Piano Adventures Book 2               | 036         | 195   |
 | monster hunter world: rank            | HR 49 MR 13 | ???   |
 
-**Note:**
-
-- Create a note to save quotes and learnings
-- Move to [reading](./reading.md) when done
+- **Working** on [automation](./automation.md)
 
 ## New Habits To Build
 
