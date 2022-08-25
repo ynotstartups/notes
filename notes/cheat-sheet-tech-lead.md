@@ -14,24 +14,28 @@ Tech Lead brings value by
 1. by managing tech debt to make it easier to add code
 1. by promoting relationships between the development group and business colleagues to ensure the code addresses business goals and delivers true value
 
-## How to run stand-up?
+## How to run stand up?
 
 1. open jira
+1. yesterday
+1. meetings for today
+1. today
 1. going through the tickets in the jira board person by person
    1. keep jira board up to date
    1. discuss progress
    1. identify blockers
 1. anything else that's not in jira, but try our best to capture all works in jira tickets
 
-## How to run sprint planning?
+## PLANNING sprint planning checklist
 
-- [ ] ask if there is any holiday plan
+- [ ] announce public holidays
+- [ ] ask if anyone has holiday plan
 - [ ] open jira
 - [ ] going through current sprint person by person
 - [ ] pull in tickets from groomed tickets in backlog
 - [ ] plan for next sprint by BE, iOS, Android, Data Science, QA...
-  - estimate tickets
-  - pull in tickets for the next sprint
+  - [ ] estimate tickets
+  - [ ] pull in tickets for the next sprint
 - [ ] write down sprint goal
   - [ ] goal for each BE
   - [ ] goal for iOS
@@ -46,7 +50,7 @@ Tech Lead brings value by
 
 - count **Estimates** to have realistic goal for sprint
 
-## How to run refinement?
+## REFINEMENT refinement checklist
 
 - [ ] optional - designer explain upcoming project
 - [ ] groom/explain ticket in the grooming section of backlog
@@ -151,10 +155,11 @@ h1. Questions
   - Tech Notes
   - Questions
 
-## Topics for 1 on 1 with Product Manager
+## PRODUCT_MANAGER Topics for 1 on 1 with Product Manager
 
-- What tickets / work are coming up in the next sprint?
+- [ ] What tickets / work are coming up in the sprint planning ?
   - so that I can prepare the tickets for the next sprint and not be surprised if the priority suddenly changed
+- [ ] What tickets / work are coming up in the refinement?
 - Team delivery / performance
 - Feedbacks
 - Blockers
@@ -178,10 +183,37 @@ For example in the following sprint we agree 32 number of story points and durin
 Then if for the next 3 sprints, we are completing 30, 33, 31 story points the we can say our (average) velocity is 32.
 Velocity is useful to know what's the realistic amount of tickets / work we can do per sprint.
 
-## Required tickets for each project
+## NEW_EPIC_TICKETS Required tickets for each project
 
-- Add  Epic ticket for project
-- QA: BDD senarios
-- BE, iOS, Android: Heimdall
-- BE, iOS, Android: Breakdown tickets with estimates
-- BE, iOS, Android: spikes for uncertainties
+- [ ] Add Epic ticket for project
+- [ ] QA: BDD senarios
+- [ ] BE, iOS, Android: Heimdall
+- [ ] Spike BE, iOS, Android: Breakdown tickets with estimates
+- [ ] BE, iOS, Android: spikes for uncertainties
+
+## IN_OFFICE
+
+- [ ] check if all meetings has meeting room
+- [ ] print checklist
+
+## STANDUP - Standup template
+
+- Standup - Yesterday
+
+### TODOs - tickets <leader>ij
+
+- 🔍 1 -
+- 🔍 2 -
+- 🔍 3 -
+
+### Meetings - <leader>ia
+
+### Others
+
+## SCRUM_OF_SCRUMS - scrum of scrums template
+
+### SoS - Update of the sprint that affects other teams
+
+### Are there new obstacle / Blockers?
+
+### Things that might affect our teams
