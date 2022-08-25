@@ -200,12 +200,10 @@ Velocity is useful to know what's the realistic amount of tickets / work we can 
 
 ## STANDUP - Standup template
 
-- Today
-- TODO tickets <leader>ij
-- 🔍 1 -
-- 🔍 2 -
-- 🔍 3 -
-- meetings <leader>ia
+- 🎉 celebrate
+- 🔍 1 focus on
+- 🔍 2 focus on
+- 🔍 3 focus on
 
 ## SCRUM_OF_SCRUMS - scrum of scrums template
 
