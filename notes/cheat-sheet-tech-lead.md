@@ -28,6 +28,8 @@ Tech Lead brings value by
 
 ## PLANNING sprint planning checklist
 
+### Sprint Planning
+
 - [ ] announce public holidays
 - [ ] ask if anyone has holiday plan
 - [ ] open jira
@@ -198,22 +200,16 @@ Velocity is useful to know what's the realistic amount of tickets / work we can 
 
 ## STANDUP - Standup template
 
-- Standup - Yesterday
-
-### TODOs - tickets <leader>ij
-
+- Today
+- TODO tickets <leader>ij
 - 🔍 1 -
 - 🔍 2 -
 - 🔍 3 -
-
-### Meetings - <leader>ia
-
-### Others
+- meetings <leader>ia
 
 ## SCRUM_OF_SCRUMS - scrum of scrums template
 
-### SoS - Update of the sprint that affects other teams
-
-### Are there new obstacle / Blockers?
-
-### Things that might affect our teams
+- Scrum of Scrums
+  - Update of the sprint that affects other teams
+  - Are there new obstacle / Blockers?
+  - Things that might affect our teams
