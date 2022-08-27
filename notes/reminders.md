@@ -17,6 +17,7 @@
 | vim-fzf  | `<leader>ff`      | find files                         |
 | vim-fzf  | `<leader>fl`      | find lines in open buffer          |
 | vim-fzf  | `<leader>ft`      | find tags                          |
+| vim-fzf  | `<leader>fw`      | find word under cursor             |
 | vim      | `gq<motion>`      | use black to format python         |
 | vim      | `:hardcopy`       | print visually selected lines      |
 | vim      | `:chistory`       | show quickfix history              |
