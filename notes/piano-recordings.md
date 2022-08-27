@@ -1,5 +1,11 @@
 # Piano Recordings
 
+## Allegro In F Major
+
+<audio controls>
+  <source src="../recordings/allegro-in-f-major.mp3" type="audio/mpeg">
+</audio>
+
 ## Sloop John B
 
 <audio controls>
