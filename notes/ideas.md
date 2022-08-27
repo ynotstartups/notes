@@ -8,8 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- start using fzf
-  - https://www.youtube.com/watch?v=qgG5Jhi_Els
 - MHW: Grimalkynes
   - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
   - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
@@ -107,8 +105,6 @@ _later_
 
 ## Ideas - Future
 
-- GIT: is it possible to prepare git commit message while working on a PR
-  - instead of always writing git commit message at the end
 - VIM: read new vim 9 script https://vimhelp.org/vim9.txt.html
   - similar to javascript?
 - GIT: read https://jwiegley.github.io/git-from-the-bottom-up/
@@ -130,7 +126,6 @@ _later_
 - MARKDOWN: Sort by indent To Format File such as this one?
 - VIM: autocorrect all misspelling words as one writes
 - JIRA
-  - `jira describe TICKET` - show description for a ticket
   - `jira create ticket`
     - prompts for title and other fields...
 - VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
