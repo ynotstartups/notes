@@ -24,6 +24,7 @@ I am also interested in
 [books](reading.md),
 [writing](digital-garden.md),
 video games,
+LOL esports,
 ...
 
 My wildest dream is to
