@@ -12,6 +12,8 @@
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| term     | `qalc`            | calculator `1 GB = x MB`           |
+| i3       | `$mod+tab`        | move back and forth to workspace   |
 | term     | `jira`            | see requested jira ticket          |
 | term     | `jira -d ticket`  | see description of jira ticket     |
 | vim-fzf  | `<leader>ff`      | find files                         |
