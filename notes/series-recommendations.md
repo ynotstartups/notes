@@ -1,5 +1,6 @@
 # Series Recommendations
 
+- [High Maintenance](https://www.imdb.com/title/tt6078096/)
 - [The White Lotus](https://www.imdb.com/title/tt13406094/)
 - [My Story Is Long](https://www.imdb.com/title/tt10691872/)
 - [My Liberation Diary](https://www.imdb.com/title/tt15146130/)
