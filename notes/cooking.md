@@ -197,6 +197,10 @@ Ginger's drawing
 
 ![Cold Brew On Rock](images/cooking/cold-brew-on-rock.webp){ loading=lazy }
 
+## Oyster Porridge
+
+![Oyster Porridge](images/cooking/oyster-porridge.webp){ loading=lazy }
+
 ## Marbled Tea Eggs - 茶叶蛋
 
 ## Links to this note
