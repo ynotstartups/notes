@@ -8,9 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- MHW: Grimalkynes
-  - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
-  - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
+- [Readable CDN Overview](https://people.cs.rutgers.edu/~rmartin/teaching/fall15/papers/arch2/cdn.pdf)
 
 ## Books That I Want To Read
 
@@ -130,3 +128,6 @@ _later_
     - prompts for title and other fields...
 - VIM: vim sugar for unix shell commands https://github.com/tpope/vim-eunuch
 - VIM: better jumping around netrw/file directories https://github.com/tpope/vim-vinegar
+- MHW: Grimalkynes
+  - [ ] Gajalaka - https://game8.co/games/Monster-Hunter-World/archives/306028
+  - [ ] Boaboa - https://game8.co/games/Monster-Hunter-World/archives/306051
