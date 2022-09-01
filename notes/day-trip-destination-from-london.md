@@ -1,5 +1,9 @@
 # Day Trip Destination From London
 
+## Hampstead Heath - The Hill Garden and Pergola
+
+![Hampstead Heath](images/travel/hampstead-heath.webp)
+
 ## Bushy Park
 
 ![bushy-park](images/travel/bushy-park.webp)
