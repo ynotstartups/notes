@@ -1,5 +1,11 @@
 # Piano Recordings
 
+## Chord Caper
+
+<audio controls>
+  <source src="../recordings/chord-caper.mp3" type="audio/mpeg">
+</audio>
+
 ## Allegro In F Major
 
 <audio controls>
