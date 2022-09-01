@@ -81,3 +81,19 @@ The job of gathering data chunks at the source host from different sockets,
 encapsulating each data chunk with header information (that will later be used
 in demultiplexing) to create segments, and passing the segments to the network
 layer is called multiplexing.
+
+## 206 - Some applications are better suited for UDP
+
+- finer application-level control over what data is sent, and when
+  - TCP has congestion-control mechanism can throttles TCP sender when congested
+  - TCP continue resend a segment until receipt of the segments has been acknowledged
+  - real time applications do not want overly delay segment transmission
+  - and can tolerate some data loss
+- No connection establishment
+  - TCL uses a three-way handshake before it starts to transfer data
+  - UDP dpesn not introduce any delay to establish a connection
+- No connection state
+  - TCP maintains connection state in the end systems, including receive and send buffers, congestion-control parameters, and sequence and acknowledgment number parameters.
+  - For this reason, server can support more active clients when the application runs over UDP rather than TCP
+- Small packet header overhead
+  - The TCP segment has 20 bytes of header overhead in every segment, whereas UDP has only 8 bytes of overhead.
