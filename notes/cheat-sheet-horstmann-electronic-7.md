@@ -12,5 +12,9 @@ Set both ON and OFF to 12:00 am
 
 ## Current Setting
 
-- offpeak mode - 1st on for 7:00 pm to 1st off 12:00 pm
-- timed boost mode off (click SELECT to turn on and off)
+| name             | setting                                |
+| ---------------- | -------------------------------------- |
+| boost program    | 1st on for 7:00 pm to 1st off 12:00 pm |
+| offpeak program  | off                                    |
+| timed boost mode | on                                     |
+| switch           | set to timed instead of off            |
