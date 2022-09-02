@@ -8,7 +8,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- fzf - add ctrl a to select all
+- fzf
+  - read `man fzf`
 - [Readable CDN Overview](https://people.cs.rutgers.edu/~rmartin/teaching/fall15/papers/arch2/cdn.pdf)
 
 ## Books That I Want To Read
