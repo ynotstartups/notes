@@ -238,7 +238,8 @@ Velocity is useful to know what's the realistic amount of tickets / work we can 
 - [ ] BE, iOS, Android: Heimdall Cleanup
 - [ ] BE, iOS, Android: Breakdown tickets with estimates
 - [ ] BE, iOS, Android: spikes for uncertainties
-- [ ] BE, iOS, Android: follow up from refinement
+- [ ] BE, iOS, Android: follow up action from refinement meeting
+- [ ] PRODUCT         : new analytics requirements
 - [ ] PRODUCT         : share experiment analysis
 
 ## IN_OFFICE
