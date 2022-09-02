@@ -8,8 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- fzf
-  - read `man fzf`
+- continue reading networking
 - [Readable CDN Overview](https://people.cs.rutgers.edu/~rmartin/teaching/fall15/papers/arch2/cdn.pdf)
 
 ## Books That I Want To Read
