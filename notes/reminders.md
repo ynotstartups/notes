@@ -12,16 +12,14 @@
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| term     | `gswitch`         | use fzf to switch git branches     |
 | term     | `qalc`            | calculator `1 GB = x MB`           |
-| i3       | `$mod+tab`        | move back and forth to workspace   |
-| term     | `jira`            | see requested jira ticket          |
 | term     | `jira -d ticket`  | see description of jira ticket     |
+| vim      | `<leader>ic`      | insert auto checklist              |
 | vim-fzf  | `<leader>ff`      | find files                         |
 | vim-fzf  | `<leader>fl`      | find lines in open buffer          |
 | vim-fzf  | `<leader>ft`      | find tags                          |
 | vim-fzf  | `<leader>fw`      | find word under cursor             |
-| vim      | `gq<motion>`      | use black to format python         |
-| vim      | `:hardcopy`       | print visually selected lines      |
 | vim      | `:chistory`       | show quickfix history              |
 | vim      | `:2chistory`      | use second quickfix in history     |
 | vim      | `gl2j:`           | to align lines with symbol `:`     |
@@ -31,8 +29,12 @@
 | vim      | `:set makeprg=`   | e.g. `flake8`, run `:make`         |
 | vim      | `:make lint`      | run make and open quickfix         |
 | vim      | `:tabfind`        | find but open in new tabs          |
-| vimium   | `<a-p>`           | pin and unpin current tab          |
 | -------- | ----------------- | ---------------------------------- |
+| vim      | `gq<motion>`      | use black to format python         |
+| vim      | `:hardcopy`       | print visually selected lines      |
+| i3       | `$mod+tab`        | move back and forth to workspace   |
+| vimium   | `<a-p>`           | pin and unpin current tab          |
+| term     | `jira`            | see requested jira ticket          |
 | i3       | `$mod+Shift+m`    | open thunderbird mail              |
 | i3       | `$mod+minus`      | open scratch pad                   |
 | i3       | `+Shift+minus`    | move to scratch pad                |
