@@ -2,6 +2,10 @@
 
 I love to cook! I can cook the following dishes.
 
+## Spiced Mashed Potato - 老奶洋芋
+
+![Spiced Mashed Potato](images/cooking/spiced-mashed-potatoes.webp){ loading=lazy }
+
 ## Sicuan Chili Chicken - 钵钵鸡
 
 ![Sicuan Chili Chicken](images/cooking/sicuan-chili-chicken.webp){ loading=lazy }
