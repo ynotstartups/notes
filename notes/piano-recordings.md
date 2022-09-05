@@ -1,5 +1,11 @@
 # Piano Recordings
 
+## Malaguena
+
+<audio controls>
+  <source src="../recordings/malaguena.mp3" type="audio/mpeg">
+</audio>
+
 ## Chord Caper
 
 <audio controls>
