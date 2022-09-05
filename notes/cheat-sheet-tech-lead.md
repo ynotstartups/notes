@@ -233,12 +233,15 @@ Velocity is useful to know what's the realistic amount of tickets / work we can 
 ## NEW_PROJECT_TICKETS Required tickets for each project
 
 - [ ] Add Epic Ticket for project
-- [ ] QA              : BDD senarios
-- [ ] BE, iOS, Android: Heimdall
-- [ ] BE, iOS, Android: Heimdall Cleanup
-- [ ] BE, iOS, Android: Breakdown tickets with estimates
-- [ ] BE, iOS, Android: spikes for uncertainties
 - [ ] BE, iOS, Android: follow up action from refinement meeting
+- [ ] BE, iOS, Android: breakdown tickets with estimates
+- [ ] QA              : BDD senarios
+- [ ] BE, iOS, Android: spikes for uncertainties
+- [ ] BE              : design API, agree API with iOS and Android
+- [ ] BE              : implement API
+- [ ] BE, iOS, Android: heimdall
+- [ ] BE, iOS, Android: heimdall Cleanup
+- [ ] PRODUCT         : heimdall requirements
 - [ ] PRODUCT         : new analytics requirements
 - [ ] PRODUCT         : share experiment analysis
 
