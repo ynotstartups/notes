@@ -1,10 +1,9 @@
 # What Am I Doing Now?
 
-| Name                                  | Progress    | Total |
-| ------------------------------------- | ----------- | ----- |
-| Computer Networking Top Down Approach | 209         | 775   |
-| Piano Adventures Book 2               | 036         | 195   |
-| monster hunter world: rank            | HR 49 MR 13 | ???   |
+| Name                                  | Progress | Total |
+| ------------------------------------- | -------- | ----- |
+| Computer Networking Top Down Approach | 209      | 314   |
+| Piano Adventures Book 2               | 048      | 195   |
 
 - **Working** on [automation](./automation.md)
 
@@ -12,6 +11,7 @@
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| term     | `shift pageup`    | `pagedown` scroll term output      |
 | term     | `gswitch`         | use fzf to switch git branches     |
 | term     | `qalc`            | calculator `1 GB = x MB`           |
 | term     | `jira -d ticket`  | see description of jira ticket     |
