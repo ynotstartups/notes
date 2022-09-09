@@ -181,7 +181,7 @@ When something happens, the app should send analytics event with *key* ?? and *v
 
 1. Draft API Design Doc
 1. setup meeting with FE to discuss API
-1. iOS & Android ticket to agree on API
+1. iOS & Android to agree on API
 
 ## ideals - tech
 
@@ -254,16 +254,29 @@ Velocity is useful to know what's the realistic amount of tickets / work we can 
 ## NEW_PROJECT_TICKETS Required tickets for each project
 
 - [ ] Add Epic Ticket for project
+
 - [ ] BE, iOS, Android: follow up action from refinement meeting
-- [ ] BE, iOS, Android: breakdown tickets with estimates
-- [ ] QA              : BDD senarios
+
 - [ ] BE, iOS, Android: spikes for uncertainties
+
+- [ ] BE, iOS, Android: breakdown tickets with estimates
+
+- [ ] QA              : BDD scenarios
+
 - [ ] BE              : design API, agree API with iOS and Android
+
 - [ ] BE              : implement API
-- [ ] BE, iOS, Android: heimdall
-- [ ] BE, iOS, Android: heimdall Cleanup
+
 - [ ] PRODUCT         : heimdall requirements
+
+- [ ] BE, iOS, Android: heimdall
+
+- [ ] BE, iOS, Android: heimdall Cleanup
+
 - [ ] PRODUCT         : new analytics requirements
+
+- [ ] BE, iOS, Android: analytics
+
 - [ ] PRODUCT         : share experiment analysis
 
 ## IN_OFFICE
