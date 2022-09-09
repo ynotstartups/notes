@@ -2,7 +2,8 @@
 
 | Name                                  | Progress | Total |
 | ------------------------------------- | -------- | ----- |
-| Computer Networking Top Down Approach | 209      | 314   |
+| Computer Networking Top Down Approach | 215      | 314   |
+| Operating System three easy pieces    | 025      | 275   |
 | Piano Adventures Book 2               | 048      | 195   |
 
 - **Working** on [automation](./automation.md)
