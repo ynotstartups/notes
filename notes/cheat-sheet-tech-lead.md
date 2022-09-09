@@ -82,37 +82,58 @@ Notes:
   - DESIGN REVIEW - ticket first goes to QA for checking both functional and design and then it goes to the design review for PM and designers for the final gate check
   - DONE - completed
 
+## TICKET_TEMPLATE_EPIC - Project Epic Template
+
+```
+h3. Links to Design
+
+iOS - TODO
+Android - TODO
+
+h3. Product Requirements
+
+TODO
+
+h3. Heimdall Flag Names and Behaviour
+
+- heimdall flag name *ios_TODO*
+- heimdall flag name *and_TODO**
+
+- When heimdall flag is ON, it means ???
+- When heimdall flag is OFF, it means ???
+```
+
 ## TICKET_TEMPLATE_GENERIC_TICKET - Jira Ticket Template
 
 ```
-h1. Description
+h3. Description
 
-h1. Acceptance Criteria
+h3. Acceptance Criteria
 
 - A/B test required
 
-h1. Analytics
+h3. Analytics
 
-h1. Design
+h3. Design
 
 - see link in Epic
 
-h1. How To QA
+h3. How To QA
 
 Frontend Ticket: BDD
 Backend Ticket: Endpoint + Expected Response
 
-h1. Tech Notes
+h3. Tech Notes
 ```
 
 ## TICKET_TEMPLATE_BDD - BDD Ticket Template
 
 ```
-h1. Description
+h3. Description
 
 In order to effectively test the behaviour, we need to have a BDD test suite.
 
-h1. Tech Notes
+h3. Tech Notes
 
 Please see repo `app-bdd-scenarios`
 ```
@@ -120,11 +141,11 @@ Please see repo `app-bdd-scenarios`
 ## TICKET_TEMPLATE_BE_EXPERIMENT_CLEAN_UP - Experiment Clean Up Ticket Template
 
 ```
-h1. Description
+h3. Description
 
 Please see LystOS to check if we want to keep or remove this flag.
 
-h1. Acceptance Criteria
+h3. Acceptance Criteria
 
 - remove flag from configuration
 - remove flag from LystOS
@@ -134,11 +155,11 @@ h1. Acceptance Criteria
 ## TICKET_TEMPLATE_ANALYTICS_REQUIREMENT - Product Analytics Requirement Ticket Template
 
 ```
-h1. Acceptance Criteria
+h3. Acceptance Criteria
 
 - add analytics
 
-h1. Example
+h3. Example
 
 When something happens, the app should send analytics event with *key* ?? and *value* ??
 ```
