@@ -97,3 +97,7 @@ layer is called multiplexing.
   - For this reason, server can support more active clients when the application runs over UDP rather than TCP
 - Small packet header overhead
   - The TCP segment has 20 bytes of header overhead in every segment, whereas UDP has only 8 bytes of overhead.
+
+## 243 - TCP sequence number of a segment
+
+TCP views data as an unstructured, but ordered, stream of bytes. TCP’s use of sequence numbers reflects this view in that sequence numbers are **over the stream of transmitted bytes** and not over the series of transmitted segments.  The sequence number for a segment is therefore the byte-stream number of the first byte in the segment.
