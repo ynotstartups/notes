@@ -12,6 +12,8 @@
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| i3       | `command+n`       | switch to next workspace           |
+| i3       | `command+p`       | switch to previous workspace       |
 | term     | `shift pageup`    | `pagedown` scroll term output      |
 | term     | `gswitch`         | use fzf to switch git branches     |
 | term     | `qalc`            | calculator `1 GB = x MB`           |
