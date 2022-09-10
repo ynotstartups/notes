@@ -141,6 +141,10 @@ Notes:
 - Ongoing Issues
 - Ongoing Experiments A/B tests
 
+## MANAGER - Topics for 1 on 1 with Manager
+
+- spending training allowance
+
 ## Estimates
 
 We changed the estimate to original estimate because he suggest not to change estimate to remaining estimate
