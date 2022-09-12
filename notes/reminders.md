@@ -12,6 +12,9 @@
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| i3       | `command+m`       | dmenu to launch meetings           |
+| i3       | `command+c`       | dmenu to open file to edit in vim  |
+| i3       | `command+space`   | switch to open window              |
 | i3       | `command+n`       | switch to next workspace           |
 | i3       | `command+p`       | switch to previous workspace       |
 | term     | `shift pageup`    | `pagedown` scroll term output      |
