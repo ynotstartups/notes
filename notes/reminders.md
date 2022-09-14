@@ -2,9 +2,9 @@
 
 | Name                                  | Progress | Total |
 | ------------------------------------- | -------- | ----- |
-| Computer Networking Top Down Approach | 215      | 314   |
-| Operating System three easy pieces    | 025      | 275   |
-| Piano Adventures Book 2               | 048      | 195   |
+| Computer Networking Top Down Approach | 315      | 742   |
+| Operating System three easy pieces    | 037      | 275   |
+| Piano Adventures Book 2               | 050      | 195   |
 
 - **Working** on [automation](./automation.md)
 
@@ -12,6 +12,7 @@
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| i3       | `command+s`       | focus standup window               |
 | i3       | `command+m`       | dmenu to launch meetings           |
 | i3       | `command+c`       | dmenu to open file to edit in vim  |
 | i3       | `command+space`   | switch to open window              |
@@ -26,6 +27,7 @@
 | vim-fzf  | `<leader>fl`      | find lines in open buffer          |
 | vim-fzf  | `<leader>ft`      | find tags                          |
 | vim-fzf  | `<leader>fw`      | find word under cursor             |
+| vim      | `<cr>`            | mark markdown checklist done       |
 | vim      | `:chistory`       | show quickfix history              |
 | vim      | `:2chistory`      | use second quickfix in history     |
 | vim      | `gl2j:`           | to align lines with symbol `:`     |
