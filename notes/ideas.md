@@ -10,12 +10,8 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 - prefix my own commands/aliases/functions with `,`
 - automation
-  - write unittests
-  - refactor jira code
-    - use `os.path.expanduser`
   - print checklist based on meetings today
     - create name to checklist mapper
-    - or call gcalcli directly
 
 ## Books That I Want To Read
 
