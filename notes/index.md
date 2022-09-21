@@ -32,7 +32,8 @@ My wildest dream is to
 - become [a stand-up comedian](stand-up-comedy.md)
 - become [a farmer/gardener](farmer.md) to grow my own food
 - become [an artist](artist.md)
-- open [a cafe](coffee-recipe.md) called "Lazy Blue"
+- open [a cafe](coffee-recipe.md) called "Tou"
+  - which sells Man Tou, black filter coffee, latte
 
 Ginger and I had made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
 
