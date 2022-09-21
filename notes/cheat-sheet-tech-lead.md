@@ -61,11 +61,12 @@ Tech Lead brings value by
 
 ## REFINEMENT refinement checklist
 
+- [ ] ask designer to join refinement
 - [ ] optional - designer explain upcoming project
 - [ ] groom/explain ticket in the grooming section of backlog
   - the idea for refinement is for all of us to understand the tickets
 - [ ] ask for bug tickets and tech debt tickets from developers want to do next sprint
-- [ ] ask if there will be other tickets not in grooming yet from products, QA ...
+- [ ] ask if there will be other tickets not in grooming yet from products, QA
 - [ ] anything else?
 
 Notes:
@@ -126,6 +127,9 @@ Notes:
   1. Get Out Of The Way.
 - Bring Positive Energy! Celebrate wins!
 - Need to be realistic on deliverables
+- establish best practices for software development
+- make all tech member in the team happy
+- help product to communicate requirements with the tech team
 - to tell the team in stand-up
   - `Thursday: planning today, spend sometime to understand the tickets from backlog or refinement and think about the estimate before planning`
   - `Friendly Reminder: We have refinement today, have a think about any tech debt and bug tickets that you want to discuss and bring into next sprint.`
@@ -181,6 +185,7 @@ Velocity is useful to know what's the realistic amount of tickets / work we can 
 ## IN_OFFICE
 
 - [ ] check if all meetings has meeting room
+- [ ] check if phone is connected to internet (guest wifi)
 - [ ] print checklist
 
 ## STANDUP - Standup template
