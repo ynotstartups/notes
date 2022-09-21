@@ -4,7 +4,8 @@
 | ------------------------------------- | -------- | ----- |
 | Computer Networking Top Down Approach | 315      | 742   |
 | Operating System three easy pieces    | 037      | 275   |
-| Piano Adventures Book 2               | 050      | 195   |
+| how linux works                       | 020      | 418   |
+| Piano Adventures Book 2               | 052      | 195   |
 
 - **Working** on [automation](./automation.md)
 
@@ -82,11 +83,3 @@
 | vim      | `i+a`             | agenda                             |
 | vim      | `i+m`             | git commit message from branch     |
 | vim      | `j`               | open jira ticket under cursor      |
-
-## Long Term Reminders
-
-- [Write down three good things a day](https://ggia.berkeley.edu/practice/three-good-things)
-- Learn to understand, talk about and write down my emotion
-- Correct standing and seating posture
-- Workout daily
-- Write down important facts about people
