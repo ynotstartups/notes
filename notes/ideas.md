@@ -8,10 +8,13 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
+- automation too slow? can we speed it up?
+- Setup c to compile three easy pieces page 37
 - prefix my own commands/aliases/functions with `,`
 - automation
   - print checklist based on meetings today
     - create name to checklist mapper
+- Overarching Goal: learn about Computer Networking, Operation Systems (more specifically linux), C,
 
 ## Books That I Want To Read
 
