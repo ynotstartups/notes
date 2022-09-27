@@ -4,8 +4,8 @@
 | ------------------------------------- | -------- | ----- |
 | Computer Networking Top Down Approach | 315      | 742   |
 | Operating System three easy pieces    | 037      | 275   |
-| how linux works                       | 020      | 418   |
-| Piano Adventures Book 2               | 052      | 195   |
+| how linux works                       | 156      | 418   |
+| Piano Adventures Book 2               | 054      | 195   |
 
 - **Working** on [automation](./automation.md)
 
