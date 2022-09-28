@@ -26,10 +26,10 @@ Tech Lead brings value by
    1. identify blockers
 1. anything else that's not in jira, but try our best to capture all works in jira tickets
 
-## RUNNING_RETRO - How to run stand up?
+## RUNNING_RETRO - How to run retro?
 
 1. open miro board
-1. setup a 5 minutes timer for the team to add topics
+1. setup a 5 minutes timer for the team to add tickets
 1. group tickets in similar theme
 1. discuss tickets in sections
 1. setup vote for star of the sprint
@@ -37,6 +37,7 @@ Tech Lead brings value by
 ## PLANNING sprint planning checklist
 
 - planning check list
+- [ ] 🎫 Before planning, create placeholder BE, iOS, Android tickets for refinement follow up
 - [ ] announce public holidays
 - [ ] ask if anyone has holiday plan
 - [ ] open jira
