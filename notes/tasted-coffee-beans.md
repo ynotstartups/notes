@@ -2,6 +2,7 @@
 
 | Name           | Roaster | Origin      | Roast Level | Process                | Tasting Notes                                |
 | -------------- | ------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
+| Miraflores     | Origin  | Panama      | Omni        | Natural                | Peach, Mango, Demerara Sugar                 |
 | Nemba          | Origin  | Burundi     | Omni        | Washed                 | Blackberry, Clementine & Brown Sugar         |
 | Canya          | Origin  | Panama      | Omni        | Natural                | Mandarin, Pineapple, Demerara Sugar          |
 | Aki            | Origin  | El Salvador | Omni        | Natural                | Mango, Grapefruit, Papaya                    |
@@ -16,6 +17,14 @@
 | Tuberosa Decaf | Origin  | Colombia    | Omni        | Sugarcane Decaf        | Apple, Stewed Plum, Caramel                  |
 | Wa Choo        | Origin  | China       | Omni        | Natural                | Pink Grapefruit, Pomegranate, Dark Chocolate |
 | Wa Choo        | Origin  | China       | Omni        | Washed                 | Blackberry, Elderflower & Sugarcane          |
+
+## Miraflores
+
+Miraflores is a delicious example of innovation and perseverance. Expect summery sweetness with notes of peach, a pleasing acidity that nods to a tropical mango, and an indulgent finish of demerara sugar.
+
+**Origin**
+
+Despite huge challenges – including a loss of land on their plantation due to the Roya leaf rust decimating their crops – the Caballero family have adapted—and excelled. Based in Rio Sereno, Chiriqui, the family replicated planting and water irrigation techniques used in Brazil—and their hard work has paid off.
 
 ## Nemba
 
