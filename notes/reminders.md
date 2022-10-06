@@ -14,31 +14,32 @@
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
 | i3       | `command+s`       | focus standup window               |
-| i3       | `command+m`       | dmenu to launch meetings           |
 | i3       | `command+c`       | dmenu to open file to edit in vim  |
 | i3       | `command+space`   | switch to open window              |
 | i3       | `command+n`       | switch to next workspace           |
 | i3       | `command+p`       | switch to previous workspace       |
-| term     | `shift pageup`    | `pagedown` scroll term output      |
 | term     | `gswitch`         | use fzf to switch git branches     |
-| term     | `qalc`            | calculator `1 GB = x MB`           |
+| term     | `,calculate`      | calculator `1 GB = x MB`           |
 | term     | `jira -d ticket`  | see description of jira ticket     |
-| vim      | `<leader>ic`      | insert auto checklist              |
-| vim-fzf  | `<leader>ff`      | find files                         |
-| vim-fzf  | `<leader>fl`      | find lines in open buffer          |
-| vim-fzf  | `<leader>ft`      | find tags                          |
-| vim-fzf  | `<leader>fw`      | find word under cursor             |
+| vim-fzf  | `ctrl-t,x,v`      | tab, split, vertical split         |
 | vim      | `<cr>`            | mark markdown checklist done       |
 | vim      | `:chistory`       | show quickfix history              |
 | vim      | `:2chistory`      | use second quickfix in history     |
 | vim      | `gl2j:`           | to align lines with symbol `:`     |
 | vim      | `cxiw .`          | exchange word                      |
 | vim      | `ca#`             | quick change markdown title        |
-| vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
 | vim      | `:set makeprg=`   | e.g. `flake8`, run `:make`         |
 | vim      | `:make lint`      | run make and open quickfix         |
-| vim      | `:tabfind`        | find but open in new tabs          |
 | -------- | ----------------- | ---------------------------------- |
+| term     | `shift pageup`    | `pagedown` scroll term output      |
+| vim      | `<leader>ic`      | insert auto checklist              |
+| vim-fzf  | `<leader>ff`      | find files                         |
+| vim-fzf  | `<leader>fl`      | find lines in open buffer          |
+| vim-fzf  | `<leader>ft`      | find tags                          |
+| vim-fzf  | `<leader>fw`      | find word under cursor             |
+| vim      | `:Obsession foo`  | record vim session `vim -S foo`    |
+| vim      | `:tabfind`        | find but open in new tabs          |
+| i3       | `command+m`       | dmenu to launch meetings           |
 | vim      | `gq<motion>`      | use black to format python         |
 | vim      | `:hardcopy`       | print visually selected lines      |
 | i3       | `$mod+tab`        | move back and forth to workspace   |
