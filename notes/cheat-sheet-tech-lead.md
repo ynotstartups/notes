@@ -46,19 +46,7 @@ Tech Lead brings value by
 - [ ] plan for next sprint by BE, iOS, Android, Data Science, QA...
   - [ ] estimate tickets
   - [ ] pull in tickets for the next sprint
-- [ ] write down sprint goal
-  - [ ] goal for each BE
-  - [ ] goal for iOS
-  - [ ] goal for Android
-  - [ ] goal for Data Science
-  - [ ] goal for QA
-  - [ ] goal for Product
-  - [ ] cutoff for release date
-  - [ ] release date
-
-**Reminder**
-
-- count **Estimates** to have realistic goal for sprint
+- 🔍 count **Estimates** to have realistic goal for sprint
 
 ## REFINEMENT refinement checklist
 
