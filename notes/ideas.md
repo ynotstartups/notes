@@ -8,13 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- automation too slow? can we speed it up?
 - Setup c to compile three easy pieces page 37
-- prefix my own commands/aliases/functions with `,`
-- automation
-  - print checklist based on meetings today
-    - create name to checklist mapper
-- Overarching Goal: learn about Computer Networking, Operation Systems (more specifically linux), C,
 
 ## Books That I Want To Read
 
@@ -109,6 +103,15 @@ _later_
 
 ## Ideas - Future
 
+- recommendations learning
+  - [ ] A Review of Modern Fashion Recommender Systems https://arxiv.org/pdf/2202.02757.pdf
+  - [ ] overview 2 tower architecture https://biarnes-adrien.medium.com/building-a-multi-stage-recommendation-system-part-1-1-95961ccf3dd8
+  - [ ] Offline Evaluation to Make Decisions About Playlist
+    - Recommendation Algorithms https://pchandar.github.io/files/papers/Gruson2019.pdf
+  - [ ] read notes for personalised recommendations at scale course https://lysters.slack.com/archives/C03LDUPES8L/p1657713773778589
+  - [ ] pinterest blogs for candidate retrieval https://lysters.slack.com/archives/C03LDUPES8L/p1657713773778589
+  - [ ] read two tower approach
+    - https://medium.com/pinterest-engineering/pinterest-home-feed-unified-lightweight-scoring-a-two-tower-approach-b3143ac70b55
 - VIM: read new vim 9 script https://vimhelp.org/vim9.txt.html
   - similar to javascript?
 - GIT: read https://jwiegley.github.io/git-from-the-bottom-up/
