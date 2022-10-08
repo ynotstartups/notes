@@ -8,8 +8,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- Setup c to compile three easy pieces page 37
-
 ## Books That I Want To Read
 
 **Criteria**
@@ -18,9 +16,11 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 - Potentially Life Changing
 - Foundational Knowledge
 
-**Software Engineering**
+**Software Engineering + Tech Lead**
 
 _next_
+
+- management path
 
 _later_
 
@@ -48,15 +48,6 @@ _later_
 - CS: [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 - CS: Learning Agile
 - Physics: The Feynman Lectures on Physics
-
-**Tech Lead**
-
-- Gamestorming - learning how to facilitate and doing workshop
-  - review: This is a great, at times brilliant book, for anyone interested in creativity and creativity techniques.
-  - review: This is a very practical book. Each technique for engaging colleagues or clients in a brainstorming session is laid out in simple steps over a paragragh or two
-  - review: Life changingly good for facilitation! An endless supply of ideas and constructs plus enough theory and structure to help you deliver. I carry this around constantly when needing to design team building, strategy exercises, or really any workshop. Also serves as useful prompt for designing your own games.
-- An Elegant Puzzle: Systems of Engineering Management
-  - Will Larson’s An Elegant Puzzle focuses on the particular challenges of engineering management—from sizing teams to handling technical debt to performing succession planning—and provides a path to the good solutions.
 
 **Non-Fictions**
 
@@ -118,13 +109,6 @@ _later_
   - to learn more about git
 - DOCKER: fork `ekalinin/Dockerfile.vim`
   - add `django-admin`, `source` to `syn keyword bashStatement` https://github.com/ekalinin/Dockerfile.vim/blob/master/syntax/Dockerfile.vim#L28
-- VIM: start using snippet or just continue using `abbreviations`
-  - why what how template
-  - refinement and planning reminders
-  - Jira tickets templates
-  - bug report template
-  - variable columns tables in markdown
-  - 👍 abbreviations - simpler to setup, no dependencies
 - VIM: Visual In Indent
   - useful in markdown, when I want to sort a list of items, such as below, so `viIndent` then `<leader>s` to sort
     - a
