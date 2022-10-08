@@ -13,6 +13,7 @@
 
 | Type     | Command           | Function                           |
 | -------- | ----------------- | ---------------------------------- |
+| fzf-git  | `c-g c-b`         | insert git branch with fzf         |
 | i3       | `command+s`       | focus standup window               |
 | i3       | `command+c`       | dmenu to open file to edit in vim  |
 | i3       | `command+space`   | switch to open window              |
