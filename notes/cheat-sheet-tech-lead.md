@@ -46,7 +46,7 @@ Tech Lead brings value by
 - [ ] plan for next sprint by BE, iOS, Android, Data Science, QA...
   - [ ] estimate tickets
   - [ ] pull in tickets for the next sprint
-- 🔍 count **Estimates** to have realistic goal for sprint
+- [ ] count **Estimates** for each person to make sure they are realistic
 
 ## REFINEMENT refinement checklist
 
@@ -179,6 +179,8 @@ Velocity is useful to know what's the realistic amount of tickets / work we can 
 
 ## STANDUP - Standup template
 
+- [ ] prepare pen and paper
+- [ ] prepare cheatsheet folder
 - 🎉 celebrate
 - 🔍 1 focus on
 - 🔍 2 focus on
