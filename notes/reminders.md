@@ -19,6 +19,7 @@
 | i3       | `command+space`   | switch to open window              |
 | i3       | `command+n`       | switch to next workspace           |
 | i3       | `command+p`       | switch to previous workspace       |
+| term     | `o`               | use default program to open file   |
 | term     | `gswitch`         | use fzf to switch git branches     |
 | term     | `,calculate`      | calculator `1 GB = x MB`           |
 | term     | `jira -d ticket`  | see description of jira ticket     |
