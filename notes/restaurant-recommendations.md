@@ -18,6 +18,8 @@
   - best udon
 - [Ozone Coffee](https://ozonecoffee.co.uk/)
   - best filter coffee and brunch
+- [Tosa](https://www.tosa.uk/)
+  - any grilled skewers
 
 ## St Ives - UK
 
