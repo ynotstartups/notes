@@ -9,11 +9,6 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 ## Random Ideas
 
 - pokemmo get the remaining badges
-  - https://forums.pokemmo.com/index.php?/topic/76529-storyline-guide-kanto-hoenn-sinnoh-unova-complete-walkthrough-all-items-hidden-items/
-  - https://pokemondb.net/firered-leafgreen/gymleaders-elitefour
-- setup weather in i3 bar
-  - http://keheliya.blogspot.com/2018/01/weather-info-in-i3status.html
-- play temtem?
 
 ## Books That I Want To Read
 
