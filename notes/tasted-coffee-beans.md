@@ -2,6 +2,8 @@
 
 | Name           | Roaster | Origin      | Roast Level | Process                | Tasting Notes                                |
 | -------------- | ------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
+| Mano Del Puma  | Origin  | El Salvador | Omni        | Natural                | Raspberry, Yellow Plum, Dark Chocolate       |
+| Zambrano       | Origin  | Panama      | Omni        | Natural                | Nectarine, Cantaloupe, Caramel               |
 | Miraflores     | Origin  | Panama      | Omni        | Natural                | Peach, Mango, Demerara Sugar                 |
 | Nemba          | Origin  | Burundi     | Omni        | Washed                 | Blackberry, Clementine & Brown Sugar         |
 | Canya          | Origin  | Panama      | Omni        | Natural                | Mandarin, Pineapple, Demerara Sugar          |
@@ -17,6 +19,16 @@
 | Tuberosa Decaf | Origin  | Colombia    | Omni        | Sugarcane Decaf        | Apple, Stewed Plum, Caramel                  |
 | Wa Choo        | Origin  | China       | Omni        | Natural                | Pink Grapefruit, Pomegranate, Dark Chocolate |
 | Wa Choo        | Origin  | China       | Omni        | Washed                 | Blackberry, Elderflower & Sugarcane          |
+
+## Mano Del Puma
+
+A natural experimenter, Carlos developed the drying beds his farm San Antonio by using strings and mesh fabric, which offers great air flow. Underneath, dried coffee pulp is layered up, which creates more aroma via sunlight, grilling the coffee.
+
+Mano del Puma is a delicate natural process coffee, with jammy acidity and a long chocolate-like finish.
+
+## Zambrano
+
+When leaf rust disease destroyed their plantation, the family decided to grow companion crops such as tomatoes and courgettes alongside the trees, testing the productivity of their coffee, and the strength of their knowledge. With healthy crops that have been able to yield quality coffee in their first year (it usually takes three years for a tree to produce its first cherries), the Caballero’s hard work in nurturing their land has paid off.
 
 ## Miraflores
 
