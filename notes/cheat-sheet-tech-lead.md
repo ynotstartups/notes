@@ -38,6 +38,7 @@ Tech Lead brings value by
 
 - planning check list
 - [ ] 🎫 Before planning, create placeholder BE, iOS, Android tickets for refinement follow up
+- [ ] 🎫 Before planning, create 4 QA tickets, regression for iOS, regression for Android, smoke test for iOS and smoke test for Android
 - [ ] announce public holidays
 - [ ] ask if anyone has holiday plan
 - [ ] open jira
