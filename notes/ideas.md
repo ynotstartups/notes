@@ -8,7 +8,7 @@ We need to find out the fundamental theme of these ideas and then perhaps we can
 
 ## Random Ideas
 
-- pokemmo get the remaining badges
+- continue playing runescape 3
 
 ## Books That I Want To Read
 
