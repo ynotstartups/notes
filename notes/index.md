@@ -23,7 +23,7 @@ I am also interested in
 [public speaking](https://www.bilibili.com/video/BV1u54y1x7zF),
 [books](reading.md),
 [writing](digital-garden.md),
-video games,
+video games (Runescape 3),
 LOL esports,
 ...
 
