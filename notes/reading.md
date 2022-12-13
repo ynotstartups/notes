@@ -2,6 +2,8 @@
 
 | Year | Name                                                            | Author                          | Comments                            |
 | ---- | --------------------------------------------------------------- | ------------------------------- | ----------------------------------- |
+| 2022 | The Dark Forest                                                 | Liu Cixin                       |                                     |
+| 2022 | The Three-Body Problem                                          | Liu Cixin                       |                                     |
 | 2022 | Beautiful world where are you                                   | Sally Rooney                    |                                     |
 | 2022 | Faber Adult Piano Classics Book 1                               |                                 |                                     |
 | 2022 | Children Of Ruin                                                | Adrian Tchaikovsky              | Great Sci-fi                        |
