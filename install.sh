@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# install venv, ubuntu doesn't come it
+sudo apt install python3.10-venv
+
 ### Check if a directory does not exist ###
 if [ ! -d './venv' ]
 then
