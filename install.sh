@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# remember to git clone git@github.com:ynotstartups/ynotstartups.github.io.git
+# if `~/Documents/ynotstartups.github.io` doesn't exist
+
 # install venv, ubuntu doesn't come it
 sudo apt install python3.10-venv
 
