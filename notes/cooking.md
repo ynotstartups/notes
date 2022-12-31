@@ -4,7 +4,7 @@ I love to cook! I can cook the following dishes.
 
 ## Homemade Cookies - 曲奇
 
-![Cookies](images/cooking/cookies.webp){ loading=lazy }
+![Cookies](images/cooking/cookie.webp){ loading=lazy }
 
 ## Spiced Mashed Potato - 老奶洋芋
 
