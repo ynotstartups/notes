@@ -14,7 +14,13 @@ note_images_path = Path("./notes/images/")
 
 if __name__ == "__main__":
     image_paths = list(note_images_path.glob("**/*.jpg"))
+    image_paths.extend(note_images_path.glob("**/*.jpeg"))
     image_paths.extend(note_images_path.glob("**/*.png"))
+
+    if not image_paths:
+        print(f"Cannot find new images with extention jpeg, jpg or png")
+        exit(1)
+
 
     for image_path in image_paths:
         image_webp_path = image_path.with_suffix(".webp")
