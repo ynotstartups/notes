@@ -1,13 +1,13 @@
 # Tasted Spirit
 
 | Name   | Brewery | Country |
-|--------|---------|---------|
+| ------ | ------- | ------- |
 | Roku   | Suntory | Japan   |
 | Hibiki | Suntory | Japan   |
 
 ## Hibiki
 
-Alcohol Type: Blended Whiskey 
+Alcohol Type: Blended Whiskey
 
 ## Roku
 

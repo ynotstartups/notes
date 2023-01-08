@@ -35,6 +35,6 @@
 ## Athens - Greece
 
 - Oinomageireio Epirus (est. 1898)
-    - Greek traditional homemade soup
+  - Greek traditional homemade soup
 - AXiZaoDian 啊锡早点
-    - best traditional Chinese noodle in Europe
+  - best traditional Chinese noodle in Europe
