@@ -2,8 +2,8 @@
 
 | Year | Name                                                            | Author                          |
 |------|-----------------------------------------------------------------|---------------------------------|
-| 2023 |A Death in Tokyo|Keigo Higashino|
-| 2023 |foundation|Isaac Asimov |
+| 2023 | A Death in Tokyo                                                | Keigo Higashino                 |
+| 2023 | foundation                                                      | Isaac Asimov                    |
 | 2022 | How Linux Works                                                 | Brian Ward                      |
 | 2022 | Rendezvouse With Rama                                           | Arthur C. Clarke                |
 | 2022 | Death's End                                                     | Liu Cixin                       |
