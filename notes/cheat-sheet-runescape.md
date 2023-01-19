@@ -1,4 +1,4 @@
-# Cheat Sheet Runescape 
+# Cheat Sheet Runescape
 
 ## Closest to bank
 
@@ -14,7 +14,7 @@
 ## Useful Minigame Teleport
 
 - Burthorpe Games Room - Burthorpe
-- Castle War           - West of Yanille 
+- Castle War           - West of Yanille
 - Pest Control         - Ship to Port Sarim
 
 ## Armor Shop
@@ -26,7 +26,7 @@
 - Plateskirt Shop - Al Kharid
 - Shield Shop     - Falador
 
-## Agility Training 
+## Agility Training
 
 **Course**
 
@@ -57,7 +57,7 @@ for attack, strength, defence
 
 - level 15 - 30 - Thugs under Edgeware Dungeon
 
-## Fishing & Cooking Training 
+## Fishing & Cooking Training
 
 - level 20 - 40 - Barbarian Village - flying fishing salmon and trout  coo
 - level 40 - ?? - Land's End - Lobster
