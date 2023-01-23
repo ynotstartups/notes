@@ -11,11 +11,14 @@
 - tanner       - Al Kharid
 - loom         - Lumbridge Castle
 
-## Useful Minigame Teleport
+## Useful Teleport
 
-- Burthorpe Games Room - Burthorpe
-- Castle War           - West of Yanille
-- Pest Control         - Ship to Port Sarim
+- Minigame - Burthorpe Games Room                                       - Burthorpe
+- Minigame - Castle War                                                 - West of Yanille
+- Minigame - Pest Control                                               - Ship to Port Sarim
+- Minigame - Soul War                                                   - Egdeville
+- Ring of Dueling to Ferox Enclave to the enclave's dungeon to Soul War - Edgeville
+- Ring of Dueling to PVP Arena                                          - Al Kharid
 
 ## Armor Shop
 
@@ -44,12 +47,12 @@ Levels 50–60: Falador Rooftop Course
 
 Minigame Teleport: Burthorpe Games Room
 
-- [ ] hood   - 35
-- [ ] top    - 55
+- [x] hood   - 35
+- [x] top    - 55
 - [x] legs   - 60
 - [x] gloves - 30
-- [ ] boots  - 40
-- [ ] cape   - 40
+- [x] boots  - 40
+- [x] cape   - 40
 
 ## Melee Combat Training
 
