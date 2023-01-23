@@ -62,7 +62,11 @@ Minigame Teleport: Burthorpe Games Room
 
 for attack, strength, defence
 
-- level 15 - 30 - Thugs under Edgeware Dungeon
+- level 15 - 40 - Thugs in Edgeware Dungeon
+
+## Magic Training
+
+- level 30 - 50 - hill giants in Edgeville Dungeon
 
 ## Fishing & Cooking Training
 
