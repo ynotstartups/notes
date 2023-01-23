@@ -6,7 +6,7 @@ My name is Tiger Yuhao Huang.
 
 Welcome to my [digital garden](digital-garden.md)!
 
-I am a backend engineer at [Lyst](https://www.lyst.com).
+I am looking for a new job! My previous role was a [backend engineer](cheat-sheet-software-engineering.md) and [tech lead](cheat-sheet-tech-lead.md) at [Lyst](https://www.lyst.com).
 
 I consider myself a [minimalist](minimalism.md), [see my possessions](all-things.md).
 
@@ -17,13 +17,11 @@ I enjoy [cooking](cooking.md) and washing dishes :)
 I am also interested in
 [music](index-music.md),
 [art](art.md),
-[boardgames](boardgame.md),
+[old school runescape](cheat-sheet-runescape.md),
 [coding](https://github.com/ynotstartups),
 [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
-[public speaking](https://www.bilibili.com/video/BV1u54y1x7zF),
 [books](reading.md),
 [writing](digital-garden.md),
-video games (Runescape 3),
 LOL esports,
 ...
 
@@ -40,9 +38,8 @@ Ginger and I had made some videos, see our [youtube channel](https://www.youtube
 ## Don't know what to read? Start here
 
 - [Cooking](cooking.md)
-- [Piano Learning Progress](piano-recordings.md)
 - [Tech Lead Cheat Sheet](cheat-sheet-tech-lead.md)
-- [What am I doing now?](reminders.md)
+- [Runescape Cheat Sheet](cheat-sheet-runescape.md)
 
 ## Meaning Of Life
 
