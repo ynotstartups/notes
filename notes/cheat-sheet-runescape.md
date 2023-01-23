@@ -20,6 +20,10 @@
 - Ring of Dueling to Ferox Enclave to the enclave's dungeon to Soul War - Edgeville
 - Ring of Dueling to PVP Arena                                          - Al Kharid
 
+## Farming Low Level Allotment Run
+
+Camelot Teleport - Ardougne Cloak - Falador Teleport - Rimmington Home Teleport - Port Phasmaty's 
+
 ## Armor Shop
 
 - Sword Shop      - Varrock
@@ -33,11 +37,11 @@
 
 **Course**
 
-Levels 01–10: Gnome Stronghold Agility Course
-Levels 10–30: Draynor Village Rooftop Course
-Levels 30–40: Varrock Rooftop Course
-Levels 40–60: Canifis Rooftop Course
-Levels 50–60: Falador Rooftop Course
+- Levels 01–10: Gnome Stronghold Agility Course
+- Levels 10–30: Draynor Village Rooftop Course
+- Levels 30–40: Varrock Rooftop Course
+- Levels 40–60: Canifis Rooftop Course
+- Levels 50–60: Falador Rooftop Course
 
 **Run Energy Recover Threshold**
 
