@@ -10,6 +10,8 @@ markdown_extensions:
   # this extension allows indent by using 2 spaces
   # needed because mdformat formats nested list to use 2 spaces
   - mdx_truly_sane_lists
+  - pymdownx.tasklist:
+      custom_checkbox: true
 extra:
   analytics:
     provider: google
