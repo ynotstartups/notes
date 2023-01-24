@@ -21,4 +21,4 @@ I currently have
 
 ## Requirements
 
-- markdown based, more specifically based on [tech lead](./cheat-sheet-tech-lead.md), so that I just need to update the markdown file
+- markdown based, more specifically based on [cheat sheet software engineering](./cheat-sheet-software-engineering.md), so that I just need to update the markdown file

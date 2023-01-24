@@ -6,7 +6,7 @@ My name is Tiger Yuhao Huang.
 
 Welcome to my [digital garden](digital-garden.md)!
 
-I am looking for a new job! My previous role was a [backend engineer](cheat-sheet-software-engineering.md) and [tech lead](cheat-sheet-tech-lead.md) at [Lyst](https://www.lyst.com).
+I am looking for a new job! My previous role was a [backend engineer and tech lead](cheat-sheet-software-engineering.md) at [Lyst](https://www.lyst.com).
 
 I consider myself a [minimalist](minimalism.md), [see my possessions](all-things.md).
 
@@ -38,7 +38,7 @@ Ginger and I had made some videos, see our [youtube channel](https://www.youtube
 ## Don't know what to read? Start here
 
 - [Cooking](cooking.md)
-- [Tech Lead Cheat Sheet](cheat-sheet-tech-lead.md)
+- [Tech Lead Cheat Sheet](cheat-sheet-software-engineering.md)
 - [Runescape Cheat Sheet](cheat-sheet-runescape.md)
 
 ## Meaning Of Life
