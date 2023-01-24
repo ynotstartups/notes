@@ -5,7 +5,7 @@
 - oak          - Draynor Village
 - willow       - Draynor Village
 - lobster      - Land's end
-- cook range   - Edgeville
+- cook range   - Rouge Den
 - flax         - Land's end
 - furnace      - Edgeville
 - tanner       - Al Kharid
