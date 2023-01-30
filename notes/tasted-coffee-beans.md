@@ -1,25 +1,27 @@
 # Brewed Coffee Beans
 
-| Name           | Roaster       | Origin      | Roast Level | Process                | Tasting Notes                                |
-| -------------- | ------------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
-| Sitio Joaninha | Five Elephant | Brazil      |             | Natural                | Coconut, pear, oolong tea                    |
-| Mano Del Puma  | Origin        | El Salvador | Omni        | Natural                | Raspberry, Yellow Plum, Dark Chocolate       |
-| Zambrano       | Origin        | Panama      | Omni        | Natural                | Nectarine, Cantaloupe, Caramel               |
-| Miraflores     | Origin        | Panama      | Omni        | Natural                | Peach, Mango, Demerara Sugar                 |
-| Nemba          | Origin        | Burundi     | Omni        | Washed                 | Blackberry, Clementine & Brown Sugar         |
-| Canya          | Origin        | Panama      | Omni        | Natural                | Mandarin, Pineapple, Demerara Sugar          |
-| Aki            | Origin        | El Salvador | Omni        | Natural                | Mango, Grapefruit, Papaya                    |
-| Aqi Badu       | Origin        | China       | Omni        | Natural                | Pineapple, Persimmon & Dark Chocolate        |
-| Barokah        | Origin        | Indonesia   | Omni        | Natural                | Strawberry, Grapefruit & Caramel             |
-| Barokah        | Origin        | Indonesia   | Omni        | Washed                 | Blackberry, Yuzu & Molasses                  |
-| Elvis          | Origin        | Peru        | Omni        | Extended Fermentation  | Raspberry, Lemongrass & Brown Sugar          |
-| Mensur Abahika | Ozone         | Ethiopia    | Omni        | Natural                | Blueberries, Cranberry, Jasmine              |
-| San Antonio    | Origin        | El Salvador | Omni        | Black Honey            | Raspberry, Apricot & Molasses                |
-| Lichia         | Origin        | Brazil      | Omni        | Anaerobic Fermentation | Apricot, Date, Milk Chocolate                |
-| San Fermin     | Origin        | Colombia    | Omni        | Washes                 | Orange Sherbet, Caramel, Berries             |
-| Tuberosa Decaf | Origin        | Colombia    | Omni        | Sugarcane Decaf        | Apple, Stewed Plum, Caramel                  |
-| Wa Choo        | Origin        | China       | Omni        | Natural                | Pink Grapefruit, Pomegranate, Dark Chocolate |
-| Wa Choo        | Origin        | China       | Omni        | Washed                 | Blackberry, Elderflower & Sugarcane          |
+| Name            | Roaster       | Origin      | Roast Level | Process                | Tasting Notes                                |
+| --------------- | ------------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
+| Abu Coffee # 18 | Kawa          | Panama      | Filter      | Geisha Natural         | Blueberry, Jasmine, Framboise                |
+| Korate          | Kawa          | Ethiopia    | Omni        | Slow Dried             | Citron, Lychee, Floral                       |
+| Sitio Joaninha  | Five Elephant | Brazil      |             | Natural                | Coconut, Pear, Oolong tea                    |
+| Mano Del Puma   | Origin        | El Salvador | Omni        | Natural                | Raspberry, Yellow Plum, Dark Chocolate       |
+| Zambrano        | Origin        | Panama      | Omni        | Natural                | Nectarine, Cantaloupe, Caramel               |
+| Miraflores      | Origin        | Panama      | Omni        | Natural                | Peach, Mango, Demerara Sugar                 |
+| Nemba           | Origin        | Burundi     | Omni        | Washed                 | Blackberry, Clementine & Brown Sugar         |
+| Canya           | Origin        | Panama      | Omni        | Natural                | Mandarin, Pineapple, Demerara Sugar          |
+| Aki             | Origin        | El Salvador | Omni        | Natural                | Mango, Grapefruit, Papaya                    |
+| Aqi Badu        | Origin        | China       | Omni        | Natural                | Pineapple, Persimmon & Dark Chocolate        |
+| Barokah         | Origin        | Indonesia   | Omni        | Natural                | Strawberry, Grapefruit & Caramel             |
+| Barokah         | Origin        | Indonesia   | Omni        | Washed                 | Blackberry, Yuzu & Molasses                  |
+| Elvis           | Origin        | Peru        | Omni        | Extended Fermentation  | Raspberry, Lemongrass & Brown Sugar          |
+| Mensur Abahika  | Ozone         | Ethiopia    | Omni        | Natural                | Blueberries, Cranberry, Jasmine              |
+| San Antonio     | Origin        | El Salvador | Omni        | Black Honey            | Raspberry, Apricot & Molasses                |
+| Lichia          | Origin        | Brazil      | Omni        | Anaerobic Fermentation | Apricot, Date, Milk Chocolate                |
+| San Fermin      | Origin        | Colombia    | Omni        | Washes                 | Orange Sherbet, Caramel, Berries             |
+| Tuberosa Decaf  | Origin        | Colombia    | Omni        | Sugarcane Decaf        | Apple, Stewed Plum, Caramel                  |
+| Wa Choo         | Origin        | China       | Omni        | Natural                | Pink Grapefruit, Pomegranate, Dark Chocolate |
+| Wa Choo         | Origin        | China       | Omni        | Washed                 | Blackberry, Elderflower & Sugarcane          |
 
 ## Mano Del Puma
 
