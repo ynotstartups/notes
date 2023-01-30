@@ -16,13 +16,14 @@
 - Minigame - Burthorpe Games Room                                       - Burthorpe
 - Minigame - Castle War                                                 - West of Yanille
 - Minigame - Pest Control                                               - Ship to Port Sarim
+- Minigame - Pest Control - Port Sarim                                  - Land's End
 - Minigame - Soul War                                                   - Egdeville
 - Ring of Dueling to Ferox Enclave to the enclave's dungeon to Soul War - Edgeville
 - Ring of Dueling to PVP Arena                                          - Al Kharid
 
 ## Farming Low Level Allotment Run
 
-Camelot Teleport - Ardougne Cloak - Falador Teleport - Rimmington Home Teleport - Port Phasmaty's 
+Camelot Teleport - Ardougne Cloak - Falador Teleport - Rimmington Home Teleport - Port Phasmaty's
 
 ## Armor Shop
 
