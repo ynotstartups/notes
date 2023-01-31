@@ -10,8 +10,15 @@ markdown_extensions:
   # this extension allows indent by using 2 spaces
   # needed because mdformat formats nested list to use 2 spaces
   - mdx_truly_sane_lists
+  # support `- [ ]` github styled checkbox
   - pymdownx.tasklist:
       custom_checkbox: true
+  # support mermaid diagram
+  - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
 extra:
   analytics:
     provider: google
