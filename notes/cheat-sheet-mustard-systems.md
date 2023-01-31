@@ -21,17 +21,30 @@ quants, software engineers, linux infrastructure engineer
 Python, Go for infrastructure services, Linux servers, PostgreSQL, 
 ZeroMQ and RabbitMQ for backend communication, jQuery, React and vue.js for the frontend
 
-*infra*
+*infrastructure*
 
-Linux systems (primarily Ubuntu, some CentOS)
-LXC containers
-FreeIPA, Active Directory, bind and dnsmasq
-Ansible configuration management
-PostgreSQL and MySQL databases
-OpenVPN, VyOS and HPE networking
-Ubuntu Linux and Windows desktops
-Google Workspace and Office365
+Linux systems (primarily Ubuntu, some CentOS),
+LXC containers,
+FreeIPA, Active Directory, bind and dnsmasq,
+Ansible configuration management,
+PostgreSQL and MySQL databases,
+OpenVPN, VyOS and HPE networking,
+Ubuntu Linux and Windows desktops,
+Google Workspace and Office365,
 On-prem hardware & some cloud mixed in
+
+```mermaid
+graph LR
+    Golf[Golf Data] --> Feed[(Feed: Time Series Postgres DB, ZeroMQ and RabbitMQ)]
+    Cricket[Cricket Data] --> Feed
+    OtherSport[Other Sport Data] --> Feed
+    subgraph Infras[Go for infrastructure services with Linux servers]
+        Feed --> UI[Python BE MySQL with JQuery, React, Vue.js UI]
+    end
+    UI --> Quants
+    UI --> Traders
+    UI --> DataScientists
+```
 
 **Q: What is the name and responsibility of role?**
 
@@ -52,7 +65,8 @@ fast-paced, ever-changing environment, offering fresh challenges
 - Collaborated directly with Traders and Quants to analyze solutions based on company and client requirements.
 - Working under pressure to implement numerous hotfixes on production environments between agile sprints.
 - Often tasked with ensuring smooth staging and production deployments.
-- Consulted with infrastructure team members to determine system loads, monitoring and improvement plans.- Collaborated directly with Traders and Quants to analyze solutions based on company and client requirements. - Working under pressure to implement numerous hotfixes on production environments between agile sprints. - Often tasked with ensuring smooth staging and production deployments. - Consulted with infrastructure team members to determine system loads, monitoring and improvement plans.
+- Consulted with infrastructure team members to determine system loads, monitoring and improvement plans.
+
 Skills: Python (Programming Language) · MySQL · Git · Object-Oriented Programming (OOP)
 
 *Senior*
@@ -73,11 +87,15 @@ Our ambitions are high, aiming to create best-in-class systems in a highly compe
 
 Q: You will have the opportunity to explore your own ideas and suggest new tools. Should we parse input data using something from the standard library? Would we be better off using a third party tool like ANTLR or Ragel? Could we use regular expressions, or would that just give us two problems? Would a quick sed script get the job done? Is the best solution to store output data in a relational database? Would a NoSQL store be a better fit for this problem, or could we use something hierarchical like HDF5? The answer will vary depending on the problem and you’ll be expected to investigate the options to find a good solution.
 
-- ANTLR or Ragel:
-    - ANTLR: 
+- parse input data with standard library, ANTLR or Ragel:
+    - ANTLR: parsers and parser generators, parser generator that you can use to read, process, execute, or translate structured text such as program source code, data, and configuration files
     - Ragel:
-- regular expressions, or would that just give us two problems? 
-    - What is the two problems?
+    - regular expressions, or would that just give us two problems? 
+        - What is the two problems?
+    - sed
+
+- Is the best solution to store output data in a relational database? Would a NoSQL store be a better fit for this problem, or could we use something hierarchical like HDF5?
+    - relational database v.s. NoSQL v.s. HDF5?
 
 **Q: what interests you about the company?**
 **Q: what makes you a good fit for the company?**
@@ -91,12 +109,28 @@ Q: You will have the opportunity to explore your own ideas and suggest new tools
 - I am a linux nerd, vim, ubuntu, i3 window manager, my dot files are in git
 - Pragmatic, 
 
+**Q: What is the interview process?**
+
+- programming test
+- call with cofounder
+- call with tech leads about the role
+
 ## Questions
 
-- Would the company stay like a small consultancy or would it grow to a medium to large company? Why?
+**Related to the role**
+
 - There is no mention of machine learning in the job description, does it mean the model are statistically, inference based? instead of neural networks?
 - reading the tech stack, there is no mention of cloud provider such as aws? is the tech stack hosted on premise?
 - What is income structure of the company? (cannot answer from job description)
     - is it primarily by the success of traders or external consultant commission?
 - Which team will I work in? What are the responsibilities of the team?
 - Can you describe a typical projects that I will be involved in?
+
+
+**Related to company**
+
+- How does covid impacted the company? both during and after the covid? What are the learnings?
+- Would the company stay like a small consultancy or would it grow to a medium to large company? Why?
+- How would you pitch your team to convince me to join your team?
+- What makes the company competitive in the field? What are the killer features?
+
