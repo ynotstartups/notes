@@ -2,6 +2,7 @@
 
 | Year | Name                                                            | Author                          |
 | ---- | --------------------------------------------------------------- | ------------------------------- |
+| 2023 | Blindsight                                                      | Peter Watts                     |
 | 2023 | Blood Music                                                     | Greg Bear                       |
 | 2023 | House Of Terror                                                 |                                 |
 | 2023 | From Hell                                                       | Alan Moore                      |
