@@ -31,6 +31,9 @@
 
 ## During the Interview
 
+- don't make assumption and ask questions early
+- be assertive and open-minded at the same time
+
 ## Interview Questions
 
 **Related to the role**
