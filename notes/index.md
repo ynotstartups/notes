@@ -38,7 +38,7 @@ Ginger and I had made some videos, see our [youtube channel](https://www.youtube
 ## Don't know what to read? Start here
 
 - [Software Engineer Interview Cheat Sheet](cheat-sheet-interview.md)
-    - see for example my interview prep for [mustard system](cheat-sheet-mustard-systems.md)
+  - see for example my interview prep for [mustard system](cheat-sheet-mustard-systems.md)
 - [Cooking](cooking.md)
 - [Tech Lead Cheat Sheet](cheat-sheet-software-engineering.md)
 - [Runescape Cheat Sheet](cheat-sheet-runescape.md)
