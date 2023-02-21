@@ -1,4 +1,4 @@
-# Cheat Sheet Cboe 
+# Cheat Sheet Cboe
 
 **Q: Link to job description?**
 
@@ -36,8 +36,8 @@ manager, this is to give a high level overview of your experience.
 after the phone screen).
 
 2. Technical Interview
-2. Culture Interview to assess your team/culture fit
-4. Final Interview with a senior stakeholder/department head or/and HR
+1. Culture Interview to assess your team/culture fit
+1. Final Interview with a senior stakeholder/department head or/and HR
 
 **Q: Who is the interviewer?**
 
@@ -48,7 +48,6 @@ Ian Littlebury
 held a number of roles such as development lead and development/engineering manager; focusing on developing automation systems for dealing with large scale IT infrastructure.
 
 Most recently I have been a product manager/owner for a number of cloud database products that support LOBs, providing many 1000s of database instances internally.
-
 
 ## Questions in interview
 

@@ -101,14 +101,16 @@ Q: You will have the opportunity to explore your own ideas and suggest new tools
 **Q: what interests you about the company?**
 **Q: what makes you a good fit for the company?**
 
-- statistically oriented
+- **small and strong team, smart people**
+  - being about to have a impact in the company by working directly with infrastructure team, traders and quants. In my previous role, I am building app for general public, external users, which I always feel a distance with the users, I wish I can talk directly with the users and get feedbacks from them.
+- **expanding to other sports and scaling up price feed infra**
+- **statistically oriented**
   - statistic is my favourite subject during my bachelor at UCL
   - my bachelor dissertation is in statistics, it's about transforming the UK map based on traveling time using train instead of geological distance
-- small and strong team, being about to have a impact in the company by working directly with infrastructure team, traders and quants. In my previous role, I am building app for general public, external users, which I always feel a distance with the users, I wish I can talk directly with the users and get feedbacks from them.
-- linux, being able to use ubuntu in the job? and distruct of microsoft and apple
-- chance to learn Go
-- I am a linux nerd, vim, ubuntu, i3 window manager, my dot files are in git
-- Pragmatic,
+- **distrust of microsoft and apple**, linux, being able to use ubuntu in the job? and
+  - I am a linux nerd, vim, ubuntu, i3 window manager, my dot files are in git
+  - chance to learn Go
+- **Pragmatism**
 
 **Q: What is the interview process?**
 
@@ -120,16 +122,28 @@ Q: You will have the opportunity to explore your own ideas and suggest new tools
 
 **Related to the role**
 
-- There is no mention of machine learning in the job description, does it mean the model are statistically, inference based? instead of neural networks?
 - reading the tech stack, there is no mention of cloud provider such as aws? is the tech stack hosted on premise?
-- What is income structure of the company? (cannot answer from job description)
-  - is it primarily by the success of traders or external consultant commission?
+  - can you tell me a bit about the CI/CD pipeline?
+- What is your most and least favourite part about the tech stack?
 - Which team will I work in? What are the responsibilities of the team?
 - Can you describe a typical projects that I will be involved in?
 
 **Related to company**
 
+- What is income structure of the company? (cannot answer from job description)
+  - is it primarily by the success of traders or external consultant commission?
+  - auto trader v.s. trader
+- What is the culture like? What is the relationship between trades, quants and developers?
 - How does covid impacted the company? both during and after the covid? What are the learnings?
 - Would the company stay like a small consultancy or would it grow to a medium to large company? Why?
 - How would you pitch your team to convince me to join your team?
 - What makes the company competitive in the field? What are the killer features?
+- What is the relationship with gambit research?
+
+## Reply
+
+- not cut-throat, rather, it's a relax enviroment, not much overtime
+- ideas got heard as team is small
+- plenty of social events, organised sport's tournaments
+- quants in the same team, working together
+- there are two sports, cricket & golf
