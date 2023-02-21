@@ -2,6 +2,14 @@
 
 I love to cook! I can cook the following dishes.
 
+## Duck Confit
+
+![Duck Confit](images/cooking/duck_confit.webp){ loading=lazy }
+
+## Garlic Scallop
+
+![Garlic Scallop](images/cooking/garlic_scallop.webp){ loading=lazy }
+
 ## Homemade Cookies - 曲奇
 
 ![Cookies](images/cooking/cookie.webp){ loading=lazy }
