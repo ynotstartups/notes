@@ -1,5 +1,16 @@
 # Cheat Sheet Runescape
 
+## Skilling Activities
+
+- Combat       - Killing Crabs
+- Mining       - Motherlode Mine
+- Smithing     - Giants' Foundry
+- Agility      - Rooftop Courses, Pyrimid Plunder
+- Fishing      - Tempoross
+- Fire Making  - Wintertodt
+- Runecrafting - Guardian Of The Rift
+- Crafting     - Shades of Mort'ton (AFK)
+
 ## Closest to bank
 
 - oak          - Draynor Village
