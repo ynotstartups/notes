@@ -2,6 +2,7 @@
 
 | Year | Name                                                            | Author                          |
 | ---- | --------------------------------------------------------------- | ------------------------------- |
+| 2023 | After Dark                                                      | Haruki Murakami                 |
 | 2023 | Klein Bottle                                                    | OKAJIMA Futari                  |
 | 2023 | Blindsight                                                      | Peter Watts                     |
 | 2023 | Blood Music                                                     | Greg Bear                       |
