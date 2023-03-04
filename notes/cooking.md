@@ -2,11 +2,15 @@
 
 I love to cook! I can cook the following dishes.
 
-## Duck Confit
+## Korean Doenjang Jjigae - 大酱汤 
+
+![Korean Doenjang Jjigae](images/cooking/korean-doenjang-jjigae.webp){ loading=lazy }
+
+## Duck Confit - 油封鸭
 
 ![Duck Confit](images/cooking/duck_confit.webp){ loading=lazy }
 
-## Garlic Scallop
+## Garlic Scallop - 蒜蓉扇贝
 
 ![Garlic Scallop](images/cooking/garlic_scallop.webp){ loading=lazy }
 
