@@ -2,7 +2,7 @@
 
 I love to cook! I can cook the following dishes.
 
-## Korean Doenjang Jjigae - 大酱汤 
+## Korean Doenjang Jjigae - 大酱汤
 
 ![Korean Doenjang Jjigae](images/cooking/korean-doenjang-jjigae.webp){ loading=lazy }
 

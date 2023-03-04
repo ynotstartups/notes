@@ -11,7 +11,7 @@ In [8]: def cond():
    ...:         return "yes"
    ...:     else:
    ...:         return "no"
-   ...: 
+   ...:
 
 In [9]: dis.dis(cond)
   2           0 LOAD_CONST               1 (3)
@@ -51,7 +51,6 @@ In [25]: pprint(ast.dump(ast_tree))
  "orelse=[Return(value=Constant(value='no'))])], decorator_list=[])], "
  'type_ignores=[])')
 ```
-
 
 ## Shebang
 
