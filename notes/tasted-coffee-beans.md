@@ -2,6 +2,8 @@
 
 | Name            | Roaster       | Origin      | Roast Level | Process                | Tasting Notes                                |
 | --------------- | ------------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
+| Konga           | Origin        | Ethiopia    | Omni        | Washed                 | Nectarine, Mandarin, Brown Sugar             |
+| Ou Yang         | Origin        | China       | Omni        | Natural                | Stawberry wine, Lychee, Caramel              |
 | Abu Coffee # 18 | Kawa          | Panama      | Filter      | Geisha Natural         | Blueberry, Jasmine, Framboise                |
 | Korate          | Kawa          | Ethiopia    | Omni        | Slow Dried             | Citron, Lychee, Floral                       |
 | Sitio Joaninha  | Five Elephant | Brazil      |             | Natural                | Coconut, Pear, Oolong tea                    |
@@ -22,6 +24,47 @@
 | Tuberosa Decaf  | Origin        | Colombia    | Omni        | Sugarcane Decaf        | Apple, Stewed Plum, Caramel                  |
 | Wa Choo         | Origin        | China       | Omni        | Natural                | Pink Grapefruit, Pomegranate, Dark Chocolate |
 | Wa Choo         | Origin        | China       | Omni        | Washed                 | Blackberry, Elderflower & Sugarcane          |
+
+## Konga
+
+Konga washing station is situated in the Konga Kebele neighbourhood of the Yirgacheffe region. There are many sub regions in this area that produces outstanding coffee, and Gedeb is one of it. 
+
+There are numerous coffee washing stations in the neighbourhood of Konga Kebele in Yirgacheffe, all named the same: this means that coffee labelled Konga, doesn’t necessarily imply that it’s been produced by a singular farmer, producer, or washing station. 
+
+Around 1,200 small coffee holders contribute their coffee cherries to the Konga washing station, where Abiot Ageze and Mebrehatu Aynalem export under the name of Boledu Industrial Plc. With over 14 years coffee experience, the duo have been championing quality coffee, education, traceability, and better pricing for farmers. Coffee from Ethiopia may be complex, but it’s entirely worth the pursuit.
+
+## Ou Yang
+
+The Coffee of Yunnan
+
+a note from David Ou Yang
+ 
+
+Not many people associate coffee and China, let alone an excellent specialty level single origin. Yes, China, or should I say Yunnan province, produces excellent coffee, so much so that many international coffee companies are now coming to Yunnan to source top quality beans.  
+
+Coffee farming in Yunnan has changed drastically over the last 30 years since its first introduction by French missionaries in the late nineteenth century. Commercial farming did not really take off until 1988 when the government, together with United Nations Development Program and the World Bank, initiated the coffee farming program which led to an increase in farmers growing coffee. The success of the program can be seen through the report by the International Coffee Organization in 2015, that China was the 14th largest coffee producer in the world. 
+
+With the expansion and increase of coffee farming and processing techniques the quality continues to get better and better. Over the last ten years more established and newly established coffee farms are pursing a more organic approach in growing coffee and specialty grade coffee.
+
+**Our Vision**
+
+Embrace diversity, unite people and resources through coffee for a better world
+
+**Our Mission**
+
+We are a community committed to produce the best organic coffee in an environmentally sustainable way
+
+**Our Values**
+
+We are quality driven
+
+We are environmentally conscious
+
+We value community, cultural diversity and hard work
+
+We respect and care for each of our employees, their families and our community
+
+We exercise social responsibility by giving back to our community
 
 ## Mano Del Puma
 
