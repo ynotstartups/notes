@@ -2,6 +2,9 @@
 
 | Year | Name                                                            | Author                          |
 | ---- | --------------------------------------------------------------- | ------------------------------- |
+| 2023 | secret life of machines (TV Series)                             | Tim and Rex                     |
+| 2023 | Broken Stars                                                    | Ken Liu                         |
+| 2023 | OS: there easy pieces                                           | Andrea, Remzi                   |
 | 2023 | After Dark                                                      | Haruki Murakami                 |
 | 2023 | Klein Bottle                                                    | OKAJIMA Futari                  |
 | 2023 | Blindsight                                                      | Peter Watts                     |
