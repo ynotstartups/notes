@@ -2,7 +2,9 @@
 
 | Year | Name                                                            | Author                          |
 | ---- | --------------------------------------------------------------- | ------------------------------- |
-| 2023 | secret life of machines (TV Series)                             | Tim and Rex                     |
+| 2023 | Chemistry Essentials For Dummies                                | John Moore                      |
+| 2023 | Electronics for Dummies                                         | D Ross                          |
+| 2023 | Secret Life of Machines (TV Series)                             | Tim and Rex                     |
 | 2023 | Broken Stars                                                    | Ken Liu                         |
 | 2023 | OS: there easy pieces                                           | Andrea, Remzi                   |
 | 2023 | After Dark                                                      | Haruki Murakami                 |
