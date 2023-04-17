@@ -2,6 +2,7 @@
 
 | Year | Name                                                            | Author                          |
 | ---- | --------------------------------------------------------------- | ------------------------------- |
+| 2023 | Shards Of Earth                                                 | Adrian Tchaikovsky              |
 | 2023 | Chemistry Essentials For Dummies                                | John Moore                      |
 | 2023 | Electronics for Dummies                                         | D Ross                          |
 | 2023 | Secret Life of Machines (TV Series)                             | Tim and Rex                     |
