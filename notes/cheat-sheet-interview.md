@@ -31,34 +31,39 @@ Name tabs
 **Q: What is income structure of the company?**
 **Q: What is future of the company?**
 **Q: What is the interview process?**
-**Q: Who is the interviewer?**
+**Q: Who are the interviewer?**
 ```
 
 2. Prepare for questions
 
 **Q: What change job now?**
-\- stay for a long time already, not learning as much
-\- company change of strategy
-\- personsal reason, visit family
-\- take a break to learn
+
+- stay for a long time already, not learning as much
+- company change of strategy
+- personsal reason, visit family
+- take a break to learn
 
 **Q: What do you know about us?**
+
 **Q: What interests you about the company?**
 
 **Q: What makes you a good fit for the role?**
+
 **Q: Why do you want to work here?**
 
 **Q: Tell me about yourself**
-\- continuous learning always curious
-\- strong believer in communications
-\- high coding standard
+
+- continuous learning always curious
+- strong believer in communications
+- high coding standard
 
 **Q: How to improve online testing code**
-\- refactor
-\- tests
-\- logging
-\- error handling
-\- horizontal scaling
+
+- refactor
+- tests
+- logging
+- error handling
+- horizontal scaling
 
 **Q: Strengths/Weaknesses**
 
@@ -77,8 +82,8 @@ Name tabs
 
 **Role**
 
+- Can you describe a typical projects that I will be involved in? for example, the current project that you are working on
 - Which team will I work in? What are the responsibilities of the team?
-- Can you describe a typical projects that I will be involved in?
 - What is your management style?
 - What will be the ideal person for this role?
 
