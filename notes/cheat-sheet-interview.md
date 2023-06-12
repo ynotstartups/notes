@@ -13,6 +13,20 @@ Name tabs
 
 - tab 3 CV-and-job-description
 
+## Job Searching
+
+- python django backend job
+- python backend job
+- python job
+
+1. writing cover letter
+
+- name
+- position
+- why the company stands out to me and what i am a good fit
+  - 3 bullet points regarding company's industry, value, culture
+  - 3 bullet points regarding company's tech
+
 ## Before the Interview
 
 1. Write down basic facts about a company
@@ -43,19 +57,20 @@ Name tabs
 - personsal reason, visit family
 - take a break to learn
 
-**Q: What do you know about us?**
+**Q: What interests you about the company?** (**Q: Why do you want to work here?**
 
-**Q: What interests you about the company?**
+- culture
+- tech stack
+
+**Q: What do you know about us?**
 
 **Q: What makes you a good fit for the role?**
 
-**Q: Why do you want to work here?**
-
 **Q: Tell me about yourself**
 
-- continuous learning always curious
-- strong believer in communications
-- high coding standard
+- continuous learning and adapting
+- communications and trust
+- high software engineering standard
 
 **Q: How to improve online testing code**
 
