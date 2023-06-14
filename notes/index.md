@@ -17,12 +17,10 @@ I enjoy [cooking](cooking.md) and washing dishes :)
 I am also interested in
 [music](index-music.md),
 [art](art.md),
-[old school runescape](cheat-sheet-runescape.md),
 [coding](https://github.com/ynotstartups),
 [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
 [books](reading.md),
 [writing](digital-garden.md),
-LOL esports,
 ...
 
 My wildest dream is to
