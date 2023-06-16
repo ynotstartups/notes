@@ -15,38 +15,55 @@ Name tabs
 
 ## Job Searching
 
-- python django backend job
-- python backend job
-- python job
-
-1. writing cover letter
-
-- name
-- position
-- why the company stands out to me and what i am a good fit
-  - 3 bullet points regarding company's industry, value, culture
-  - 3 bullet points regarding company's tech
+- search with specific technology such as
+  - python **Django** backend job
+  - **python** backend job
+  - python job
+- don't use Linkedin "Easy Apply"
+- spent time speaking to agencies
+  - they might have opportunities which I missed or cannot find from LinkedIn
+  - they have good tips on how to prepare for interviews
+- must write a cover letter when applying, see below for cover letter template
+  - my name
+  - which role am I applying
+  - why the company stands out to me and what i am a good fit
+    - 3 bullet points regarding company's industry, value, culture
+    - 3 bullet points regarding company's tech
+  - a short self intro
+    - responsibilities in current company
+    - personal project
+    - personal values
+    - tech stack
+  - HR facts
+    - contact number & email?
+    - what role am I looking for? e.g. python backend role
+    - how long is the notice period?
+    - do I need sponsorship to work in the UK?
+    - where am I based?
+    - hybrid, full time or remote?
+    - salary expectation?
 
 ## Before the Interview
 
 1. Write down basic facts about a company
 
-```
-**Q: Link to job description?**
-**Q: What does the company do?**
-**Q: How many people?**
-**Q: What is the tech stack?**
-**Q: What is the tech infrastructure**
-**Q: Is there a github account?**
-**Q: Checkout the glassdoor comments for the company**
-**Q: What is the name and responsibility of role?**
-**Q: What is culture like in the company?**
-**Q: Look for software engineer job description for employees in Linkedin**
-**Q: What is income structure of the company?**
-**Q: What is future of the company?**
-**Q: What is the interview process?**
-**Q: Who are the interviewer?**
-```
+- Link to job description?
+- What is the company mission?
+- What does the company do?
+- How many people?
+- How is the work life balance like in the company?
+- What is the tech stack?
+- What is the tech infrastructure?
+- Is there a github account?
+- Checkout the glassdoor comments for the company
+- What is the name and responsibility of role?
+- What is culture like in the company?
+- What is work life balance in the company?
+- Look for software engineer job description for employees in Linkedin
+- What is income structure of the company?
+- What is future of the company?
+- What is the interview process?
+- Who are the interviewer?
 
 2. Prepare for questions
 
@@ -86,8 +103,24 @@ Name tabs
 
 ## During the Interview
 
+- be confident
+- remember that the interviewers want me get the job
+
+**Answer Questions Based On My Personal Values**
+
+1. Continuous learnings
+1. Honest communications with trust
+1. High software engineering standards
+   - unit tests, test coverage, code review, QA, documentations, Typing Hinting, continuous refactoring
+
+**How to Behave**
+
 - don't make assumption and ask questions early
 - be assertive and open-minded at the same time
+- think out loud - communications
+- understand the problem (ask for clarification, boundary conditions, corner cases ...)
+  - break down to sub questions
+- open to suggestions and to learn
 
 ## Prepare Five Reverse Questions
 
