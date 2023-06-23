@@ -6,39 +6,31 @@ My name is Tiger Yuhao Huang.
 
 Welcome to my [digital garden](digital-garden.md)!
 
-I am looking for a new job! My previous role was a [backend engineer and tech lead](cheat-sheet-software-engineering.md) at [Lyst](https://www.lyst.com).
+I am starting a new job as python backend engineer at Saltus!
 
 I consider myself a [minimalist](minimalism.md), [see my possessions](all-things.md).
 
-I love brewing and tasting [coffee](index-coffee.md).
-
-I enjoy [cooking](cooking.md) and washing dishes :)
+My biggest hobby is [home cooking](cooking.md), [coffee brewing](index-coffee.md) and [eating out](restaurant-recommendations.md). I also find washing dishes to be meditating :)
 
 I am also interested in
-[music](index-music.md),
-[art](art.md),
+[reading](reading.md),
+[writing](digital-garden.md),
 [coding](https://github.com/ynotstartups),
 [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
-[books](reading.md),
-[writing](digital-garden.md),
+[art](art.md),
+[music](index-music.md),
 ...
 
-My wildest dream is to
+My wildest dream is to open [a cafe](coffee-recipe.md) called "Tou",
+it sells Man Tou, black filter coffee, latte.
 
-- become [a stand-up comedian](stand-up-comedy.md)
-- become [a farmer/gardener](farmer.md) to grow my own food
-- become [an artist](artist.md)
-- open [a cafe](coffee-recipe.md) called "Tou"
-  - which sells Man Tou, black filter coffee, latte
-
-Ginger and I had made some videos, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
+Ginger and I had made some videos during lock down, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
 
 ## Don't know what to read? Start here
 
-- [Software Engineer Interview Cheat Sheet](cheat-sheet-interview.md)
-  - see for example my interview prep for [mustard system](cheat-sheet-mustard-systems.md)
-- [Tech Lead Cheat Sheet](cheat-sheet-software-engineering.md)
 - [Cooking](cooking.md)
+- [Software Engineer Interview Cheat Sheet](cheat-sheet-interview.md)
+- [Tech Lead Cheat Sheet](cheat-sheet-software-engineering.md)
 
 ## Meaning Of Life
 
