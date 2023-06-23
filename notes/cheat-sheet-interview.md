@@ -88,6 +88,7 @@ Name tabs
 - continuous learning and adapting
 - communications and trust
 - high software engineering standard
+  - in other words, thoughtful engineer, reliability, scalability, maintainability
 
 **Q: How to improve online testing code**
 
