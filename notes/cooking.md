@@ -26,6 +26,10 @@ I love to cook! I can cook the following dishes.
 
 # Main - Meat - 肉类
 
+## Sweet and Sour Chicken - 咕噜肉
+
+![Sweet and Sour Chicken](images/cooking/sweet_and_sour_chicken.webp){ loading=lazy }
+
 ## Stewed Pork Ribs With Sauekranut - 酸菜炖排骨
 
 ![Stewed Pork Ribs With Sauekranut](images/cooking/suan-cai-dun-pai-gu.webp){ loading=lazy }
@@ -60,9 +64,10 @@ I love to cook! I can cook the following dishes.
 
 ![Burger](images/cooking/homemade-burger-1.webp){ loading=lazy }
 
-## Pizza - 比萨饼
+## Handmade Pizza - 比萨饼
 
-![Pizza](images/cooking/pizza.webp){ loading=lazy }
+![Pizza](images/cooking/pizza_0.webp){ loading=lazy }
+![Pizza](images/cooking/pizza_1.webp){ loading=lazy }
 
 ## Dumplings - 饺子
 
@@ -87,7 +92,6 @@ I love to cook! I can cook the following dishes.
 Ginger's drawing
 
 ![蜜汁叉烧](images/cooking/%E8%9C%9C%E6%B1%81%E5%8F%89%E7%83%A7.webp){ loading=lazy }
-
 
 ## 梅菜蒸肉饼
 
@@ -193,7 +197,33 @@ Ginger's drawing
 
 ![Cookies](images/cooking/cookie.webp){ loading=lazy }
 
+## Chang Fen - 肠粉
+
+![Change Fen](images/cooking/chang_fen.webp){ loading=lazy }
+
+## Sweet Rice Cake - 伦教糕
+
+![Sweet Rice Cake](images/cooking/rice_cake.webp){ loading=lazy }
+
+## Carrot Cake - 萝卜糕
+
+![Carrot Cake](images/cooking/white_carrot_cake.webp){ loading=lazy }
+
 # Rice, Noodle, Porridge - 主食
+
+## Man Tou - 馒头
+
+![Man Tou](images/cooking/man_tou.webp){ loading=lazy }
+
+## Japanese Bread
+
+![Japanese Bread](images/cooking/japanese_bread_0.webp){ loading=lazy }
+![Japanese Bread](images/cooking/japanese_bread_1.webp){ loading=lazy }
+![Japanese Bread](images/cooking/japanese_bread_2.webp){ loading=lazy }
+
+## Handmade Noodle - 手工面
+
+![Handmade Noodle](images/cooking/handmade-noodle.webp){ loading=lazy }
 
 ## 炒米粉
 
