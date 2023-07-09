@@ -2,12 +2,14 @@
 
 | Name            | Roaster       | Origin      | Roast Level | Process                | Tasting Notes                                |
 | --------------- | ------------- | ----------- | ----------- | ---------------------- | -------------------------------------------- |
+| Shonora         | Volcano       | Ethiopia    | Light       | Natural                | Lemon, Stone Fruits, Black Tea               |
+| Kamala Loa #1   | Assembly      | Indonesia   | Light       | Natural                | Pineapple, Papaya, Creamy                    |
 | Juba            | Ozone         | Mexico      | ?           | Natural                | Blueberry, Black Grape, Bubblegum            |
 | Konga           | Origin        | Ethiopia    | Omni        | Washed                 | Nectarine, Mandarin, Brown Sugar             |
 | Ou Yang         | Origin        | China       | Omni        | Natural                | Stawberry wine, Lychee, Caramel              |
-| Abu Coffee # 18 | Kawa          | Panama      | Filter      | Geisha Natural         | Blueberry, Jasmine, Framboise                |
+| Abu Coffee #18  | Kawa          | Panama      | Filter      | Geisha Natural         | Blueberry, Jasmine, Framboise                |
 | Korate          | Kawa          | Ethiopia    | Omni        | Slow Dried             | Citron, Lychee, Floral                       |
-| Sitio Joaninha  | Five Elephant | Brazil      |             | Natural                | Coconut, Pear, Oolong tea                    |
+| Sitio Joaninha  | Five Elephant | Brazil      | ?           | Natural                | Coconut, Pear, Oolong tea                    |
 | Mano Del Puma   | Origin        | El Salvador | Omni        | Natural                | Raspberry, Yellow Plum, Dark Chocolate       |
 | Zambrano        | Origin        | Panama      | Omni        | Natural                | Nectarine, Cantaloupe, Caramel               |
 | Miraflores      | Origin        | Panama      | Omni        | Natural                | Peach, Mango, Demerara Sugar                 |
