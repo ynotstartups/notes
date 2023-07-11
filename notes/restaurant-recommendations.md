@@ -1,9 +1,5 @@
 # Restaurant Recommendations
 
-**Rules**
-
-- No high end restaurants, because they don't really need recommendations
-
 ## London - UK
 
 - [BúnBúnBún](http://www.bunbunbun.co/)

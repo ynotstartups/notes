@@ -36,9 +36,6 @@ It makes cleaning easier because
 ## On how to live my life
 
 - Don't have social media
-- Go to restaurant once per month
-- Order delivery once per month
-- Go to brunch once per month
 
 ## My Minimalism Ideals
 

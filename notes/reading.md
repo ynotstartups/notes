@@ -132,13 +132,9 @@
 | 20XX | One Hundred Years Of Solitude                                   | Gabriel García Márquez          |
 | 2012 | Outliers                                                        |                                 |
 
-## Outliers
-
-I own this to a English tutor because I was not able to pass the IELTS English exam for university.
-
 ## Why do I read?
 
-- To understand more about life
+- To understand life
 - To kill time
 
 ## What do I read?
