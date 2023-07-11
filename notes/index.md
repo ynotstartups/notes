@@ -10,18 +10,18 @@ I am starting a new job as python backend engineer at Saltus!
 
 I consider myself a [minimalist](minimalism.md), [see my possessions](all-things.md).
 
-My biggest hobby is [home cooking](cooking.md), [coffee brewing](index-coffee.md) and [eating out](restaurant-recommendations.md). I also find washing dishes to be meditating :)
+My biggest hobby is [home cooking](cooking.md), [coffee brewing](tasted-coffee-beans.md) and [eating out](restaurant-recommendations.md). I also find washing dishes to be meditating :)
 
 I am also interested in
 [reading](reading.md),
 [writing](digital-garden.md),
 [coding](https://github.com/ynotstartups),
 [personal finance](https://www.bilibili.com/video/BV1u54y1x7zF),
-[art](art.md),
-[music](index-music.md),
+art,
+classical music,
 ...
 
-My wildest dream is to open [a cafe](coffee-recipe.md) called "Tou",
+My wildest dream is to open a cafe called "Tou",
 it sells Man Tou, black filter coffee, latte.
 
 Ginger and I had made some videos during lock down, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).

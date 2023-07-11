@@ -75,13 +75,9 @@ I love to cook! I can cook the following dishes.
 
 ## Potato with Duck - 土豆闷鸭
 
-[Recipe](how-to-make-duck-and-potato-curry.md)
-
 ![Potato With Duck](images/cooking/potato-with-duck.webp){ loading=lazy }
 
 ## Sour Pickled Mustard With Fish - 酸菜鱼
-
-[Recipe](how-to-make-sour-pickled-mustard-fish.md)
 
 ![Sour Pickled Mustard With Fish](images/cooking/sour-pickled-mustard-with-fish.webp){ loading=lazy }
 
@@ -175,8 +171,6 @@ Ginger's drawing
 
 ## 干煸豆角肉末
 
-[recipe](how-to-cook-stir-fry-beans-with-mince.md)
-
 ![Stir Fry Beans With Mince](images/cooking/stir-fry-beans-with-mince.webp){ loading=lazy }
 
 ## Fermented Bean Curd With Morning Glory - 腐乳通菜心
@@ -257,7 +251,5 @@ Ginger's drawing
 ![Cold Brew On Rock](images/cooking/cold-brew-on-rock.webp){ loading=lazy }
 
 ## Mulled Wine - 热红酒
-
-[recipe](how-to-make-mulled-wine.md)
 
 ![Mulled Wine](images/cooking/mulled_wine.webp){ loading=lazy }

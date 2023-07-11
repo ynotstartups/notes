@@ -370,7 +370,3 @@ Wood spatula,
 Wood spoon,
 
 See also [minimalism](minimalism.md)
-
-## Links to this note
-
-[Who am I?](index.md)

@@ -31,7 +31,7 @@ Applications of minimalism in investing:
 It makes cleaning easier because
 
 1. My living room is almost empty so mopping the floor is easy
-1. When cleaning [bathroom](how-to-clean-bathroom.md), I can first put away every things in the bathroom surfaces.
+1. When cleaning bathroom, I can first put away every things in the bathroom surfaces.
 
 ## On how to live my life
 
@@ -59,9 +59,3 @@ Just one bed and a wardrobe
 ## Related Links
 
 [My presentation on minimalism](https://www.bilibili.com/video/BV1u54y1x7zF)
-
-## Links to this note
-
-[All Things](all-things.md)
-
-[Who am I?](index.md)
