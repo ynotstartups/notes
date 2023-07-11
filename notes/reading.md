@@ -1,7 +1,8 @@
-# Readings
+# Books
 
 | Year | Name                                                            | Author                          |
 | ---- | --------------------------------------------------------------- | ------------------------------- |
+| 2023 | 流言                                                              | 张爱玲                             |
 | 2023 | Shards Of Earth                                                 | Adrian Tchaikovsky              |
 | 2023 | Chemistry Essentials For Dummies                                | John Moore                      |
 | 2023 | Electronics for Dummies                                         | D Ross                          |
@@ -148,7 +149,3 @@ I own this to a English tutor because I was not able to pass the IELTS English e
 - non-fictions
 - software engineering books
 - sci-fi
-
-## Links to this note
-
-[Who am I?](index.md)
