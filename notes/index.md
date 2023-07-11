@@ -26,12 +26,6 @@ it sells Man Tou, black filter coffee, latte.
 
 Ginger and I had made some videos during lock down, see our [youtube channel](https://www.youtube.com/channel/UCQE6i7tcSbBQMD8KSeUQYvQ) and [bilibili channel](https://space.bilibili.com/1281157300).
 
-## Don't know what to read? Start here
-
-- [Cooking](cooking.md)
-- [Software Engineer Interview Cheat Sheet](cheat-sheet-interview.md)
-- [Tech Lead Cheat Sheet](cheat-sheet-software-engineering.md)
-
 ## Meaning Of Life
 
 I believe that the meaning of life is to be alive.

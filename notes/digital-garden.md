@@ -1,8 +1,8 @@
-# Digital Gardening
+# Digital Garden
+
+## TL;DR
 
 Digital garden are forever work in progress/developing personal notes.
-
-All these notes are interlinked to allow exploration of ideas.
 
 ## What is digital garden?
 

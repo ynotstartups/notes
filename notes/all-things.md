@@ -1,4 +1,4 @@
-# All Things
+# Minimalism - All Things
 
 ## Electronics
 

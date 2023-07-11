@@ -1,4 +1,4 @@
-# Cheat Sheet Software Engineering
+# Software Engineering Cheat Sheet
 
 ## Being a Tech Lead
 

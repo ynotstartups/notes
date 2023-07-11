@@ -1,4 +1,4 @@
-# Cheat Sheet Interview
+# Interview Cheat Sheet
 
 ## On the day of the Interview
 

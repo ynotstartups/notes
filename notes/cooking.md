@@ -1,6 +1,6 @@
-# Cooking
+# Cooking Photos
 
-I love to cook! I can cook the following dishes.
+I love to cook!
 
 # Breakfast - 早餐类
 
