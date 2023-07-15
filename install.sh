@@ -3,6 +3,8 @@
 # remember to git clone git@github.com:ynotstartups/ynotstartups.github.io.git
 # if `~/Documents/ynotstartups.github.io` doesn't exist
 
+source .venv/bin/activate
+
 pip install --upgrade pip
 
 pip install -r requirements.txt
