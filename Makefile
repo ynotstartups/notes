@@ -1,9 +1,7 @@
 .DEFAULT_GOAL := serve
-# enable ** for recursive
-SHELL:=/bin/bash -O globstar
+SHELL:=/bin/bash
 serve:
-	google-chrome http://127.0.0.1:8000/; \
-	mkdocs serve;
+	source .venv/bin/activate && mkdocs serve;
 
 install:
 	./install.sh;
