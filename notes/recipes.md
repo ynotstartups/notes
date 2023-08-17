@@ -43,7 +43,7 @@
 | ----------------- | --------- |
 | egg               | 4         |
 | all purpose flour | 100g      |
-| sugar             | 100g      |
+| sugar             | 45g       |
 | lemon juice       | few drops |
 
 ## 碱水面
